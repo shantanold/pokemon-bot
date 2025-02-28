@@ -1,0 +1,192 @@
+|j|☆spiderhider13
+|j|☆kajashi
+|html|<table width="100%"><tr><td align="left">spiderhider13</td><td align="right">kajashi</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307754064">a best-of-3</a></h2>
+|t:|1740509817
+|gametype|doubles
+|player|p1|spiderhider13|bugcatcher-gen4dp|1218
+|player|p2|kajashi|n|1337
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Gallade, L50, M|
+|poke|p1|Indeedee, L50, M|
+|poke|p1|Iron Crown, L50|
+|poke|p1|Tornadus, L50, M|
+|poke|p1|Kyogre, L50|
+|poke|p1|Ursaluna, L50, F|
+|poke|p2|Flutter Mane, L50|
+|poke|p2|Koraidon, L50|
+|poke|p2|Amoonguss, L50, F|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Gothitelle, L50, F|
+|poke|p2|Scream Tail, L50|
+|teampreview|4
+|showteam|p1|Gallade||ClearAmulet|Sharpness|SacredSword,TrickRoom,WideGuard,Imprison|||M|||50|,,,,,Fighting]Indeedee||PsychicSeed|PsychicSurge|ExpandingForce,Encore,TrickRoom,Protect|||M|||50|,,,,,Psychic]Iron Crown||BoosterEnergy|QuarkDrive|ExpandingForce,TachyonCutter,Substitute,Protect||||||50|,,,,,Psychic]Tornadus||CovertCloak|Prankster|BleakwindStorm,Tailwind,RainDance,Protect|||M|||50|,,,,,Flying]Kyogre||ChoiceSpecs|Drizzle|WaterSpout,OriginPulse,Thunder,IceBeam||||||50|,,,,,Stellar]Ursaluna||FlameOrb|Guts|HeadlongRush,Earthquake,Facade,Protect|||F|||50|,,,,,Ground
+|showteam|p2|Flutter Mane||FocusSash|Protosynthesis|Protect,IcyWind,Moonblast,ShadowBall||||||50|,,,,,Normal]Koraidon||LifeOrb|OrichalcumPulse|Protect,FlameCharge,CloseCombat,FlareBlitz||||||50|,,,,,Fire]Amoonguss||MentalHerb|Regenerator|Protect,RagePowder,SludgeBomb,Spore|||F|||50|,,,,,Dark]Incineroar||SafetyGoggles|Intimidate|Protect,FlareBlitz,FakeOut,PartingShot|||F|||50|,,,,,Bug]Gothitelle||Leftovers|ShadowTag|Protect,Psychic,FakeOut,Taunt|||F|||50|,,,,,Water]Scream Tail||BoosterEnergy|Protosynthesis|Protect,Encore,Disable,PerishSong||||||50|,,,,,Dark
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by spiderhider13)
+|inactive|kajashi has 60 seconds left.
+|
+|t:|1740509871
+|start
+|switch|p1a: Iron Crown|Iron Crown, L50|100/100
+|switch|p1b: Indeedee|Indeedee, L50, M|100/100
+|switch|p2a: Amoonguss|Amoonguss, L50, F|100/100
+|switch|p2b: Flutter Mane|Flutter Mane, L50, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Indeedee
+|-enditem|p1b: Indeedee|Psychic Seed
+|-boost|p1b: Indeedee|spd|1|[from] item: Psychic Seed
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivespe
+|turn|1
+|
+|t:|1740509892
+|switch|p2a: Incineroar|Incineroar, L50, F|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Iron Crown|atk|1
+|-unboost|p1b: Indeedee|atk|1
+|move|p2b: Flutter Mane|Protect|p2b: Flutter Mane
+|-singleturn|p2b: Flutter Mane|Protect
+|move|p1a: Iron Crown|Substitute|p1a: Iron Crown
+|-start|p1a: Iron Crown|Substitute
+|-damage|p1a: Iron Crown|75/100
+|move|p1b: Indeedee|Expanding Force|p2b: Flutter Mane|[spread] 
+|-activate|p2b: Flutter Mane|move: Protect
+|-immune|p2a: Incineroar
+|
+|upkeep
+|turn|2
+|
+|t:|1740509913
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|93/100
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|84/100
+|-hitcount|p2a: Incineroar|2
+|move|p2b: Flutter Mane|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-end|p1a: Iron Crown|Substitute
+|move|p1b: Indeedee|Expanding Force|p2b: Flutter Mane|[spread] p2b
+|-immune|p2a: Incineroar
+|-damage|p2b: Flutter Mane|40/100
+|move|p2a: Incineroar|Flare Blitz|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|-damage|p2a: Incineroar|62/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1740509927
+|switch|p1a: Ursaluna|Ursaluna, L50, F|100/100
+|turn|3
+|
+|t:|1740509941
+|move|p2b: Flutter Mane|Moonblast|p1b: Indeedee
+|-damage|p1b: Indeedee|59/100
+|move|p2a: Incineroar|Parting Shot|p1b: Indeedee
+|-unboost|p1b: Indeedee|atk|1
+|-unboost|p1b: Indeedee|spa|1
+|
+|t:|1740509950
+|switch|p2a: Amoonguss|Amoonguss, L50, F|100/100|[from] Parting Shot
+|move|p1a: Ursaluna|Earthquake|p2a: Amoonguss|[spread] p1b,p2a,p2b
+|-damage|p1b: Indeedee|0 fnt
+|-damage|p2a: Amoonguss|56/100
+|-damage|p2b: Flutter Mane|0 fnt
+|faint|p1b: Indeedee
+|faint|p2b: Flutter Mane
+|-end|p2b: Flutter Mane|Protosynthesis|[silent]
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1740509961
+|switch|p2b: Koraidon|Koraidon, L50|100/100
+|switch|p1b: Kyogre|Kyogre, L50|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2b: Koraidon
+|-activate|p2b: Koraidon|Orichalcum Pulse|[source]
+|-weather|RainDance|[from] ability: Drizzle|[of] p1b: Kyogre
+|turn|4
+|inactive|spiderhider13 has 30 seconds left.
+|
+|t:|1740509989
+|switch|p2b: Incineroar|Incineroar, L50, F|62/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Ursaluna|atk|1
+|-unboost|p1b: Kyogre|atk|1
+|-terastallize|p1b: Kyogre|Stellar
+|move|p2a: Amoonguss|Protect|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|Protect
+|move|p1b: Kyogre|Origin Pulse|p2b: Incineroar|[spread] p2b
+|-activate|p2a: Amoonguss|move: Protect
+|-supereffective|p2b: Incineroar
+|-damage|p2b: Incineroar|0 fnt
+|faint|p2b: Incineroar
+|move|p1a: Ursaluna|Facade|p2a: Amoonguss
+|-activate|p2a: Amoonguss|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ursaluna|95/100 brn|[from] brn
+|upkeep
+|
+|t:|1740510002
+|switch|p2b: Koraidon|Koraidon, L50|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2b: Koraidon
+|-activate|p2b: Koraidon|Orichalcum Pulse|[source]
+|turn|5
+|
+|t:|1740510020
+|move|p2b: Koraidon|Close Combat|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|-unboost|p2b: Koraidon|def|1
+|-unboost|p2b: Koraidon|spd|1
+|faint|p1a: Ursaluna
+|-damage|p2b: Koraidon|91/100|[from] item: Life Orb
+|move|p1b: Kyogre|Origin Pulse|p2b: Koraidon|[spread] p2a,p2b
+|-resisted|p2a: Amoonguss
+|-resisted|p2b: Koraidon
+|-damage|p2a: Amoonguss|45/100
+|-damage|p2b: Koraidon|62/100
+|move|p2a: Amoonguss|Sludge Bomb|p1b: Kyogre
+|-damage|p1b: Kyogre|80/100
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1740510031
+|move|p2b: Koraidon|Protect|p2b: Koraidon
+|-singleturn|p2b: Koraidon|Protect
+|move|p1b: Kyogre|Origin Pulse|p2a: Amoonguss|[spread] 
+|-activate|p2b: Koraidon|move: Protect
+|-miss|p1b: Kyogre|p2a: Amoonguss
+|move|p2a: Amoonguss|Spore|p1b: Kyogre
+|-status|p1b: Kyogre|slp|[from] move: Spore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1740510041
+|move|p2b: Koraidon|Close Combat|p1b: Kyogre
+|-damage|p1b: Kyogre|0 fnt
+|-unboost|p2b: Koraidon|def|1
+|-unboost|p2b: Koraidon|spd|1
+|faint|p1b: Kyogre
+|-damage|p2b: Koraidon|53/100|[from] item: Life Orb
+|
+|win|kajashi
+||spiderhider13 is ready for game 2.
+||kajashi is ready for game 2.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307756546"><strong>Game 2 of 3</strong></a>

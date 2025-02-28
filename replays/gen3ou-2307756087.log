@@ -1,0 +1,351 @@
+|j|☆Peso Plusle
+|j|☆Jnggg
+|t:|1740510004
+|gametype|singles
+|player|p1|Peso Plusle|skier|1044
+|player|p2|Jnggg|juan|1125
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|3
+|tier|[Gen 3] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Switch Priority Clause Mod: Faster Pokémon switch first
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|One Boost Passer Clause: Limit one Baton Passer that has a way to boost its stats
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1740510004
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Forretress|Forretress, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jnggg)
+|
+|t:|1740510010
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|86/100
+|
+|-heal|p2a: Blissey|92/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1740510019
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Blissey|Toxic|p1a: Tyranitar|[miss]
+|-miss|p2a: Blissey|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|86/100|[from] Sandstorm
+|-heal|p2a: Blissey|92/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1740510030
+|switch|p2a: Milotic|Milotic, F|100/100
+|move|p1a: Tyranitar|Brick Break|p2a: Milotic
+|-damage|p2a: Milotic|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|78/100|[from] Sandstorm
+|-heal|p2a: Milotic|84/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740510040
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Milotic|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|78/100|[from] Sandstorm
+|-damage|p1a: Blissey|94/100 tox|[from] Sandstorm
+|-heal|p2a: Milotic|84/100|[from] item: Leftovers
+|-heal|p1a: Blissey|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Blissey|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1740510053
+|move|p2a: Milotic|Surf|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|67/100 tox
+|move|p1a: Blissey|Thunderbolt|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|51/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|45/100|[from] Sandstorm
+|-damage|p1a: Blissey|60/100 tox|[from] Sandstorm
+|-heal|p2a: Milotic|51/100|[from] item: Leftovers
+|-heal|p1a: Blissey|67/100 tox|[from] item: Leftovers
+|-damage|p1a: Blissey|54/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1740510066
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|100/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|94/100|[from] Sandstorm
+|-damage|p1a: Blissey|94/100 tox|[from] Sandstorm
+|-heal|p2a: Milotic|100/100|[from] item: Leftovers
+|-heal|p1a: Blissey|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Blissey|82/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1740510079
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Milotic|Surf|p1a: Zapdos
+|-damage|p1a: Zapdos|64/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|57/100|[from] Sandstorm
+|-damage|p2a: Milotic|94/100|[from] Sandstorm
+|-heal|p1a: Zapdos|64/100|[from] item: Leftovers
+|-heal|p2a: Milotic|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740510091
+|switch|p2a: Blissey|Blissey, F|92/100
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|39/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|32/100|[from] Sandstorm
+|-damage|p2a: Blissey|86/100|[from] Sandstorm
+|-heal|p1a: Zapdos|39/100|[from] item: Leftovers
+|-heal|p2a: Blissey|92/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740510101
+|move|p1a: Zapdos|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|32/100|[from] Sandstorm
+|-damage|p2a: Blissey|86/100 tox|[from] Sandstorm
+|-heal|p1a: Zapdos|39/100|[from] item: Leftovers
+|-heal|p2a: Blissey|92/100 tox|[from] item: Leftovers
+|-damage|p2a: Blissey|86/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1740510119
+|switch|p1a: Forretress|Forretress, F|100/100
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Metagross|Metagross|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1740510128
+|switch|p2a: Gengar|Gengar, F|100/100
+|move|p1a: Forretress|Spikes|p2a: Gengar
+|-sidestart|p2: Jnggg|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|94/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1740510137
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|move|p2a: Gengar|Fire Punch|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|88/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|88/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|95/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1740510147
+|move|p2a: Gengar|Hidden Power|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|49/100
+|move|p1a: Tyranitar|Pursuit|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|27/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|20/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|55/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1740510158
+|move|p2a: Gengar|Hidden Power|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|14/100
+|move|p1a: Tyranitar|Pursuit|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|t:|1740510166
+|switch|p2a: Aerodactyl|Aerodactyl, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|20/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1740510183
+|move|p2a: Aerodactyl|Double-Edge|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|t:|1740510191
+|switch|p1a: Forretress|Forretress, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1740510202
+|switch|p2a: Milotic|Milotic, F|100/100
+|-damage|p2a: Milotic|88/100|[from] Spikes
+|move|p1a: Forretress|Spikes|p2a: Milotic
+|-sidestart|p2: Jnggg|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|82/100|[from] Sandstorm
+|-heal|p2a: Milotic|88/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1740510215
+|switch|p1a: Quagsire|Quagsire, F|100/100
+|move|p2a: Milotic|Surf|p1a: Quagsire
+|-immune|p1a: Quagsire|[from] ability: Water Absorb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|82/100|[from] Sandstorm
+|-heal|p2a: Milotic|88/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1740510224
+|move|p2a: Milotic|Toxic|p1a: Quagsire
+|-status|p1a: Quagsire|tox
+|move|p1a: Quagsire|Curse|p1a: Quagsire
+|-unboost|p1a: Quagsire|spe|1
+|-boost|p1a: Quagsire|atk|1
+|-boost|p1a: Quagsire|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|82/100|[from] Sandstorm
+|-heal|p2a: Milotic|88/100|[from] item: Leftovers
+|-damage|p1a: Quagsire|94/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1740510240
+|switch|p2a: Forretress|Forretress, M|100/100
+|-damage|p2a: Forretress|84/100|[from] Spikes
+|move|p1a: Quagsire|Curse|p1a: Quagsire
+|-unboost|p1a: Quagsire|spe|1
+|-boost|p1a: Quagsire|atk|1
+|-boost|p1a: Quagsire|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Forretress|90/100|[from] item: Leftovers
+|-heal|p1a: Quagsire|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|88/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1740510253
+|move|p2a: Forretress|Rapid Spin|p1a: Quagsire
+|-damage|p1a: Quagsire|87/100 tox
+|-sideend|p2: Jnggg|Spikes|[from] move: Rapid Spin|[of] p2a: Forretress
+|move|p1a: Quagsire|Rest|p1a: Quagsire
+|-status|p1a: Quagsire|slp|[from] move: Rest
+|-heal|p1a: Quagsire|100/100 slp|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Forretress|96/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1740510267
+|cant|p1a: Quagsire|slp
+|move|p2a: Forretress|Counter|p1a: Quagsire
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Forretress|100/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1740510279
+|switch|p2a: Milotic|Milotic, F|88/100
+|cant|p1a: Quagsire|slp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Milotic|82/100|[from] Sandstorm
+|-heal|p2a: Milotic|88/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1740510289
+|switch|p2a: Blissey|Blissey, F|86/100
+|-curestatus|p1a: Quagsire|slp|[msg]
+|move|p1a: Quagsire|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|20/100|[from] Sandstorm
+|-heal|p2a: Blissey|26/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1740510300
+|switch|p2a: Aerodactyl|Aerodactyl, F|100/100
+|move|p1a: Quagsire|Earthquake|p2a: Aerodactyl
+|-immune|p2a: Aerodactyl
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1740510309
+|move|p2a: Aerodactyl|Double-Edge|p1a: Quagsire
+|-damage|p1a: Quagsire|82/100
+|move|p1a: Quagsire|Curse|p1a: Quagsire
+|-unboost|p1a: Quagsire|spe|1
+|-boost|p1a: Quagsire|atk|1
+|-boost|p1a: Quagsire|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Quagsire|89/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|-message|Jnggg forfeited.
+|
+|win|Peso Plusle
+|raw|Peso Plusle's rating: 1044 &rarr; <strong>1085</strong><br />(+41 for winning)
+|raw|Jnggg's rating: 1125 &rarr; <strong>1094</strong><br />(-31 for losing)
+|l|☆Jnggg
+|player|p2|

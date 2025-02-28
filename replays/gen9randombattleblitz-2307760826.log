@@ -1,0 +1,35 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|j|☆Slopenheimer
+|j|☆Sappigflapje
+|t:|1740510435
+|gametype|singles
+|player|p1|Slopenheimer|101|1364
+|player|p2|Sappigflapje|2|1358
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle (Blitz)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Blitz: Super-fast timer
+|
+|t:|1740510435
+|start
+|switch|p1a: Kleavor|Kleavor, L78, F|237/237
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|1
+|inactive|Slopenheimer also wants the timer to be on.
+|
+|t:|1740510443
+|move|p2a: Azelf|U-turn|p1a: Kleavor
+|-damage|p1a: Kleavor|181/237
+|inactive|Sappigflapje has 10 seconds left.
+|inactive|Sappigflapje has 5 seconds left.
+|-message|Sappigflapje lost due to inactivity.
+|
+|win|Slopenheimer
+|raw|Slopenheimer's rating: 1364 &rarr; <strong>1384</strong><br />(+20 for winning)
+|raw|Sappigflapje's rating: 1358 &rarr; <strong>1338</strong><br />(-20 for losing)

@@ -1,0 +1,131 @@
+|j|☆rotape01
+|j|☆Notime369
+|t:|1740509933
+|gametype|doubles
+|player|p1|rotape01|1|1426
+|player|p2|Notime369|red|1377
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Regigigas|
+|poke|p1|Weezing, M|
+|poke|p1|Heatran, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Kyurem|
+|poke|p2|Chien-Pao|
+|poke|p2|Entei|
+|poke|p2|Rillaboom, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Notime369)
+|inactive|rotape01 also wants the timer to be on.
+|inactive|Notime369 has 120 seconds left.
+|
+|t:|1740509973
+|start
+|switch|p1a: Regigigas|Regigigas|100/100
+|switch|p1b: Weezing|Weezing, M|100/100
+|switch|p2a: pookie|Entei, shiny|100/100
+|switch|p2b: Charles|Gholdengo, shiny|100/100
+|-ability|p1b: Weezing|Neutralizing Gas
+|turn|1
+|
+|t:|1740509988
+|move|p1b: Weezing|Protect|p1b: Weezing
+|-singleturn|p1b: Weezing|Protect
+|move|p1a: Regigigas|Body Slam|p2a: pookie
+|-enditem|p1a: Regigigas|Normal Gem|[from] gem
+|-damage|p2a: pookie|41/100
+|-enditem|p2a: pookie|Sitrus Berry|[eat]
+|-heal|p2a: pookie|65/100|[from] item: Sitrus Berry
+|move|p2a: pookie|Stomping Tantrum|p1b: Weezing
+|-activate|p1b: Weezing|move: Protect
+|move|p2b: Charles|Nasty Plot|p2b: Charles
+|-boost|p2b: Charles|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1740510001
+|move|p1a: Regigigas|Knock Off|p2b: Charles
+|-supereffective|p2b: Charles
+|-damage|p2b: Charles|32/100
+|-enditem|p2b: Charles|Iron Plate|[from] move: Knock Off|[of] p1a: Regigigas
+|move|p2a: pookie|Stomping Tantrum|p1b: Weezing
+|-supereffective|p1b: Weezing
+|-damage|p1b: Weezing|57/100
+|move|p2b: Charles|Make It Rain|p1b: Weezing|[spread] p1a,p1b
+|-damage|p1a: Regigigas|18/100
+|-damage|p1b: Weezing|0 fnt
+|-unboost|p2b: Charles|spa|1
+|faint|p1b: Weezing
+|-end|p1b: Weezing|ability: Neutralizing Gas
+|-start|p1a: Regigigas|ability: Slow Start
+|
+|upkeep
+|
+|t:|1740510010
+|switch|p1b: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|3
+|
+|t:|1740510026
+|switch|p2a: winston|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: winston
+|move|p1b: Ogerpon|Ivy Cudgel|p2a: winston|[anim] Ivy Cudgel Water
+|-resisted|p2a: winston
+|-damage|p2a: winston|76/100
+|move|p2b: Charles|Make It Rain|p1b: Ogerpon|[spread] p1a,p1b
+|-resisted|p1b: Ogerpon
+|-damage|p1a: Regigigas|0 fnt
+|-damage|p1b: Ogerpon|66/100
+|-unboost|p2b: Charles|spa|1
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|-heal|p1b: Ogerpon|72/100|[from] Grassy Terrain
+|-heal|p2b: Charles|38/100|[from] Grassy Terrain
+|-heal|p2a: winston|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740510036
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|4
+|inactive|Notime369 has 120 seconds left.
+|
+|t:|1740510068
+|switch|p2b: pookie|Entei, shiny|65/100
+|move|p1b: Ogerpon|Ivy Cudgel|p2b: pookie|[anim] Ivy Cudgel Water
+|-supereffective|p2b: pookie
+|-damage|p2b: pookie|0 fnt
+|faint|p2b: pookie
+|move|p2a: winston|U-turn|p1b: Ogerpon
+|-supereffective|p1b: Ogerpon
+|-damage|p1b: Ogerpon|18/100
+|inactive|Notime369 has 120 seconds left.
+|inactive|Notime369 has 90 seconds left.
+|inactive|Notime369 has 60 seconds left.
+|inactive|Notime369 has 30 seconds left.
+|inactive|Notime369 has 20 seconds left.
+|inactive|Notime369 has 15 seconds left.
+|inactive|Notime369 has 10 seconds left.
+|inactive|Notime369 has 5 seconds left.
+|-message|Notime369 lost due to inactivity.
+|
+|win|rotape01
+|raw|rotape01's rating: 1426 &rarr; <strong>1443</strong><br />(+17 for winning)
+|raw|Notime369's rating: 1377 &rarr; <strong>1360</strong><br />(-17 for losing)
+|l|☆rotape01
+|player|p1|

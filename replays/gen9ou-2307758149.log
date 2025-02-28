@@ -1,0 +1,168 @@
+|j|☆Sorenn
+|j|☆tocador
+|t:|1740510191
+|gametype|singles
+|player|p1|Sorenn|mira|1418
+|player|p2|tocador|170|1441
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Skeledirge, M|
+|poke|p1|Primarina, M|
+|poke|p1|Jolteon, M|
+|poke|p1|Cinccino, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p2|Ursaluna, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Kingambit, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Rillaboom, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tocador)
+|inactive|tocador has 120 seconds left.
+|inactive|tocador has 90 seconds left.
+|
+|t:|1740510260
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1740510267
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Sorenn|move: Aurora Veil
+|move|p2a: Garganacl|Stealth Rock|p1a: Ninetales
+|-sidestart|p1: Sorenn|move: Stealth Rock
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740510272
+|switch|p1a: Jolteon|Jolteon, M, shiny|100/100
+|-damage|p1a: Jolteon|88/100|[from] Stealth Rock
+|move|p2a: Garganacl|Salt Cure|p1a: Jolteon
+|-crit|p1a: Jolteon
+|-damage|p1a: Jolteon|46/100
+|-start|p1a: Jolteon|Salt Cure
+|
+|-weather|Snow|[upkeep]
+|-damage|p1a: Jolteon|34/100|[from] Salt Cure
+|upkeep
+|turn|3
+|inactive|tocador has 120 seconds left.
+|
+|t:|1740510309
+|move|p1a: Jolteon|Volt Switch|p2a: Garganacl
+|-damage|p2a: Garganacl|69/100
+|
+|t:|1740510311
+|switch|p1a: Cinccino|Cinccino, F, shiny|100/100|[from] Volt Switch
+|-damage|p1a: Cinccino|88/100|[from] Stealth Rock
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|100/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740510317
+|move|p1a: Cinccino|Tidy Up|p1a: Cinccino
+|-sideend|p1: Sorenn|Stealth Rock
+|-activate|p1a: Cinccino|move: Tidy Up
+|-boost|p1a: Cinccino|atk|1
+|-boost|p1a: Cinccino|spe|1
+|move|p2a: Garganacl|Iron Defense|p2a: Garganacl
+|-boost|p2a: Garganacl|def|2
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1740510322
+|switch|p1a: Primarina|Primarina, M, shiny|100/100
+|move|p2a: Garganacl|Salt Cure|p1a: Primarina
+|-damage|p1a: Primarina|93/100
+|-start|p1a: Primarina|Salt Cure
+|
+|-weather|none
+|-damage|p1a: Primarina|68/100|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1740510333
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Primarina|Energy Ball|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|70/100
+|
+|-heal|p2a: Rillaboom|76/100|[from] Grassy Terrain
+|-heal|p1a: Primarina|74/100|[from] Grassy Terrain
+|-damage|p1a: Primarina|49/100|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1740510341
+|move|p2a: Rillaboom|Wood Hammer|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|-damage|p2a: Rillaboom|59/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|65/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740510344
+|switch|p1a: Cinccino|Cinccino, F, shiny|88/100
+|turn|8
+|
+|t:|1740510363
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Cinccino|Tidy Up|p1a: Cinccino
+|-boost|p1a: Cinccino|atk|1
+|-boost|p1a: Cinccino|spe|1
+|
+|-heal|p1a: Cinccino|94/100|[from] Grassy Terrain
+|-sideend|p1: Sorenn|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1740510370
+|move|p1a: Cinccino|Tail Slap|p2a: Weezing
+|-damage|p2a: Weezing|90/100
+|-damage|p2a: Weezing|80/100
+|-damage|p2a: Weezing|69/100
+|-damage|p2a: Weezing|57/100
+|-hitcount|p2a: Weezing|4
+|move|p2a: Weezing|Will-O-Wisp|p1a: Cinccino
+|-status|p1a: Cinccino|brn
+|
+|-heal|p1a: Cinccino|100/100 brn|[from] Grassy Terrain
+|-heal|p2a: Weezing|63/100|[from] Grassy Terrain
+|-damage|p1a: Cinccino|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|-message|Sorenn forfeited.
+|
+|win|tocador
+|raw|Sorenn's rating: 1418 &rarr; <strong>1399</strong><br />(-19 for losing)
+|raw|tocador's rating: 1441 &rarr; <strong>1460</strong><br />(+19 for winning)
+|l|☆Sorenn
+|player|p1|
+|l|☆tocador
+|player|p2|

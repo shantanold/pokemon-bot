@@ -1,0 +1,183 @@
+|j|☆jzdr
+|j|☆cosmic lover heart
+|html|<table width="100%"><tr><td align="left">jzdr</td><td align="right">cosmic lover heart</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307756850">a best-of-3</a></h2>
+|t:|1740510075
+|gametype|doubles
+|player|p1|jzdr|cynthia|1468
+|player|p2|cosmic lover heart|101|1426
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Iron Hands, L50|
+|poke|p1|Miraidon, L50|
+|poke|p1|Volcarona, L50, F|
+|poke|p1|Grimmsnarl, L50, M|
+|poke|p1|Iron Bundle, L50|
+|poke|p1|Ogerpon-Cornerstone, L50, F|
+|poke|p2|Calyrex-Shadow, L50|
+|poke|p2|Sneasler, L50, F|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Urshifu-*, L50, F|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Regidrago, L50|
+|teampreview|4
+|showteam|p1|Iron Hands||AssaultVest|QuarkDrive|FakeOut,LowKick,DrainPunch,HeavySlam||||||50|,,,,,Bug]Miraidon||ChoiceSpecs|HadronEngine|VoltSwitch,ElectroDrift,DracoMeteor,DazzlingGleam||||||50|,,,,,Fairy]Volcarona||Leftovers|FlameBody|Protect,QuiverDance,FieryDance,GigaDrain|||F|||50|,,,,,Water]Grimmsnarl||LightClay|Prankster|LightScreen,Reflect,ThunderWave,FoulPlay|||M|||50|,,,,,Ghost]Iron Bundle||FocusSash|QuarkDrive|Protect,HydroPump,FreezeDry,IcyWind||||||50|,,,,,Ghost]Ogerpon-Cornerstone||CornerstoneMask|Sturdy|PowerWhip,IvyCudgel,SpikyShield,FollowMe|||F|||50|,,,,,Rock
+|showteam|p2|Calyrex-Shadow||LifeOrb|AsOneSpectrier|AstralBarrage,ExpandingForce,NastyPlot,Protect||||||50|,,,,,Normal]Sneasler||PsychicSeed|Unburden|CloseCombat,ThroatChop,DireClaw,Protect|||F|||50|,,,,,Stellar]Indeedee-F||RockyHelmet|PsychicSurge|FollowMe,HelpingHand,TrickRoom,Psychic|||F|||50|,,,,,Water]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,Taunt,Detect|||F|||50|,,,,,Water]Tornadus||FocusSash|Prankster|BleakwindStorm,Tailwind,RainDance,Protect|||M|||50|,,,,,Ghost]Regidrago||DragonFang|DragonsMaw|DragonEnergy,DracoMeteor,DragonPulse,Protect||||||50|,,,,,Ghost
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jzdr)
+|
+|t:|1740510104
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, L50, M|100/100
+|switch|p1b: Miraidon|Miraidon, L50|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L50, F|100/100
+|switch|p2b: Tornadus|Tornadus, L50, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1b: Miraidon
+|turn|1
+|
+|t:|1740510127
+|move|p2a: Urshifu|Detect|p2a: Urshifu
+|-singleturn|p2a: Urshifu|Protect
+|move|p2b: Tornadus|Rain Dance|p2b: Tornadus
+|-weather|RainDance
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Urshifu
+|-activate|p2a: Urshifu|move: Protect
+|move|p1b: Miraidon|Volt Switch|p2a: Urshifu
+|-activate|p2a: Urshifu|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|cosmic lover heart has 30 seconds left.
+|
+|t:|1740510152
+|switch|p2a: Indeedee|Indeedee-F, L50, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Indeedee
+|-activate|p2a: Indeedee|move: Psychic Terrain
+|move|p1b: Miraidon|Volt Switch|p2a: Indeedee
+|-damage|p2a: Indeedee|43/100
+|
+|t:|1740510160
+|switch|p1b: Iron Hands|Iron Hands, L50|100/100|[from] Volt Switch
+|move|p2b: Tornadus|Bleakwind Storm|p1b: Iron Hands|[spread] p1a,p1b
+|-damage|p1a: Grimmsnarl|63/100
+|-damage|p1b: Iron Hands|80/100
+|-unboost|p1a: Grimmsnarl|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740510172
+|move|p2b: Tornadus|Tailwind|p2b: Tornadus
+|-sidestart|p2: cosmic lover heart|move: Tailwind
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: jzdr|move: Light Screen
+|move|p2a: Indeedee|Psychic|p1b: Iron Hands
+|-supereffective|p1b: Iron Hands
+|-damage|p1b: Iron Hands|52/100
+|-unboost|p1b: Iron Hands|spd|1
+|move|p1b: Iron Hands|Drain Punch|p2a: Indeedee
+|-damage|p2a: Indeedee|4/100
+|-heal|p1b: Iron Hands|66/100|[from] drain|[of] p2a: Indeedee
+|-damage|p1b: Iron Hands|50/100|[from] item: Rocky Helmet|[of] p2a: Indeedee
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740510189
+|move|p2b: Tornadus|Bleakwind Storm|p1b: Iron Hands|[spread] p1a,p1b
+|-damage|p1a: Grimmsnarl|39/100
+|-damage|p1b: Iron Hands|29/100
+|move|p2a: Indeedee|Psychic|p1b: Iron Hands
+|-supereffective|p1b: Iron Hands
+|-damage|p1b: Iron Hands|0 fnt
+|faint|p1b: Iron Hands
+|-end|p1b: Iron Hands|Quark Drive|[silent]
+|move|p1a: Grimmsnarl|Foul Play|p2b: Tornadus
+|-damage|p2b: Tornadus|58/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510199
+|switch|p1b: Miraidon|Miraidon, L50|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1b: Miraidon
+|turn|5
+|
+|t:|1740510219
+|move|p2a: Indeedee|Helping Hand|p2b: Tornadus
+|-singleturn|p2b: Tornadus|Helping Hand|[of] p2a: Indeedee
+|move|p2b: Tornadus|Bleakwind Storm|p1a: Grimmsnarl|[spread] p1a,p1b
+|-resisted|p1b: Miraidon
+|-damage|p1a: Grimmsnarl|2/100
+|-damage|p1b: Miraidon|84/100
+|-unboost|p1b: Miraidon|spe|1
+|move|p1b: Miraidon|Volt Switch|p2b: Tornadus
+|-supereffective|p2b: Tornadus
+|-damage|p2b: Tornadus|0 fnt
+|faint|p2b: Tornadus
+|
+|t:|1740510225
+|switch|p1b: Iron Bundle|Iron Bundle, L50|100/100|[from] Volt Switch
+|-activate|p1b: Iron Bundle|ability: Quark Drive
+|-start|p1b: Iron Bundle|quarkdrivespe
+|move|p1a: Grimmsnarl|Foul Play|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-crit|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|-damage|p1a: Grimmsnarl|0 fnt|[from] item: Rocky Helmet|[of] p2a: Indeedee
+|faint|p2a: Indeedee
+|faint|p1a: Grimmsnarl
+|
+|-weather|none
+|upkeep
+|
+|t:|1740510228
+|switch|p2b: Calyrex|Calyrex-Shadow, L50|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L50, F|100/100
+|switch|p1a: Miraidon|Miraidon, L50|84/100
+|-ability|p2b: Calyrex|As One
+|-ability|p2b: Calyrex|Unnerve
+|-activate|p1a: Miraidon|ability: Hadron Engine
+|turn|6
+|inactive|cosmic lover heart has 30 seconds left.
+|
+|t:|1740510258
+|move|p2b: Calyrex|Astral Barrage|p1b: Iron Bundle|[spread] p1a,p1b
+|-damage|p1a: Miraidon|45/100
+|-damage|p1b: Iron Bundle|8/100
+|-damage|p2b: Calyrex|91/100|[from] item: Life Orb
+|move|p1b: Iron Bundle|Icy Wind|p2a: Urshifu|[spread] p2a,p2b
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|86/100
+|-damage|p2b: Calyrex|68/100
+|-unboost|p2a: Urshifu|spe|1
+|-unboost|p2b: Calyrex|spe|1
+|move|p1a: Miraidon|Electro Drift|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-sideend|p2: cosmic lover heart|move: Tailwind
+|upkeep
+|turn|7
+|
+|t:|1740510275
+|move|p1b: Iron Bundle|Hydro Pump|p2b: Calyrex
+|-damage|p2b: Calyrex|12/100
+|move|p1a: Miraidon|Electro Drift|p2b: Calyrex
+|-damage|p2b: Calyrex|0 fnt
+|faint|p2b: Calyrex
+|
+|win|jzdr
+||cosmic lover heart is ready for game 2.
+||jzdr is ready for game 2.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307759076"><strong>Game 2 of 3</strong></a>

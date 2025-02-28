@@ -1,0 +1,174 @@
+|j|☆A-jsis
+|j|☆keeywi
+|t:|1740510029
+|gametype|doubles
+|player|p1|A-jsis|veteranf|1071
+|player|p2|keeywi|iris-gen5bw2|1092
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Archaludon, L50, M|
+|poke|p1|Pelipper, L50, F|
+|poke|p1|Glimmora, L50, M|
+|poke|p1|Vaporeon, L50, F|
+|poke|p1|Calyrex-Shadow, L50|
+|poke|p1|Rillaboom, L50, M|
+|poke|p2|Kyogre, L50|
+|poke|p2|Chi-Yu, L50|
+|poke|p2|Zapdos, L50|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Gholdengo, L50|
+|teampreview|4
+|
+|t:|1740510085
+|start
+|switch|p1a: Pelipper|Pelipper, L50, F, shiny|100/100
+|switch|p1b: Vaporeon|Vaporeon, L50, F, shiny|100/100
+|switch|p2a: Kyogre|Kyogre, L50|100/100
+|switch|p2b: Chi-Yu|Chi-Yu, L50|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|-ability|p2b: Chi-Yu|Beads of Ruin
+|turn|1
+|
+|t:|1740510110
+|move|p2b: Chi-Yu|Protect|p2b: Chi-Yu
+|-singleturn|p2b: Chi-Yu|Protect
+|move|p2a: Kyogre|Thunder|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-enditem|p1a: Pelipper|Focus Sash
+|-damage|p1a: Pelipper|1/100
+|move|p1a: Pelipper|Weather Ball|p2b: Chi-Yu
+|-activate|p2b: Chi-Yu|move: Protect
+|move|p1b: Vaporeon|Yawn|p2a: Kyogre
+|-start|p2a: Kyogre|move: Yawn|[of] p1b: Vaporeon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740510128
+|move|p2a: Kyogre|Thunder|p1b: Vaporeon
+|-supereffective|p1b: Vaporeon
+|-damage|p1b: Vaporeon|36/100
+|-status|p1b: Vaporeon|par
+|move|p2b: Chi-Yu|Heat Wave|p1a: Pelipper|[spread] p1a,p1b
+|-resisted|p1a: Pelipper
+|-resisted|p1b: Vaporeon
+|-damage|p1a: Pelipper|0 fnt
+|-damage|p1b: Vaporeon|27/100 par
+|faint|p1a: Pelipper
+|-damage|p2b: Chi-Yu|91/100|[from] item: Life Orb
+|move|p1b: Vaporeon|Shadow Ball|p2b: Chi-Yu
+|-resisted|p2b: Chi-Yu
+|-damage|p2b: Chi-Yu|80/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1b: Vaporeon|33/100 par|[from] item: Leftovers
+|-end|p2a: Kyogre|move: Yawn|[silent]
+|-status|p2a: Kyogre|slp
+|upkeep
+|
+|t:|1740510136
+|switch|p1a: Archaludon|Archaludon, L50, M, shiny|100/100
+|turn|3
+|
+|t:|1740510152
+|move|p2b: Chi-Yu|Protect|p2b: Chi-Yu
+|-singleturn|p2b: Chi-Yu|Protect
+|cant|p2a: Kyogre|slp
+|move|p1a: Archaludon|Electro Shot||[still]
+|-prepare|p1a: Archaludon|Electro Shot
+|-boost|p1a: Archaludon|spa|1
+|-anim|p1a: Archaludon|Electro Shot|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|faint|p2a: Kyogre
+|cant|p1b: Vaporeon|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1b: Vaporeon|38/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510171
+|switch|p2a: Zapdos|Zapdos, L50, shiny|100/100
+|turn|4
+|
+|t:|1740510191
+|move|p2b: Chi-Yu|Dark Pulse|p1b: Vaporeon
+|-damage|p1b: Vaporeon|0 fnt
+|faint|p1b: Vaporeon
+|-damage|p2b: Chi-Yu|70/100|[from] item: Life Orb
+|move|p2a: Zapdos|Hurricane|p1a: Archaludon
+|-resisted|p1a: Archaludon
+|-damage|p1a: Archaludon|43/100
+|-start|p1a: Archaludon|confusion
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|-activate|p1a: Archaludon|confusion
+|move|p1a: Archaludon|Electro Shot||[still]
+|-prepare|p1a: Archaludon|Electro Shot
+|-boost|p1a: Archaludon|spa|1
+|-anim|p1a: Archaludon|Electro Shot|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510208
+|switch|p2a: Rillaboom|Rillaboom, L50, F|100/100
+|switch|p1b: Calyrex|Calyrex-Shadow, L50|100/100
+|-ability|p1b: Calyrex|As One
+|-ability|p1b: Calyrex|Unnerve
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|5
+|
+|t:|1740510235
+|-activate|p1a: Archaludon|confusion
+|-damage|p1a: Archaludon|40/100|[from] confusion
+|move|p2a: Rillaboom|Fake Out|p1a: Archaludon
+|-resisted|p1a: Archaludon
+|-crit|p1a: Archaludon
+|-damage|p1a: Archaludon|34/100
+|-damage|p2a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p1a: Archaludon
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|move|p1b: Calyrex|Astral Barrage|p2b: Chi-Yu|[spread] p2a,p2b
+|-resisted|p2b: Chi-Yu
+|-damage|p2a: Rillaboom|4/100
+|-damage|p2b: Chi-Yu|29/100
+|-damage|p1b: Calyrex|91/100|[from] item: Life Orb
+|move|p2b: Chi-Yu|Dark Pulse|p1b: Calyrex
+|-supereffective|p1b: Calyrex
+|-damage|p1b: Calyrex|0 fnt
+|faint|p1b: Calyrex
+|-damage|p2b: Chi-Yu|19/100|[from] item: Life Orb
+|
+|-weather|none
+|-heal|p2b: Chi-Yu|25/100|[from] Grassy Terrain
+|-heal|p1a: Archaludon|40/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|10/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1740510262
+|move|p2b: Chi-Yu|Dark Pulse|p1a: Archaludon
+|-damage|p1a: Archaludon|0 fnt
+|faint|p1a: Archaludon
+|-damage|p2b: Chi-Yu|16/100|[from] item: Life Orb
+|
+|win|keeywi
+|raw|A-jsis's rating: 1071 &rarr; <strong>1052</strong><br />(-19 for losing)
+|raw|keeywi's rating: 1092 &rarr; <strong>1117</strong><br />(+25 for winning)
+|l|☆A-jsis
+|player|p1|
+|c|☆keeywi|ggwp
+|c|☆keeywi|close
+|l|☆keeywi
+|player|p2|

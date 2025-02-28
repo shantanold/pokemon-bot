@@ -1,0 +1,196 @@
+|j|☆sujisuji
+|j|☆ishigami senkuu
+|t:|1740509714
+|gametype|doubles
+|player|p1|sujisuji|eusine|1512
+|player|p2|ishigami senkuu|102|1568
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Snorlax, F|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Bundle|
+|poke|p1|Heatran, M|
+|poke|p1|Iron Boulder|
+|poke|p2|Ogerpon-Hearthflame, F|
+|poke|p2|Tornadus, M|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Glimmora, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Lilligant-Hisui, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ishigami senkuu)
+|inactive|sujisuji also wants the timer to be on.
+|inactive|sujisuji has 120 seconds left.
+|
+|t:|1740509768
+|start
+|switch|p1a: Snorlax|Snorlax, F|100/100
+|switch|p1b: Raging Bolt|Raging Bolt|100/100
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|switch|p2b: Glimmora|Glimmora, F|100/100
+|turn|1
+|
+|t:|1740509786
+|move|p2a: Samurott|Ceaseless Edge|p1b: Raging Bolt
+|-damage|p1b: Raging Bolt|72/100
+|-sidestart|p1: sujisuji|Spikes
+|move|p2b: Glimmora|Stealth Rock|p1a: Snorlax
+|-sidestart|p1: sujisuji|move: Stealth Rock
+|move|p1b: Raging Bolt|Thunderbolt|p2b: Glimmora
+|-damage|p2b: Glimmora|50/100
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1b: Raging Bolt|79/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1740509805
+|move|p2a: Samurott|Ceaseless Edge|p1a: Snorlax
+|-damage|p1a: Snorlax|73/100
+|-sidestart|p1: sujisuji|Spikes
+|move|p2b: Glimmora|Meteor Beam||[still]
+|-prepare|p2b: Glimmora|Meteor Beam
+|-boost|p2b: Glimmora|spa|1
+|-enditem|p2b: Glimmora|Power Herb
+|-anim|p2b: Glimmora|Meteor Beam|p1a: Snorlax
+|-damage|p1a: Snorlax|27/100
+|move|p1b: Raging Bolt|Thunderbolt|p2b: Glimmora
+|-damage|p2b: Glimmora|0 fnt
+|faint|p2b: Glimmora
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1b: Raging Bolt|85/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|33/100|[from] item: Leftovers
+|upkeep
+|inactive|ishigami senkuu has 120 seconds left.
+|
+|t:|1740509834
+|switch|p2b: Tornadus|Tornadus, M|100/100
+|turn|3
+|
+|t:|1740509860
+|move|p2a: Samurott|Ceaseless Edge|p1b: Raging Bolt
+|-damage|p1b: Raging Bolt|58/100
+|-sidestart|p1: sujisuji|Spikes
+|move|p2b: Tornadus|Bleakwind Storm|p1a: Snorlax|[spread] p1a,p1b
+|-resisted|p1b: Raging Bolt
+|-damage|p1a: Snorlax|14/100
+|-damage|p1b: Raging Bolt|43/100
+|-unboost|p1b: Raging Bolt|spe|1
+|move|p1b: Raging Bolt|Thunderbolt|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|move|p1a: Snorlax|Body Slam|p2b: Tornadus
+|-crit|p2b: Tornadus
+|-damage|p2b: Tornadus|0 fnt
+|faint|p2b: Tornadus
+|
+|-heal|p1b: Raging Bolt|49/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509869
+|switch|p2b: Torkoal|Torkoal, F|100/100
+|switch|p2a: Lilligant|Lilligant-Hisui, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Torkoal
+|-activate|p1b: Raging Bolt|ability: Protosynthesis
+|-start|p1b: Raging Bolt|protosynthesisspa
+|turn|4
+|inactive|sujisuji has 120 seconds left.
+|
+|t:|1740509908
+|move|p1b: Raging Bolt|Thunderclap|p2b: Torkoal
+|-damage|p2b: Torkoal|50/100
+|move|p2a: Lilligant|After You|p2b: Torkoal
+|-activate|p2b: Torkoal|move: After You
+|move|p2b: Torkoal|Eruption|p1b: Raging Bolt|[spread] p1a,p1b
+|-resisted|p1b: Raging Bolt
+|-damage|p1a: Snorlax|11/100
+|-damage|p1b: Raging Bolt|31/100
+|move|p1a: Snorlax|Body Slam|p2a: Lilligant
+|-damage|p2a: Lilligant|10/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Raging Bolt|37/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|17/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|sujisuji has 120 seconds left.
+|
+|t:|1740509933
+|move|p1b: Raging Bolt|Thunderclap|p2b: Torkoal
+|-damage|p2b: Torkoal|0 fnt
+|faint|p2b: Torkoal
+|move|p2a: Lilligant|Close Combat|p1b: Raging Bolt
+|-damage|p1b: Raging Bolt|6/100
+|-unboost|p2a: Lilligant|def|1
+|-unboost|p2a: Lilligant|spd|1
+|move|p1a: Snorlax|Body Slam|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|faint|p2a: Lilligant
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Raging Bolt|12/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509938
+|switch|p2b: Ogerpon|Ogerpon-Hearthflame, F|100/100
+|-ability|p2b: Ogerpon|Mold Breaker
+|turn|6
+|
+|t:|1740509955
+|-terastallize|p2b: Ogerpon|Fire
+|detailschange|p2b: Ogerpon|Ogerpon-Hearthflame-Tera, F, tera:Fire
+|-ability|p2b: Ogerpon|Embody Aspect (Hearthflame)|boost
+|-boost|p2b: Ogerpon|atk|1
+|move|p2b: Ogerpon|Ivy Cudgel|p1a: Snorlax|[anim] Ivy Cudgel Fire
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|move|p1b: Raging Bolt|Thunderbolt|p2b: Ogerpon
+|-crit|p2b: Ogerpon
+|-damage|p2b: Ogerpon|1/100
+|-status|p2b: Ogerpon|par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Raging Bolt|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509969
+|switch|p1a: Iron Bundle|Iron Bundle|100/100
+|-damage|p1a: Iron Bundle|76/100|[from] Spikes
+|-damage|p1a: Iron Bundle|51/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1740509977
+|move|p1a: Iron Bundle|Freeze-Dry|p2b: Ogerpon
+|-resisted|p2b: Ogerpon
+|-damage|p2b: Ogerpon|0 fnt
+|faint|p2b: Ogerpon
+|
+|win|sujisuji
+|raw|sujisuji's rating: 1512 &rarr; <strong>1535</strong><br />(+23 for winning)
+|raw|ishigami senkuu's rating: 1568 &rarr; <strong>1545</strong><br />(-23 for losing)
+|l|☆ishigami senkuu
+|player|p2|
+|l|☆sujisuji
+|player|p1|

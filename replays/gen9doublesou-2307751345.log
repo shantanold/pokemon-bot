@@ -1,0 +1,200 @@
+|j|☆Hiarogama
+|j|☆Notime369
+|t:|1740509564
+|gametype|doubles
+|player|p1|Hiarogama|265|1288
+|player|p2|Notime369|red|1361
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Decidueye-Hisui, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p1|Whimsicott, F|
+|poke|p2|Chien-Pao|
+|poke|p2|Entei|
+|poke|p2|Rillaboom, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Notime369)
+|
+|t:|1740509580
+|start
+|switch|p1a: Whimsicott|Whimsicott, F, shiny|100/100
+|switch|p1b: Samurott|Samurott-Hisui, M, shiny|100/100
+|switch|p2a: haku|Chien-Pao|100/100
+|switch|p2b: winston|Rillaboom, M, shiny|100/100
+|-ability|p2a: haku|Sword of Ruin
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2b: winston
+|turn|1
+|inactive|Hiarogama has 120 seconds left.
+|inactive|Hiarogama has 90 seconds left.
+|
+|t:|1740509660
+|move|p2b: winston|Fake Out|p1b: Samurott
+|-crit|p1b: Samurott
+|-damage|p1b: Samurott|63/100
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: Hiarogama|move: Tailwind
+|cant|p1b: Samurott|flinch
+|move|p2a: haku|Icicle Crash|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|-heal|p1b: Samurott|69/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740509675
+|switch|p1a: Arcanine|Arcanine-Hisui, M, shiny|100/100
+|turn|2
+|
+|t:|1740509690
+|move|p2a: haku|Protect|p2a: haku
+|-singleturn|p2a: haku|Protect
+|move|p2b: winston|Grassy Glide|p1b: Samurott
+|-supereffective|p1b: Samurott
+|-damage|p1b: Samurott|0 fnt
+|faint|p1b: Samurott
+|move|p1a: Arcanine|Rock Slide|p2a: haku|[spread] p2b
+|-activate|p2a: haku|move: Protect
+|-damage|p2b: winston|67/100
+|
+|-heal|p2b: winston|73/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740509708
+|switch|p1b: Decidueye|Decidueye-Hisui, M, shiny|100/100
+|turn|3
+|inactive|Hiarogama has 90 seconds left.
+|inactive|Notime369 has 120 seconds left.
+|
+|t:|1740509740
+|switch|p2a: pookie|Entei, shiny|100/100
+|move|p1b: Decidueye|Brave Bird|p2b: winston
+|-supereffective|p2b: winston
+|-damage|p2b: winston|0 fnt
+|faint|p2b: winston
+|-damage|p1b: Decidueye|71/100|[from] Recoil
+|move|p1a: Arcanine|Flare Blitz|p2a: pookie
+|-resisted|p2a: pookie
+|-damage|p2a: pookie|76/100
+|
+|-heal|p1b: Decidueye|77/100|[from] Grassy Terrain
+|-heal|p2a: pookie|82/100|[from] Grassy Terrain
+|upkeep
+|inactive|Notime369 has 120 seconds left.
+|
+|t:|1740509758
+|switch|p2b: haku|Chien-Pao|100/100
+|-ability|p2b: haku|Sword of Ruin
+|turn|4
+|
+|t:|1740509772
+|switch|p1b: Dragapult|Dragapult, M, shiny|100/100
+|move|p2b: haku|Protect|p2b: haku
+|-singleturn|p2b: haku|Protect
+|move|p2a: pookie|Protect|p2a: pookie
+|-singleturn|p2a: pookie|Protect
+|move|p1a: Arcanine|Rock Slide|p2b: haku|[spread] 
+|-activate|p2a: pookie|move: Protect
+|-activate|p2b: haku|move: Protect
+|
+|-heal|p2a: pookie|88/100|[from] Grassy Terrain
+|-sideend|p1: Hiarogama|move: Tailwind
+|upkeep
+|turn|5
+|inactive|Hiarogama has 120 seconds left.
+|inactive|Hiarogama has 90 seconds left.
+|inactive|Notime369 has 120 seconds left.
+|
+|t:|1740509814
+|-terastallize|p2a: pookie|Grass
+|move|p2b: haku|Sucker Punch|p1b: Dragapult
+|-supereffective|p1b: Dragapult
+|-damage|p1b: Dragapult|0 fnt
+|faint|p1b: Dragapult
+|move|p1a: Arcanine|Rock Slide|p2b: haku|[spread] p2a,p2b
+|-supereffective|p2b: haku
+|-damage|p2a: pookie|54/100
+|-damage|p2b: haku|25/100
+|move|p2a: pookie|Stomping Tantrum|p1a: Arcanine
+|-supereffective|p1a: Arcanine
+|-enditem|p1a: Arcanine|Focus Sash
+|-damage|p1a: Arcanine|1/100
+|
+|-heal|p2b: haku|31/100|[from] Grassy Terrain
+|-heal|p1a: Arcanine|7/100|[from] Grassy Terrain
+|-heal|p2a: pookie|60/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|Hiarogama has 90 seconds left.
+|
+|t:|1740509836
+|switch|p1b: Decidueye|Decidueye-Hisui, M, shiny|77/100
+|turn|6
+|inactive|Hiarogama has 90 seconds left.
+|
+|t:|1740509857
+|-terastallize|p1b: Decidueye|Ghost
+|move|p2b: haku|Protect|p2b: haku
+|-singleturn|p2b: haku|Protect
+|move|p2a: pookie|Extreme Speed|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|move|p1b: Decidueye|Brave Bird|p2a: pookie
+|-supereffective|p2a: pookie
+|-damage|p2a: pookie|0 fnt
+|faint|p2a: pookie
+|-damage|p1b: Decidueye|51/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1740509884
+|switch|p1a: Gholdengo|Gholdengo, shiny|100/100
+|switch|p2a: littlefoot|Raging Bolt|100/100
+|-enditem|p2a: littlefoot|Booster Energy
+|-activate|p2a: littlefoot|ability: Protosynthesis|[fromitem]
+|-start|p2a: littlefoot|protosynthesisspa
+|turn|7
+|
+|t:|1740509904
+|move|p2b: haku|Sucker Punch|p1b: Decidueye
+|-supereffective|p1b: Decidueye
+|-damage|p1b: Decidueye|0 fnt
+|faint|p1b: Decidueye
+|move|p1a: Gholdengo|Make It Rain|p2b: haku|[spread] p2a,p2b
+|-resisted|p2a: littlefoot
+|-supereffective|p2b: haku
+|-damage|p2a: littlefoot|73/100
+|-damage|p2b: haku|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2b: haku
+|move|p2a: littlefoot|Thunderbolt|p1a: Gholdengo
+|-damage|p1a: Gholdengo|28/100
+|
+|upkeep
+|-message|Hiarogama forfeited.
+|
+|win|Notime369
+|raw|Hiarogama's rating: 1288 &rarr; <strong>1268</strong><br />(-20 for losing)
+|raw|Notime369's rating: 1361 &rarr; <strong>1377</strong><br />(+16 for winning)
+|l|☆Hiarogama
+|player|p1|
+|l|☆Notime369
+|player|p2|

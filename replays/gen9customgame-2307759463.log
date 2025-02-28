@@ -1,0 +1,55 @@
+|j|☆Apenas um Jolteon
+|j|☆GCR7
+|t:|1740510313
+|gametype|singles
+|player|p1|Apenas um Jolteon|2|
+|player|p2|GCR7|blue|
+|teamsize|p1|4
+|teamsize|p2|2
+|gen|9
+|tier|[Gen 9] Custom Game
+|clearpoke
+|poke|p1|Vulpix-Alola, L25, F|
+|poke|p1|Sprigatito, L25, F|
+|poke|p1|Zeraora|
+|poke|p1|Scyther, L25, F|
+|poke|p2|Riolu, L25, M|
+|poke|p2|Mienfoo, L25, F|
+|teampreview
+|
+|t:|1740510330
+|start
+|switch|p1a: Scyther|Scyther, L25, F, shiny|77/77
+|switch|p2a: Riolu|Riolu, L25, M, shiny|63/63
+|turn|1
+|
+|t:|1740510346
+|move|p2a: Riolu|Bullet Punch|p1a: Scyther
+|-damage|p1a: Scyther|66/77
+|move|p1a: Scyther|Wing Attack|p2a: Riolu
+|-supereffective|p2a: Riolu
+|-damage|p2a: Riolu|0 fnt
+|faint|p2a: Riolu
+|
+|upkeep
+|
+|t:|1740510351
+|switch|p2a: Mienfoo|Mienfoo, L25, F|65/65
+|turn|2
+|
+|t:|1740510358
+|move|p2a: Mienfoo|Fake Out|p1a: Scyther
+|-damage|p1a: Scyther|51/77
+|cant|p1a: Scyther|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1740510367
+|move|p1a: Scyther|Wing Attack|p2a: Mienfoo
+|-supereffective|p2a: Mienfoo
+|-damage|p2a: Mienfoo|0 fnt
+|-damage|p1a: Scyther|39/77|[from] item: Rocky Helmet|[of] p2a: Mienfoo
+|faint|p2a: Mienfoo
+|
+|win|Apenas um Jolteon

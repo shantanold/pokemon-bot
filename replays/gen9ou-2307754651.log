@@ -1,0 +1,242 @@
+|j|☆Pingouindesiles
+|j|☆PixelPenguin2
+|t:|1740509872
+|gametype|singles
+|player|p1|Pingouindesiles|hugh|1522
+|player|p2|PixelPenguin2|guitarist|1534
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Cyclizar, F|
+|poke|p1|Moltres|
+|poke|p1|Iron Treads|
+|poke|p1|Dragapult, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Pecharunt|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PixelPenguin2)
+|
+|t:|1740509895
+|start
+|switch|p1a: Cyclizar|Cyclizar, F|100/100
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|1
+|
+|t:|1740509902
+|move|p1a: Cyclizar|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|67/100
+|-enditem|p2a: Pecharunt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Cyclizar
+|move|p2a: Pecharunt|Parting Shot|p1a: Cyclizar
+|-unboost|p1a: Cyclizar|atk|1
+|-unboost|p1a: Cyclizar|spa|1
+|
+|t:|1740509907
+|switch|p2a: Iron Valiant|Iron Valiant|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|2
+|
+|t:|1740509929
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Corviknight
+|-damage|p1a: Corviknight|71/100
+|
+|-heal|p1a: Corviknight|77/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1740509937
+|move|p2a: Iron Valiant|Shadow Ball|p1a: Corviknight
+|-damage|p1a: Corviknight|48/100
+|move|p1a: Corviknight|Brave Bird|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|8/100
+|-damage|p1a: Corviknight|26/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|33/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740509945
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|83/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509951
+|move|p2a: Samurott|Encore|p1a: Corviknight
+|-start|p1a: Corviknight|Encore
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1740509956
+|switch|p1a: Cyclizar|Cyclizar, F|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Cyclizar|[miss]
+|-miss|p2a: Samurott|p1a: Cyclizar
+|
+|upkeep
+|turn|7
+|
+|t:|1740509962
+|move|p1a: Cyclizar|U-turn|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|49/100
+|
+|t:|1740509965
+|switch|p1a: Corviknight|Corviknight, F|100/100|[from] U-turn
+|move|p2a: Samurott|Ceaseless Edge|p1a: Corviknight
+|-damage|p1a: Corviknight|64/100
+|-sidestart|p1: Pingouindesiles|Spikes
+|
+|-heal|p1a: Corviknight|70/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740509972
+|move|p2a: Samurott|Ceaseless Edge|p1a: Corviknight
+|-damage|p1a: Corviknight|36/100
+|-sidestart|p1: Pingouindesiles|Spikes
+|move|p1a: Corviknight|Body Press|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|-heal|p1a: Corviknight|42/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509997
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|9
+|
+|t:|1740510008
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|92/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p1a: Corviknight|98/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510018
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Corviknight
+|-damage|p1a: Corviknight|57/100
+|
+|-heal|p1a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740510028
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Pecharunt|Pecharunt|67/100
+|move|p1a: Corviknight|Body Press|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|-heal|p1a: Corviknight|69/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1740510036
+|move|p2a: Pecharunt|Hex|p1a: Corviknight
+|-damage|p1a: Corviknight|55/100
+|move|p1a: Corviknight|Brave Bird|p2a: Pecharunt
+|-damage|p2a: Pecharunt|44/100
+|-damage|p1a: Corviknight|48/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|54/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1740510039
+|move|p2a: Pecharunt|Hex|p1a: Corviknight
+|-damage|p1a: Corviknight|39/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|89/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1740510050
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|-damage|p1a: Iron Treads|84/100|[from] Spikes
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|94/100
+|
+|-heal|p1a: Iron Treads|90/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1740510056
+|move|p1a: Iron Treads|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|39/100
+|move|p2a: Pecharunt|Parting Shot|p1a: Iron Treads
+|-unboost|p1a: Iron Treads|atk|1
+|-unboost|p1a: Iron Treads|spa|1
+|
+|t:|1740510058
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Parting Shot
+|
+|-heal|p1a: Iron Treads|96/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1740510063
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Moltres
+|-immune|p1a: Moltres
+|
+|upkeep
+|turn|17
+|
+|t:|1740510069
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Pecharunt|Pecharunt|39/100
+|move|p1a: Moltres|Hurricane|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|-message|PixelPenguin2 forfeited.
+|
+|win|Pingouindesiles
+|raw|Pingouindesiles's rating: 1522 &rarr; <strong>1543</strong><br />(+21 for winning)
+|raw|PixelPenguin2's rating: 1534 &rarr; <strong>1513</strong><br />(-21 for losing)
+|l|☆PixelPenguin2
+|player|p2|
+|l|☆Pingouindesiles
+|player|p1|

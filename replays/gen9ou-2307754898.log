@@ -1,0 +1,365 @@
+|j|☆Andrewtre
+|j|☆Gabipolo
+|t:|1740509895
+|gametype|singles
+|player|p1|Andrewtre|psychic-gen4|1121
+|player|p2|Gabipolo|1|1130
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Farigiraf, M|
+|poke|p1|Golurk|
+|poke|p1|Slowking, F|
+|poke|p1|Gengar, M|
+|poke|p1|Golduck, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Hariyama, F|
+|poke|p2|Whimsicott, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Gastrodon, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rotom-Heat|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Andrewtre)
+|
+|t:|1740509913
+|start
+|switch|p1a: Hatty|Hatterene, F|100/100
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1740509922
+|-terastallize|p2a: Rotom|Fire
+|move|p2a: Rotom|Overheat|p1a: Hatty
+|-enditem|p1a: Hatty|Focus Sash
+|-damage|p1a: Hatty|1/100
+|-unboost|p2a: Rotom|spa|2
+|move|p1a: Hatty|Trick Room|p1a: Hatty
+|-fieldstart|move: Trick Room|[of] p1a: Hatty
+|
+|upkeep
+|turn|2
+|
+|t:|1740509934
+|move|p1a: Hatty|Psychic|p2a: Rotom
+|-damage|p2a: Rotom|30/100
+|move|p2a: Rotom|Overheat|p1a: Hatty
+|-damage|p1a: Hatty|0 fnt
+|-unboost|p2a: Rotom|spa|2
+|faint|p1a: Hatty
+|
+|upkeep
+|
+|t:|1740509940
+|switch|p1a: Golurk|Golurk|100/100
+|turn|3
+|
+|t:|1740509949
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|move|p1a: Golurk|Poltergeist|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Corviknight|53/100
+|-damage|p1a: Golurk|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1740509959
+|move|p1a: Golurk|Dynamic Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|24/100
+|-start|p2a: Corviknight|confusion
+|-damage|p1a: Golurk|74/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Golurk|64/100|[from] item: Life Orb
+|-activate|p2a: Corviknight|confusion
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|74/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1740509972
+|move|p1a: Golurk|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Gabipolo|move: Stealth Rock
+|-end|p2a: Corviknight|confusion
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1740509982
+|move|p2a: Corviknight|Defog|p1a: Golurk
+|-unboost|p1a: Golurk|evasion|1
+|-sideend|p2: Gabipolo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Golurk|Dynamic Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100
+|-start|p2a: Corviknight|confusion
+|-damage|p1a: Golurk|48/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Golurk|38/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1740509994
+|-activate|p2a: Corviknight|confusion
+|-damage|p2a: Corviknight|66/100|[from] confusion
+|move|p1a: Golurk|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Gabipolo|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1740510000
+|-end|p2a: Corviknight|confusion
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Golurk|Poltergeist|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Corviknight|54/100
+|-damage|p1a: Golurk|28/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1740510013
+|move|p2a: Corviknight|Defog|p1a: Golurk
+|-unboost|p1a: Golurk|evasion|1
+|-sideend|p2: Gabipolo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Golurk|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|10
+|
+|t:|1740510020
+|move|p2a: Corviknight|Brave Bird|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|-damage|p2a: Corviknight|46/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1740510028
+|switch|p1a: Queen|Slowking, F|100/100
+|turn|11
+|
+|t:|1740510039
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|96/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Queen|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|22/100
+|-damage|p1a: Queen|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1740510049
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|move|p1a: Queen|Trick Room|p1a: Queen
+|-fieldstart|move: Trick Room|[of] p1a: Queen
+|
+|upkeep
+|turn|13
+|
+|t:|1740510055
+|move|p1a: Queen|Psychic|p2a: Gastrodon
+|-damage|p2a: Gastrodon|67/100
+|-damage|p1a: Queen|81/100|[from] item: Life Orb
+|move|p2a: Gastrodon|Stealth Rock|p1a: Queen
+|-sidestart|p1: Andrewtre|move: Stealth Rock
+|
+|-heal|p2a: Gastrodon|73/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1740510065
+|switch|p2a: Corviknight|Corviknight, F|22/100
+|move|p1a: Queen|Psychic|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-damage|p1a: Queen|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510075
+|switch|p2a: Gastrodon|Gastrodon, M|73/100
+|turn|15
+|
+|t:|1740510083
+|move|p1a: Queen|Psychic|p2a: Gastrodon
+|-damage|p2a: Gastrodon|34/100
+|-damage|p1a: Queen|61/100|[from] item: Life Orb
+|move|p2a: Gastrodon|Earth Power|p1a: Queen
+|-damage|p1a: Queen|37/100
+|-unboost|p1a: Queen|spd|1
+|
+|-heal|p2a: Gastrodon|40/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1740510095
+|move|p1a: Queen|Psychic|p2a: Gastrodon
+|-damage|p2a: Gastrodon|2/100
+|-damage|p1a: Queen|27/100|[from] item: Life Orb
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|52/100
+|
+|-heal|p2a: Gastrodon|58/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1740510104
+|switch|p1a: Gengar|Gengar, M|100/100
+|-damage|p1a: Gengar|88/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100
+|
+|upkeep
+|turn|18
+|
+|t:|1740510112
+|move|p1a: Gengar|Giga Drain|p2a: Gastrodon
+|-supereffective|p2a: Gastrodon
+|-damage|p2a: Gastrodon|10/100
+|-heal|p1a: Gengar|100/100|[from] drain|[of] p2a: Gastrodon
+|-damage|p1a: Gengar|91/100|[from] item: Life Orb
+|move|p2a: Gastrodon|Earth Power|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|-heal|p2a: Gastrodon|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510115
+|switch|p1a: Goldie|Golduck, M|100/100
+|-damage|p1a: Goldie|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1740510127
+|move|p1a: Goldie|Ice Beam|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1740510145
+|switch|p2a: Rotom|Rotom-Heat, tera:Fire|30/100
+|turn|20
+|
+|t:|1740510152
+|move|p2a: Rotom|Volt Switch|p1a: Goldie
+|-supereffective|p1a: Goldie
+|-damage|p1a: Goldie|0 fnt
+|faint|p1a: Goldie
+|
+|t:|1740510158
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1740510162
+|switch|p1a: Farigiraf|Farigiraf, M|100/100
+|-damage|p1a: Farigiraf|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1740510167
+|move|p2a: Landorus|U-turn|p1a: Farigiraf
+|-supereffective|p1a: Farigiraf
+|-damage|p1a: Farigiraf|37/100
+|
+|t:|1740510174
+|switch|p2a: Rotom|Rotom-Heat, tera:Fire|30/100|[from] U-turn
+|move|p1a: Farigiraf|Trick Room|p1a: Farigiraf
+|-fieldstart|move: Trick Room|[of] p1a: Farigiraf
+|
+|upkeep
+|turn|22
+|
+|t:|1740510182
+|move|p1a: Farigiraf|Psychic Fangs|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-damage|p1a: Farigiraf|27/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510188
+|switch|p2a: Whimsicott|Whimsicott, M|100/100
+|turn|23
+|
+|t:|1740510197
+|move|p1a: Farigiraf|Psychic Fangs|p2a: Whimsicott
+|-damage|p2a: Whimsicott|59/100
+|-damage|p1a: Farigiraf|17/100|[from] item: Life Orb
+|move|p2a: Whimsicott|Giga Drain|p1a: Farigiraf
+|-damage|p1a: Farigiraf|0 fnt
+|-heal|p2a: Whimsicott|74/100|[from] drain|[of] p1a: Farigiraf
+|faint|p1a: Farigiraf
+|
+|upkeep
+|
+|t:|1740510199
+|switch|p1a: Queen|Slowking, F|60/100
+|-damage|p1a: Queen|47/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1740510210
+|move|p2a: Whimsicott|Leech Seed|p1a: Queen
+|-start|p1a: Queen|move: Leech Seed
+|move|p1a: Queen|Flamethrower|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|-damage|p1a: Queen|38/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510219
+|switch|p2a: Hariyama|Hariyama, F|100/100
+|turn|25
+|
+|t:|1740510222
+|move|p2a: Hariyama|Fake Out|p1a: Queen
+|-damage|p1a: Queen|24/100
+|cant|p1a: Queen|flinch
+|
+|-damage|p1a: Queen|11/100|[from] Leech Seed|[of] p2a: Hariyama
+|-fieldend|move: Trick Room
+|-status|p2a: Hariyama|brn|[from] item: Flame Orb
+|upkeep
+|turn|26
+|
+|t:|1740510235
+|move|p2a: Hariyama|Close Combat|p1a: Queen
+|-resisted|p1a: Queen
+|-damage|p1a: Queen|0 fnt
+|-unboost|p2a: Hariyama|def|1
+|-unboost|p2a: Hariyama|spd|1
+|faint|p1a: Queen
+|
+|win|Gabipolo
+|raw|Andrewtre's rating: 1121 &rarr; <strong>1097</strong><br />(-24 for losing)
+|raw|Gabipolo's rating: 1130 &rarr; <strong>1154</strong><br />(+24 for winning)
+|l|☆Andrewtre
+|player|p1|
+|l|☆Gabipolo
+|player|p2|

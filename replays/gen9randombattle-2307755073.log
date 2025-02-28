@@ -1,0 +1,371 @@
+|j|☆jbnkjjnlj
+|j|☆choclo con quesito
+|t:|1740509911
+|gametype|singles
+|player|p1|jbnkjjnlj|101|1083
+|player|p2|choclo con quesito|liza|1050
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740509911
+|start
+|switch|p1a: Toedscruel|Toedscruel, L87, F|281/281
+|switch|p2a: Clefable|Clefable, L83, M|293/293
+|turn|1
+|
+|t:|1740509925
+|move|p1a: Toedscruel|Earth Power|p2a: Clefable
+|-damage|p2a: Clefable|200/293
+|move|p2a: Clefable|Fire Blast|p1a: Toedscruel
+|-supereffective|p1a: Toedscruel
+|-damage|p1a: Toedscruel|187/281
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jbnkjjnlj)
+|
+|t:|1740509935
+|switch|p1a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1740509942
+|move|p1a: Oricorio|Hurricane|p2a: Clefable
+|-damage|p2a: Clefable|113/293
+|move|p2a: Clefable|Moonblast|p1a: Oricorio
+|-damage|p1a: Oricorio|36/266
+|
+|upkeep
+|turn|4
+|
+|t:|1740509948
+|move|p1a: Oricorio|Hurricane|p2a: Clefable|[miss]
+|-miss|p1a: Oricorio|p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1740509958
+|switch|p1a: Cetitan|Cetitan, L82, M|413/413
+|turn|5
+|
+|t:|1740509963
+|-terastallize|p2a: Clefable|Fire
+|move|p1a: Cetitan|Icicle Crash|p2a: Clefable
+|-resisted|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1740509971
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|turn|6
+|
+|t:|1740509975
+|move|p2a: Solgaleo|Flare Blitz|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|209/413
+|-damage|p2a: Solgaleo|258/325|[from] Recoil
+|move|p1a: Cetitan|Liquidation|p2a: Solgaleo
+|-damage|p2a: Solgaleo|142/325
+|
+|-heal|p2a: Solgaleo|162/325|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740509985
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|-heal|p2a: Solgaleo|182/325|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509992
+|switch|p1a: Reshiram|Reshiram, L76|277/277
+|-ability|p1a: Reshiram|Turboblaze
+|turn|8
+|inactive|choclo con quesito has 120 seconds left.
+|c|☆jbnkjjnlj|hurry
+|inactive|choclo con quesito has 90 seconds left.
+|c|☆jbnkjjnlj|n
+|c|☆jbnkjjnlj|i
+|c|☆jbnkjjnlj|g
+|c|☆jbnkjjnlj|g
+|c|☆jbnkjjnlj|e
+|c|☆jbnkjjnlj|r
+|
+|t:|1740510076
+|switch|p2a: Weezing|Weezing-Galar, L86, F|252/252
+|move|p1a: Reshiram|Earth Power|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|82/252
+|
+|-heal|p2a: Weezing|97/252|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740510087
+|switch|p1a: Toedscruel|Toedscruel, L87, F|187/281
+|switch|p2a: Farigiraf|Farigiraf, L91, F|366/366
+|
+|upkeep
+|turn|10
+|inactive|choclo con quesito has 60 seconds left.
+|
+|t:|1740510116
+|switch|p2a: Abomasnow|Abomasnow, L85, F|291/291
+|-weather|Snow|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Toedscruel|Earth Power|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|244/291
+|-unboost|p2a: Abomasnow|spd|1
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|11
+|inactive|choclo con quesito has 60 seconds left.
+|
+|t:|1740510128
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: choclo con quesito|move: Aurora Veil
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|12
+|inactive|choclo con quesito has 60 seconds left.
+|
+|t:|1740510137
+|switch|p2a: Farigiraf|Farigiraf, L91, F|366/366
+|move|p1a: Okidogi|Drain Punch|p2a: Farigiraf
+|-damage|p2a: Farigiraf|318/366
+|
+|-weather|Snow|[upkeep]
+|-heal|p2a: Farigiraf|340/366|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1740510145
+|switch|p1a: Toedscruel|Toedscruel, L87, F|187/281
+|move|p2a: Farigiraf|Future Sight|p1a: Toedscruel
+|-start|p2a: Farigiraf|move: Future Sight
+|
+|-weather|Snow|[upkeep]
+|-heal|p2a: Farigiraf|362/366|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1740510151
+|switch|p2a: Abomasnow|Abomasnow, L85, F|244/291
+|move|p1a: Toedscruel|Earth Power|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|222/291
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1740510160
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|move|p2a: Abomasnow|Blizzard|p1a: Okidogi
+|-damage|p1a: Okidogi|124/262
+|
+|-end|p1a: Okidogi|move: Future Sight
+|-supereffective|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|upkeep
+|
+|t:|1740510164
+|switch|p1a: Uxie|Uxie, L83|260/260
+|turn|16
+|
+|t:|1740510174
+|switch|p2a: Solgaleo|Solgaleo, L74|182/325
+|move|p1a: Uxie|Psychic Noise|p2a: Solgaleo
+|-resisted|p2a: Solgaleo
+|-damage|p2a: Solgaleo|174/325
+|-start|p2a: Solgaleo|move: Heal Block
+|
+|upkeep
+|turn|17
+|inactive|choclo con quesito has 90 seconds left.
+|c|☆choclo con quesito|broooo
+|
+|t:|1740510188
+|switch|p1a: Reshiram|Reshiram, L76|277/277
+|-ability|p1a: Reshiram|Turboblaze
+|move|p2a: Solgaleo|Knock Off|p1a: Reshiram
+|-damage|p1a: Reshiram|212/277
+|-enditem|p1a: Reshiram|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Solgaleo
+|
+|-end|p2a: Solgaleo|move: Heal Block
+|upkeep
+|turn|18
+|inactive|choclo con quesito has 90 seconds left.
+|
+|t:|1740510203
+|switch|p2a: Farigiraf|Farigiraf, L91, F|362/366
+|move|p1a: Reshiram|Earth Power|p2a: Farigiraf
+|-damage|p2a: Farigiraf|323/366
+|
+|-heal|p2a: Farigiraf|345/366|[from] item: Leftovers
+|-sideend|p2: choclo con quesito|move: Aurora Veil
+|upkeep
+|turn|19
+|inactive|choclo con quesito has 90 seconds left.
+|
+|t:|1740510233
+|move|p1a: Reshiram|Draco Meteor|p2a: Farigiraf
+|-damage|p2a: Farigiraf|177/366
+|-unboost|p1a: Reshiram|spa|2
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|199/366|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆choclo con quesito|I'm going to report you for using racist insults.
+|inactive|choclo con quesito has 60 seconds left.
+|c|☆choclo con quesito|okey
+|
+|t:|1740510257
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Reshiram|Draco Meteor|p2a: Farigiraf
+|-activate|p2a: Farigiraf|move: Protect
+|
+|-heal|p2a: Farigiraf|366/366|[from] move: Wish|[wisher] Farigiraf
+|upkeep
+|turn|21
+|
+|t:|1740510268
+|switch|p1a: Toedscruel|Toedscruel, L87, F|187/281
+|move|p2a: Farigiraf|Future Sight|p1a: Toedscruel
+|-start|p2a: Farigiraf|move: Future Sight
+|
+|upkeep
+|turn|22
+|
+|t:|1740510294
+|switch|p2a: Abomasnow|Abomasnow, L85, F|222/291
+|-weather|Snow|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Toedscruel|Leaf Storm|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|163/291
+|-unboost|p1a: Toedscruel|spa|2
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|23
+|c|☆choclo con quesito|never do that okay
+|
+|t:|1740510313
+|move|p1a: Toedscruel|Knock Off|p2a: Abomasnow
+|-damage|p2a: Abomasnow|122/291
+|-enditem|p2a: Abomasnow|Light Clay|[from] move: Knock Off|[of] p1a: Toedscruel
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: choclo con quesito|move: Aurora Veil
+|
+|-weather|Snow|[upkeep]
+|-end|p1a: Toedscruel|move: Future Sight
+|-damage|p1a: Toedscruel|100/281
+|upkeep
+|turn|24
+|
+|t:|1740510324
+|move|p1a: Toedscruel|Earth Power|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|111/291
+|move|p2a: Abomasnow|Blizzard|p1a: Toedscruel
+|-supereffective|p1a: Toedscruel
+|-damage|p1a: Toedscruel|0 fnt
+|faint|p1a: Toedscruel
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740510328
+|switch|p1a: Reshiram|Reshiram, L76|212/277
+|-ability|p1a: Reshiram|Turboblaze
+|turn|25
+|
+|t:|1740510335
+|move|p1a: Reshiram|Blue Flare|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740510343
+|switch|p2a: Farigiraf|Farigiraf, L91, F|366/366
+|turn|26
+|
+|t:|1740510347
+|move|p1a: Reshiram|Will-O-Wisp|p2a: Farigiraf
+|-status|p2a: Farigiraf|brn
+|move|p2a: Farigiraf|Future Sight|p1a: Reshiram
+|-start|p2a: Farigiraf|move: Future Sight
+|
+|-weather|none
+|-damage|p2a: Farigiraf|344/366 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1740510354
+|move|p1a: Reshiram|Earth Power|p2a: Farigiraf
+|-damage|p2a: Farigiraf|306/366 brn
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|328/366 brn|[from] item: Leftovers
+|-damage|p2a: Farigiraf|306/366 brn|[from] brn
+|-sideend|p2: choclo con quesito|move: Aurora Veil
+|upkeep
+|turn|28
+|
+|t:|1740510361
+|move|p1a: Reshiram|Draco Meteor|p2a: Farigiraf
+|-damage|p2a: Farigiraf|132/366 brn
+|-unboost|p1a: Reshiram|spa|2
+|move|p2a: Farigiraf|Hyper Voice|p1a: Reshiram
+|-damage|p1a: Reshiram|98/277
+|
+|-end|p1a: Reshiram|move: Future Sight
+|-damage|p1a: Reshiram|0 fnt
+|faint|p1a: Reshiram
+|-heal|p2a: Farigiraf|315/366 brn|[from] move: Wish|[wisher] Farigiraf
+|-heal|p2a: Farigiraf|337/366 brn|[from] item: Leftovers
+|-damage|p2a: Farigiraf|315/366 brn|[from] brn
+|upkeep
+|
+|t:|1740510366
+|switch|p1a: Uxie|Uxie, L83|260/260
+|turn|29
+|c|☆choclo con quesito|i win bro
+|c|☆choclo con quesito|gg
+|c|☆choclo con quesito|u need to improve a lot okey
+|-message|jbnkjjnlj forfeited.
+|
+|win|choclo con quesito
+|raw|jbnkjjnlj's rating: 1083 &rarr; <strong>1058</strong><br />(-25 for losing)
+|raw|choclo con quesito's rating: 1050 &rarr; <strong>1086</strong><br />(+36 for winning)
+|l|☆jbnkjjnlj
+|player|p1|

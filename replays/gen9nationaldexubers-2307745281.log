@@ -1,0 +1,1074 @@
+|j|☆Ricomam
+|j|☆Davarv
+|t:|1740509003
+|gametype|singles
+|player|p1|Ricomam|guzma|
+|player|p2|Davarv|red-masters3|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex Ubers
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Mega Rayquaza Clause: You cannot mega evolve Rayquaza
+|clearpoke
+|poke|p1|Zygarde|
+|poke|p1|Dragapult, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Goodra-Hisui, F|
+|poke|p1|Roaring Moon|
+|poke|p2|Goodra-Hisui, M|
+|poke|p2|Zygarde|
+|poke|p2|Latios, M|
+|poke|p2|Walking Wake|
+|poke|p2|Kommo-o, M|
+|poke|p2|Dragonite, M|
+|teampreview
+|c|☆Davarv|Buena suerte
+|c|☆Ricomam|X2
+|
+|t:|1740509064
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|1
+|
+|t:|1740509072
+|move|p2a: Dragonite|Dragon Claw|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|19/100
+|-damage|p2a: Dragonite|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|move|p1a: Garchomp|Dragon Tail|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|17/100
+|-enditem|p2a: Dragonite|Weakness Policy
+|-boost|p2a: Dragonite|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Dragonite|spa|2|[from] item: Weakness Policy
+|drag|p2a: Goodra|Goodra-Hisui, M|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1740509090
+|switch|p1a: Zygarde|Zygarde|100/100
+|-ability|p1a: Zygarde|Aura Break
+|switch|p2a: Dragonite|Dragonite, M|17/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740509095
+|move|p1a: Zygarde|Extreme Speed|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1740509109
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|-enditem|p2a: Walking Wake|Booster Energy
+|-activate|p2a: Walking Wake|ability: Protosynthesis|[fromitem]
+|-start|p2a: Walking Wake|protosynthesisspa
+|turn|4
+|
+|t:|1740509126
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|move|p2a: Walking Wake|Dragon Tail|p1a: Goodra
+|-damage|p1a: Goodra|83/100
+|drag|p1a: Zygarde|Zygarde|100/100
+|-ability|p1a: Zygarde|Aura Break
+|
+|upkeep
+|turn|5
+|
+|t:|1740509135
+|switch|p1a: Garchomp|Garchomp, M|19/100
+|move|p2a: Walking Wake|Draco Meteor|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1740509143
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|6
+|
+|t:|1740509147
+|move|p2a: Walking Wake|Draco Meteor|p1a: Dragonite|[miss]
+|-miss|p2a: Walking Wake|p1a: Dragonite
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1740509155
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Walking Wake|Dragon Tail|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|81/100
+|-enditem|p1a: Dragonite|Weakness Policy
+|-boost|p1a: Dragonite|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Dragonite|spa|2|[from] item: Weakness Policy
+|drag|p1a: Goodra|Goodra-Hisui, F|83/100
+|
+|-heal|p1a: Goodra|89/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740509163
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Goodra|Goodra-Hisui, M|100/100
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|81/100
+|
+|-heal|p2a: Goodra|87/100|[from] item: Leftovers
+|-heal|p1a: Goodra|95/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740509167
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|2
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|-heal|p2a: Goodra|93/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740509172
+|switch|p1a: Zygarde|Zygarde|100/100
+|-ability|p1a: Zygarde|Aura Break
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|2
+|
+|-heal|p2a: Goodra|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740509175
+|move|p1a: Zygarde|Haze|p1a: Zygarde
+|-clearallboost
+|move|p2a: Goodra|Dragon Pulse|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|56/100
+|
+|-heal|p1a: Zygarde|62/100|[from] item: Leftovers
+|-heal|p2a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1740509196
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|move|p1a: Zygarde|Thousand Waves|p2a: Kommo-o
+|-damage|p2a: Kommo-o|59/100
+|-activate|p2a: Kommo-o|trapped
+|
+|-heal|p1a: Zygarde|69/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1740509211
+|switch|p1a: Dragonite|Dragonite, M|81/100
+|-zpower|p2a: Kommo-o
+|move|p2a: Kommo-o|Clangorous Soulblaze|p1a: Dragonite|[zeffect]
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|
+|upkeep
+|
+|t:|1740509224
+|switch|p1a: Roaring Moon|Roaring Moon|100/100
+|-enditem|p1a: Roaring Moon|Booster Energy
+|-activate|p1a: Roaring Moon|ability: Protosynthesis|[fromitem]
+|-start|p1a: Roaring Moon|protosynthesisspe
+|turn|14
+|
+|t:|1740509231
+|move|p1a: Roaring Moon|Outrage|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1740509237
+|switch|p2a: Goodra|Goodra-Hisui, M|100/100
+|turn|15
+|
+|t:|1740509239
+|move|p1a: Roaring Moon|Outrage|p2a: Goodra|[from] lockedmove
+|-damage|p2a: Goodra|56/100
+|-start|p1a: Roaring Moon|confusion|[fatigue]
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|2
+|
+|-heal|p2a: Goodra|62/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1740509247
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|switch|p1a: Zygarde|Zygarde|69/100
+|-ability|p1a: Zygarde|Aura Break
+|move|p2a: Goodra|Dragon Pulse|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|24/100
+|
+|-heal|p1a: Zygarde|30/100|[from] item: Leftovers
+|-heal|p2a: Goodra|68/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1740509251
+|move|p1a: Zygarde|Haze|p1a: Zygarde
+|-clearallboost
+|move|p2a: Goodra|Dragon Pulse|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|0 fnt
+|faint|p1a: Zygarde
+|
+|-heal|p2a: Goodra|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509266
+|switch|p1a: Goodra|Goodra-Hisui, F|100/100
+|turn|18
+|
+|t:|1740509269
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|2
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|
+|-heal|p2a: Goodra|80/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ricomam)
+|
+|t:|1740509323
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|2
+|
+|-heal|p2a: Goodra|86/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1740509328
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|2
+|
+|-heal|p2a: Goodra|92/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1740509350
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|64/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|84/100
+|
+|-heal|p2a: Goodra|70/100|[from] item: Leftovers
+|-heal|p1a: Goodra|90/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1740509360
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|41/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|75/100
+|
+|-heal|p1a: Goodra|81/100|[from] item: Leftovers
+|-heal|p2a: Goodra|47/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1740509371
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|72/100 slp
+|
+|-heal|p1a: Goodra|87/100|[from] item: Leftovers
+|-heal|p2a: Goodra|79/100 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1740509378
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|53/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Acid Armor|p2a: Goodra|[from] move: Sleep Talk
+|-boost|p2a: Goodra|def|0
+|
+|-heal|p2a: Goodra|59/100 slp|[from] item: Leftovers
+|-heal|p1a: Goodra|93/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1740509389
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|30/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Acid Armor|p2a: Goodra|[from] move: Sleep Talk
+|-boost|p2a: Goodra|def|0
+|
+|-heal|p2a: Goodra|36/100 slp|[from] item: Leftovers
+|-heal|p1a: Goodra|99/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1740509397
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|81/100 slp
+|
+|-heal|p2a: Goodra|87/100 slp|[from] item: Leftovers
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1740509421
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra|[from] move: Sleep Talk
+|-damage|p1a: Goodra|85/100
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|59/100 slp
+|
+|-heal|p2a: Goodra|65/100 slp|[from] item: Leftovers
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1740509433
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|39/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|
+|-heal|p1a: Goodra|97/100|[from] item: Leftovers
+|-heal|p2a: Goodra|45/100 slp|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1740509443
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|25/100 slp
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1740509455
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|82/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|
+|-heal|p2a: Goodra|88/100 slp|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1740509471
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|69/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|
+|-heal|p2a: Goodra|75/100 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1740509478
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|55/100 slp
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|84/100
+|
+|-heal|p1a: Goodra|90/100|[from] item: Leftovers
+|-heal|p2a: Goodra|61/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1740509488
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|33/100
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|75/100
+|
+|-heal|p1a: Goodra|81/100|[from] item: Leftovers
+|-heal|p2a: Goodra|39/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509528
+|switch|p1a: Roaring Moon|Roaring Moon|100/100
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|
+|upkeep
+|turn|35
+|
+|t:|1740509533
+|move|p1a: Roaring Moon|Knock Off|p2a: Goodra
+|-damage|p2a: Goodra|90/100 slp
+|-enditem|p2a: Goodra|Leftovers|[from] move: Knock Off|[of] p1a: Roaring Moon
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Acid Armor|p2a: Goodra|[from] move: Sleep Talk
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|36
+|
+|t:|1740509541
+|move|p1a: Roaring Moon|U-turn|p2a: Goodra
+|-resisted|p2a: Goodra
+|-damage|p2a: Goodra|88/100 slp
+|
+|t:|1740509543
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|switch|p1a: Goodra|Goodra-Hisui, F|81/100|[from] U-turn
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Acid Armor|p2a: Goodra|[from] move: Sleep Talk
+|-boost|p2a: Goodra|def|0
+|
+|-heal|p1a: Goodra|87/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1740509559
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|71/100
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|
+|-heal|p1a: Goodra|77/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509584
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|61/100
+|
+|-heal|p1a: Goodra|68/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1740509595
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|52/100
+|
+|-heal|p1a: Goodra|58/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1740509603
+|move|p1a: Goodra|Rest|p1a: Goodra
+|-status|p1a: Goodra|slp|[from] move: Rest
+|-heal|p1a: Goodra|100/100 slp|[silent]
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|41
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509618
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|cant|p1a: Goodra|slp
+|
+|upkeep
+|turn|42
+|
+|t:|1740509623
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|cant|p1a: Goodra|slp
+|
+|upkeep
+|turn|43
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509634
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|-curestatus|p1a: Goodra|slp|[msg]
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|44
+|
+|t:|1740509643
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|85/100
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|69/100
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1740509651
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|41/100
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|-heal|p1a: Goodra|97/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1740509655
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|11/100
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1740509658
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|80/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Acid Armor|p2a: Goodra|[from] move: Sleep Talk
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|48
+|
+|t:|1740509665
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|
+|upkeep
+|turn|49
+|
+|t:|1740509676
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|85/100
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1740509685
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|50/100
+|
+|-heal|p1a: Goodra|97/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1740509709
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|30/100
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1740509720
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|
+|upkeep
+|turn|53
+|
+|t:|1740509734
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra|[from] move: Sleep Talk
+|-damage|p1a: Goodra|85/100
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1740509757
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|79/100
+|
+|-heal|p1a: Goodra|97/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|inactive|Ricomam has 270 seconds left.
+|
+|t:|1740509810
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|61/100
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509837
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|40/100
+|
+|upkeep
+|turn|57
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509843
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|move|p1a: Goodra|Dragon Pulse|p2a: Goodra
+|-damage|p2a: Goodra|82/100 slp
+|
+|upkeep
+|turn|58
+|
+|t:|1740509847
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra|[from] move: Sleep Talk
+|-damage|p1a: Goodra|84/100
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|-heal|p1a: Goodra|90/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1740509855
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|-heal|p1a: Goodra|96/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1740509862
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1740509869
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|62
+|
+|t:|1740509877
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|63
+|
+|t:|1740509885
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|64
+|
+|t:|1740509893
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|65
+|c|☆Ricomam|Mátame mierda
+|c|☆Ricomam|Mátame
+|
+|t:|1740509902
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|66
+|
+|t:|1740509912
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|85/100
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|67
+|
+|t:|1740509920
+|move|p1a: Goodra|Rest|p1a: Goodra
+|-status|p1a: Goodra|slp|[from] move: Rest
+|-heal|p1a: Goodra|100/100 slp|[silent]
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|68
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740509980
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|cant|p1a: Goodra|slp
+|
+|upkeep
+|turn|69
+|
+|t:|1740509988
+|cant|p1a: Goodra|slp
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|70
+|
+|t:|1740509994
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|-curestatus|p1a: Goodra|slp|[msg]
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|71
+|
+|t:|1740510002
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|72
+|
+|t:|1740510009
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|73
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740510021
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|74
+|
+|t:|1740510026
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|75
+|inactive|Davarv has 270 seconds left.
+|
+|t:|1740510061
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|76
+|
+|t:|1740510068
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|77
+|
+|t:|1740510076
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|move|p2a: Goodra|Acid Armor|p2a: Goodra
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|78
+|
+|t:|1740510102
+|move|p2a: Goodra|Rest|p2a: Goodra
+|-status|p2a: Goodra|slp|[from] move: Rest
+|-heal|p2a: Goodra|100/100 slp|[silent]
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|0
+|
+|upkeep
+|turn|79
+|
+|t:|1740510108
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|75/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Goodra
+|
+|upkeep
+|turn|80
+|
+|t:|1740510115
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|48/100 slp
+|cant|p2a: Goodra|slp
+|move|p2a: Goodra|Sleep Talk|p2a: Goodra
+|move|p2a: Goodra|Acid Armor|p2a: Goodra|[from] move: Sleep Talk
+|-boost|p2a: Goodra|def|0
+|
+|upkeep
+|turn|81
+|
+|t:|1740510122
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|19/100 slp
+|-curestatus|p2a: Goodra|slp|[msg]
+|move|p2a: Goodra|Dragon Pulse|p1a: Goodra
+|-damage|p1a: Goodra|85/100
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|82
+|
+|t:|1740510128
+|move|p1a: Goodra|Body Press|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|
+|-heal|p1a: Goodra|97/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510152
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|turn|83
+|
+|t:|1740510159
+|move|p1a: Goodra|Dragon Pulse|p2a: Walking Wake
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|17/100
+|move|p2a: Walking Wake|Dragon Tail|p1a: Goodra
+|-damage|p1a: Goodra|93/100
+|drag|p1a: Dragapult|Dragapult, M|100/100
+|
+|upkeep
+|turn|84
+|
+|t:|1740510167
+|move|p1a: Dragapult|U-turn|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|t:|1740510170
+|switch|p1a: Roaring Moon|Roaring Moon|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1740510174
+|switch|p2a: Zygarde|Zygarde|100/100
+|-ability|p2a: Zygarde|Aura Break
+|turn|85
+|
+|t:|1740510179
+|move|p2a: Zygarde|Outrage|p1a: Roaring Moon
+|-supereffective|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|0 fnt
+|faint|p1a: Roaring Moon
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740510182
+|switch|p1a: Goodra|Goodra-Hisui, F|93/100
+|turn|86
+|
+|t:|1740510184
+|move|p2a: Zygarde|Outrage|p1a: Goodra|[from] lockedmove
+|-damage|p1a: Goodra|43/100
+|-start|p2a: Zygarde|confusion|[fatigue]
+|move|p1a: Goodra|Acid Armor|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|
+|-heal|p1a: Goodra|49/100|[from] item: Leftovers
+|upkeep
+|turn|87
+|
+|t:|1740510198
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Goodra|Dragon Pulse|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|29/100
+|
+|-heal|p1a: Goodra|55/100|[from] item: Leftovers
+|upkeep
+|turn|88
+|
+|t:|1740510205
+|move|p2a: Latios|Draco Meteor|p1a: Goodra
+|-damage|p1a: Goodra|1/100
+|-unboost|p2a: Latios|spa|2
+|move|p1a: Goodra|Dragon Pulse|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|-heal|p1a: Goodra|7/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510207
+|switch|p2a: Zygarde|Zygarde|100/100
+|-ability|p2a: Zygarde|Aura Break
+|turn|89
+|
+|t:|1740510214
+|move|p2a: Zygarde|Outrage|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1740510217
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|90
+|
+|t:|1740510219
+|move|p1a: Dragapult|Dragon Darts|p2a: Zygarde
+|-supereffective|p2a: Zygarde
+|-damage|p2a: Zygarde|62/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Zygarde
+|-supereffective|p2a: Zygarde
+|-damage|p2a: Zygarde|21/100
+|move|p2a: Zygarde|Outrage|p1a: Dragapult|[from] lockedmove
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|Davarv
+|c|☆Davarv|Mamaste, pana
+|c|☆Davarv|gg
+|c|☆Ricomam|Gg

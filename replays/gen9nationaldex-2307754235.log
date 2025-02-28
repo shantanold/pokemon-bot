@@ -1,0 +1,253 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆hhhhhik
+|j|☆sdmistick
+|t:|1740509834
+|gametype|singles
+|player|p1|hhhhhik|101|1201
+|player|p2|sdmistick|clown|1247
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Drapion, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Hydrapple, F|
+|poke|p1|Araquanid, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Celesteela|
+|poke|p2|Samurott-Hisui, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Slowbro, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|c|☆sdmistick|you again
+|c|☆sdmistick|hi
+|
+|t:|1740509851
+|start
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|switch|p2a: Samurott|Samurott-Hisui, M|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|-item|p1a: Excadrill|Air Balloon
+|turn|1
+|
+|t:|1740509860
+|move|p1a: Excadrill|Stealth Rock|p2a: Samurott
+|-sidestart|p2: sdmistick|move: Stealth Rock
+|move|p2a: Samurott|Aqua Cutter|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-enditem|p1a: Excadrill|Air Balloon
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1740509874
+|switch|p1a: Hydrapple|Hydrapple, F|100/100
+|turn|2
+|
+|t:|1740509876
+|move|p2a: Samurott|Ceaseless Edge|p1a: Hydrapple
+|-damage|p1a: Hydrapple|60/100
+|-sidestart|p1: hhhhhik|Spikes
+|move|p1a: Hydrapple|Syrup Bomb|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|9/100
+|-start|p2a: Samurott|Syrup Bomb
+|
+|-unboost|p2a: Samurott|spe|1
+|upkeep
+|turn|3
+|
+|t:|1740509882
+|move|p2a: Samurott|X-Scissor|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|-end|p2a: Samurott|Syrup Bomb|[silent]
+|
+|upkeep
+|
+|t:|1740509886
+|switch|p1a: Celesteela|Celesteela|100/100
+|turn|4
+|
+|t:|1740509889
+|move|p1a: Celesteela|Flame Charge|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|3/100
+|-boost|p1a: Celesteela|spe|1
+|move|p2a: Samurott|Ceaseless Edge|p1a: Celesteela
+|-damage|p1a: Celesteela|56/100
+|-sidestart|p1: hhhhhik|Spikes
+|
+|-heal|p1a: Celesteela|62/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509893
+|move|p2a: Samurott|Sucker Punch|p1a: Celesteela
+|-damage|p1a: Celesteela|30/100
+|move|p1a: Celesteela|Giga Drain|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-crit|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-heal|p1a: Celesteela|31/100|[from] drain|[of] p2a: Samurott
+|faint|p2a: Samurott
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spa|1
+|
+|-heal|p1a: Celesteela|37/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509900
+|switch|p2a: Iron Man|Corviknight, F, shiny|100/100
+|-damage|p2a: Iron Man|88/100|[from] Stealth Rock
+|-ability|p2a: Iron Man|Pressure
+|turn|6
+|
+|t:|1740509903
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|84/100|[from] Spikes
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|move|p2a: Iron Man|Body Press|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|67/100
+|
+|upkeep
+|turn|7
+|
+|t:|1740509909
+|move|p1a: Iron Valiant|Encore|p2a: Iron Man
+|-start|p2a: Iron Man|Encore
+|move|p2a: Iron Man|Body Press|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|50/100
+|
+|upkeep
+|turn|8
+|
+|t:|1740509921
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Iron Valiant|Aura Sphere|p2a: Rillaboom
+|-damage|p2a: Rillaboom|62/100
+|
+|-heal|p1a: Iron Valiant|57/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1740509924
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Drapion|Drapion, F|100/100
+|-damage|p1a: Drapion|84/100|[from] Spikes
+|move|p2a: Rillaboom|Fake Out|p1a: Drapion
+|-damage|p1a: Drapion|69/100
+|
+|-heal|p1a: Drapion|75/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|75/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1740509927
+|move|p1a: Drapion|Swords Dance|p1a: Drapion
+|-boost|p1a: Drapion|atk|2
+|move|p2a: Rillaboom|U-turn|p1a: Drapion
+|-damage|p1a: Drapion|50/100
+|
+|t:|1740509930
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] U-turn
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Drapion|atk|1
+|
+|-heal|p1a: Drapion|56/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1740509936
+|switch|p1a: Celesteela|Celesteela|37/100
+|move|p2a: Landorus|Earthquake|p1a: Celesteela
+|-immune|p1a: Celesteela
+|
+|-heal|p1a: Celesteela|43/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1740509941
+|switch|p2a: Iron Man|Corviknight, F, shiny|88/100
+|-damage|p2a: Iron Man|76/100|[from] Stealth Rock
+|-ability|p2a: Iron Man|Pressure
+|move|p1a: Celesteela|Flame Charge|p2a: Iron Man
+|-supereffective|p2a: Iron Man
+|-damage|p2a: Iron Man|63/100
+|-boost|p1a: Celesteela|spe|1
+|-damage|p1a: Celesteela|27/100|[from] item: Rocky Helmet|[of] p2a: Iron Man
+|
+|-heal|p1a: Celesteela|33/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1740509947
+|move|p1a: Celesteela|Air Slash|p2a: Iron Man
+|-resisted|p2a: Iron Man
+|-damage|p2a: Iron Man|47/100
+|move|p2a: Iron Man|Roost|p2a: Iron Man
+|-heal|p2a: Iron Man|97/100
+|-singleturn|p2a: Iron Man|move: Roost
+|
+|-heal|p1a: Celesteela|39/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1740509952
+|move|p1a: Celesteela|Flame Charge|p2a: Iron Man
+|-supereffective|p2a: Iron Man
+|-damage|p2a: Iron Man|85/100
+|-boost|p1a: Celesteela|spe|1
+|-damage|p1a: Celesteela|23/100|[from] item: Rocky Helmet|[of] p2a: Iron Man
+|move|p2a: Iron Man|Body Press|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|upkeep
+|
+|t:|1740509958
+|switch|p1a: Drapion|Drapion, F|56/100
+|-damage|p1a: Drapion|39/100|[from] Spikes
+|turn|15
+|
+|t:|1740509963
+|move|p1a: Drapion|Night Slash|p2a: Iron Man
+|-damage|p2a: Iron Man|68/100
+|-damage|p1a: Drapion|22/100|[from] item: Rocky Helmet|[of] p2a: Iron Man
+|move|p2a: Iron Man|U-turn|p1a: Drapion
+|-damage|p1a: Drapion|5/100
+|-message|hhhhhik forfeited.
+|
+|win|sdmistick
+|raw|hhhhhik's rating: 1201 &rarr; <strong>1179</strong><br />(-22 for losing)
+|raw|sdmistick's rating: 1247 &rarr; <strong>1269</strong><br />(+22 for winning)
+|l|☆hhhhhik
+|player|p1|
+|l|☆sdmistick
+|player|p2|

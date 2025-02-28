@@ -1,0 +1,268 @@
+|j|☆thesoldierofgod
+|j|☆B R O N C O W
+|t:|1740510106
+|gametype|singles
+|player|p1|thesoldierofgod|bugcatcher-gen4dp|1412
+|player|p2|B R O N C O W|caitlin|1442
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740510107
+|start
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, L81, M|252/252
+|switch|p2a: Trevenant|Trevenant, L88, F|293/293
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thesoldierofgod)
+|
+|t:|1740510123
+|switch|p1a: Cyclizar|Cyclizar, L83, M|252/252
+|move|p2a: Trevenant|Toxic|p1a: Cyclizar
+|-status|p1a: Cyclizar|tox
+|
+|-damage|p1a: Cyclizar|237/252 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1740510146
+|move|p1a: Cyclizar|Shed Tail|p1a: Cyclizar
+|-start|p1a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p1a: Cyclizar|111/252 tox
+|
+|t:|1740510150
+|switch|p1a: Brute Bonnet|Brute Bonnet, L81|312/312|[from] Shed Tail
+|move|p2a: Trevenant|Drain Punch|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-crit|p1a: Brute Bonnet
+|-end|p1a: Brute Bonnet|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1740510166
+|move|p1a: Brute Bonnet|Sucker Punch||[still]
+|-fail|p1a: Brute Bonnet
+|move|p2a: Trevenant|Toxic|p1a: Brute Bonnet
+|-status|p1a: Brute Bonnet|tox
+|
+|-damage|p1a: Brute Bonnet|293/312 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1740510178
+|switch|p2a: Toucannon|Toucannon, L88, M|284/284
+|move|p1a: Brute Bonnet|Sucker Punch||[still]
+|-fail|p1a: Brute Bonnet
+|
+|-damage|p1a: Brute Bonnet|255/312 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1740510188
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Magearna|Magearna, L77|250/250
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p2a: Toucannon|Beak Blast|p1a: Magearna
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|188/250
+|
+|-heal|p1a: Magearna|203/250|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740510201
+|move|p2a: Toucannon|U-turn|p1a: Magearna
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|190/250
+|
+|t:|1740510212
+|switch|p2a: Pyroar|Pyroar, L88, M|295/295|[from] U-turn
+|-ability|p2a: Pyroar|Unnerve
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|
+|-heal|p1a: Magearna|205/250|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740510235
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, L81, M|252/252
+|move|p2a: Pyroar|Fire Blast|p1a: Tauros
+|-resisted|p1a: Tauros
+|-damage|p1a: Tauros|173/252
+|
+|upkeep
+|turn|8
+|
+|t:|1740510249
+|move|p2a: Pyroar|Will-O-Wisp|p1a: Tauros
+|-status|p1a: Tauros|brn
+|move|p1a: Tauros|Substitute|p1a: Tauros
+|-start|p1a: Tauros|Substitute
+|-damage|p1a: Tauros|110/252 brn
+|
+|-damage|p1a: Tauros|95/252 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1740510261
+|move|p2a: Pyroar|Hyper Voice|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|upkeep
+|
+|t:|1740510270
+|switch|p1a: Cyclizar|Cyclizar, L83, M|195/252 tox
+|turn|10
+|
+|t:|1740510278
+|move|p1a: Cyclizar|Draco Meteor|p2a: Pyroar|[miss]
+|-miss|p1a: Cyclizar|p2a: Pyroar
+|move|p2a: Pyroar|Taunt|p1a: Cyclizar
+|-start|p1a: Cyclizar|move: Taunt
+|
+|-damage|p1a: Cyclizar|180/252 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1740510293
+|move|p1a: Cyclizar|Draco Meteor|p2a: Pyroar
+|-damage|p2a: Pyroar|144/295
+|-unboost|p1a: Cyclizar|spa|2
+|move|p2a: Pyroar|Hyper Voice|p1a: Cyclizar
+|-damage|p1a: Cyclizar|39/252 tox
+|
+|-damage|p1a: Cyclizar|9/252 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1740510312
+|switch|p1a: Reuniclus|Reuniclus, L88, M|337/337
+|switch|p2a: Trevenant|Trevenant, L88, F|293/293
+|
+|upkeep
+|turn|13
+|
+|t:|1740510321
+|switch|p1a: Brute Bonnet|Brute Bonnet, L81|255/312 tox
+|move|p2a: Trevenant|Poltergeist|p1a: Brute Bonnet
+|-activate|p1a: Brute Bonnet|move: Poltergeist|Choice Band
+|-resisted|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|183/312 tox
+|
+|-damage|p1a: Brute Bonnet|164/312 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1740510330
+|move|p2a: Trevenant|Drain Punch|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|36/312 tox
+|move|p1a: Brute Bonnet|Crunch|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|3/293
+|-enditem|p2a: Trevenant|Sitrus Berry|[eat]
+|-heal|p2a: Trevenant|76/293|[from] item: Sitrus Berry
+|
+|-damage|p1a: Brute Bonnet|0 fnt|[from] psn
+|faint|p1a: Brute Bonnet
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|-item|p2a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Trevenant|Sitrus Berry|[eat]
+|-heal|p2a: Trevenant|149/293|[from] item: Sitrus Berry
+|
+|t:|1740510348
+|switch|p1a: Cyclizar|Cyclizar, L83, M|93/252 tox
+|turn|15
+|
+|t:|1740510352
+|move|p1a: Cyclizar|Draco Meteor|p2a: Trevenant
+|-damage|p2a: Trevenant|28/293
+|-unboost|p1a: Cyclizar|spa|2
+|move|p2a: Trevenant|Drain Punch|p1a: Cyclizar
+|-supereffective|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|-heal|p2a: Trevenant|75/293|[from] drain|[of] p1a: Cyclizar
+|faint|p1a: Cyclizar
+|
+|-item|p2a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Trevenant|Sitrus Berry|[eat]
+|-heal|p2a: Trevenant|148/293|[from] item: Sitrus Berry
+|
+|t:|1740510367
+|switch|p1a: Magearna|Magearna, L77|205/250
+|turn|16
+|
+|t:|1740510376
+|move|p2a: Trevenant|Poltergeist|p1a: Magearna
+|-activate|p1a: Magearna|move: Poltergeist|Leftovers
+|-damage|p1a: Magearna|79/250
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|
+|-heal|p1a: Magearna|94/250|[from] item: Leftovers
+|-item|p2a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|17
+|
+|t:|1740510394
+|move|p1a: Magearna|Fleur Cannon|p2a: Trevenant
+|-damage|p2a: Trevenant|9/293
+|-unboost|p1a: Magearna|spa|2
+|-enditem|p2a: Trevenant|Sitrus Berry|[eat]
+|-heal|p2a: Trevenant|82/293|[from] item: Sitrus Berry
+|move|p2a: Trevenant|Drain Punch|p1a: Magearna
+|-damage|p1a: Magearna|33/250
+|-heal|p2a: Trevenant|113/293|[from] drain|[of] p1a: Magearna
+|
+|-heal|p1a: Magearna|48/250|[from] item: Leftovers
+|-item|p2a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Trevenant|Sitrus Berry|[eat]
+|-heal|p2a: Trevenant|186/293|[from] item: Sitrus Berry
+|turn|18
+|
+|t:|1740510409
+|move|p1a: Magearna|Calm Mind|p1a: Magearna
+|-boost|p1a: Magearna|spa|1
+|-boost|p1a: Magearna|spd|1
+|move|p2a: Trevenant|Drain Punch|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|-heal|p2a: Trevenant|210/293|[from] drain|[of] p1a: Magearna
+|faint|p1a: Magearna
+|
+|-item|p2a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1740510423
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|turn|19
+|
+|t:|1740510428
+|move|p2a: Trevenant|Poltergeist|p1a: Bronzong
+|-activate|p1a: Bronzong|move: Poltergeist|Chesto Berry
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|37/261
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|upkeep
+|turn|20
+|-message|thesoldierofgod forfeited.
+|
+|win|B R O N C O W
+|raw|thesoldierofgod's rating: 1412 &rarr; <strong>1394</strong><br />(-18 for losing)
+|raw|B R O N C O W's rating: 1442 &rarr; <strong>1460</strong><br />(+18 for winning)
+|l|☆thesoldierofgod
+|player|p1|

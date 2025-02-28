@@ -1,0 +1,189 @@
+|j|☆Yahoo12
+|j|☆fulkttd
+|t:|1740510390
+|gametype|singles
+|player|p1|Yahoo12|benga|1245
+|player|p2|fulkttd|zinzolin|1209
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1740510390
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Forretress|Forretress, M|100/100
+|-ability|p1a: Zapdos|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fulkttd)
+|
+|t:|1740510407
+|move|p1a: Zapdos|Thunderbolt|p2a: Forretress
+|-damage|p2a: Forretress|47/100
+|move|p2a: Forretress|Explosion|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p2a: Forretress
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1740510418
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|switch|p2a: Primeape|Primeape, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|2
+|
+|t:|1740510426
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Primeape|U-turn|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|90/100
+|
+|t:|1740510431
+|switch|p2a: Starmie|Starmie|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Starmie|94/100|[from] Sandstorm
+|-damage|p1a: Gengar|84/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1740510435
+|switch|p1a: Suicune|Suicune, shiny|100/100
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Starmie|Hydro Pump|p1a: Suicune|[miss]
+|-miss|p2a: Starmie|p1a: Suicune
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Starmie|88/100|[from] Sandstorm
+|-damage|p1a: Suicune|94/100|[from] Sandstorm
+|-heal|p1a: Suicune|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740510444
+|move|p2a: Starmie|Thunderbolt|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|46/100
+|-status|p1a: Suicune|par
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Starmie|82/100|[from] Sandstorm
+|-damage|p1a: Suicune|40/100 par|[from] Sandstorm
+|-heal|p1a: Suicune|46/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740510450
+|move|p2a: Starmie|Thunderbolt|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|8/100 par
+|move|p1a: Suicune|Hidden Power|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|faint|p2a: Starmie
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Suicune|2/100 par|[from] Sandstorm
+|-heal|p1a: Suicune|8/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510454
+|switch|p2a: Primeape|Primeape, F|100/100
+|turn|6
+|
+|t:|1740510461
+|move|p2a: Primeape|U-turn|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|t:|1740510465
+|switch|p2a: Rotom|Rotom-Heat|100/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|95/100|[from] Sandstorm
+|upkeep
+|
+|t:|1740510482
+|switch|p1a: Breloom|Breloom, F|100/100
+|turn|7
+|
+|t:|1740510488
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Rotom|Overheat|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|89/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1740510496
+|move|p1a: Heatran|Fire Blast|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1740510508
+|switch|p2a: Electivire|Electivire, M|100/100
+|turn|9
+|
+|t:|1740510512
+|move|p1a: Heatran|Fire Blast|p2a: Electivire|[miss]
+|-miss|p1a: Heatran|p2a: Electivire
+|move|p2a: Electivire|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-damage|p2a: Electivire|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Electivire|84/100|[from] Sandstorm
+|upkeep
+|
+|t:|1740510528
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|turn|10
+|
+|t:|1740510534
+|move|p2a: Electivire|Thunder Punch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|52/100
+|-damage|p2a: Electivire|74/100|[from] item: Life Orb
+|move|p1a: Tyranitar|Crunch|p2a: Electivire
+|-damage|p2a: Electivire|3/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Electivire|0 fnt|[from] Sandstorm
+|faint|p2a: Electivire
+|upkeep
+|
+|t:|1740510540
+|switch|p2a: Gyarados|Gyarados, F|100/100
+|-ability|p2a: Gyarados|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|turn|11
+|-message|Yahoo12 forfeited.
+|
+|win|fulkttd
+|raw|Yahoo12's rating: 1245 &rarr; <strong>1217</strong><br />(-28 for losing)
+|raw|fulkttd's rating: 1209 &rarr; <strong>1237</strong><br />(+28 for winning)
+|l|☆Yahoo12
+|player|p1|
+|j|☆Yahoo12
+|player|p1|Yahoo12|benga|

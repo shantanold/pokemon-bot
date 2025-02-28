@@ -1,0 +1,50 @@
+|j|☆hannahjang
+|j|☆Yeah185
+|t:|1740510242
+|gametype|singles
+|player|p1|hannahjang|cynthia-gen4|1166
+|player|p2|Yeah185|ghetsis-gen5bw|1207
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740510242
+|start
+|switch|p1a: Snorlax|Snorlax, L82, M|397/397
+|switch|p2a: Lilligant|Lilligant, L86, F|261/261
+|turn|1
+|
+|t:|1740510264
+|move|p2a: Lilligant|Sleep Powder|p1a: Snorlax|[miss]
+|-miss|p2a: Lilligant|p1a: Snorlax
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hannahjang)
+|
+|t:|1740510271
+|move|p2a: Lilligant|Sleep Powder|p1a: Snorlax|[miss]
+|-miss|p2a: Lilligant|p1a: Snorlax
+|move|p1a: Snorlax|Body Slam|p2a: Lilligant
+|-crit|p2a: Lilligant
+|-damage|p2a: Lilligant|32/261
+|
+|upkeep
+|turn|3
+|-message|Yeah185 forfeited.
+|
+|win|hannahjang
+|raw|hannahjang's rating: 1166 &rarr; <strong>1194</strong><br />(+28 for winning)
+|raw|Yeah185's rating: 1207 &rarr; <strong>1179</strong><br />(-28 for losing)
+|l|☆Yeah185
+|player|p2|

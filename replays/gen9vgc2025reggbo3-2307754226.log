@@ -1,0 +1,129 @@
+|j|☆Besito VGC
+|j|☆Tankero008
+|html|<table width="100%"><tr><td align="left">Besito VGC</td><td align="right">Tankero008</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307754225">a best-of-3</a></h2>
+|t:|1740509833
+|gametype|doubles
+|player|p1|Besito VGC|winona|1108
+|player|p2|Tankero008|swimmer-gen4dp|1108
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Calyrex-Shadow, L50|
+|poke|p1|Flutter Mane, L50|
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Urshifu-*, L50, F|
+|poke|p1|Rillaboom, L50, F|
+|poke|p1|Gothitelle, L50, M|
+|poke|p2|Kyogre, L50|
+|poke|p2|Tsareena, L50, F|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Basculegion, L50, M|
+|poke|p2|Shiftry, L50, F|
+|poke|p2|Urshifu-*, L50, F|
+|teampreview|4
+|showteam|p1|Calyrex-Shadow||FocusSash|AsOneSpectrier|AstralBarrage,Psychic,Encore,Protect||||||50|,,,,,Grass]Flutter Mane||BoosterEnergy|Protosynthesis|Moonblast,IcyWind,ThunderWave,FakeTears||||||50|,,,,,Normal]Incineroar||RockyHelmet|Intimidate|KnockOff,PartingShot,FakeOut,WillOWisp|||F|||50|,,,,,Ghost]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,Taunt,Detect|||F|||50|,,,,,Water]Rillaboom||AssaultVest|GrassySurge|WoodHammer,GrassyGlide,Uturn,FakeOut|||F|||50|,,,,,Fire]Gothitelle||CovertCloak|ShadowTag|FakeOut,Psychic,HelpingHand,Protect|||M|||50|,,,,,Dark
+|showteam|p2|Kyogre||ChoiceSpecs|Drizzle|WaterSpout,OriginPulse,IceBeam,Thunder||||||50|,,,,,Water]Tsareena||WideLens|QueenlyMajesty|TripleAxel,HelpingHand,Taunt,PowerWhip|||F|||50|,,,,,Ice]Tornadus||FocusSash|Prankster|BleakwindStorm,Tailwind,Protect,Taunt|||M|||50|,,,,,Steel]Basculegion||LifeOrb|SwiftSwim|LastRespects,WaveCrash,AquaJet,IcyWind|||M|||50|,,,,,Dark]Shiftry||AssaultVest|WindRider|FakeOut,Explosion,KnockOff,LeafBlade|||F|||50|,,,,,Normal]Urshifu||ChoiceBand|UnseenFist|WickedBlow,CloseCombat,SuckerPunch,IronHead|||F|||50|,,,,,Poison
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Besito VGC)
+|c|☆Tankero008|oh cmon another ghost caly
+|inactive|Besito VGC has 60 seconds left.
+|inactive|Besito VGC has 30 seconds left.
+|inactive|Besito VGC has 20 seconds left.
+|inactive|Besito VGC has 15 seconds left.
+|inactive|Besito VGC has 10 seconds left.
+|inactive|Besito VGC has 5 seconds left.
+|c|☆Tankero008|where you from btw
+|
+|t:|1740509924
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow, L50|100/100
+|switch|p1b: Flutter Mane|Flutter Mane, L50|100/100
+|switch|p2a: Tornadus|Tornadus, L50, M|100/100
+|switch|p2b: Shiftry|Shiftry, L50, F|100/100
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|-enditem|p1b: Flutter Mane|Booster Energy
+|-activate|p1b: Flutter Mane|ability: Protosynthesis|[fromitem]
+|-start|p1b: Flutter Mane|protosynthesisspe
+|turn|1
+|inactive|Besito VGC has 30 seconds left.
+|inactive|Tankero008 has 30 seconds left.
+|c|☆Besito VGC|spain
+|c|☆Tankero008|perfecto eso pensaba
+|inactive|Besito VGC has 20 seconds left.
+|
+|t:|1740509962
+|-terastallize|p2b: Shiftry|Normal
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: Tankero008|move: Tailwind
+|-ability|p2b: Shiftry|Wind Rider|boost
+|-boost|p2b: Shiftry|atk|1
+|move|p1b: Flutter Mane|Moonblast|p2b: Shiftry
+|-damage|p2b: Shiftry|62/100
+|-unboost|p2b: Shiftry|spa|1
+|move|p2b: Shiftry|Knock Off|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-enditem|p1a: Calyrex|Focus Sash
+|-damage|p1a: Calyrex|1/100
+|move|p1a: Calyrex|Astral Barrage|p2b: Shiftry|[spread] p2a
+|-immune|p2b: Shiftry
+|-damage|p2a: Tornadus|22/100
+|
+|upkeep
+|turn|2
+|c|☆Tankero008|no te habia leido el nombre
+|c|☆Tankero008|jajajaj
+|inactive|Besito VGC has 30 seconds left.
+|
+|t:|1740509995
+|switch|p1a: Incineroar|Incineroar, L50, F|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|-unboost|p2b: Shiftry|atk|1
+|move|p2a: Tornadus|Bleakwind Storm|p1b: Flutter Mane|[spread] p1b
+|-miss|p2a: Tornadus|p1a: Incineroar
+|-damage|p1b: Flutter Mane|69/100
+|-unboost|p1b: Flutter Mane|spe|1
+|move|p2b: Shiftry|Leaf Blade|p1b: Flutter Mane
+|-crit|p1b: Flutter Mane
+|-damage|p1b: Flutter Mane|0 fnt
+|faint|p1b: Flutter Mane
+|-end|p1b: Flutter Mane|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740510013
+|switch|p1b: Urshifu|Urshifu-Rapid-Strike, L50, F|100/100
+|turn|3
+|
+|t:|1740510023
+|move|p2a: Tornadus|Protect|p2a: Tornadus
+|-singleturn|p2a: Tornadus|Protect
+|move|p1b: Urshifu|Detect|p1b: Urshifu
+|-singleturn|p1b: Urshifu|Protect
+|move|p2b: Shiftry|Explosion|p1a: Incineroar|[spread] p1a
+|-activate|p2a: Tornadus|move: Protect
+|-activate|p1b: Urshifu|move: Protect
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|3/100
+|faint|p2b: Shiftry
+|move|p1a: Incineroar|Knock Off|p2a: Tornadus
+|-activate|p2a: Tornadus|move: Protect
+|
+|upkeep
+|
+|t:|1740510038
+|switch|p2b: Kyogre|Kyogre, L50|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Kyogre
+|turn|4
+|-message|Besito VGC forfeited.
+|
+|win|Tankero008
+||Besito VGC is ready for game 2.
+||Tankero008 is ready for game 2.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307756597"><strong>Game 2 of 3</strong></a>

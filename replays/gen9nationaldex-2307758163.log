@@ -1,0 +1,170 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆bananao agente
+|j|☆Rival Michigan
+|t:|1740510193
+|gametype|singles
+|player|p1|bananao agente|1|1071
+|player|p2|Rival Michigan|scientist-gen4|1174
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Sceptile, F|
+|poke|p1|Dhelmise|
+|poke|p1|Ribombee, F|
+|poke|p1|Rapidash-Galar, F|
+|poke|p1|Dodrio, F|
+|poke|p1|Frosmoth, M|
+|poke|p2|Snorlax, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|poke|p2|Lopunny, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rival Michigan)
+|
+|t:|1740510217
+|start
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|switch|p2a: Lopunny|Lopunny, M|100/100
+|turn|1
+|
+|t:|1740510225
+|detailschange|p2a: Lopunny|Lopunny-Mega, M
+|-mega|p2a: Lopunny|Lopunny|Lopunnite
+|move|p2a: Lopunny|Fake Out|p1a: Ribombee
+|-damage|p1a: Ribombee|55/100
+|move|p1a: Ribombee|Stun Spore|p2a: Lopunny
+|-status|p2a: Lopunny|par
+|
+|upkeep
+|turn|2
+|
+|t:|1740510235
+|switch|p2a: Snorlax|Snorlax, M|100/100
+|move|p1a: Ribombee|Sticky Web|p2a: Snorlax
+|-sidestart|p2: Rival Michigan|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1740510242
+|move|p1a: Ribombee|Stun Spore|p2a: Snorlax
+|-status|p2a: Snorlax|par
+|move|p2a: Snorlax|Body Slam|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|
+|t:|1740510247
+|switch|p1a: Rapidash|Rapidash-Galar, F|100/100
+|turn|4
+|
+|t:|1740510250
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-activate|p2a: Rillaboom|move: Sticky Web
+|-unboost|p2a: Rillaboom|spe|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Rapidash|Swords Dance|p1a: Rapidash
+|-boost|p1a: Rapidash|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1740510255
+|move|p2a: Rillaboom|Grassy Glide|p1a: Rapidash
+|-damage|p1a: Rapidash|14/100
+|-enditem|p1a: Rapidash|Sitrus Berry|[eat]
+|-heal|p1a: Rapidash|39/100|[from] item: Sitrus Berry
+|move|p1a: Rapidash|Psycho Cut|p2a: Rillaboom
+|-damage|p2a: Rillaboom|45/100
+|
+|-heal|p1a: Rapidash|45/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|51/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1740510259
+|move|p1a: Rapidash|Quick Attack|p2a: Rillaboom
+|-damage|p2a: Rillaboom|31/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Rapidash
+|-damage|p1a: Rapidash|0 fnt
+|faint|p1a: Rapidash
+|
+|-heal|p2a: Rillaboom|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740510267
+|switch|p1a: Frosmoth|Frosmoth, M|100/100
+|turn|7
+|
+|t:|1740510270
+|switch|p2a: Snorlax|Snorlax, M|100/100 par
+|-activate|p2a: Snorlax|move: Sticky Web
+|-unboost|p2a: Snorlax|spe|1
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1740510276
+|move|p1a: Frosmoth|Giga Drain|p2a: Snorlax
+|-damage|p2a: Snorlax|72/100 par
+|cant|p2a: Snorlax|par
+|
+|-heal|p2a: Snorlax|78/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1740510281
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|-zpower|p2a: Snorlax
+|move|p2a: Snorlax|Breakneck Blitz|p1a: Frosmoth|[zeffect]
+|-damage|p1a: Frosmoth|0 fnt
+|faint|p1a: Frosmoth
+|
+|upkeep
+|
+|t:|1740510286
+|switch|p1a: Sceptile|Sceptile, F|100/100
+|turn|10
+|
+|t:|1740510288
+|detailschange|p1a: Sceptile|Sceptile-Mega, F
+|-mega|p1a: Sceptile|Sceptile|Sceptilite
+|move|p1a: Sceptile|Dragon Pulse|p2a: Snorlax
+|-damage|p2a: Snorlax|49/100 par
+|move|p2a: Snorlax|Ice Punch|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|upkeep
+|-message|bananao agente forfeited.
+|
+|win|Rival Michigan
+|raw|bananao agente's rating: 1071 &rarr; <strong>1056</strong><br />(-15 for losing)
+|raw|Rival Michigan's rating: 1174 &rarr; <strong>1192</strong><br />(+18 for winning)
+|l|☆bananao agente
+|player|p1|

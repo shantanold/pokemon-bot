@@ -1,0 +1,283 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|j|☆Alahuk
+|j|☆Slopenheimer
+|t:|1740510197
+|gametype|singles
+|player|p1|Alahuk|102|1461
+|player|p2|Slopenheimer|101|1352
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle (Blitz)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Blitz: Super-fast timer
+|
+|t:|1740510197
+|start
+|switch|p1a: Plusle|Plusle, L95, M|268/268
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|1
+|inactive|Slopenheimer also wants the timer to be on.
+|inactive|Alahuk also wants the timer to be on.
+|
+|t:|1740510205
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|move|p2a: Eelektross|Knock Off|p1a: Plusle
+|-damage|p1a: Plusle|139/268
+|-enditem|p1a: Plusle|Life Orb|[from] move: Knock Off|[of] p2a: Eelektross
+|
+|upkeep
+|turn|2
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510210
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|move|p2a: Eelektross|Drain Punch|p1a: Plusle
+|-damage|p1a: Plusle|34/268
+|
+|upkeep
+|turn|3
+|
+|t:|1740510212
+|move|p1a: Plusle|Alluring Voice|p2a: Eelektross
+|-damage|p2a: Eelektross|73/290
+|move|p2a: Eelektross|Drain Punch|p1a: Plusle
+|-damage|p1a: Plusle|0 fnt
+|-heal|p2a: Eelektross|90/290|[from] drain|[of] p1a: Plusle
+|faint|p1a: Plusle
+|
+|-heal|p2a: Eelektross|108/290|[from] item: Leftovers
+|upkeep
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510218
+|switch|p1a: Komala|Komala, L89, F|260/260
+|-ability|p1a: Komala|Comatose
+|turn|4
+|
+|t:|1740510220
+|move|p1a: Komala|Double-Edge|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|faint|p2a: Eelektross
+|-damage|p1a: Komala|224/260|[from] Recoil
+|
+|upkeep
+|
+|t:|1740510224
+|switch|p2a: Coalossal|Coalossal, L89, F|341/341
+|turn|5
+|
+|t:|1740510228
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p2a: Coalossal|Stealth Rock|p1a: Vaporeon
+|-sidestart|p1: Alahuk|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1740510232
+|switch|p2a: Vaporeon|Vaporeon, L86, M|364/364
+|move|p1a: Vaporeon|Scald|p2a: Vaporeon
+|-immune|p2a: Vaporeon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|7
+|
+|t:|1740510237
+|switch|p1a: Komala|Komala, L89, F|224/260
+|-damage|p1a: Komala|192/260|[from] Stealth Rock
+|-ability|p1a: Komala|Comatose
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|
+|upkeep
+|turn|8
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510243
+|switch|p2a: Coalossal|Coalossal, L89, F|341/341
+|move|p1a: Komala|U-turn|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|318/341
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510249
+|switch|p1a: Golduck|Golduck, L90, M|290/290|[from] U-turn
+|-damage|p1a: Golduck|254/290|[from] Stealth Rock
+|-ability|p1a: Golduck|Cloud Nine
+|
+|-heal|p1a: Golduck|272/290|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Slopenheimer has 10 seconds left.
+|
+|t:|1740510257
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|move|p1a: Golduck|Nasty Plot|p1a: Golduck
+|-boost|p1a: Golduck|spa|2
+|
+|-heal|p1a: Golduck|290/290|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510261
+|move|p2a: Ogerpon|Power Whip|p1a: Golduck
+|-supereffective|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|
+|upkeep
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510266
+|switch|p1a: Komala|Komala, L89, F|192/260
+|-damage|p1a: Komala|160/260|[from] Stealth Rock
+|-ability|p1a: Komala|Comatose
+|turn|11
+|
+|t:|1740510269
+|switch|p2a: Coalossal|Coalossal, L89, F|318/341
+|move|p1a: Komala|Double-Edge|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|263/341
+|-damage|p1a: Komala|142/260|[from] Recoil
+|
+|upkeep
+|turn|12
+|
+|t:|1740510272
+|move|p1a: Komala|Double-Edge|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|205/341
+|-damage|p1a: Komala|123/260|[from] Recoil
+|move|p2a: Coalossal|Stone Edge|p1a: Komala
+|-crit|p1a: Komala
+|-damage|p1a: Komala|0 fnt
+|faint|p1a: Komala
+|
+|upkeep
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510277
+|switch|p1a: Tyranitar|Tyranitar, L79, M|288/288
+|-damage|p1a: Tyranitar|252/288|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|13
+|
+|t:|1740510282
+|switch|p2a: Vaporeon|Vaporeon, L86, M|364/364
+|move|p1a: Tyranitar|Stone Edge|p2a: Vaporeon
+|-damage|p2a: Vaporeon|210/364
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Vaporeon|188/364|[from] Sandstorm
+|-heal|p2a: Vaporeon|210/364|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1740510286
+|move|p2a: Vaporeon|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|166/288
+|move|p1a: Tyranitar|Knock Off|p2a: Vaporeon
+|-damage|p2a: Vaporeon|62/364
+|-enditem|p2a: Vaporeon|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Vaporeon|40/364|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1740510290
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|move|p1a: Tyranitar|Knock Off|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1740510293
+|switch|p2a: Scyther|Scyther, L82, M|249/249
+|turn|16
+|
+|t:|1740510296
+|move|p2a: Scyther|Close Combat|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-unboost|p2a: Scyther|def|1
+|-unboost|p2a: Scyther|spd|1
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Scyther|234/249|[from] Sandstorm
+|-heal|p2a: Scyther|249/249|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|
+|t:|1740510299
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|-damage|p1a: Vaporeon|319/364|[from] Stealth Rock
+|turn|17
+|
+|t:|1740510302
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-weather|none
+|-heal|p1a: Vaporeon|341/364|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1740510305
+|switch|p1a: Kommo-o|Kommo-o, L78, F|245/245
+|-damage|p1a: Kommo-o|230/245|[from] Stealth Rock
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-heal|p1a: Kommo-o|245/245|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|19
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510311
+|-terastallize|p1a: Kommo-o|Normal
+|move|p2a: Ogerpon|Knock Off|p1a: Kommo-o
+|-damage|p1a: Kommo-o|120/245
+|-enditem|p1a: Kommo-o|Throat Spray|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|40/245
+|
+|upkeep
+|turn|20
+|inactive|Alahuk has 10 seconds left.
+|
+|t:|1740510318
+|move|p1a: Kommo-o|Boomburst|p2a: Ogerpon
+|-damage|p2a: Ogerpon|57/247
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Kommo-o|[anim] Ivy Cudgel Water
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1740510321
+|switch|p1a: Vaporeon|Vaporeon, L86, F|341/364
+|-damage|p1a: Vaporeon|296/364|[from] Stealth Rock
+|turn|21
+|-message|Alahuk forfeited.
+|
+|win|Slopenheimer
+|raw|Alahuk's rating: 1461 &rarr; <strong>1435</strong><br />(-26 for losing)
+|raw|Slopenheimer's rating: 1352 &rarr; <strong>1378</strong><br />(+26 for winning)
+|l|☆Alahuk
+|player|p1|

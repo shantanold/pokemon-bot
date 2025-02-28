@@ -1,0 +1,195 @@
+|j|☆Cpt.Bubatz
+|j|‽zor0axx
+|html|<table width="100%"><tr><td align="left">Cpt.Bubatz</td><td align="right">zor0axx</tr><tr><td align="left"><i class="fa fa-circle"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 3</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307744170">a best-of-3</a></h2>
+|t:|1740509476
+|gametype|doubles
+|player|p1|Cpt.Bubatz|aaron|1054
+|player|p2|zor0axx|2|1104
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Thundurus-Therian, L50, M|
+|poke|p1|Grimmsnarl, L50, M|
+|poke|p1|Ho-Oh, L50|
+|poke|p1|Ursaluna, L50, M|
+|poke|p1|Pelipper, L50, F|
+|poke|p1|Rillaboom, L50, M|
+|poke|p2|Kyogre, L50|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Urshifu-*, L50, M|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Amoonguss, L50, M|
+|teampreview|4
+|showteam|p1|Thundurus-Therian||ChoiceSpecs|VoltAbsorb|WildboltStorm,SludgeBomb,VoltSwitch,GrassKnot|||M|||50|,,,,,Fairy]Grimmsnarl||SitrusBerry|Prankster|SuckerPunch,SpiritBreak,Taunt,PartingShot|||M|||50|,,,,,Dark]Ho-Oh||CovertCloak|Regenerator|Protect,SacredFire,Tailwind,DualWingbeat||||||50|,,,,,Grass]Ursaluna||FlameOrb|Guts|Earthquake,Facade,DrainPunch,Protect|||M|||50|,,,,,Ghost]Pelipper||FocusSash|Drizzle|Hurricane,Uturn,Protect,Tailwind|||F|||50|,,,,,Grass]Rillaboom||AssaultVest|GrassySurge|FakeOut,Uturn,GrassyGlide,KnockOff|||M|||50|,,,,,Normal
+|showteam|p2|Kyogre||ChoiceSpecs|Drizzle|OriginPulse,IceBeam,WaterSpout,Thunder||||||50|,,,,,Grass]Tornadus||CovertCloak|Prankster|Tailwind,BleakwindStorm,Protect,Taunt|||M|||50|,,,,,Ghost]Incineroar||SafetyGoggles|Intimidate|FlareBlitz,FakeOut,KnockOff,PartingShot|||M|||50|,,,,,Ghost]Urshifu-Rapid-Strike||FocusSash|UnseenFist|SurgingStrikes,CloseCombat,AquaJet,Detect|||M|||50|,,,,,Water]Rillaboom||AssaultVest|GrassySurge|GrassyGlide,WoodHammer,Uturn,FakeOut|||F|||50|,,,,,Ice]Amoonguss||RockyHelmet|Regenerator|RagePowder,Spore,PollenPuff,ClearSmog|||M|||50|,,,,,Fire
+|
+|t:|1740509498
+|start
+|switch|p1a: Rillaboom|Rillaboom, L50, M|100/100
+|switch|p1b: Thundurus|Thundurus-Therian, L50, M|100/100
+|switch|p2a: Kyogre|Kyogre, L50|100/100
+|switch|p2b: Tornadus|Tornadus, L50, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zor0axx)
+|
+|t:|1740509528
+|-terastallize|p2a: Kyogre|Grass
+|move|p1a: Rillaboom|Fake Out|p2a: Kyogre
+|-damage|p2a: Kyogre|88/100
+|move|p2b: Tornadus|Tailwind|p2b: Tornadus
+|-sidestart|p2: zor0axx|move: Tailwind
+|cant|p2a: Kyogre|flinch
+|move|p1b: Thundurus|Wildbolt Storm|p2a: Kyogre|[spread] p2a,p2b
+|-resisted|p2a: Kyogre
+|-supereffective|p2b: Tornadus
+|-damage|p2a: Kyogre|68/100
+|-damage|p2b: Tornadus|0 fnt
+|faint|p2b: Tornadus
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|73/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740509537
+|switch|p2b: Amoonguss|Amoonguss, L50, M, shiny|100/100
+|turn|2
+|
+|t:|1740509562
+|move|p2a: Kyogre|Origin Pulse|p1b: Thundurus|[spread] p1a
+|-miss|p2a: Kyogre|p1b: Thundurus
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|60/100
+|move|p1b: Thundurus|Wildbolt Storm|p2a: Kyogre|[spread] p2a,p2b
+|-resisted|p2a: Kyogre
+|-resisted|p2b: Amoonguss
+|-damage|p2a: Kyogre|53/100
+|-damage|p2b: Amoonguss|76/100
+|move|p1a: Rillaboom|U-turn|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|12/100
+|
+|t:|1740509574
+|switch|p1a: Ursaluna|Ursaluna, L50, M, shiny|100/100|[from] U-turn
+|move|p2b: Amoonguss|Spore|p1b: Thundurus
+|-status|p1b: Thundurus|slp|[from] move: Spore
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|17/100|[from] Grassy Terrain
+|-heal|p2b: Amoonguss|82/100|[from] Grassy Terrain
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|3
+|
+|t:|1740509597
+|switch|p1b: Rillaboom|Rillaboom, L50, M|60/100
+|move|p1a: Ursaluna|Protect|p1a: Ursaluna
+|-singleturn|p1a: Ursaluna|Protect
+|move|p2a: Kyogre|Origin Pulse|p1a: Ursaluna|[spread] p1b
+|-activate|p1a: Ursaluna|move: Protect
+|-resisted|p1b: Rillaboom
+|-damage|p1b: Rillaboom|21/100
+|move|p2b: Amoonguss|Pollen Puff|p2a: Kyogre
+|-heal|p2a: Kyogre|67/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|73/100|[from] Grassy Terrain
+|-heal|p1b: Rillaboom|27/100|[from] Grassy Terrain
+|-heal|p2b: Amoonguss|88/100|[from] Grassy Terrain
+|-damage|p1a: Ursaluna|95/100 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|Cpt.Bubatz has 30 seconds left.
+|inactive|zor0axx has 30 seconds left.
+|
+|t:|1740509627
+|move|p1b: Rillaboom|Fake Out|p2a: Kyogre
+|-damage|p2a: Kyogre|61/100
+|move|p2b: Amoonguss|Rage Powder|p2b: Amoonguss
+|-singleturn|p2b: Amoonguss|move: Rage Powder
+|cant|p2a: Kyogre|flinch
+|move|p1a: Ursaluna|Facade|p2b: Amoonguss
+|-damage|p2b: Amoonguss|0 fnt
+|-damage|p1a: Ursaluna|78/100 brn|[from] item: Rocky Helmet|[of] p2b: Amoonguss
+|faint|p2b: Amoonguss
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|67/100|[from] Grassy Terrain
+|-heal|p1a: Ursaluna|84/100 brn|[from] Grassy Terrain
+|-heal|p1b: Rillaboom|33/100|[from] Grassy Terrain
+|-damage|p1a: Ursaluna|78/100 brn|[from] brn
+|-sideend|p2: zor0axx|move: Tailwind
+|upkeep
+|
+|t:|1740509630
+|switch|p2b: Incineroar|Incineroar, L50, M, shiny|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Ursaluna|atk|1
+|-unboost|p1b: Rillaboom|atk|1
+|turn|5
+|
+|t:|1740509653
+|switch|p1a: Ho-Oh|Ho-Oh, L50|100/100
+|move|p2a: Kyogre|Origin Pulse|p1a: Ho-Oh|[spread] p1a,p1b
+|-supereffective|p1a: Ho-Oh
+|-resisted|p1b: Rillaboom
+|-damage|p1a: Ho-Oh|0 fnt
+|-damage|p1b: Rillaboom|0 fnt
+|faint|p1a: Ho-Oh
+|faint|p1b: Rillaboom
+|move|p2b: Incineroar|Flare Blitz|p1: Ho-Oh|[notarget]
+|-fail|p2b: Incineroar
+|
+|-weather|none
+|-heal|p2a: Kyogre|73/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1740509659
+|switch|p1a: Thundurus|Thundurus-Therian, L50, M|100/100 slp
+|switch|p1b: Ursaluna|Ursaluna, L50, M, shiny|78/100 brn
+|turn|6
+|inactive|zor0axx has 30 seconds left.
+|
+|t:|1740509685
+|-terastallize|p1b: Ursaluna|Ghost
+|cant|p1a: Thundurus|slp
+|move|p2a: Kyogre|Origin Pulse|p1a: Thundurus|[spread] p1a,p1b
+|-damage|p1a: Thundurus|2/100 slp
+|-damage|p1b: Ursaluna|2/100 brn
+|move|p1b: Ursaluna|Facade|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|faint|p2a: Kyogre
+|move|p2b: Incineroar|Parting Shot|p1b: Ursaluna
+|-unboost|p1b: Ursaluna|atk|1
+|-unboost|p1b: Ursaluna|spa|1
+|
+|-damage|p1b: Ursaluna|0 fnt|[from] brn
+|faint|p1b: Ursaluna
+|upkeep
+|turn|7
+|
+|t:|1740509702
+|cant|p1a: Thundurus|slp
+|move|p2b: Incineroar|Knock Off|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|-enditem|p1a: Thundurus|Choice Specs|[from] move: Knock Off|[of] p2b: Incineroar
+|faint|p1a: Thundurus
+|
+|win|zor0axx
+|raw|Cpt.Bubatz's rating: 1054 &rarr; <strong>1038</strong><br />(-16 for losing)
+|raw|zor0axx's rating: 1104 &rarr; <strong>1125</strong><br />(+21 for winning)
+|l|☆Cpt.Bubatz
+|player|p1|
+|l|‽zor0axx
+|player|p2|
+|j|‽zor0axx
+|player|p2|zor0axx|2|

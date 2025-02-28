@@ -1,0 +1,91 @@
+|j|☆Setonix
+|j|☆JohnLowLadder'
+|t:|1740510207
+|gametype|doubles
+|player|p1|Setonix|169|1146
+|player|p2|JohnLowLadder'|whitney|1146
+|teamsize|p1|2
+|teamsize|p2|2
+|gen|9
+|tier|[Gen 9] Metronome Battle
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1740510207
+|start
+|switch|p1a: Cherrim|Cherrim, M|100/100
+|switch|p1b: Victini|Victini|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|switch|p2b: Mew|Mew|100/100
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1b: Victini
+|-formechange|p1a: Cherrim|Cherrim-Sunshine|[msg]|[from] ability: Flower Gift
+|-ability|p2a: Landorus|Intrepid Sword|boost
+|-boost|p2a: Landorus|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Setonix)
+|
+|t:|1740510213
+|-terastallize|p2a: Landorus|Stellar
+|move|p2b: Mew|Metronome|p2b: Mew
+|move|p2b: Mew|Substitute|p2b: Mew|[from] move: Metronome
+|-start|p2b: Mew|Substitute
+|-damage|p2b: Mew|75/100
+|move|p1b: Victini|Metronome|p1b: Victini
+|move|p1b: Victini|Power Trick|p1b: Victini|[from] move: Metronome
+|-start|p1b: Victini|Power Trick
+|move|p2a: Landorus|Metronome|p2a: Landorus
+|move|p2a: Landorus|Extreme Speed|p1a: Cherrim|[from] move: Metronome
+|-damage|p1a: Cherrim|0 fnt
+|faint|p1a: Cherrim
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|2
+|j| Alex_50505
+|inactive|Setonix has 120 seconds left.
+|
+|t:|1740510245
+|move|p1b: Victini|Metronome|p1b: Victini
+|move|p1b: Victini|Grassy Terrain|p1b: Victini|[from] move: Metronome
+|-fieldstart|move: Grassy Terrain
+|move|p2b: Mew|Metronome|p2b: Mew
+|move|p2b: Mew|Flamethrower|p1b: Victini|[from] move: Metronome
+|-resisted|p1b: Victini
+|-damage|p1b: Victini|86/100
+|move|p2a: Landorus|Metronome|p2a: Landorus
+|move|p2a: Landorus|Roar of Time|p1b: Victini|[from] move: Metronome
+|-damage|p1b: Victini|42/100
+|-mustrecharge|p2a: Landorus
+|
+|-weather|DesolateLand|[upkeep]
+|-heal|p2b: Mew|82/100|[from] Grassy Terrain
+|-heal|p1b: Victini|48/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1740510256
+|move|p2b: Mew|Metronome|p2b: Mew
+|move|p2b: Mew|Aqua Cutter||[from] move: Metronome|[still]
+|-fail|p2b: Mew|Aqua Cutter|[from] Desolate Land
+|move|p1b: Victini|Metronome|p1b: Victini
+|move|p1b: Victini|Shock Wave|p2a: Landorus|[from] move: Metronome
+|-immune|p2a: Landorus
+|cant|p2a: Landorus|recharge
+|
+|-weather|DesolateLand|[upkeep]
+|-heal|p1b: Victini|54/100|[from] Grassy Terrain
+|-heal|p2b: Mew|88/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1740510263
+|move|p2b: Mew|Metronome|p2b: Mew
+|move|p2b: Mew|Sheer Cold|p1b: Victini|[from] move: Metronome
+|-damage|p1b: Victini|0 fnt
+|faint|p1b: Victini
+|-weather|none
+|-ohko
+|
+|win|JohnLowLadder'
+|raw|Setonix's rating: 1146 &rarr; <strong>1121</strong><br />(-25 for losing)
+|raw|JohnLowLadder&apos;'s rating: 1146 &rarr; <strong>1171</strong><br />(+25 for winning)

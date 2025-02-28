@@ -1,0 +1,604 @@
+|j|☆Forzarismo
+|j|☆tji69
+|t:|1740509609
+|gametype|singles
+|player|p1|Forzarismo|veteran|1116
+|player|p2|tji69|ghetsis|1212
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Shared Power
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ursaluna-Bloodmoon, M|
+|poke|p1|Maushold|
+|poke|p1|Tauros-Paldea-Blaze, M|
+|poke|p1|Trevenant, M|
+|poke|p1|Muk-Alola, M|
+|poke|p1|Comfey, F|
+|poke|p2|Zamazenta-*|
+|poke|p2|Trevenant, M|
+|poke|p2|Giratina-Origin|
+|poke|p2|Gastrodon, M|
+|poke|p2|Tauros-Paldea-Aqua, M|
+|poke|p2|Greedent, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Forzarismo)
+|
+|t:|1740509645
+|start
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, M|100/100
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|turn|1
+|
+|t:|1740509658
+|switch|p1a: Trevenant|Trevenant, M|100/100
+|switch|p2a: Trevenant|Trevenant, M|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1740509664
+|move|p2a: Trevenant|Toxic|p1a: Trevenant
+|-status|p1a: Trevenant|tox
+|move|p1a: Trevenant|Poltergeist|p2a: Trevenant
+|-activate|p2a: Trevenant|move: Poltergeist|Sitrus Berry
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|
+|-damage|p1a: Trevenant|94/100 tox|[from] psn
+|upkeep
+|inactive|tji69 has 120 seconds left.
+|
+|t:|1740509696
+|switch|p2a: Greedent|Greedent, M|100/100
+|turn|3
+|inactive|tji69 has 120 seconds left.
+|
+|t:|1740509709
+|switch|p1a: Comfey|Comfey, F|100/100
+|-terastallize|p2a: Greedent|Poison
+|move|p2a: Greedent|Amnesia|p2a: Greedent
+|-boost|p2a: Greedent|spd|2
+|
+|upkeep
+|turn|4
+|
+|t:|1740509716
+|move|p1a: Comfey|Encore|p2a: Greedent
+|-start|p2a: Greedent|Encore
+|move|p2a: Greedent|Amnesia|p2a: Greedent
+|-boost|p2a: Greedent|spd|2
+|
+|upkeep
+|turn|5
+|
+|t:|1740509723
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|move|p1a: Comfey|Taunt|p2a: Gastrodon
+|-start|p2a: Gastrodon|move: Taunt
+|
+|upkeep
+|turn|6
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740509763
+|switch|p1a: Maushold|Maushold|100/100
+|move|p2a: Gastrodon|Clear Smog|p1a: Maushold
+|-damage|p1a: Maushold|83/100
+|-clearboost|p1a: Maushold
+|
+|upkeep
+|turn|7
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740509772
+|switch|p1a: Tauros|Tauros-Paldea-Blaze, M|100/100
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|
+|upkeep
+|turn|8
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740509805
+|switch|p2a: Greedent|Greedent, M, tera:Poison|100/100
+|-ability|p2a: Greedent|Dauntless Shield|boost
+|-boost|p2a: Greedent|def|1
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|
+|upkeep
+|turn|9
+|
+|t:|1740509813
+|move|p1a: Tauros|Earthquake|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-crit|p2a: Greedent
+|-damage|p2a: Greedent|23/100
+|-enditem|p2a: Greedent|Sitrus Berry|[eat]
+|-heal|p2a: Greedent|48/100|[from] item: Sitrus Berry
+|-heal|p2a: Greedent|81/100|[from] ability: Cheek Pouch
+|move|p2a: Greedent|Knock Off|p1a: Tauros
+|-resisted|p1a: Tauros
+|-damage|p1a: Tauros|93/100
+|-enditem|p1a: Tauros|Salac Berry|[from] move: Knock Off|[of] p2a: Greedent
+|
+|upkeep
+|turn|10
+|
+|t:|1740509826
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|move|p2a: Greedent|Amnesia|p2a: Greedent
+|-boost|p2a: Greedent|spd|2
+|
+|-item|p2a: Greedent|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|11
+|
+|t:|1740509829
+|move|p1a: Tauros|Earthquake|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-damage|p2a: Greedent|37/100
+|-enditem|p2a: Greedent|Sitrus Berry|[eat]
+|-heal|p2a: Greedent|62/100|[from] item: Sitrus Berry
+|-heal|p2a: Greedent|96/100|[from] ability: Cheek Pouch
+|move|p2a: Greedent|Stuff Cheeks||[still]
+|-fail|p2a: Greedent
+|
+|upkeep
+|turn|12
+|
+|t:|1740509840
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|move|p2a: Greedent|Knock Off|p1a: Tauros
+|-resisted|p1a: Tauros
+|-damage|p1a: Tauros|90/100
+|
+|-item|p2a: Greedent|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|13
+|
+|t:|1740509856
+|switch|p2a: Giratina|Giratina-Origin|100/100
+|-ability|p2a: Giratina|Dauntless Shield|boost
+|-boost|p2a: Giratina|def|1
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1740509860
+|switch|p2a: Greedent|Greedent, M, tera:Poison|96/100
+|move|p1a: Tauros|Raging Bull|p2a: Greedent
+|-damage|p2a: Greedent|24/100
+|-enditem|p2a: Greedent|Sitrus Berry|[eat]
+|-heal|p2a: Greedent|49/100|[from] item: Sitrus Berry
+|-heal|p2a: Greedent|82/100|[from] ability: Cheek Pouch
+|
+|upkeep
+|turn|15
+|
+|t:|1740509878
+|move|p1a: Tauros|Earthquake|p2a: Greedent
+|-immune|p2a: Greedent|[from] ability: Levitate
+|move|p2a: Greedent|Amnesia|p2a: Greedent
+|-boost|p2a: Greedent|spd|2
+|
+|upkeep
+|turn|16
+|
+|t:|1740509885
+|move|p1a: Tauros|Raging Bull|p2a: Greedent
+|-damage|p2a: Greedent|9/100
+|move|p2a: Greedent|Body Press|p1a: Tauros
+|-damage|p1a: Tauros|80/100
+|
+|upkeep
+|turn|17
+|
+|t:|1740509890
+|move|p1a: Tauros|Raging Bull|p2a: Greedent
+|-damage|p2a: Greedent|0 fnt
+|faint|p2a: Greedent
+|
+|upkeep
+|
+|t:|1740509895
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|-ability|p2a: Gastrodon|Dauntless Shield|boost
+|-boost|p2a: Gastrodon|def|1
+|turn|18
+|
+|t:|1740509901
+|move|p1a: Tauros|Close Combat|p2a: Gastrodon
+|-damage|p2a: Gastrodon|19/100
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|-enditem|p2a: Gastrodon|Sitrus Berry|[eat]
+|-heal|p2a: Gastrodon|43/100|[from] item: Sitrus Berry
+|-heal|p2a: Gastrodon|77/100|[from] ability: Cheek Pouch
+|move|p2a: Gastrodon|Clear Smog|p1a: Tauros
+|-damage|p1a: Tauros|56/100
+|-clearboost|p1a: Tauros
+|
+|-item|p2a: Gastrodon|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|19
+|
+|t:|1740509912
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, M|100/100
+|move|p2a: Gastrodon|Stealth Rock|p1a: Ursaluna
+|-sidestart|p1: Forzarismo|move: Stealth Rock
+|
+|upkeep
+|turn|20
+|
+|t:|1740509924
+|switch|p1a: Muk|Muk-Alola, M|100/100
+|-damage|p1a: Muk|88/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Muddy Water|p1a: Muk
+|-damage|p1a: Muk|65/100
+|
+|upkeep
+|turn|21
+|
+|t:|1740509931
+|move|p1a: Muk|Poison Jab|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|66/100
+|move|p2a: Gastrodon|Muddy Water|p1a: Muk
+|-damage|p1a: Muk|40/100
+|-enditem|p1a: Muk|Liechi Berry|[eat]
+|-boost|p1a: Muk|atk|1|[from] item: Liechi Berry
+|-heal|p1a: Muk|73/100|[from] ability: Cheek Pouch
+|
+|upkeep
+|turn|22
+|
+|t:|1740509941
+|switch|p1a: Maushold|Maushold|83/100
+|-damage|p1a: Maushold|71/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Muddy Water|p1a: Maushold
+|-damage|p1a: Maushold|30/100
+|-enditem|p1a: Maushold|Sitrus Berry|[eat]
+|-heal|p1a: Maushold|55/100|[from] item: Sitrus Berry
+|-heal|p1a: Maushold|88/100|[from] ability: Cheek Pouch
+|
+|-item|p1a: Maushold|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|23
+|
+|t:|1740509957
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, M|100/100
+|-ability|p2a: Tauros|Dauntless Shield|boost
+|-boost|p2a: Tauros|def|1
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-sideend|p1: Forzarismo|Stealth Rock
+|-activate|p1a: Maushold|move: Tidy Up
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|-activate|p1a: Maushold|ability: Cud Chew
+|-enditem|p1a: Maushold|Sitrus Berry|[eat]
+|-heal|p1a: Maushold|100/100|[from] item: Sitrus Berry
+|upkeep
+|turn|24
+|
+|t:|1740509977
+|switch|p1a: Trevenant|Trevenant, M|94/100 tox
+|move|p2a: Tauros|Bulk Up|p2a: Tauros
+|-boost|p2a: Tauros|atk|1
+|-boost|p2a: Tauros|def|1
+|
+|-damage|p1a: Trevenant|88/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1740509985
+|move|p2a: Tauros|Substitute|p2a: Tauros
+|-start|p2a: Tauros|Substitute
+|-damage|p2a: Tauros|75/100
+|move|p1a: Trevenant|Curse|p2a: Tauros
+|-start|p2a: Tauros|Curse|[of] p1a: Trevenant
+|-damage|p1a: Trevenant|38/100 tox
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|63/100 tox|[from] item: Sitrus Berry
+|-heal|p1a: Trevenant|96/100 tox|[from] ability: Cheek Pouch
+|
+|-damage|p1a: Trevenant|84/100 tox|[from] psn
+|-damage|p2a: Tauros|50/100|[from] Curse
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|26
+|
+|t:|1740510011
+|-curestatus|p1a: Trevenant|tox|[from] ability: Natural Cure
+|switch|p1a: Comfey|Comfey, F|100/100
+|move|p2a: Tauros|Bulk Up|p2a: Tauros
+|-boost|p2a: Tauros|atk|1
+|-boost|p2a: Tauros|def|1
+|
+|-damage|p2a: Tauros|25/100|[from] Curse
+|upkeep
+|-enditem|p2a: Tauros|Salac Berry|[eat]
+|-boost|p2a: Tauros|spe|1|[from] item: Salac Berry
+|-heal|p2a: Tauros|59/100|[from] ability: Cheek Pouch
+|turn|27
+|
+|t:|1740510020
+|move|p2a: Tauros|Raging Bull|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|faint|p1a: Comfey
+|
+|-damage|p2a: Tauros|34/100|[from] Curse
+|upkeep
+|
+|t:|1740510032
+|switch|p1a: Trevenant|Trevenant, M|84/100
+|turn|28
+|
+|t:|1740510043
+|move|p2a: Tauros|Bulk Up|p2a: Tauros
+|-boost|p2a: Tauros|atk|1
+|-boost|p2a: Tauros|def|1
+|move|p1a: Trevenant|Horn Leech|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-activate|p2a: Tauros|move: Substitute|[damage]
+|-heal|p1a: Trevenant|93/100|[from] drain|[of] p2a: Tauros
+|
+|-damage|p2a: Tauros|9/100|[from] Curse
+|-item|p2a: Tauros|Salac Berry|[from] ability: Harvest
+|-activate|p2a: Tauros|ability: Cud Chew
+|-enditem|p2a: Tauros|Salac Berry|[eat]
+|-boost|p2a: Tauros|spe|1|[from] item: Salac Berry
+|-heal|p2a: Tauros|42/100|[from] ability: Cheek Pouch
+|upkeep
+|turn|29
+|
+|t:|1740510061
+|move|p2a: Tauros|Raging Bull|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|34/100
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|59/100|[from] item: Sitrus Berry
+|-heal|p1a: Trevenant|92/100|[from] ability: Cheek Pouch
+|move|p1a: Trevenant|Horn Leech|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-end|p2a: Tauros|Substitute
+|-heal|p1a: Trevenant|93/100|[from] drain|[of] p2a: Tauros
+|
+|-damage|p2a: Tauros|17/100|[from] Curse
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Tauros|Salac Berry|[eat]
+|-boost|p2a: Tauros|spe|1|[from] item: Salac Berry
+|-heal|p2a: Tauros|50/100|[from] ability: Cheek Pouch
+|turn|30
+|
+|t:|1740510081
+|move|p2a: Tauros|Bulk Up|p2a: Tauros
+|-boost|p2a: Tauros|atk|1
+|-boost|p2a: Tauros|def|1
+|move|p1a: Trevenant|Poltergeist||[still]
+|-fail|p1a: Trevenant
+|
+|-damage|p2a: Tauros|25/100|[from] Curse
+|-activate|p1a: Trevenant|ability: Cud Chew
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|100/100|[from] item: Sitrus Berry
+|upkeep
+|turn|31
+|
+|t:|1740510094
+|move|p2a: Tauros|Raging Bull|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|31/100
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|56/100|[from] item: Sitrus Berry
+|-heal|p1a: Trevenant|89/100|[from] ability: Cheek Pouch
+|move|p1a: Trevenant|Horn Leech|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-damage|p2a: Tauros|6/100
+|-heal|p1a: Trevenant|96/100|[from] drain|[of] p2a: Tauros
+|
+|-damage|p2a: Tauros|0 fnt|[from] Curse
+|faint|p2a: Tauros
+|upkeep
+|
+|t:|1740510099
+|switch|p2a: Giratina|Giratina-Origin|100/100
+|turn|32
+|
+|t:|1740510111
+|move|p2a: Giratina|Shadow Ball|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|
+|upkeep
+|
+|t:|1740510124
+|switch|p1a: Muk|Muk-Alola, M|73/100
+|turn|33
+|inactive|tji69 has 120 seconds left.
+|
+|t:|1740510166
+|move|p2a: Giratina|Calm Mind|p2a: Giratina
+|-boost|p2a: Giratina|spa|1
+|-boost|p2a: Giratina|spd|1
+|move|p1a: Muk|Crunch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|50/100
+|-unboost|p2a: Giratina|def|1
+|
+|upkeep
+|turn|34
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740510207
+|move|p2a: Giratina|Aura Sphere|p1a: Muk
+|-damage|p1a: Muk|38/100
+|move|p1a: Muk|Crunch|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|upkeep
+|
+|t:|1740510211
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|35
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740510218
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p1a: Muk|Poison Jab|p2a: Zamazenta
+|-damage|p2a: Zamazenta|85/100
+|-status|p2a: Zamazenta|psn
+|
+|-damage|p2a: Zamazenta|72/100 psn|[from] psn
+|upkeep
+|turn|36
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740510228
+|switch|p1a: Tauros|Tauros-Paldea-Blaze, M|56/100
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|
+|-damage|p2a: Zamazenta|60/100 psn|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1740510238
+|move|p2a: Zamazenta|Body Press|p1a: Tauros
+|-crit|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|-damage|p2a: Zamazenta|48/100 psn|[from] psn
+|upkeep
+|-enditem|p2a: Zamazenta|Sitrus Berry|[eat]
+|-heal|p2a: Zamazenta|73/100 psn|[from] item: Sitrus Berry
+|-heal|p2a: Zamazenta|100/100 psn|[from] ability: Cheek Pouch
+|
+|t:|1740510242
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, M|100/100
+|turn|38
+|
+|t:|1740510247
+|-terastallize|p1a: Ursaluna|Ground
+|move|p2a: Zamazenta|Body Press|p1a: Ursaluna
+|-damage|p1a: Ursaluna|44/100
+|-enditem|p1a: Ursaluna|Ganlon Berry|[eat]
+|-boost|p1a: Ursaluna|def|1|[from] item: Ganlon Berry
+|-heal|p1a: Ursaluna|77/100|[from] ability: Cheek Pouch
+|move|p1a: Ursaluna|Calm Mind|p1a: Ursaluna
+|-boost|p1a: Ursaluna|spa|1
+|-boost|p1a: Ursaluna|spd|1
+|
+|-damage|p2a: Zamazenta|88/100 psn|[from] psn
+|-item|p2a: Zamazenta|Sitrus Berry|[from] ability: Harvest
+|-item|p1a: Ursaluna|Ganlon Berry|[from] ability: Harvest
+|upkeep
+|turn|39
+|
+|t:|1740510263
+|move|p2a: Zamazenta|Body Press|p1a: Ursaluna
+|-damage|p1a: Ursaluna|39/100
+|-enditem|p1a: Ursaluna|Ganlon Berry|[eat]
+|-boost|p1a: Ursaluna|def|1|[from] item: Ganlon Berry
+|-heal|p1a: Ursaluna|72/100|[from] ability: Cheek Pouch
+|move|p1a: Ursaluna|Blood Moon|p2a: Zamazenta
+|-damage|p2a: Zamazenta|1/100 psn
+|-enditem|p2a: Zamazenta|Sitrus Berry|[eat]
+|-heal|p2a: Zamazenta|26/100 psn|[from] item: Sitrus Berry
+|-heal|p2a: Zamazenta|60/100 psn|[from] ability: Cheek Pouch
+|
+|-damage|p2a: Zamazenta|47/100 psn|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1740510278
+|move|p2a: Zamazenta|Body Press|p1a: Ursaluna
+|-damage|p1a: Ursaluna|40/100
+|move|p1a: Ursaluna|Calm Mind|p1a: Ursaluna
+|-boost|p1a: Ursaluna|spa|1
+|-boost|p1a: Ursaluna|spd|1
+|
+|-damage|p2a: Zamazenta|35/100 psn|[from] psn
+|-item|p2a: Zamazenta|Sitrus Berry|[from] ability: Harvest
+|-activate|p2a: Zamazenta|ability: Cud Chew
+|-enditem|p2a: Zamazenta|Sitrus Berry|[eat]
+|-heal|p2a: Zamazenta|60/100 psn|[from] item: Sitrus Berry
+|-heal|p2a: Zamazenta|93/100 psn|[from] ability: Cheek Pouch
+|-item|p1a: Ursaluna|Ganlon Berry|[from] ability: Harvest
+|-activate|p1a: Ursaluna|ability: Cud Chew
+|-enditem|p1a: Ursaluna|Ganlon Berry|[eat]
+|-boost|p1a: Ursaluna|def|1|[from] item: Ganlon Berry
+|-heal|p1a: Ursaluna|74/100|[from] ability: Cheek Pouch
+|upkeep
+|turn|41
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740510304
+|move|p2a: Zamazenta|Body Press|p1a: Ursaluna
+|-damage|p1a: Ursaluna|48/100
+|-enditem|p1a: Ursaluna|Ganlon Berry|[eat]
+|-boost|p1a: Ursaluna|def|1|[from] item: Ganlon Berry
+|-heal|p1a: Ursaluna|81/100|[from] ability: Cheek Pouch
+|move|p1a: Ursaluna|Calm Mind|p1a: Ursaluna
+|-boost|p1a: Ursaluna|spa|1
+|-boost|p1a: Ursaluna|spd|1
+|
+|-damage|p2a: Zamazenta|81/100 psn|[from] psn
+|upkeep
+|turn|42
+|inactive|Forzarismo has 120 seconds left.
+|
+|t:|1740510316
+|switch|p2a: Gastrodon|Gastrodon, M|66/100
+|move|p1a: Ursaluna|Blood Moon|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|-activate|p1a: Ursaluna|ability: Cud Chew
+|-enditem|p1a: Ursaluna|Ganlon Berry|[eat]
+|-boost|p1a: Ursaluna|def|1|[from] item: Ganlon Berry
+|-heal|p1a: Ursaluna|100/100|[from] ability: Cheek Pouch
+|upkeep
+|l|☆tji69
+|inactive|tji69 disconnected and has a minute to reconnect!
+|player|p2|
+|c|☆Forzarismo|bruh
+|inactive|tji69 has 30 seconds to reconnect!
+|inactive|tji69 has 20 seconds to reconnect!
+|j| Percy_Gekkouga77
+|inactive|tji69 has 15 seconds to reconnect!
+|inactive|tji69 has 10 seconds to reconnect!
+|c|☆Forzarismo|hello
+|inactive|tji69 has 5 seconds to reconnect!
+|-message|tji69 lost due to inactivity.
+|
+|win|Forzarismo
+|raw|Forzarismo's rating: 1116 &rarr; <strong>1148</strong><br />(+32 for winning)
+|raw|tji69's rating: 1212 &rarr; <strong>1180</strong><br />(-32 for losing)

@@ -1,0 +1,305 @@
+|j|☆big myan blastoise
+|j|☆Toxic Test Team
+|t:|1740509552
+|gametype|doubles
+|player|p1|big myan blastoise|teamrocket|1531
+|player|p2|Toxic Test Team|266|1566
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Chi-Yu|
+|poke|p1|Abomasnow, F|
+|poke|p1|Glimmora, F|
+|poke|p1|Torkoal, M|
+|poke|p1|Ditto|
+|poke|p1|Gouging Fire|
+|poke|p2|Roaring Moon|
+|poke|p2|Ursaluna-Bloodmoon, M|
+|poke|p2|Indeedee-F, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Iron Crown|
+|poke|p2|Primarina, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by big myan blastoise)
+|inactive|big myan blastoise has 120 seconds left.
+|inactive|Toxic Test Team has 120 seconds left.
+|
+|t:|1740509611
+|start
+|switch|p1a: Abomasnow|Abomasnow, F|100/100
+|switch|p1b: Glimmora|Glimmora, F|100/100
+|switch|p2a: Roaring Moon|Roaring Moon|100/100
+|switch|p2b: Ursaluna|Ursaluna-Bloodmoon, M|100/100
+|-item|p1b: Glimmora|Air Balloon
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|-enditem|p2a: Roaring Moon|Booster Energy
+|-activate|p2a: Roaring Moon|ability: Protosynthesis|[fromitem]
+|-start|p2a: Roaring Moon|protosynthesisspe
+|turn|1
+|
+|t:|1740509630
+|-terastallize|p2b: Ursaluna|Normal
+|move|p1b: Glimmora|Spiky Shield|p1b: Glimmora
+|-singleturn|p1b: Glimmora|move: Protect
+|move|p2a: Roaring Moon|Tailwind|p2a: Roaring Moon
+|-sidestart|p2: Toxic Test Team|move: Tailwind
+|move|p2b: Ursaluna|Blood Moon|p1a: Abomasnow
+|-damage|p1a: Abomasnow|3/100
+|move|p1a: Abomasnow|Aurora Veil|p1a: Abomasnow
+|-sidestart|p1: big myan blastoise|move: Aurora Veil
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|2
+|inactive|big myan blastoise has 120 seconds left.
+|
+|t:|1740509666
+|move|p2a: Roaring Moon|Protect|p2a: Roaring Moon
+|-singleturn|p2a: Roaring Moon|Protect
+|move|p1a: Abomasnow|Ice Shard|p2a: Roaring Moon
+|-activate|p2a: Roaring Moon|move: Protect
+|move|p2b: Ursaluna|Hyper Voice|p1a: Abomasnow|[spread] p1a,p1b
+|-resisted|p1b: Glimmora
+|-damage|p1a: Abomasnow|0 fnt
+|-damage|p1b: Glimmora|79/100
+|-enditem|p1b: Glimmora|Air Balloon
+|faint|p1a: Abomasnow
+|-enditem|p2b: Ursaluna|Throat Spray
+|-boost|p2b: Ursaluna|spa|1|[from] item: Throat Spray
+|move|p1b: Glimmora|Sludge Bomb|p2b: Ursaluna
+|-damage|p2b: Ursaluna|36/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740509674
+|switch|p1a: Gouging Fire|Gouging Fire|100/100
+|turn|3
+|inactive|Toxic Test Team has 120 seconds left.
+|
+|t:|1740509711
+|move|p1a: Gouging Fire|Burning Bulwark|p1a: Gouging Fire
+|-singleturn|p1a: Gouging Fire|move: Protect
+|move|p2a: Roaring Moon|Knock Off|p1a: Gouging Fire
+|-activate|p1a: Gouging Fire|move: Protect
+|-status|p2a: Roaring Moon|brn
+|move|p2b: Ursaluna|Blood Moon|p1a: Gouging Fire
+|-activate|p1a: Gouging Fire|move: Protect
+|move|p1b: Glimmora|Sludge Bomb|p2b: Ursaluna
+|-damage|p2b: Ursaluna|0 fnt
+|faint|p2b: Ursaluna
+|
+|-weather|Snow|[upkeep]
+|-damage|p2a: Roaring Moon|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1740509716
+|switch|p2b: Iron Crown|Iron Crown|100/100
+|turn|4
+|
+|t:|1740509730
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|switch|p2a: Indeedee|Indeedee-F, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|-enditem|p2a: Indeedee|Psychic Seed
+|-boost|p2a: Indeedee|spd|1|[from] item: Psychic Seed
+|move|p2b: Iron Crown|Expanding Force|p1b: Glimmora|[spread] p1a,p1b
+|-supereffective|p1b: Glimmora
+|-damage|p1a: Gouging Fire|53/100
+|-damage|p1b: Glimmora|0 fnt
+|faint|p1b: Glimmora
+|-damage|p2b: Iron Crown|91/100|[from] item: Life Orb
+|move|p1a: Gouging Fire|Dragon Dance|p1a: Gouging Fire
+|-boost|p1a: Gouging Fire|atk|1
+|-boost|p1a: Gouging Fire|spe|1
+|
+|-weather|Snow|[upkeep]
+|-sideend|p2: Toxic Test Team|move: Tailwind
+|upkeep
+|
+|t:|1740509744
+|switch|p1b: Chi-Yu|Chi-Yu|100/100
+|-ability|p1b: Chi-Yu|Beads of Ruin
+|turn|5
+|inactive|Toxic Test Team has 120 seconds left.
+|
+|t:|1740509781
+|move|p2a: Indeedee|Follow Me|p2a: Indeedee
+|-singleturn|p2a: Indeedee|move: Follow Me
+|move|p1a: Gouging Fire|Heat Crash|p2a: Indeedee
+|-damage|p2a: Indeedee|34/100
+|move|p1b: Chi-Yu|Dark Pulse|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|move|p2b: Iron Crown|Expanding Force|p1b: Chi-Yu|[spread] p1a
+|-immune|p1b: Chi-Yu
+|-damage|p1a: Gouging Fire|0 fnt
+|faint|p1a: Gouging Fire
+|-end|p1a: Gouging Fire|Protosynthesis|[silent]
+|-damage|p2b: Iron Crown|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1740509794
+|switch|p1a: Ditto|Ditto|100/100
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|-transform|p1a: Ditto|p2b: Iron Crown|[from] ability: Imposter
+|turn|6
+|
+|t:|1740509805
+|move|p2b: Iron Crown|Protect|p2b: Iron Crown
+|-singleturn|p2b: Iron Crown|Protect
+|move|p2a: Zapdos|U-turn|p1b: Chi-Yu
+|-damage|p1b: Chi-Yu|75/100
+|
+|t:|1740509809
+|switch|p2a: Roaring Moon|Roaring Moon|94/100 brn|[from] U-turn
+|move|p1a: Ditto|Expanding Force|p2a: Roaring Moon|[spread] 
+|-activate|p2b: Iron Crown|move: Protect
+|-immune|p2a: Roaring Moon
+|move|p1b: Chi-Yu|Dark Pulse|p2b: Iron Crown
+|-activate|p2b: Iron Crown|move: Protect
+|
+|-damage|p2a: Roaring Moon|88/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1740509828
+|-end|p1a: Ditto|Quark Drive|[silent]
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Roaring Moon|ability: Protosynthesis
+|-start|p2a: Roaring Moon|protosynthesisspe
+|-end|p2b: Iron Crown|Quark Drive|[silent]
+|switch|p2b: Primarina|Primarina, M|100/100
+|move|p2a: Roaring Moon|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|87/100
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Roaring Moon
+|move|p1b: Chi-Yu|Dark Pulse|p2b: Primarina
+|-resisted|p2b: Primarina
+|-damage|p2b: Primarina|56/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Roaring Moon|82/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1740509847
+|move|p1a: Torkoal|Helping Hand|p1b: Chi-Yu
+|-singleturn|p1b: Chi-Yu|Helping Hand|[of] p1a: Torkoal
+|move|p2a: Roaring Moon|Tailwind|p2a: Roaring Moon
+|-sidestart|p2: Toxic Test Team|move: Tailwind
+|move|p2b: Primarina|Hyper Voice|p1a: Torkoal|[spread] p1a,p1b
+|-supereffective|p1a: Torkoal
+|-supereffective|p1b: Chi-Yu
+|-damage|p1a: Torkoal|45/100
+|-damage|p1b: Chi-Yu|37/100
+|move|p1b: Chi-Yu|Dark Pulse|p2b: Primarina
+|-resisted|p2b: Primarina
+|-damage|p2b: Primarina|0 fnt
+|faint|p2b: Primarina
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Roaring Moon|76/100 brn|[from] brn
+|-sideend|p1: big myan blastoise|move: Aurora Veil
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1740509862
+|switch|p2b: Zapdos|Zapdos-Galar|100/100
+|turn|9
+|
+|t:|1740509881
+|move|p2a: Roaring Moon|Acrobatics|p1b: Chi-Yu
+|-damage|p1b: Chi-Yu|6/100
+|move|p2b: Zapdos|Close Combat|p1b: Chi-Yu
+|-supereffective|p1b: Chi-Yu
+|-damage|p1b: Chi-Yu|0 fnt
+|-unboost|p2b: Zapdos|def|1
+|-unboost|p2b: Zapdos|spd|1
+|faint|p1b: Chi-Yu
+|move|p1a: Torkoal|Will-O-Wisp|p2b: Zapdos
+|-status|p2b: Zapdos|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Roaring Moon|70/100 brn|[from] brn
+|-damage|p2b: Zapdos|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1740509886
+|switch|p1b: Ditto|Ditto|100/100
+|-transform|p1b: Ditto|p2a: Roaring Moon|[from] ability: Imposter
+|turn|10
+|
+|t:|1740509909
+|-terastallize|p1b: Ditto|Ghost
+|move|p1a: Torkoal|Helping Hand|p1b: Ditto
+|-singleturn|p1b: Ditto|Helping Hand|[of] p1a: Torkoal
+|move|p2a: Roaring Moon|Acrobatics|p1a: Torkoal
+|-damage|p1a: Torkoal|31/100
+|move|p2b: Zapdos|Close Combat|p1b: Ditto
+|-immune|p1b: Ditto
+|move|p1b: Ditto|Acrobatics|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|31/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Roaring Moon|25/100 brn|[from] brn
+|-damage|p2b: Zapdos|88/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1740509924
+|move|p2a: Roaring Moon|Knock Off|p1b: Ditto
+|-supereffective|p1b: Ditto
+|-damage|p1b: Ditto|21/100
+|-enditem|p1b: Ditto|Choice Scarf|[from] move: Knock Off|[of] p2a: Roaring Moon
+|move|p2b: Zapdos|Close Combat|p1a: Torkoal
+|-damage|p1a: Torkoal|7/100
+|-unboost|p2b: Zapdos|def|1
+|-unboost|p2b: Zapdos|spd|1
+|move|p1b: Ditto|Acrobatics|p2b: Zapdos
+|-supereffective|p2b: Zapdos
+|-damage|p2b: Zapdos|0 fnt
+|faint|p2b: Zapdos
+|move|p1a: Torkoal|Heat Wave|p2a: Roaring Moon
+|-resisted|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|6/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Roaring Moon|0 fnt|[from] brn
+|faint|p2a: Roaring Moon
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|-sideend|p2: Toxic Test Team|move: Tailwind
+|upkeep
+|
+|t:|1740509935
+|switch|p2b: Iron Crown|Iron Crown|81/100
+|turn|12
+|
+|t:|1740509946
+|move|p1b: Ditto|Knock Off|p2b: Iron Crown
+|-supereffective|p2b: Iron Crown
+|-damage|p2b: Iron Crown|0 fnt
+|-enditem|p2b: Iron Crown|Life Orb|[from] move: Knock Off|[of] p1b: Ditto
+|faint|p2b: Iron Crown
+|-end|p2b: Iron Crown|Quark Drive|[silent]
+|
+|win|big myan blastoise
+|raw|big myan blastoise's rating: 1531 &rarr; <strong>1553</strong><br />(+22 for winning)
+|raw|Toxic Test Team's rating: 1566 &rarr; <strong>1544</strong><br />(-22 for losing)
+|l|☆Toxic Test Team
+|player|p2|
+|l|☆big myan blastoise
+|player|p1|

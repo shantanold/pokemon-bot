@@ -1,0 +1,180 @@
+|j|☆Narenet
+|j|☆guillehue
+|html|<table width="100%"><tr><td align="left">Narenet</td><td align="right">guillehue</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307753769">a best-of-3</a></h2>
+|t:|1740509791
+|gametype|doubles
+|player|p1|Narenet|102|
+|player|p2|guillehue|colress|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Dondozo, L50, M|
+|poke|p1|Ogerpon-Hearthflame, L50, F|
+|poke|p1|Tatsugiri-Droopy, L50, M|
+|poke|p1|Gholdengo, L50|
+|poke|p1|Hariyama, L50, M|
+|poke|p1|Koraidon, L50|
+|poke|p2|Terapagos, L50, M|
+|poke|p2|Cresselia, L50, F|
+|poke|p2|Iron Hands, L50|
+|poke|p2|Ogerpon-Wellspring, L50, F|
+|poke|p2|Heatran, L50, F|
+|poke|p2|Passimian, L50, F|
+|teampreview|4
+|showteam|p1|Dondozo||Leftovers|Unaware|AquaTail,OrderUp,BodyPress,Protect|||M|||50|,,,,,Grass]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,FollowMe,SpikyShield,HornLeech|||F|||50|,,,,,Fire]Tatsugiri-Droopy||ToxicOrb|Commander|Endure,DracoMeteor,MuddyWater,Taunt|||M|||50|,,,,,Stellar]Gholdengo||MetalCoat|GoodasGold|MakeItRain,ShadowBall,Protect,DazzlingGleam||||||50|,,,,,Steel]Hariyama||AssaultVest|ThickFat|FakeOut,BulletPunch,DrainPunch,KnockOff|||M|||50|,,,,,Fairy]Koraidon||ClearAmulet|OrichalcumPulse|CollisionCourse,FlareBlitz,FlameCharge,Protect||||||50|,,,,,Fire
+|showteam|p2|Terapagos||CovertCloak|TeraShift|TeraStarstorm,EarthPower,CalmMind,Protect|||M|||50|,,,,,Stellar]Cresselia||MentalHerb|Levitate|Psychic,LunarBlessing,HelpingHand,TrickRoom|||F|||50|,,,,,Poison]Iron Hands||SitrusBerry|QuarkDrive|FakeOut,DrainPunch,WildCharge,SwordsDance||||||50|,,,,,Fire]Ogerpon-Wellspring||WellspringMask|WaterAbsorb|IvyCudgel,HornLeech,FollowMe,SpikyShield|||F|||50|,,,,,Water]Heatran||Leftovers|FlashFire|HeatWave,FlashCannon,WillOWisp,Protect|||F|||50|,,,,,Grass]Passimian||ChoiceScarf|Defiant|CloseCombat,KnockOff,Electroweb,Uturn|||F|||50|,,,,,Dark
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Narenet)
+|j| pandemolde37
+|inactive|Narenet has 60 seconds left.
+|inactive|guillehue has 60 seconds left.
+|j| Stereodye
+|inactive|guillehue has 30 seconds left.
+|
+|t:|1740509857
+|start
+|switch|p1a: Farmeadora de Aura|Ogerpon-Hearthflame, L50, F|100/100
+|switch|p1b: Juanito|Gholdengo, L50|100/100
+|switch|p2a: ✊ Nieto de Yama ✊|Iron Hands, L50|100/100
+|switch|p2b: 🥺I miss ferotho🥺|Heatran, L50, F|100/100
+|-ability|p1a: Farmeadora de Aura|Mold Breaker
+|turn|1
+|j| AkuNoEiyu
+|inactive|Narenet has 30 seconds left.
+|inactive|guillehue has 30 seconds left.
+|inactive|Narenet has 20 seconds left.
+|inactive|guillehue has 20 seconds left.
+|
+|t:|1740509893
+|switch|p1b: hola!|Koraidon, L50|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1b: hola!
+|-activate|p1b: hola!|Orichalcum Pulse|[source]
+|move|p1a: Farmeadora de Aura|Spiky Shield|p1a: Farmeadora de Aura
+|-singleturn|p1a: Farmeadora de Aura|move: Protect
+|move|p2b: 🥺I miss ferotho🥺|Heat Wave|p1b: hola!|[spread] p1b
+|-activate|p1a: Farmeadora de Aura|move: Protect
+|-resisted|p1b: hola!
+|-damage|p1b: hola!|75/100
+|move|p2a: ✊ Nieto de Yama ✊|Swords Dance|p2a: ✊ Nieto de Yama ✊
+|-boost|p2a: ✊ Nieto de Yama ✊|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|n| Puri2|puri2
+|inactive|guillehue has 30 seconds left.
+|
+|t:|1740509922
+|move|p1b: hola!|Collision Course|p2a: ✊ Nieto de Yama ✊
+|-damage|p2a: ✊ Nieto de Yama ✊|52/100
+|move|p1a: Farmeadora de Aura|Ivy Cudgel|p2a: ✊ Nieto de Yama ✊|[anim] Ivy Cudgel Fire
+|-damage|p2a: ✊ Nieto de Yama ✊|0 fnt
+|faint|p2a: ✊ Nieto de Yama ✊
+|-end|p2a: ✊ Nieto de Yama ✊|Quark Drive|[silent]
+|move|p2b: 🥺I miss ferotho🥺|Heat Wave|p1b: hola!|[spread] p1a,p1b
+|-resisted|p1b: hola!
+|-damage|p1a: Farmeadora de Aura|41/100
+|-damage|p1b: hola!|51/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|guillehue has 30 seconds left.
+|
+|t:|1740509953
+|switch|p2a: 🐢 Trotuman 🐢|Terapagos, L50, M|100/100
+|-activate|p2a: 🐢 Trotuman 🐢|ability: Tera Shift
+|detailschange|p2a: 🐢 Trotuman 🐢|Terapagos-Terastal, L50, M
+|-heal|p2a: 🐢 Trotuman 🐢|100/100|[silent]
+|turn|3
+|c| pandemolde37|El Willy con motes es otra persona
+|inactive|guillehue has 30 seconds left.
+|
+|t:|1740509986
+|-terastallize|p1a: Farmeadora de Aura|Fire
+|detailschange|p1a: Farmeadora de Aura|Ogerpon-Hearthflame-Tera, L50, F, tera:Fire
+|-ability|p1a: Farmeadora de Aura|Embody Aspect (Hearthflame)|boost
+|-boost|p1a: Farmeadora de Aura|atk|1
+|move|p1b: hola!|Collision Course|p2b: 🥺I miss ferotho🥺
+|-supereffective|p2b: 🥺I miss ferotho🥺
+|-damage|p2b: 🥺I miss ferotho🥺|0 fnt
+|faint|p2b: 🥺I miss ferotho🥺
+|move|p1a: Farmeadora de Aura|Horn Leech|p2a: 🐢 Trotuman 🐢
+|-activate|p2a: 🐢 Trotuman 🐢|ability: Tera Shell
+|-resisted|p2a: 🐢 Trotuman 🐢
+|-damage|p2a: 🐢 Trotuman 🐢|73/100
+|-heal|p1a: Farmeadora de Aura|55/100|[from] drain|[of] p2a: 🐢 Trotuman 🐢
+|move|p2a: 🐢 Trotuman 🐢|Calm Mind|p2a: 🐢 Trotuman 🐢
+|-boost|p2a: 🐢 Trotuman 🐢|spa|1
+|-boost|p2a: 🐢 Trotuman 🐢|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510000
+|switch|p2b: 🐸 Isabella 🐸|Ogerpon-Wellspring, L50, F|100/100
+|turn|4
+|
+|t:|1740510008
+|-terastallize|p2a: 🐢 Trotuman 🐢|Stellar
+|detailschange|p2a: 🐢 Trotuman 🐢|Terapagos-Stellar, L50, M, tera:Stellar
+|-heal|p2a: 🐢 Trotuman 🐢|81/100|[silent]
+|-ability|p2a: 🐢 Trotuman 🐢|Teraform Zero
+|-weather|none
+|move|p2b: 🐸 Isabella 🐸|Follow Me|p2b: 🐸 Isabella 🐸
+|-singleturn|p2b: 🐸 Isabella 🐸|move: Follow Me
+|move|p1b: hola!|Collision Course|p2b: 🐸 Isabella 🐸
+|-damage|p2b: 🐸 Isabella 🐸|42/100
+|move|p1a: Farmeadora de Aura|Ivy Cudgel|p2b: 🐸 Isabella 🐸|[anim] Ivy Cudgel Fire
+|-damage|p2b: 🐸 Isabella 🐸|0 fnt
+|faint|p2b: 🐸 Isabella 🐸
+|move|p2a: 🐢 Trotuman 🐢|Tera Starstorm|p1b: hola!|[spread] p1a,p1b
+|-supereffective|p1a: Farmeadora de Aura
+|-damage|p1a: Farmeadora de Aura|0 fnt
+|-damage|p1b: hola!|0 fnt
+|faint|p1a: Farmeadora de Aura
+|faint|p1b: hola!
+|
+|upkeep
+|
+|t:|1740510025
+|switch|p1b: Juanito|Gholdengo, L50|100/100
+|switch|p1a: FrankyCasaHouse|Hariyama, L50, M, shiny|100/100
+|turn|5
+|
+|t:|1740510042
+|move|p1a: FrankyCasaHouse|Fake Out|p2a: 🐢 Trotuman 🐢
+|-damage|p2a: 🐢 Trotuman 🐢|70/100
+|move|p1b: Juanito|Make It Rain|p2a: 🐢 Trotuman 🐢
+|-damage|p2a: 🐢 Trotuman 🐢|41/100
+|-unboost|p1b: Juanito|spa|1
+|move|p2a: 🐢 Trotuman 🐢|Tera Starstorm|p1b: Juanito|[spread] p1a,p1b
+|-damage|p1a: FrankyCasaHouse|54/100
+|-damage|p1b: Juanito|44/100
+|
+|upkeep
+|turn|6
+|
+|t:|1740510067
+|move|p1b: Juanito|Make It Rain|p2a: 🐢 Trotuman 🐢
+|-damage|p2a: 🐢 Trotuman 🐢|20/100
+|-unboost|p1b: Juanito|spa|1
+|move|p2a: 🐢 Trotuman 🐢|Earth Power|p1a: FrankyCasaHouse
+|-damage|p1a: FrankyCasaHouse|13/100
+|move|p1a: FrankyCasaHouse|Drain Punch|p2a: 🐢 Trotuman 🐢
+|-supereffective|p2a: 🐢 Trotuman 🐢
+|-crit|p2a: 🐢 Trotuman 🐢
+|-damage|p2a: 🐢 Trotuman 🐢|0 fnt
+|-heal|p1a: FrankyCasaHouse|22/100|[from] drain|[of] p2a: 🐢 Trotuman 🐢
+|faint|p2a: 🐢 Trotuman 🐢
+|
+|win|Narenet
+||guillehue is ready for game 2.
+|c|☆Narenet|gg
+|inactive|Narenet has 30 seconds to confirm battle start!
+||Narenet is ready for game 2.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307756884"><strong>Game 2 of 3</strong></a>
+|l| Stereodye

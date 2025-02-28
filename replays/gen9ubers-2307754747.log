@@ -1,0 +1,331 @@
+|j|☆Spals
+|j|☆1platanazo♚
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1740509881
+|gametype|singles
+|player|p1|Spals|fisherman-gen4|
+|player|p2|1platanazo♚|liko|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Ubers
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Kyogre|
+|poke|p1|Ribombee, F|
+|poke|p1|Arceus-Ground|
+|poke|p1|Koraidon|
+|poke|p1|Eternatus|
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p2|Cloyster, M|
+|poke|p2|Cyclizar, F|
+|poke|p2|Arceus-Fairy|
+|poke|p2|Ho-Oh|
+|poke|p2|Koraidon|
+|poke|p2|Zacian-*|
+|teampreview
+|j|*Lady Monita ❄
+|j| BB-8-NU
+|inactive|Spals also wants the timer to be on.
+|j| PotatoGuy991
+|inactive|Spals has 120 seconds left.
+|inactive|1platanazo♚ has 120 seconds left.
+|c|☆Spals|glhf
+|
+|t:|1740509916
+|start
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|switch|p2a: Cyclizar|Cyclizar, F|100/100
+|turn|1
+|
+|t:|1740509930
+|move|p2a: Cyclizar|Shed Tail|p2a: Cyclizar
+|-start|p2a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p2a: Cyclizar|50/100
+|c|☆1platanazo♚|U2
+|
+|t:|1740509936
+|switch|p2a: Cloyster|Cloyster, M|100/100|[from] Shed Tail
+|move|p1a: Ribombee|Moonblast|p2a: Cloyster
+|-end|p2a: Cloyster|Substitute
+|
+|upkeep
+|turn|2
+|c|☆Spals|is this your normal team?
+|c|☆Spals|you have a lot of elo
+|
+|t:|1740509957
+|move|p1a: Ribombee|Moonblast|p2a: Cloyster
+|-enditem|p2a: Cloyster|Focus Sash
+|-damage|p2a: Cloyster|1/100
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|upkeep
+|turn|3
+|inactive|Spals has 120 seconds left.
+|inactive|1platanazo♚ has 120 seconds left.
+|
+|t:|1740509989
+|switch|p1a: Eternatus|Eternatus|100/100
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Cloyster|Icicle Spear|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|61/100
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|22/100
+|-supereffective|p1a: Eternatus
+|-crit|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|-hitcount|p1: Eternatus|3
+|
+|upkeep
+|
+|t:|1740510007
+|switch|p1a: Kyogre|Kyogre|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|4
+|
+|t:|1740510016
+|move|p2a: Cloyster|Rock Blast|p1a: Kyogre
+|-damage|p1a: Kyogre|83/100
+|-damage|p1a: Kyogre|65/100
+|-crit|p1a: Kyogre
+|-damage|p1a: Kyogre|41/100
+|-damage|p1a: Kyogre|22/100
+|-damage|p1a: Kyogre|6/100
+|-hitcount|p1a: Kyogre|5
+|move|p1a: Kyogre|Ice Beam|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510027
+|switch|p2a: Cyclizar|Cyclizar, F|83/100
+|turn|5
+|inactive|Spals has 120 seconds left.
+|
+|t:|1740510039
+|move|p2a: Cyclizar|U-turn|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|j| SValore
+|j| cholitoo
+|l| cholitoo
+|
+|t:|1740510058
+|switch|p2a: Arceus|Arceus-Fairy|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510062
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|turn|6
+|inactive|1platanazo♚ has 120 seconds left.
+|
+|t:|1740510087
+|move|p1a: Ribombee|Stun Spore|p2a: Arceus|[miss]
+|-miss|p1a: Ribombee|p2a: Arceus
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1740510091
+|move|p1a: Ribombee|Stun Spore|p2a: Arceus
+|-status|p2a: Arceus|par
+|move|p2a: Arceus|Iron Defense|p2a: Arceus
+|-boost|p2a: Arceus|def|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1740510096
+|move|p1a: Ribombee|Sticky Web|p2a: Arceus
+|-sidestart|p2: 1platanazo♚|move: Sticky Web
+|move|p2a: Arceus|Iron Defense|p2a: Arceus
+|-boost|p2a: Arceus|def|2
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1740510102
+|move|p1a: Ribombee|Moonblast|p2a: Arceus
+|-damage|p2a: Arceus|83/100 par
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|10
+|inactive|1platanazo♚ has 120 seconds left.
+|l| PotatoGuy991
+|
+|t:|1740510144
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane|100/100
+|cant|p2a: Arceus|par
+|
+|upkeep
+|turn|11
+|
+|t:|1740510152
+|move|p1a: Necrozma|Photon Geyser|p2a: Arceus
+|-damage|p2a: Arceus|69/100 par
+|-damage|p1a: Necrozma|91/100|[from] item: Life Orb
+|move|p2a: Arceus|Iron Defense|p2a: Arceus
+|-boost|p2a: Arceus|def|2
+|
+|upkeep
+|turn|12
+|inactive|1platanazo♚ has 120 seconds left.
+|
+|t:|1740510166
+|move|p1a: Necrozma|Photon Geyser|p2a: Arceus
+|-damage|p2a: Arceus|59/100 par
+|-damage|p1a: Necrozma|81/100|[from] item: Life Orb
+|move|p2a: Arceus|Judgment|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|32/100
+|
+|upkeep
+|turn|13
+|
+|t:|1740510171
+|move|p1a: Necrozma|Photon Geyser|p2a: Arceus
+|-damage|p2a: Arceus|49/100 par
+|-damage|p1a: Necrozma|22/100|[from] item: Life Orb
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|99/100 par
+|
+|upkeep
+|turn|14
+|
+|t:|1740510175
+|move|p1a: Necrozma|Photon Geyser|p2a: Arceus
+|-damage|p2a: Arceus|87/100 par
+|-damage|p1a: Necrozma|12/100|[from] item: Life Orb
+|move|p2a: Arceus|Judgment|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|upkeep
+|
+|t:|1740510180
+|switch|p1a: Arceus|Arceus-Ground|100/100
+|turn|15
+|
+|t:|1740510204
+|move|p1a: Arceus|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|79/100 par
+|move|p2a: Arceus|Judgment|p1a: Arceus
+|-damage|p1a: Arceus|42/100
+|
+|upkeep
+|turn|16
+|
+|t:|1740510207
+|move|p1a: Arceus|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|70/100 par
+|move|p2a: Arceus|Judgment|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|
+|t:|1740510210
+|switch|p1a: Koraidon|Koraidon|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|17
+|
+|t:|1740510220
+|-terastallize|p1a: Koraidon|Fire
+|move|p1a: Koraidon|Flare Blitz|p2a: Arceus
+|-damage|p2a: Arceus|53/100 par
+|-damage|p1a: Koraidon|93/100|[from] Recoil
+|move|p2a: Arceus|Judgment|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|42/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1740510225
+|move|p1a: Koraidon|Flare Blitz|p2a: Arceus
+|-damage|p2a: Arceus|35/100 par
+|-damage|p1a: Koraidon|34/100|[from] Recoil
+|move|p2a: Arceus|Judgment|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510228
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|turn|19
+|
+|t:|1740510237
+|move|p1a: Ribombee|Moonblast|p2a: Arceus
+|-damage|p2a: Arceus|22/100 par
+|-unboost|p2a: Arceus|spa|1
+|move|p2a: Arceus|Judgment|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|c|☆Spals|gg
+|
+|t:|1740510246
+|move|p1a: Ribombee|Moonblast|p2a: Arceus
+|-damage|p2a: Arceus|9/100 par
+|-unboost|p2a: Arceus|spa|1
+|cant|p2a: Arceus|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|c|☆1platanazo♚|gg
+|
+|t:|1740510258
+|move|p1a: Ribombee|Moonblast|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|-weather|none
+|upkeep
+|-message|Spals forfeited.
+|
+|win|1platanazo♚
+|n|☆Spals|spals
+|n|☆1platanazo♚|1platanazo
+|n|*Lady Monita ❄|ladymonita
+|n| BB-8-NU|bb8nu
+|n| SValore|svalore
+|l|*Lady Monita ❄

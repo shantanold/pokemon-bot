@@ -1,0 +1,349 @@
+|j|☆nxfvn
+|j|☆Turbout
+|t:|1740510117
+|gametype|singles
+|player|p1|nxfvn|102|
+|player|p2|Turbout|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Unrated Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740510117
+|start
+|switch|p1a: Moltres|Moltres-Galar, L79|271/271
+|switch|p2a: Polteageist|Polteageist, L79|224/224
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Turbout)
+|
+|t:|1740510125
+|switch|p2a: Granbull|Granbull, L88, F|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1740510143
+|switch|p1a: Granbull|Granbull, L88, F|302/302
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Granbull|atk|1
+|move|p2a: Granbull|Encore||[still]
+|-fail|p2a: Granbull
+|
+|upkeep
+|turn|3
+|
+|t:|1740510150
+|move|p1a: Granbull|Earthquake|p2a: Granbull
+|-damage|p2a: Granbull|194/302
+|move|p2a: Granbull|Thunder Wave|p1a: Granbull
+|-status|p1a: Granbull|par
+|
+|-heal|p2a: Granbull|212/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740510160
+|move|p2a: Granbull|Play Rough|p1a: Granbull
+|-damage|p1a: Granbull|208/302 par
+|move|p1a: Granbull|Earthquake|p2a: Granbull
+|-damage|p2a: Granbull|114/302
+|
+|-heal|p2a: Granbull|132/302|[from] item: Leftovers
+|-heal|p1a: Granbull|226/302 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740510166
+|move|p2a: Granbull|Play Rough|p1a: Granbull
+|-damage|p1a: Granbull|132/302 par
+|-unboost|p1a: Granbull|atk|1
+|move|p1a: Granbull|Earthquake|p2a: Granbull
+|-damage|p2a: Granbull|71/302
+|
+|-heal|p2a: Granbull|89/302|[from] item: Leftovers
+|-heal|p1a: Granbull|150/302 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740510173
+|move|p2a: Granbull|Play Rough|p1a: Granbull
+|-damage|p1a: Granbull|62/302 par
+|move|p1a: Granbull|Thunder Wave|p2a: Granbull
+|-status|p2a: Granbull|par
+|
+|-heal|p2a: Granbull|107/302 par|[from] item: Leftovers
+|-heal|p1a: Granbull|80/302 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740510179
+|move|p2a: Granbull|Earthquake|p1a: Granbull
+|-damage|p1a: Granbull|18/302 par
+|cant|p1a: Granbull|par
+|
+|-heal|p2a: Granbull|125/302 par|[from] item: Leftovers
+|-heal|p1a: Granbull|36/302 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740510185
+|cant|p2a: Granbull|par
+|move|p1a: Granbull|Earthquake|p2a: Granbull
+|-damage|p2a: Granbull|64/302 par
+|
+|-heal|p2a: Granbull|82/302 par|[from] item: Leftovers
+|-heal|p1a: Granbull|54/302 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740510191
+|move|p2a: Granbull|Earthquake|p1a: Granbull
+|-damage|p1a: Granbull|0 fnt
+|faint|p1a: Granbull
+|
+|-heal|p2a: Granbull|100/302 par|[from] item: Leftovers
+|upkeep
+|c|☆nxfvn|how are you doing today?
+|
+|t:|1740510208
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|turn|10
+|
+|t:|1740510216
+|move|p1a: Amoonguss|Toxic||[still]
+|-fail|p1a: Amoonguss
+|move|p2a: Granbull|Thunder Wave|p1a: Amoonguss
+|-status|p1a: Amoonguss|par
+|
+|-heal|p2a: Granbull|118/302 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740510225
+|move|p2a: Granbull|Encore|p1a: Amoonguss
+|-start|p1a: Amoonguss|Encore
+|move|p1a: Amoonguss|Toxic||[still]
+|-fail|p1a: Amoonguss
+|
+|-heal|p2a: Granbull|136/302 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1740510230
+|switch|p1a: Electivire|Electivire, L84, F|263/263
+|move|p2a: Granbull|Earthquake|p1a: Electivire
+|-supereffective|p1a: Electivire
+|-damage|p1a: Electivire|119/263
+|
+|-heal|p2a: Granbull|154/302 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1740510239
+|move|p1a: Electivire|Supercell Slam|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|-damage|p1a: Electivire|93/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510250
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|turn|14
+|
+|t:|1740510257
+|-terastallize|p1a: Electivire|Flying
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|187/249
+|move|p1a: Electivire|Earthquake|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|-damage|p1a: Electivire|67/263|[from] item: Life Orb
+|
+|-heal|p2a: Salazzle|202/249|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1740510267
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Electivire|Earthquake|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|217/249|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1740510272
+|move|p2a: Salazzle|Flamethrower|p1a: Electivire
+|-damage|p1a: Electivire|0 fnt
+|faint|p1a: Electivire
+|
+|-heal|p2a: Salazzle|232/249|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510282
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|turn|17
+|c|☆nxfvn|gg u win
+|
+|t:|1740510289
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Wugtrio|Stomping Tantrum|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|247/249|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1740510298
+|switch|p2a: Hypno|Hypno, L95, M|315/315
+|move|p1a: Wugtrio|Stomping Tantrum|p2a: Hypno
+|-damage|p2a: Hypno|211/315
+|
+|-heal|p2a: Hypno|230/315|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1740510308
+|switch|p1a: Moltres|Moltres-Galar, L79|271/271
+|move|p2a: Hypno|Toxic|p1a: Moltres
+|-status|p1a: Moltres|tox
+|
+|-heal|p2a: Hypno|249/315|[from] item: Leftovers
+|-damage|p1a: Moltres|255/271 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1740510318
+|switch|p2a: Lapras|Lapras, L87, M|367/367
+|move|p1a: Moltres|Fiery Wrath|p2a: Lapras
+|-damage|p2a: Lapras|289/367
+|
+|-damage|p1a: Moltres|223/271 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1740510326
+|move|p1a: Moltres|Hurricane|p2a: Lapras
+|-damage|p2a: Lapras|186/367
+|-start|p2a: Lapras|confusion
+|-activate|p2a: Lapras|confusion
+|move|p2a: Lapras|Freeze-Dry|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|41/271 tox
+|-enditem|p1a: Moltres|Weakness Policy
+|-boost|p1a: Moltres|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Moltres|spa|2|[from] item: Weakness Policy
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|
+|-damage|p1a: Moltres|0 fnt|[from] psn
+|faint|p1a: Moltres
+|upkeep
+|
+|t:|1740510331
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|22
+|
+|t:|1740510338
+|move|p1a: Rillaboom|Grassy Glide|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|faint|p2a: Lapras
+|
+|upkeep
+|
+|t:|1740510348
+|switch|p2a: Hypno|Hypno, L95, M|249/315
+|turn|23
+|
+|t:|1740510359
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321 par
+|move|p2a: Hypno|Toxic||[still]
+|-fail|p2a: Hypno
+|
+|-heal|p2a: Hypno|268/315|[from] Grassy Terrain
+|-heal|p2a: Hypno|287/315|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1740510369
+|move|p2a: Hypno|Psychic Noise|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|121/321 par
+|-start|p1a: Amoonguss|move: Heal Block
+|cant|p1a: Amoonguss|par
+|
+|-heal|p2a: Hypno|306/315|[from] Grassy Terrain
+|-heal|p2a: Hypno|315/315|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1740510382
+|move|p2a: Hypno|Psychic Noise|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1740510384
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|turn|26
+|l|☆Turbout
+|inactive|Turbout disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Turbout
+|inactive|Turbout reconnected and has 140 seconds left.
+|player|p2|Turbout|169|
+|
+|t:|1740510400
+|move|p2a: Hypno|Protect|p2a: Hypno
+|-singleturn|p2a: Hypno|Protect
+|move|p1a: Rillaboom|Knock Off|p2a: Hypno
+|-activate|p2a: Hypno|move: Protect
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1740510413
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|-terastallize|p2a: Hypno|Dark
+|move|p2a: Hypno|Toxic|p1a: Wugtrio
+|-status|p1a: Wugtrio|tox
+|
+|-damage|p1a: Wugtrio|199/212 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1740510421
+|move|p2a: Hypno|Protect|p2a: Hypno
+|-singleturn|p2a: Hypno|Protect
+|move|p1a: Wugtrio|Throat Chop|p2a: Hypno
+|-activate|p2a: Hypno|move: Protect
+|
+|-damage|p1a: Wugtrio|173/212 tox|[from] psn
+|upkeep
+|turn|29
+|-message|nxfvn forfeited.
+|
+|win|Turbout
+|l|☆nxfvn
+|player|p1|
+|l|☆Turbout
+|player|p2|
+|j|☆Turbout
+|player|p2|Turbout|169|

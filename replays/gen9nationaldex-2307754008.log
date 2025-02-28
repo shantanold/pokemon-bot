@@ -1,0 +1,344 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆pandaa44
+|j|☆Neko_Rangel
+|t:|1740509812
+|gametype|singles
+|player|p1|pandaa44|170|
+|player|p2|Neko_Rangel|266|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Gallade, M|
+|poke|p1|Clodsire, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Moltres|
+|poke|p2|Venusaur, M|
+|poke|p2|Torkoal, F|
+|poke|p2|Serperior, M|
+|poke|p2|Heatran, F|
+|poke|p2|Kartana|
+|poke|p2|Wo-Chien|
+|teampreview
+|
+|t:|1740509842
+|start
+|switch|p1a: Clodsire|Clodsire, M|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1740509855
+|move|p2a: Kartana|Psycho Cut|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|27/100
+|move|p1a: Clodsire|Stealth Rock|p2a: Kartana
+|-sidestart|p2: Neko_Rangel|move: Stealth Rock
+|
+|-heal|p1a: Clodsire|33/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1740509864
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Kartana|Psycho Cut|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|90/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740509875
+|move|p2a: Kartana|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|61/100
+|-damage|p2a: Kartana|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Corviknight|Body Press|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|24/100
+|
+|upkeep
+|turn|4
+|
+|t:|1740509885
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-damage|p2a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Corviknight|U-turn|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|71/100
+|
+|t:|1740509892
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1740509905
+|switch|p2a: Wo-Chien|Wo-Chien|100/100
+|-damage|p2a: Wo-Chien|88/100|[from] Stealth Rock
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|move|p1a: Samurott|Sacred Sword|p2a: Wo-Chien
+|-supereffective|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|44/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Wo-Chien|50/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509919
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Wo-Chien|Giga Drain|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|96/100
+|-heal|p2a: Wo-Chien|52/100|[from] drain|[of] p1a: Moltres
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Wo-Chien|59/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740509929
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Moltres|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|85/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|t:|1740509942
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1740509949
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Samurott|Sacred Sword|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1740509961
+|move|p1a: Samurott|Sacred Sword|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|11/100
+|move|p2a: Heatran|Stealth Rock|p1a: Samurott
+|-sidestart|p1: pandaa44|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1740509971
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|switch|p2a: Serperior|Serperior, M|100/100
+|-damage|p2a: Serperior|88/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Serperior|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740509987
+|move|p2a: Serperior|Leaf Storm|p1a: Tapu Lele|[miss]
+|-miss|p2a: Serperior|p1a: Tapu Lele
+|-zpower|p1a: Tapu Lele
+|move|p1a: Tapu Lele|Shattered Psyche|p2a: Serperior|[zeffect]
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|-weather|none
+|upkeep
+|
+|t:|1740509996
+|switch|p2a: Wo-Chien|Wo-Chien|59/100
+|-damage|p2a: Wo-Chien|46/100|[from] Stealth Rock
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|turn|12
+|
+|t:|1740510004
+|move|p1a: Tapu Lele|Moonblast|p2a: Wo-Chien
+|-supereffective|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|0 fnt
+|faint|p2a: Wo-Chien
+|
+|upkeep
+|
+|t:|1740510015
+|switch|p2a: Kartana|Kartana|24/100
+|-damage|p2a: Kartana|17/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1740510024
+|switch|p1a: Clodsire|Clodsire, M|33/100
+|-damage|p1a: Clodsire|27/100|[from] Stealth Rock
+|move|p2a: Kartana|Leaf Blade|p1a: Clodsire
+|-damage|p1a: Clodsire|0 fnt
+|faint|p1a: Clodsire
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1740510029
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|-damage|p1a: Samurott|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1740510038
+|move|p1a: Samurott|Sacred Sword|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1740510045
+|switch|p2a: Torkoal|Torkoal, F|71/100
+|-damage|p2a: Torkoal|47/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|15
+|
+|t:|1740510055
+|switch|p1a: Moltres|Moltres|96/100
+|move|p2a: Torkoal|Rapid Spin|p1a: Moltres
+|-damage|p1a: Moltres|87/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: Neko_Rangel|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1740510067
+|move|p1a: Moltres|U-turn|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|42/100
+|
+|t:|1740510071
+|switch|p1a: Samurott|Samurott-Hisui, M|88/100|[from] U-turn
+|-damage|p1a: Samurott|76/100|[from] Stealth Rock
+|move|p2a: Torkoal|Body Press|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510087
+|switch|p1a: Gallade|Gallade, M|100/100
+|-damage|p1a: Gallade|94/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1740510095
+|detailschange|p1a: Gallade|Gallade-Mega, M
+|-mega|p1a: Gallade|Gallade|Galladite
+|move|p1a: Gallade|Stone Edge|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510102
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|turn|18
+|
+|t:|1740510130
+|switch|p1a: Moltres|Moltres|87/100
+|move|p2a: Venusaur|Weather Ball|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|65/100
+|-damage|p2a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1740510139
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|100/100
+|-singleturn|p1a: Moltres|move: Roost
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1740510148
+|move|p2a: Venusaur|Earth Power|p1a: Moltres
+|-immune|p1a: Moltres
+|move|p1a: Moltres|Flamethrower|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510171
+|switch|p2a: Heatran|Heatran, F|11/100
+|turn|21
+|
+|t:|1740510218
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Moltres|U-turn|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1740510231
+|move|p2a: Heatran|Protect||[still]
+|-fail|p2a: Heatran
+|move|p1a: Moltres|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|7/100
+|
+|t:|1740510236
+|switch|p1a: Gallade|Gallade-Mega, M|94/100|[from] U-turn
+|-damage|p1a: Gallade|88/100|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|23
+|
+|t:|1740510243
+|move|p1a: Gallade|Close Combat|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-unboost|p1a: Gallade|def|1
+|-unboost|p1a: Gallade|spd|1
+|faint|p2a: Heatran
+|
+|win|pandaa44

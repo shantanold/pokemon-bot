@@ -1,0 +1,192 @@
+|j|☆SupaJello
+|j|☆NegaiFreak
+|t:|1740509546
+|gametype|doubles
+|player|p1|SupaJello|hilbert|
+|player|p2|NegaiFreak|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Incineroar, L50, M|
+|poke|p1|Eternatus, L50|
+|poke|p1|Amoonguss, L50, F|
+|poke|p1|Electrode-Hisui, L50|
+|poke|p1|Skeledirge, L50, M|
+|poke|p1|Urshifu-*, L50, F|
+|poke|p2|Koraidon, L50|
+|poke|p2|Ogerpon-Hearthflame, L50, F|
+|poke|p2|Raging Bolt, L50|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Iron Crown, L50|
+|poke|p2|Flutter Mane, L50|
+|teampreview|4
+|showteam|p1|Incineroar||SafetyGoggles|Intimidate|FakeOut,KnockOff,PartingShot,WillOWisp|||M|||50|,,,,,Fire]Eternatus||PowerHerb|Pressure|Flamethrower,MeteorBeam,DynamaxCannon,Protect||||||50|,,,,,Fairy]Amoonguss||SitrusBerry|Regenerator|Spore,RagePowder,SludgeBomb,Protect|||F|||50|,,,,,Water]Electrode-Hisui||LifeOrb|Static|VoltSwitch,TeraBlast,EnergyBall,Thunderbolt||||||50|,,,,,Ice]Skeledirge||Leftovers|Unaware|TorchSong,WillOWisp,Hex,SlackOff|||M|||50|,,,,,Water]Urshifu||ChoiceBand|UnseenFist|WickedBlow,SuckerPunch,CloseCombat,Uturn|||F|||50|,,,,,Dark
+|showteam|p2|Koraidon||ClearAmulet|OrichalcumPulse|CollisionCourse,FlareBlitz,FlameCharge,Protect||||||50|,,,,,Fire]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,HornLeech,StompingTantrum,SpikyShield|||F|||50|,,,,,Fire]Raging Bolt||LifeOrb|Protosynthesis|DragonPulse,Thunderbolt,Thunderclap,Protect||||||50|,,,,,Electric]Indeedee-F||RockyHelmet|PsychicSurge|FollowMe,HelpingHand,AlluringVoice,TrickRoom|||F|||50|,,,,,Fairy]Iron Crown||BoosterEnergy|QuarkDrive|ExpandingForce,TachyonCutter,TeraBlast,Protect||||||50|,,,,,Ground]Flutter Mane||FocusSash|Protosynthesis|ShadowBall,Moonblast,Protect,IcyWind||||||50|,,,,,Normal
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SupaJello)
+|c|☆NegaiFreak|GLHF
+|c|☆SupaJello|u2
+|inactive|SupaJello has 60 seconds left.
+|inactive|NegaiFreak has 60 seconds left.
+|
+|t:|1740509601
+|start
+|switch|p1a: Skeledirge|Skeledirge, L50, M|100/100
+|switch|p1b: Eternatus|Eternatus, L50|100/100
+|switch|p2a: Ogerpon|Ogerpon-Hearthflame, L50, F|100/100
+|switch|p2b: Raging Bolt|Raging Bolt, L50|100/100
+|-ability|p1b: Eternatus|Pressure
+|-ability|p2a: Ogerpon|Mold Breaker
+|turn|1
+|
+|t:|1740509623
+|-terastallize|p1b: Eternatus|Fairy
+|move|p2a: Ogerpon|Spiky Shield|p2a: Ogerpon
+|-singleturn|p2a: Ogerpon|move: Protect
+|move|p1b: Eternatus|Meteor Beam||[still]
+|-prepare|p1b: Eternatus|Meteor Beam
+|-boost|p1b: Eternatus|spa|1
+|-enditem|p1b: Eternatus|Power Herb
+|-anim|p1b: Eternatus|Meteor Beam|p2a: Ogerpon
+|-activate|p2a: Ogerpon|move: Protect
+|move|p2b: Raging Bolt|Dragon Pulse|p1b: Eternatus
+|-immune|p1b: Eternatus
+|move|p1a: Skeledirge|Torch Song|p2b: Raging Bolt
+|-resisted|p2b: Raging Bolt
+|-damage|p2b: Raging Bolt|89/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|upkeep
+|turn|2
+|inactive|NegaiFreak has 30 seconds left.
+|
+|t:|1740509656
+|-terastallize|p2b: Raging Bolt|Electric
+|move|p2b: Raging Bolt|Thunderclap|p1b: Eternatus
+|-damage|p1b: Eternatus|35/100
+|-damage|p2b: Raging Bolt|79/100|[from] item: Life Orb
+|move|p1b: Eternatus|Dynamax Cannon|p2b: Raging Bolt
+|-damage|p2b: Raging Bolt|7/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1b: Eternatus|[anim] Ivy Cudgel Fire
+|-damage|p1b: Eternatus|0 fnt
+|faint|p1b: Eternatus
+|move|p1a: Skeledirge|Torch Song|p2a: Ogerpon
+|-damage|p2a: Ogerpon|43/100
+|-boost|p1a: Skeledirge|spa|1
+|
+|upkeep
+|
+|t:|1740509665
+|switch|p1b: Amoonguss|Amoonguss, L50, F|100/100
+|turn|3
+|
+|t:|1740509679
+|move|p1b: Amoonguss|Rage Powder|p1b: Amoonguss
+|-singleturn|p1b: Amoonguss|move: Rage Powder
+|move|p2a: Ogerpon|Ivy Cudgel|p1b: Amoonguss|[anim] Ivy Cudgel Fire
+|-supereffective|p1b: Amoonguss
+|-damage|p1b: Amoonguss|29/100
+|-enditem|p1b: Amoonguss|Sitrus Berry|[eat]
+|-heal|p1b: Amoonguss|54/100|[from] item: Sitrus Berry
+|move|p2b: Raging Bolt|Dragon Pulse|p1b: Amoonguss
+|-damage|p1b: Amoonguss|0 fnt
+|faint|p1b: Amoonguss
+|-damage|p2b: Raging Bolt|0 fnt|[from] item: Life Orb
+|faint|p2b: Raging Bolt
+|-end|p2b: Raging Bolt|Protosynthesis|[silent]
+|move|p1a: Skeledirge|Torch Song|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-boost|p1a: Skeledirge|spa|1
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1740509700
+|switch|p2a: Koraidon|Koraidon, L50|100/100
+|switch|p2b: Iron Crown|Iron Crown, L50|100/100
+|switch|p1b: Urshifu|Urshifu, L50, F|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|-enditem|p2b: Iron Crown|Booster Energy
+|-activate|p2b: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2b: Iron Crown|quarkdrivespa
+|turn|4
+|c|☆NegaiFreak|GG, WP
+|inactive|NegaiFreak has 30 seconds left.
+|c|☆NegaiFreak|I have nothing to get through Dirge now
+|inactive|NegaiFreak has 20 seconds left.
+|
+|t:|1740509739
+|move|p2b: Iron Crown|Protect|p2b: Iron Crown
+|-singleturn|p2b: Iron Crown|Protect
+|move|p2a: Koraidon|Collision Course|p1b: Urshifu
+|-supereffective|p1b: Urshifu
+|-crit|p1b: Urshifu
+|-damage|p1b: Urshifu|0 fnt
+|faint|p1b: Urshifu
+|move|p1a: Skeledirge|Will-O-Wisp|p2a: Koraidon
+|-status|p2a: Koraidon|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Koraidon|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1740509758
+|move|p2a: Koraidon|Flare Blitz|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|87/100
+|-damage|p2a: Koraidon|89/100 brn|[from] Recoil
+|move|p2b: Iron Crown|Expanding Force|p1a: Skeledirge
+|-damage|p1a: Skeledirge|44/100
+|move|p1a: Skeledirge|Torch Song|p2b: Iron Crown
+|-supereffective|p2b: Iron Crown
+|-damage|p2b: Iron Crown|0 fnt
+|-boost|p1a: Skeledirge|spa|1
+|faint|p2b: Iron Crown
+|-end|p2b: Iron Crown|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Skeledirge|50/100|[from] item: Leftovers
+|-damage|p2a: Koraidon|83/100 brn|[from] brn
+|upkeep
+|turn|6
+|c|☆SupaJello|gg
+|inactive|NegaiFreak has 30 seconds left.
+|inactive|NegaiFreak has 20 seconds left.
+|inactive|NegaiFreak has 15 seconds left.
+|c|☆NegaiFreak|It really feels like I’m just clicking buttons without thinking tbh
+|inactive|NegaiFreak has 10 seconds left.
+|
+|t:|1740509804
+|move|p2a: Koraidon|Flare Blitz|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|38/100
+|-damage|p2a: Koraidon|78/100 brn|[from] Recoil
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|88/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Skeledirge|94/100|[from] item: Leftovers
+|-damage|p2a: Koraidon|72/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1740509825
+|move|p2a: Koraidon|Flare Blitz|p1a: Skeledirge
+|-resisted|p1a: Skeledirge
+|-damage|p1a: Skeledirge|81/100
+|-damage|p2a: Koraidon|67/100 brn|[from] Recoil
+|move|p1a: Skeledirge|Hex|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|faint|p2a: Koraidon
+|
+|win|SupaJello
+|n|☆SupaJello|supajello
+|n|☆NegaiFreak|negaifreak
+|l|☆SupaJello
+|player|p1|

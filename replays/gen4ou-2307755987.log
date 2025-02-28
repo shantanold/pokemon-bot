@@ -1,0 +1,341 @@
+|j|☆Yahoo12
+|j|‽normalmiltank
+|t:|1740509995
+|gametype|singles
+|player|p1|Yahoo12|benga|1267
+|player|p2|normalmiltank|2|1305
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1740509995
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p1a: Zapdos|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yahoo12)
+|
+|t:|1740510006
+|move|p2a: Aerodactyl|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: Yahoo12|move: Stealth Rock
+|move|p1a: Zapdos|Thunderbolt|p2a: Aerodactyl
+|-supereffective|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|1/100
+|-enditem|p2a: Aerodactyl|Focus Sash
+|
+|upkeep
+|turn|2
+|
+|t:|1740510019
+|switch|p1a: Breloom|Breloom, F|100/100
+|-damage|p1a: Breloom|94/100|[from] Stealth Rock
+|move|p2a: Aerodactyl|Stone Edge|p1a: Breloom
+|-resisted|p1a: Breloom
+|-crit|p1a: Breloom
+|-damage|p1a: Breloom|34/100
+|
+|-status|p1a: Breloom|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1740510034
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Breloom|Mach Punch|p2a: Scizor
+|-damage|p2a: Scizor|78/100
+|
+|-heal|p1a: Breloom|46/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1740510041
+|switch|p1a: Zapdos|Zapdos|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Scizor|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|41/100
+|
+|t:|1740510044
+|switch|p2a: Aerodactyl|Aerodactyl, M|1/100|[from] U-turn
+|
+|-heal|p1a: Zapdos|47/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740510052
+|move|p2a: Aerodactyl|Stone Edge|p1a: Zapdos|[miss]
+|-miss|p2a: Aerodactyl|p1a: Zapdos
+|move|p1a: Zapdos|Thunderbolt|p2a: Aerodactyl
+|-supereffective|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|faint|p2a: Aerodactyl
+|
+|-heal|p1a: Zapdos|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510063
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|6
+|
+|t:|1740510072
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Tyranitar|Ice Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|45/100|[from] Sandstorm
+|-heal|p1a: Zapdos|51/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740510092
+|move|p1a: Zapdos|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|79/100
+|
+|t:|1740510095
+|switch|p1a: Suicune|Suicune, shiny|100/100|[from] U-turn
+|-damage|p1a: Suicune|88/100|[from] Stealth Rock
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Tyranitar|Ice Punch|p1a: Suicune
+|-resisted|p1a: Suicune
+|-crit|p1a: Suicune
+|-damage|p1a: Suicune|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Suicune|43/100|[from] Sandstorm
+|-heal|p1a: Suicune|49/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740510108
+|switch|p2a: Latias|Latias, F|100/100
+|move|p1a: Suicune|Hydro Pump|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|81/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latias|75/100|[from] Sandstorm
+|-damage|p1a: Suicune|43/100|[from] Sandstorm
+|-heal|p2a: Latias|81/100|[from] item: Leftovers
+|-heal|p1a: Suicune|49/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740510123
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latias|75/100|[from] Sandstorm
+|-heal|p2a: Latias|81/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510131
+|move|p2a: Latias|Surf|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-enditem|p1a: Tyranitar|Passho Berry|[eat]
+|-enditem|p1a: Tyranitar|Passho Berry|[weaken]
+|-damage|p1a: Tyranitar|65/100
+|move|p1a: Tyranitar|Crunch|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|16/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latias|10/100|[from] Sandstorm
+|-heal|p2a: Latias|16/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740510157
+|move|p2a: Latias|Surf|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|19/100
+|move|p1a: Tyranitar|Crunch|p2a: Latias
+|-supereffective|p2a: Latias
+|-crit|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1740510160
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|12
+|
+|t:|1740510184
+|switch|p1a: Gengar|Gengar, M|100/100
+|-damage|p1a: Gengar|88/100|[from] Stealth Rock
+|move|p2a: Gliscor|Earthquake|p1a: Gengar
+|-immune|p1a: Gengar|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gengar|82/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1740510194
+|switch|p2a: Scizor|Scizor, F|78/100
+|move|p1a: Gengar|Shadow Ball|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|45/100
+|-unboost|p2a: Scizor|spd|1
+|-damage|p1a: Gengar|72/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gengar|66/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1740510201
+|switch|p1a: Zapdos|Zapdos|51/100
+|-damage|p1a: Zapdos|26/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Scizor|Bullet Punch|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|7/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|0 fnt|[from] Sandstorm
+|faint|p1a: Zapdos
+|upkeep
+|
+|t:|1740510220
+|switch|p1a: Suicune|Suicune, shiny|49/100
+|-damage|p1a: Suicune|37/100|[from] Stealth Rock
+|-ability|p1a: Suicune|Pressure
+|turn|15
+|
+|t:|1740510228
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Suicune|Hydro Pump|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Suicune|31/100|[from] Sandstorm
+|-damage|p2a: Zapdos|44/100|[from] Sandstorm
+|-heal|p1a: Suicune|37/100|[from] item: Leftovers
+|-heal|p2a: Zapdos|50/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|Yahoo12 has 120 seconds left.
+|
+|t:|1740510264
+|switch|p1a: Tyranitar|Tyranitar, F|19/100
+|-damage|p1a: Tyranitar|7/100|[from] Stealth Rock
+|move|p2a: Zapdos|Thunderbolt|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|44/100|[from] Sandstorm
+|-heal|p2a: Zapdos|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510275
+|switch|p1a: Gengar|Gengar, M|66/100
+|-damage|p1a: Gengar|54/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1740510292
+|move|p1a: Gengar|Hidden Power|p2a: Zapdos
+|-damage|p2a: Zapdos|21/100
+|-damage|p1a: Gengar|44/100|[from] item: Life Orb
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|71/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gengar|38/100|[from] Sandstorm
+|-damage|p2a: Zapdos|64/100|[from] Sandstorm
+|-heal|p2a: Zapdos|71/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1740510305
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Gengar|Explosion|p2a: Gliscor
+|-damage|p2a: Gliscor|42/100
+|faint|p1a: Gengar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gliscor|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510316
+|switch|p1a: Suicune|Suicune, shiny|37/100
+|-damage|p1a: Suicune|24/100|[from] Stealth Rock
+|-ability|p1a: Suicune|Pressure
+|turn|19
+|
+|t:|1740510326
+|move|p1a: Suicune|Hydro Pump|p2a: Gliscor|[miss]
+|-miss|p1a: Suicune|p2a: Gliscor
+|move|p2a: Gliscor|Earthquake|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gliscor|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510331
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1740510342
+|switch|p2a: Tyranitar|Tyranitar, F|79/100
+|move|p1a: Heatran|Fire Blast|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|61/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|21
+|inactive|Yahoo12 has 90 seconds left.
+|
+|t:|1740510364
+|move|p1a: Heatran|Fire Blast|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|42/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|Yahoo12 has 90 seconds left.
+|-message|Yahoo12 forfeited.
+|
+|win|normalmiltank
+|raw|Yahoo12's rating: 1267 &rarr; <strong>1245</strong><br />(-22 for losing)
+|raw|normalmiltank's rating: 1305 &rarr; <strong>1323</strong><br />(+18 for winning)
+|l|☆Yahoo12
+|player|p1|
+|j|☆Yahoo12
+|player|p1|Yahoo12|benga|
+|l|‽normalmiltank
+|player|p2|

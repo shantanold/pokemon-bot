@@ -1,0 +1,220 @@
+|j|☆Shinobi_finest
+|j|☆AnythingTeam
+|t:|1740509771
+|gametype|singles
+|player|p1|Shinobi_finest|koga|1326
+|player|p2|AnythingTeam|shadowtriad|1327
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rotom-Wash|
+|poke|p1|Latios, M|
+|poke|p1|Gholdengo|
+|poke|p1|Ting-Lu|
+|poke|p1|Iron Valiant|
+|poke|p1|Roaring Moon|
+|poke|p2|Kyurem|
+|poke|p2|Hoopa-Unbound|
+|poke|p2|Enamorus, F|
+|poke|p2|Cobalion|
+|poke|p2|Ursaluna, M|
+|poke|p2|Cinderace, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Shinobi_finest)
+|
+|t:|1740509798
+|start
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|switch|p2a: HOOPAWHO|Hoopa-Unbound|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1740509806
+|move|p2a: HOOPAWHO|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|87/100
+|-enditem|p1a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p2a: HOOPAWHO
+|move|p1a: Ting-Lu|Stealth Rock|p2a: HOOPAWHO
+|-sidestart|p2: AnythingTeam|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1740509813
+|move|p2a: HOOPAWHO|Drain Punch|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|60/100
+|move|p1a: Ting-Lu|Ruination|p2a: HOOPAWHO
+|-damage|p2a: HOOPAWHO|50/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740509822
+|move|p2a: HOOPAWHO|Drain Punch|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|31/100
+|-heal|p2a: HOOPAWHO|71/100|[from] drain|[of] p1a: Ting-Lu
+|move|p1a: Ting-Lu|Whirlwind|p2a: HOOPAWHO
+|drag|p2a: Eh Mid|Cobalion, shiny|100/100
+|-damage|p2a: Eh Mid|97/100|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1740509837
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Eh Mid|Body Press|p1a: Rotom
+|-damage|p1a: Rotom|69/100
+|
+|-heal|p1a: Rotom|75/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509847
+|move|p2a: Eh Mid|Taunt|p1a: Rotom
+|-start|p1a: Rotom|move: Taunt
+|cant|p1a: Rotom|move: Taunt|Will-O-Wisp
+|
+|-heal|p1a: Rotom|81/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509855
+|move|p2a: Eh Mid|Body Press|p1a: Rotom
+|-damage|p1a: Rotom|45/100
+|move|p1a: Rotom|Volt Switch|p2a: Eh Mid
+|-damage|p2a: Eh Mid|62/100
+|
+|t:|1740509864
+|switch|p1a: Roaring Moon|Roaring Moon|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|7
+|inactive|AnythingTeam has 120 seconds left.
+|
+|t:|1740509921
+|-terastallize|p1a: Roaring Moon|Flying
+|move|p2a: Eh Mid|Body Press|p1a: Roaring Moon
+|-resisted|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|73/100
+|move|p1a: Roaring Moon|Dragon Dance|p1a: Roaring Moon
+|-boost|p1a: Roaring Moon|atk|1
+|-boost|p1a: Roaring Moon|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1740509933
+|move|p1a: Roaring Moon|Acrobatics|p2a: Eh Mid
+|-damage|p2a: Eh Mid|27/100
+|-damage|p1a: Roaring Moon|57/100|[from] item: Rocky Helmet|[of] p2a: Eh Mid
+|move|p2a: Eh Mid|Volt Switch|p1a: Roaring Moon
+|-supereffective|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|26/100
+|
+|t:|1740509939
+|switch|p2a: TESTING|Ursaluna, M, shiny|100/100|[from] Volt Switch
+|-damage|p2a: TESTING|94/100|[from] Stealth Rock
+|
+|-status|p2a: TESTING|brn|[from] item: Flame Orb
+|upkeep
+|turn|9
+|
+|t:|1740509953
+|move|p1a: Roaring Moon|Acrobatics|p2a: TESTING
+|-damage|p2a: TESTING|57/100 brn
+|move|p2a: TESTING|Fire Punch|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|0 fnt
+|faint|p1a: Roaring Moon
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|
+|-damage|p2a: TESTING|51/100 brn|[from] brn
+|upkeep
+|
+|t:|1740509964
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|10
+|
+|t:|1740509971
+|-terastallize|p2a: TESTING|Ghost
+|move|p1a: Iron Valiant|Close Combat|p2a: TESTING
+|-immune|p2a: TESTING
+|move|p2a: TESTING|Facade|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-damage|p2a: TESTING|45/100 brn|[from] brn
+|upkeep
+|
+|t:|1740509984
+|switch|p1a: Latios|Latios, M|100/100
+|turn|11
+|inactive|AnythingTeam has 120 seconds left.
+|inactive|AnythingTeam has 90 seconds left.
+|inactive|AnythingTeam has 60 seconds left.
+|inactive|AnythingTeam has 30 seconds left.
+|inactive|AnythingTeam has 20 seconds left.
+|
+|t:|1740510097
+|switch|p2a: HOOPAWHO|Hoopa-Unbound|71/100
+|-damage|p2a: HOOPAWHO|59/100|[from] Stealth Rock
+|move|p1a: Latios|Luster Purge|p2a: HOOPAWHO
+|-immune|p2a: HOOPAWHO
+|
+|upkeep
+|turn|12
+|inactive|AnythingTeam has 30 seconds left this turn.
+|
+|t:|1740510105
+|switch|p1a: Ting-Lu|Ting-Lu|31/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: HOOPAWHO|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|22/100
+|
+|upkeep
+|turn|13
+|
+|t:|1740510119
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: HOOPAWHO|Drain Punch|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|82/100
+|-heal|p2a: HOOPAWHO|66/100|[from] drain|[of] p1a: Latios
+|
+|upkeep
+|turn|14
+|
+|t:|1740510128
+|move|p1a: Latios|Draco Meteor|p2a: HOOPAWHO
+|-damage|p2a: HOOPAWHO|36/100
+|-unboost|p1a: Latios|spa|2
+|move|p2a: HOOPAWHO|Knock Off|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|-enditem|p1a: Latios|Choice Scarf|[from] move: Knock Off|[of] p2a: HOOPAWHO
+|faint|p1a: Latios
+|
+|upkeep
+|c|☆AnythingTeam|gg?
+|-message|Shinobi_finest forfeited.
+|
+|win|AnythingTeam
+|raw|Shinobi_finest's rating: 1326 &rarr; <strong>1306</strong><br />(-20 for losing)
+|raw|AnythingTeam's rating: 1327 &rarr; <strong>1347</strong><br />(+20 for winning)
+|l|☆Shinobi_finest
+|player|p1|
+|l|☆AnythingTeam
+|player|p2|

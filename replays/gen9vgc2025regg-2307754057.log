@@ -1,0 +1,162 @@
+|j|☆goluckypig
+|j|☆Pichapicha
+|t:|1740509816
+|gametype|doubles
+|player|p1|goluckypig|swimmer|1341
+|player|p2|Pichapicha|101|1377
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Torkoal, L50, M|
+|poke|p1|Groudon, L50|
+|poke|p1|Typhlosion-Hisui, L50, F|
+|poke|p1|Venusaur, L50, M|
+|poke|p1|Lilligant-Hisui, L50, F|
+|poke|p1|Gouging Fire, L50|
+|poke|p2|Miraidon, L50|
+|poke|p2|Iron Hands, L50|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Gardevoir, L50, F|
+|poke|p2|Dragapult, L50, F|
+|poke|p2|Scizor, L50, M|
+|teampreview|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pichapicha)
+|l|☆Pichapicha
+|inactive|Pichapicha disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|goluckypig has 60 seconds left.
+|inactive|Pichapicha has 30 seconds to reconnect!
+|j|☆Pichapicha
+|inactive|Pichapicha reconnected and has 40 seconds left.
+|player|p2|Pichapicha|101|
+|inactive|Pichapicha has 30 seconds left.
+|inactive|Pichapicha has 20 seconds left.
+|
+|t:|1740509890
+|start
+|switch|p1a: Groudon|Groudon, L50|100/100
+|switch|p1b: Typhlosion|Typhlosion-Hisui, L50, F|100/100
+|switch|p2a: Miraidon|Miraidon, L50|100/100
+|switch|p2b: Iron Hands|Iron Hands, L50|100/100
+|-item|p2a: Miraidon|Life Orb|[from] ability: Frisk|[of] p1b: Typhlosion
+|-item|p2b: Iron Hands|Assault Vest|[from] ability: Frisk|[of] p1b: Typhlosion
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|-activate|p2b: Iron Hands|ability: Quark Drive
+|-start|p2b: Iron Hands|quarkdriveatk
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|turn|1
+|
+|t:|1740509910
+|move|p1b: Typhlosion|Eruption|p2b: Iron Hands|[spread] p2a,p2b
+|-resisted|p2a: Miraidon
+|-crit|p2a: Miraidon
+|-damage|p2a: Miraidon|44/100
+|-damage|p2b: Iron Hands|53/100
+|move|p2a: Miraidon|Draco Meteor|p1a: Groudon
+|-damage|p1a: Groudon|3/100
+|-unboost|p2a: Miraidon|spa|2
+|-damage|p2a: Miraidon|35/100|[from] item: Life Orb
+|move|p1a: Groudon|Precipice Blades|p2a: Miraidon|[spread] p2a,p2b
+|-supereffective|p2a: Miraidon
+|-supereffective|p2b: Iron Hands
+|-damage|p2a: Miraidon|0 fnt
+|-damage|p2b: Iron Hands|0 fnt
+|faint|p2a: Miraidon
+|faint|p2b: Iron Hands
+|-end|p2b: Iron Hands|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740509922
+|switch|p2a: Gardevoir|Gardevoir, L50, F|100/100
+|switch|p2b: Dragapult|Dragapult, L50, F|100/100
+|turn|2
+|inactive|Pichapicha has 30 seconds left.
+|
+|t:|1740509955
+|switch|p1b: Gouging Fire|Gouging Fire, L50|100/100
+|-activate|p1b: Gouging Fire|ability: Protosynthesis
+|-start|p1b: Gouging Fire|protosynthesisspe
+|move|p2b: Dragapult|Protect|p2b: Dragapult
+|-singleturn|p2b: Dragapult|Protect
+|move|p1a: Groudon|Protect|p1a: Groudon
+|-singleturn|p1a: Groudon|Protect
+|move|p2a: Gardevoir|Dazzling Gleam|p1b: Gouging Fire|[spread] p1b
+|-activate|p1a: Groudon|move: Protect
+|-damage|p1b: Gouging Fire|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740509975
+|switch|p1a: Venusaur|Venusaur, L50, M|100/100
+|-terastallize|p2b: Dragapult|Dark
+|move|p1b: Gouging Fire|Burning Bulwark|p1b: Gouging Fire
+|-singleturn|p1b: Gouging Fire|move: Protect
+|move|p2b: Dragapult|Dragon Darts|p1a: Venusaur
+|-damage|p1a: Venusaur|65/100
+|-anim|p2b: Dragapult|Dragon Darts|p1a: Venusaur
+|-damage|p1a: Venusaur|34/100
+|move|p2a: Gardevoir|Dazzling Gleam|p1b: Gouging Fire|[spread] p1a
+|-activate|p1b: Gouging Fire|move: Protect
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|17/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|Pichapicha has 30 seconds left.
+|inactive|Pichapicha has 20 seconds left.
+|inactive|Pichapicha has 15 seconds left.
+|inactive|Pichapicha has 10 seconds left.
+|
+|t:|1740510021
+|move|p2b: Dragapult|Protect|p2b: Dragapult
+|-singleturn|p2b: Dragapult|Protect
+|move|p1a: Venusaur|Sludge Bomb|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-enditem|p2a: Gardevoir|Focus Sash
+|-damage|p2a: Gardevoir|1/100
+|-status|p2a: Gardevoir|psn
+|move|p1b: Gouging Fire|Heat Crash|p2b: Dragapult
+|-activate|p2b: Dragapult|move: Protect
+|move|p2a: Gardevoir|Dazzling Gleam|p1b: Gouging Fire|[spread] p1a,p1b
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-damage|p1b: Gouging Fire|37/100
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Gardevoir|0 fnt|[from] psn
+|faint|p2a: Gardevoir
+|upkeep
+|
+|t:|1740510029
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L50, F|100/100
+|-item|p2b: Dragapult|Power Herb|[from] ability: Frisk|[of] p1a: Typhlosion
+|turn|5
+|
+|t:|1740510046
+|-terastallize|p1a: Typhlosion|Fire
+|move|p2b: Dragapult|Sucker Punch|p1a: Typhlosion
+|-damage|p1a: Typhlosion|47/100
+|move|p1a: Typhlosion|Eruption|p2b: Dragapult
+|-damage|p2b: Dragapult|4/100
+|move|p1b: Gouging Fire|Heat Crash|p2b: Dragapult
+|-damage|p2b: Dragapult|0 fnt
+|faint|p2b: Dragapult
+|
+|win|goluckypig
+|raw|goluckypig's rating: 1341 &rarr; <strong>1363</strong><br />(+22 for winning)
+|raw|Pichapicha's rating: 1377 &rarr; <strong>1355</strong><br />(-22 for losing)
+|l|☆Pichapicha
+|player|p2|
+|l|☆goluckypig
+|player|p1|

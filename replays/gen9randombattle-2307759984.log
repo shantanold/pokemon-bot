@@ -1,0 +1,94 @@
+|j|☆Jad923
+|j|☆paranoiddandroid
+|t:|1740510361
+|gametype|singles
+|player|p1|Jad923|veteran|1604
+|player|p2|paranoiddandroid|102|1584
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740510361
+|start
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|switch|p2a: Floatzel|Floatzel, L85, F|283/283
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jad923)
+|
+|t:|1740510372
+|move|p2a: Floatzel|Taunt|p1a: Manaphy
+|-start|p1a: Manaphy|move: Taunt
+|move|p1a: Manaphy|Energy Ball|p2a: Floatzel
+|-supereffective|p2a: Floatzel
+|-damage|p2a: Floatzel|113/283
+|
+|-heal|p2a: Floatzel|130/283|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1740510384
+|switch|p2a: Zebstrika|Zebstrika, L87, F|272/272
+|move|p1a: Manaphy|Energy Ball|p2a: Zebstrika
+|-ability|p2a: Zebstrika|Sap Sipper|boost
+|-boost|p2a: Zebstrika|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1740510391
+|switch|p1a: Rotom|Rotom, L88|231/231
+|move|p2a: Zebstrika|Supercell Slam|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|102/231
+|-damage|p2a: Zebstrika|245/272|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1740510404
+|move|p2a: Zebstrika|Supercell Slam|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-damage|p2a: Zebstrika|218/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510407
+|switch|p1a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|5
+|
+|t:|1740510416
+|move|p2a: Zebstrika|High Horsepower|p1a: Cyclizar
+|-damage|p1a: Cyclizar|78/252
+|-damage|p2a: Zebstrika|191/272|[from] item: Life Orb
+|move|p1a: Cyclizar|Shed Tail|p1a: Cyclizar
+|-fail|p1a: Cyclizar|move: Shed Tail|[weak]
+|
+|upkeep
+|turn|6
+|
+|t:|1740510423
+|move|p2a: Zebstrika|High Horsepower|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|faint|p1a: Cyclizar
+|-damage|p2a: Zebstrika|164/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510433
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|turn|7
+|-message|Jad923 forfeited.
+|
+|win|paranoiddandroid
+|raw|Jad923's rating: 1604 &rarr; <strong>1583</strong><br />(-21 for losing)
+|raw|paranoiddandroid's rating: 1584 &rarr; <strong>1605</strong><br />(+21 for winning)
+|l|☆Jad923
+|player|p1|

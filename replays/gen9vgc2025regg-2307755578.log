@@ -1,0 +1,150 @@
+|j|☆Quittexxl
+|j|☆mk_1109
+|t:|1740509957
+|gametype|doubles
+|player|p1|Quittexxl|266|1203
+|player|p2|mk_1109|norman|1213
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Koraidon, L50|
+|poke|p1|Tropius, L50, M|
+|poke|p1|Walking Wake, L50|
+|poke|p1|Flutter Mane, L50|
+|poke|p1|Chi-Yu, L50|
+|poke|p1|Raging Bolt, L50|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Calyrex-Ice, L50|
+|poke|p2|Amoonguss, L50, F|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Flutter Mane, L50|
+|poke|p2|Torkoal, L50, M|
+|teampreview|4
+|
+|t:|1740509987
+|start
+|switch|p1a: Koraidon|Koraidon, L50|100/100
+|switch|p1b: Tropius|Tropius, L50, M|100/100
+|switch|p2a: Calyrex|Calyrex-Ice, L50|100/100
+|switch|p2b: Incineroar|Incineroar, L50, F, shiny|100/100
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|-ability|p2b: Incineroar|Intimidate|boost
+|-fail|p1a: Koraidon|unboost|[from] item: Clear Amulet|[of] p1a: Koraidon
+|-unboost|p1b: Tropius|atk|1
+|turn|1
+|
+|t:|1740510022
+|-terastallize|p2a: Calyrex|Fire
+|move|p2b: Incineroar|Fake Out|p1a: Koraidon
+|-damage|p1a: Koraidon|92/100
+|move|p1b: Tropius|Leer|p2a: Calyrex|[spread] p2a,p2b
+|-fail|p2a: Calyrex|unboost|[from] item: Clear Amulet|[of] p2a: Calyrex
+|-unboost|p2b: Incineroar|def|1
+|cant|p1a: Koraidon|flinch
+|move|p2a: Calyrex|Glacial Lance|p1a: Koraidon|[spread] p1a,p1b
+|-supereffective|p1a: Koraidon
+|-supereffective|p1b: Tropius
+|-damage|p1a: Koraidon|0 fnt
+|-enditem|p1b: Tropius|Focus Sash
+|-damage|p1b: Tropius|1/100
+|faint|p1a: Koraidon
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510030
+|switch|p1a: Walking Wake|Walking Wake, L50|100/100
+|-activate|p1a: Walking Wake|ability: Protosynthesis
+|-start|p1a: Walking Wake|protosynthesisspe
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mk_1109)
+|
+|t:|1740510059
+|move|p2a: Calyrex|Protect|p2a: Calyrex
+|-singleturn|p2a: Calyrex|Protect
+|move|p1a: Walking Wake|Hydro Steam|p2a: Calyrex
+|-activate|p2a: Calyrex|move: Protect
+|move|p1b: Tropius|Tailwind|p1b: Tropius
+|-sidestart|p1: Quittexxl|move: Tailwind
+|move|p2b: Incineroar|Parting Shot|p1a: Walking Wake
+|-unboost|p1a: Walking Wake|atk|1
+|-unboost|p1a: Walking Wake|spa|1
+|
+|t:|1740510072
+|switch|p2b: Kingambit|Kingambit, L50, M, shiny|100/100|[from] Parting Shot
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740510087
+|move|p2b: Kingambit|Sucker Punch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|44/100
+|-damage|p2b: Kingambit|91/100|[from] item: Life Orb
+|move|p1a: Walking Wake|Hydro Steam|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|27/100
+|-damage|p1a: Walking Wake|34/100|[from] item: Life Orb
+|move|p1b: Tropius|Leaf Storm|p2b: Kingambit
+|-resisted|p2b: Kingambit
+|-damage|p2b: Kingambit|70/100
+|-unboost|p1b: Tropius|spa|2
+|move|p2a: Calyrex|Trick Room|p2a: Calyrex
+|-fieldstart|move: Trick Room|[of] p2a: Calyrex
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|Quittexxl has 30 seconds left.
+|
+|t:|1740510122
+|move|p1b: Tropius|Wide Guard|p1b: Tropius
+|-singleturn|p1b: Tropius|Wide Guard
+|move|p2a: Calyrex|Glacial Lance|p1a: Walking Wake|[spread] 
+|-activate|p1a: Walking Wake|move: Wide Guard
+|-activate|p1b: Tropius|move: Wide Guard
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2b: Kingambit|60/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510133
+|switch|p1a: Chi-Yu|Chi-Yu, L50|100/100
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|5
+|
+|t:|1740510151
+|move|p1b: Tropius|Wide Guard|p1b: Tropius
+|-singleturn|p1b: Tropius|Wide Guard
+|move|p2a: Calyrex|High Horsepower|p1a: Chi-Yu
+|-supereffective|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|faint|p1a: Chi-Yu
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|move|p2b: Kingambit|Kowtow Cleave|p1b: Tropius
+|-damage|p1b: Tropius|0 fnt
+|faint|p1b: Tropius
+|-damage|p2b: Kingambit|50/100|[from] item: Life Orb
+|
+|win|mk_1109
+|raw|Quittexxl's rating: 1203 &rarr; <strong>1179</strong><br />(-24 for losing)
+|raw|mk_1109's rating: 1213 &rarr; <strong>1237</strong><br />(+24 for winning)
+|l|☆Quittexxl
+|player|p1|
+|l|☆mk_1109
+|player|p2|

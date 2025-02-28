@@ -1,0 +1,459 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆fight me son
+|j|☆ElRamasXD
+|t:|1740509724
+|gametype|singles
+|player|p1|fight me son|1|1505
+|player|p2|ElRamasXD|169|1471
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Xurkitree|
+|poke|p1|Gliscor, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Scizor, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Dragapult, M|
+|poke|p2|Shuckle, M|
+|poke|p2|Terapagos, M|
+|poke|p2|Gyarados, F|
+|poke|p2|Glimmora, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Greninja-*, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElRamasXD)
+|
+|t:|1740509732
+|start
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|switch|p2a: Glimmora|Glimmora, F|100/100
+|turn|1
+|
+|t:|1740509735
+|move|p2a: Glimmora|Stealth Rock|p1a: Gliscor
+|-sidestart|p1: fight me son|move: Stealth Rock
+|move|p1a: Gliscor|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-enditem|p2a: Glimmora|Focus Sash
+|-damage|p2a: Glimmora|1/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: fight me son|move: Toxic Spikes
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1740509740
+|move|p2a: Glimmora|Energy Ball|p1a: Gliscor
+|-damage|p1a: Gliscor|70/100 tox
+|-unboost|p1a: Gliscor|spd|1
+|move|p1a: Gliscor|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: fight me son|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-heal|p1a: Gliscor|83/100 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1740509749
+|switch|p2a: 🗿|Shuckle, M|100/100
+|turn|3
+|
+|t:|1740509754
+|move|p1a: Gliscor|Defog|p2a: 🗿
+|-boost|p2a: 🗿|evasion|1
+|-sideend|p1: fight me son|Toxic Spikes|[from] move: Defog|[of] p1a: Gliscor
+|-sideend|p1: fight me son|Stealth Rock|[from] move: Defog|[of] p1a: Gliscor
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|1
+|-boost|p2a: 🗿|spd|1
+|-unboost|p2a: 🗿|atk|2
+|-unboost|p2a: 🗿|spa|2
+|-unboost|p2a: 🗿|spe|2
+|
+|-heal|p1a: Gliscor|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1740509765
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|1
+|-boost|p2a: 🗿|spd|1
+|-unboost|p2a: 🗿|atk|2
+|-unboost|p2a: 🗿|spa|2
+|-unboost|p2a: 🗿|spe|2
+|
+|upkeep
+|turn|5
+|
+|t:|1740509767
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|76/100
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|1
+|-boost|p2a: 🗿|spd|1
+|-unboost|p2a: 🗿|atk|2
+|-unboost|p2a: 🗿|spa|2
+|-unboost|p2a: 🗿|spe|2
+|
+|-heal|p1a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509770
+|move|p1a: Dragapult|Will-O-Wisp|p2a: 🗿|[miss]
+|-miss|p1a: Dragapult|p2a: 🗿
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|1
+|-boost|p2a: 🗿|spd|1
+|-unboost|p2a: 🗿|atk|0
+|-unboost|p2a: 🗿|spa|0
+|-unboost|p2a: 🗿|spe|0
+|
+|-heal|p1a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740509773
+|move|p1a: Dragapult|Will-O-Wisp|p2a: 🗿
+|-status|p2a: 🗿|brn
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|1
+|-boost|p2a: 🗿|spd|1
+|-unboost|p2a: 🗿|atk|0
+|-unboost|p2a: 🗿|spa|0
+|-unboost|p2a: 🗿|spe|0
+|
+|-heal|p1a: Dragapult|94/100|[from] item: Leftovers
+|-damage|p2a: 🗿|94/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1740509778
+|move|p1a: Dragapult|Hex|p2a: 🗿
+|-damage|p2a: 🗿|87/100 brn
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|1
+|-boost|p2a: 🗿|spd|1
+|-unboost|p2a: 🗿|atk|0
+|-unboost|p2a: 🗿|spa|0
+|-unboost|p2a: 🗿|spe|0
+|
+|-heal|p1a: Dragapult|99/100|[from] item: Leftovers
+|-heal|p2a: 🗿|93/100 brn|[from] item: Leftovers
+|-damage|p2a: 🗿|87/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1740509785
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|99/100
+|-activate|p1a: Scizor|move: Infestation|[of] p2a: 🗿
+|
+|-heal|p2a: 🗿|93/100 brn|[from] item: Leftovers
+|-damage|p2a: 🗿|87/100 brn|[from] brn
+|-damage|p1a: Scizor|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1740509789
+|detailschange|p1a: Scizor|Scizor-Mega, F
+|-mega|p1a: Scizor|Scizor|Scizorite
+|move|p1a: Scizor|Knock Off|p2a: 🗿
+|-damage|p2a: 🗿|82/100 brn
+|-enditem|p2a: 🗿|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|88/100
+|
+|-damage|p2a: 🗿|75/100 brn|[from] brn
+|-damage|p1a: Scizor|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1740509795
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿|[miss]
+|-miss|p1a: Scizor|p2a: 🗿
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|75/100
+|
+|-damage|p2a: 🗿|69/100 brn|[from] brn
+|-damage|p1a: Scizor|63/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1740509801
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿|[miss]
+|-miss|p1a: Scizor|p2a: 🗿
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|63/100
+|
+|-damage|p2a: 🗿|63/100 brn|[from] brn
+|-damage|p1a: Scizor|50/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1740509804
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|99/100
+|
+|-damage|p2a: 🗿|57/100 brn|[from] brn
+|-end|p1a: Scizor|Infestation|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1740509808
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|46/100 brn
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|99/100
+|-activate|p1a: Scizor|move: Infestation|[of] p2a: 🗿
+|
+|-damage|p2a: 🗿|40/100 brn|[from] brn
+|-damage|p1a: Scizor|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1740509815
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿|[miss]
+|-miss|p1a: Scizor|p2a: 🗿
+|move|p2a: 🗿|Rest|p2a: 🗿
+|-status|p2a: 🗿|slp|[from] move: Rest
+|-heal|p2a: 🗿|100/100 slp|[silent]
+|
+|-damage|p1a: Scizor|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1740509823
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|90/100 slp
+|cant|p2a: 🗿|slp
+|
+|-damage|p1a: Scizor|63/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1740509826
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|79/100 slp
+|cant|p2a: 🗿|slp
+|
+|-damage|p1a: Scizor|51/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|18
+|
+|t:|1740509828
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|-curestatus|p2a: 🗿|slp|[msg]
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|99/100
+|
+|-end|p1a: Scizor|Infestation|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1740509831
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|69/100
+|move|p2a: 🗿|Infestation|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|99/100
+|-activate|p1a: Scizor|move: Infestation|[of] p2a: 🗿
+|
+|-damage|p1a: Scizor|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|20
+|
+|t:|1740509837
+|move|p2a: 🗿|Protect|p2a: 🗿
+|-singleturn|p2a: 🗿|Protect
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-activate|p2a: 🗿|move: Protect
+|
+|-damage|p1a: Scizor|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|21
+|
+|t:|1740509844
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|59/100
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|0
+|-boost|p2a: 🗿|spd|0
+|-unboost|p2a: 🗿|atk|0
+|-unboost|p2a: 🗿|spa|0
+|-unboost|p2a: 🗿|spe|0
+|
+|-damage|p1a: Scizor|63/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1740509853
+|move|p2a: 🗿|Protect|p2a: 🗿
+|-singleturn|p2a: 🗿|Protect
+|move|p1a: Scizor|Bullet Punch|p2a: 🗿
+|-activate|p2a: 🗿|move: Protect
+|
+|-damage|p1a: Scizor|51/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|23
+|
+|t:|1740509859
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|0
+|-boost|p2a: 🗿|spd|0
+|-unboost|p2a: 🗿|atk|0
+|-unboost|p2a: 🗿|spa|0
+|-unboost|p2a: 🗿|spe|0
+|
+|-damage|p1a: Scizor|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|24
+|
+|t:|1740509862
+|move|p1a: Scizor|U-turn|p2a: 🗿
+|-damage|p2a: 🗿|53/100
+|
+|t:|1740509872
+|switch|p1a: Xurkitree|Xurkitree|100/100|[from] U-turn
+|move|p2a: 🗿|Shell Smash|p2a: 🗿
+|-boost|p2a: 🗿|def|0
+|-boost|p2a: 🗿|spd|0
+|-unboost|p2a: 🗿|atk|0
+|-unboost|p2a: 🗿|spa|0
+|-unboost|p2a: 🗿|spe|0
+|
+|upkeep
+|turn|25
+|
+|t:|1740509877
+|move|p1a: Xurkitree|Volt Switch|p2a: 🗿|[miss]
+|-miss|p1a: Xurkitree|p2a: 🗿
+|move|p2a: 🗿|Infestation|p1a: Xurkitree
+|-damage|p1a: Xurkitree|99/100
+|-activate|p1a: Xurkitree|move: Infestation|[of] p2a: 🗿
+|
+|-damage|p1a: Xurkitree|87/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1740509881
+|move|p2a: 🗿|Protect|p2a: 🗿
+|-singleturn|p2a: 🗿|Protect
+|move|p1a: Xurkitree|Volt Switch|p2a: 🗿
+|-activate|p2a: 🗿|move: Protect
+|
+|-damage|p1a: Xurkitree|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|27
+|
+|t:|1740509886
+|move|p1a: Xurkitree|Volt Switch|p2a: 🗿|[miss]
+|-miss|p1a: Xurkitree|p2a: 🗿
+|move|p2a: 🗿|Infestation|p1a: Xurkitree
+|-damage|p1a: Xurkitree|74/100
+|
+|-damage|p1a: Xurkitree|61/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|28
+|
+|t:|1740509890
+|move|p2a: 🗿|Protect|p2a: 🗿
+|-singleturn|p2a: 🗿|Protect
+|move|p1a: Xurkitree|Volt Switch|p2a: 🗿
+|-activate|p2a: 🗿|move: Protect
+|
+|-damage|p1a: Xurkitree|49/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|29
+|
+|t:|1740509894
+|move|p1a: Xurkitree|Volt Switch|p2a: 🗿
+|-damage|p2a: 🗿|47/100
+|
+|t:|1740509900
+|switch|p1a: Alomomola|Alomomola, M|100/100|[from] Volt Switch
+|move|p2a: 🗿|Infestation|p1a: Alomomola
+|-damage|p1a: Alomomola|99/100
+|-activate|p1a: Alomomola|move: Infestation|[of] p2a: 🗿
+|
+|-heal|p1a: Alomomola|100/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|30
+|
+|t:|1740509905
+|move|p2a: 🗿|Protect|p2a: 🗿
+|-singleturn|p2a: 🗿|Protect
+|move|p1a: Alomomola|Scald|p2a: 🗿
+|-activate|p2a: 🗿|move: Protect
+|
+|-heal|p1a: Alomomola|94/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|82/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|31
+|
+|t:|1740509910
+|move|p1a: Alomomola|Scald|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|42/100
+|move|p2a: 🗿|Rest|p2a: 🗿
+|-status|p2a: 🗿|slp|[from] move: Rest
+|-heal|p2a: 🗿|100/100 slp|[silent]
+|
+|-heal|p1a: Alomomola|88/100|[from] item: Leftovers
+|-damage|p1a: Alomomola|76/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|32
+|
+|t:|1740509920
+|move|p1a: Alomomola|Flip Turn|p2a: 🗿
+|-supereffective|p2a: 🗿
+|-damage|p2a: 🗿|96/100 slp
+|-message|fight me son forfeited.
+|
+|win|ElRamasXD
+|raw|fight me son's rating: 1505 &rarr; <strong>1483</strong><br />(-22 for losing)
+|raw|ElRamasXD's rating: 1471 &rarr; <strong>1493</strong><br />(+22 for winning)
+|l|☆fight me son
+|player|p1|
+|l|☆ElRamasXD
+|player|p2|

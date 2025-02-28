@@ -1,0 +1,213 @@
+|j|☆3RT22GG
+|j|☆Son Min Jay
+|t:|1740509877
+|gametype|doubles
+|player|p1|3RT22GG|266|1382
+|player|p2|Son Min Jay|morty|1406
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Inteleon, F|
+|poke|p1|Floatzel, F|
+|poke|p1|Pelipper, F|
+|poke|p1|Kingdra, M|
+|poke|p1|Indeedee, M|
+|poke|p1|Clefairy, M|
+|poke|p2|Chien-Pao|
+|poke|p2|Dragonite, M|
+|poke|p2|Landorus, M|
+|poke|p2|Glimmora, M|
+|poke|p2|Incineroar, F|
+|poke|p2|Tyranitar, M|
+|teampreview
+|
+|t:|1740509889
+|start
+|switch|p1a: Floatzel|Floatzel, F|100/100
+|switch|p1b: Indeedee|Indeedee, M|100/100
+|switch|p2a: STD Giver 🥰|Glimmora, M|100/100
+|switch|p2b: Wolfgang 😱|Incineroar, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Indeedee
+|-ability|p2b: Wolfgang 😱|Intimidate|boost
+|-unboost|p1a: Floatzel|atk|1
+|-unboost|p1b: Indeedee|atk|1
+|turn|1
+|
+|t:|1740509908
+|switch|p2a: Monstrosity ☠️|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Monstrosity ☠️
+|-terastallize|p1b: Indeedee|Fighting
+|move|p1b: Indeedee|Expanding Force|p2b: Wolfgang 😱|[spread] 
+|-immune|p2a: Monstrosity ☠️
+|-immune|p2b: Wolfgang 😱
+|move|p1a: Floatzel|Waterfall|p2b: Wolfgang 😱
+|-supereffective|p2b: Wolfgang 😱
+|-damage|p2b: Wolfgang 😱|40/100
+|-damage|p1a: Floatzel|84/100|[from] item: Rocky Helmet|[of] p2b: Wolfgang 😱
+|-damage|p1a: Floatzel|74/100|[from] item: Life Orb
+|move|p2b: Wolfgang 😱|Knock Off|p1b: Indeedee
+|-resisted|p1b: Indeedee
+|-damage|p1b: Indeedee|59/100
+|-enditem|p1b: Indeedee|Choice Scarf|[from] move: Knock Off|[of] p2b: Wolfgang 😱
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Floatzel|68/100|[from] Sandstorm
+|-damage|p1b: Indeedee|53/100|[from] Sandstorm
+|-damage|p2b: Wolfgang 😱|34/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1740509932
+|switch|p2a: STD Giver 🥰|Glimmora, M|100/100
+|move|p1a: Floatzel|Brick Break|p2a: STD Giver 🥰
+|-damage|p2a: STD Giver 🥰|79/100
+|-activate|p2a: STD Giver 🥰|ability: Toxic Debris
+|-sidestart|p1: 3RT22GG|move: Toxic Spikes
+|-damage|p1a: Floatzel|58/100|[from] item: Life Orb
+|move|p1b: Indeedee|Tera Blast|p2b: Wolfgang 😱|[anim] Tera Blast Fighting
+|-supereffective|p2b: Wolfgang 😱
+|-damage|p2b: Wolfgang 😱|0 fnt
+|faint|p2b: Wolfgang 😱
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Floatzel|52/100|[from] Sandstorm
+|-damage|p1b: Indeedee|47/100|[from] Sandstorm
+|upkeep
+|c|☆3RT22GG|good feet
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 3RT22GG)
+|
+|t:|1740509949
+|switch|p2b: Monstrosity ☠️|Tyranitar, M|100/100
+|turn|3
+|
+|t:|1740509962
+|move|p1a: Floatzel|Brick Break|p2b: Monstrosity ☠️
+|-supereffective|p2b: Monstrosity ☠️
+|-damage|p2b: Monstrosity ☠️|35/100
+|-damage|p1a: Floatzel|42/100|[from] item: Life Orb
+|move|p1b: Indeedee|Expanding Force|p2a: STD Giver 🥰|[spread] p2a
+|-immune|p2b: Monstrosity ☠️
+|-supereffective|p2a: STD Giver 🥰
+|-damage|p2a: STD Giver 🥰|21/100
+|move|p2a: STD Giver 🥰|Stealth Rock|p1b: Indeedee
+|-sidestart|p1: 3RT22GG|move: Stealth Rock
+|move|p2b: Monstrosity ☠️|Rock Slide|p1b: Indeedee|[spread] p1a,p1b
+|-resisted|p1b: Indeedee
+|-damage|p1a: Floatzel|0 fnt
+|-damage|p1b: Indeedee|11/100
+|faint|p1a: Floatzel
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Indeedee|5/100|[from] Sandstorm
+|upkeep
+|
+|t:|1740509965
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|4
+|c|☆Son Min Jay|Huh?
+|c|☆3RT22GG|good footwork
+|c|☆Son Min Jay|What do you mean?
+|inactive|Son Min Jay has 120 seconds left.
+|
+|t:|1740510002
+|move|p1b: Indeedee|Trick|p2b: Monstrosity ☠️
+|-activate|p1b: Indeedee|move: Trick|[of] p2b: Monstrosity ☠️
+|-enditem|p2b: Monstrosity ☠️|Assault Vest|[silent]|[from] move: Trick
+|-item|p1b: Indeedee|Assault Vest|[from] move: Trick
+|move|p1a: Pelipper|Muddy Water|p2a: STD Giver 🥰|[spread] p2a,p2b
+|-supereffective|p2a: STD Giver 🥰
+|-supereffective|p2b: Monstrosity ☠️
+|-damage|p2a: STD Giver 🥰|0 fnt
+|-damage|p2b: Monstrosity ☠️|0 fnt
+|faint|p2a: STD Giver 🥰
+|faint|p2b: Monstrosity ☠️
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆3RT22GG|the switching. good reads, bro
+|c|☆Son Min Jay|Ahh okay .... thanks
+|
+|t:|1740510026
+|switch|p2a: Landorus|Landorus, M|100/100
+|switch|p2b: Zippo 🤗|Dragonite, M|100/100
+|turn|5
+|inactive|Son Min Jay has 120 seconds left.
+|
+|t:|1740510034
+|-terastallize|p2b: Zippo 🤗|Normal
+|move|p2b: Zippo 🤗|Extreme Speed|p1a: Pelipper
+|-hint|Psychic Terrain doesn't affect Pokémon immune to Ground.
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|move|p2a: Landorus|Earth Power|p1b: Indeedee
+|-damage|p1b: Indeedee|0 fnt
+|faint|p1b: Indeedee
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1740510056
+|switch|p1b: Clefairy|Clefairy, M|100/100
+|switch|p1a: Inteleon|Inteleon, F|100/100
+|-status|p1a: Inteleon|psn
+|-damage|p1a: Inteleon|88/100 psn|[from] Stealth Rock
+|-status|p1b: Clefairy|psn
+|-damage|p1b: Clefairy|88/100 psn|[from] Stealth Rock
+|turn|6
+|
+|t:|1740510066
+|switch|p2a: Tribal Chief 👿|Chien-Pao|100/100
+|-ability|p2a: Tribal Chief 👿|Sword of Ruin
+|move|p2b: Zippo 🤗|Extreme Speed|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|move|p1b: Clefairy|Follow Me|p1b: Clefairy
+|-singleturn|p1b: Clefairy|move: Follow Me
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1b: Clefairy|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1740510072
+|switch|p1a: Kingdra|Kingdra, M|100/100
+|-status|p1a: Kingdra|psn
+|-damage|p1a: Kingdra|88/100 psn|[from] Stealth Rock
+|turn|7
+|c|☆3RT22GG|ggwp
+|
+|t:|1740510086
+|move|p2b: Zippo 🤗|Extreme Speed|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|move|p1b: Clefairy|Follow Me|p1b: Clefairy
+|-singleturn|p1b: Clefairy|move: Follow Me
+|move|p2a: Tribal Chief 👿|Ice Spinner|p1b: Clefairy
+|-damage|p1b: Clefairy|12/100 psn
+|-damage|p2a: Tribal Chief 👿|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1b: Clefairy|0 fnt|[from] psn
+|faint|p1b: Clefairy
+|
+|win|Son Min Jay
+|upkeep
+|raw|3RT22GG's rating: 1382 &rarr; <strong>1363</strong><br />(-19 for losing)
+|raw|Son Min Jay's rating: 1406 &rarr; <strong>1425</strong><br />(+19 for winning)
+|l|☆3RT22GG
+|player|p1|
+|c|☆Son Min Jay|Gg
+|l|☆Son Min Jay
+|player|p2|

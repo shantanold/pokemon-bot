@@ -1,0 +1,166 @@
+|j|☆Jakz
+|j|☆PrimalGoat
+|html|<table width="100%"><tr><td align="left">Jakz</td><td align="right">PrimalGoat</tr><tr><td align="left"><i class="fa fa-circle"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 2</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307753352">a best-of-3</a></h2>
+|t:|1740510065
+|gametype|doubles
+|player|p1|Jakz|skier|1120
+|player|p2|PrimalGoat|102|1102
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Miraidon, L50|
+|poke|p1|Grimmsnarl, L50, M|
+|poke|p1|Urshifu-*, L50, M|
+|poke|p1|Volcarona, L50, F|
+|poke|p1|Ditto, L50|
+|poke|p1|Iron Hands, L50|
+|poke|p2|Calyrex-Shadow, L50|
+|poke|p2|Ogerpon-Hearthflame, L50, F|
+|poke|p2|Oranguru, L50, M|
+|poke|p2|Urshifu-*, L50, M|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Rillaboom, L50, F|
+|teampreview|4
+|showteam|p1|Miraidon||ChoiceSpecs|HadronEngine|ElectroDrift,DracoMeteor,VoltSwitch,DazzlingGleam||||||50|,,,,,Fairy]Grimmsnarl||LightClay|Prankster|FoulPlay,ThunderWave,Reflect,LightScreen|||M|||50|,,,,,Ghost]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,SwordsDance,Detect|||M|||50|,,,,,Poison]Volcarona||SitrusBerry|FlameBody|FieryDance,GigaDrain,QuiverDance,Protect|||F|||50|,,,,,Grass]Ditto||FocusSash|Imposter|Transform||||||50|,,,,,Normal]Iron Hands||AssaultVest|QuarkDrive|DrainPunch,WildCharge,VoltSwitch,FakeOut||||||50|,,,,,Water
+|showteam|p2|Calyrex-Shadow||CovertCloak|AsOneSpectrier|AstralBarrage,DrainingKiss,CalmMind,Protect||||||50|,,,,,Fairy]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,WoodHammer,FollowMe,SpikyShield|||F|||50|,,,,,Fire]Oranguru||MentalHerb|InnerFocus|Psychic,Protect,AfterYou,Instruct|||M|||50|,,,,,Grass]Urshifu-Rapid-Strike||FocusSash|UnseenFist|SurgingStrikes,CloseCombat,AquaJet,Detect|||M|||50|,,,,,Water]Incineroar||SafetyGoggles|Intimidate|KnockOff,Taunt,PartingShot,FakeOut|||F|||50|,,,,,Ghost]Rillaboom||AssaultVest|GrassySurge|WoodHammer,GrassyGlide,FakeOut,Uturn|||F|||50|,,,,,Fire
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PrimalGoat)
+|c|☆Jakz|gl hf
+|c|☆PrimalGoat|glhf
+|inactive|PrimalGoat has 60 seconds left.
+|
+|t:|1740510102
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, L50, M|100/100
+|switch|p1b: Grimmsnarl|Grimmsnarl, L50, M|100/100
+|switch|p2a: Hormse|Calyrex-Shadow, L50|100/100
+|switch|p2b: Monke|Oranguru, L50, M|100/100
+|-ability|p2a: Hormse|As One
+|-ability|p2a: Hormse|Unnerve
+|turn|1
+|inactive|Jakz has 30 seconds left.
+|inactive|Jakz has 20 seconds left.
+|
+|t:|1740510137
+|-terastallize|p2a: Hormse|Fairy
+|move|p1a: Urshifu|Detect|p1a: Urshifu
+|-singleturn|p1a: Urshifu|Protect
+|move|p1b: Grimmsnarl|Thunder Wave|p2a: Hormse
+|-status|p2a: Hormse|par
+|move|p2a: Hormse|Calm Mind|p2a: Hormse
+|-boost|p2a: Hormse|spa|1
+|-boost|p2a: Hormse|spd|1
+|move|p2b: Monke|Instruct|p2a: Hormse
+|-singleturn|p2a: Hormse|move: Instruct|[of] p2b: Monke
+|cant|p2a: Hormse|par
+|
+|upkeep
+|turn|2
+|inactive|Jakz has 30 seconds left.
+|inactive|PrimalGoat has 30 seconds left.
+|inactive|Jakz has 20 seconds left.
+|inactive|Jakz has 15 seconds left.
+|
+|t:|1740510178
+|move|p1b: Grimmsnarl|Light Screen|p1b: Grimmsnarl
+|-sidestart|p1: Jakz|move: Light Screen
+|move|p1a: Urshifu|Surging Strikes|p2a: Hormse
+|-crit|p2a: Hormse
+|-damage|p2a: Hormse|78/100 par
+|-crit|p2a: Hormse
+|-damage|p2a: Hormse|53/100 par
+|-crit|p2a: Hormse
+|-damage|p2a: Hormse|29/100 par
+|-hitcount|p2a: Hormse|3
+|move|p2a: Hormse|Draining Kiss|p1b: Grimmsnarl
+|-supereffective|p1b: Grimmsnarl
+|-crit|p1b: Grimmsnarl
+|-damage|p1b: Grimmsnarl|0 fnt
+|-heal|p2a: Hormse|100/100 par|[from] drain|[of] p1b: Grimmsnarl
+|faint|p1b: Grimmsnarl
+|-ability|p2a: Hormse|Grim Neigh|boost
+|-boost|p2a: Hormse|spa|1
+|move|p2b: Monke|Instruct|p2a: Hormse
+|-singleturn|p2a: Hormse|move: Instruct|[of] p2b: Monke
+|move|p2a: Hormse|Draining Kiss|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-ability|p2a: Hormse|Grim Neigh|boost
+|-boost|p2a: Hormse|spa|1
+|
+|upkeep
+|
+|t:|1740510201
+|switch|p1a: Miraidon|Miraidon, L50|100/100
+|switch|p1b: Ditto|Ditto, L50|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|-transform|p1b: Ditto|p2a: Hormse|[from] ability: Imposter
+|-ability|p1b: Ditto|As One
+|-ability|p1b: Ditto|Unnerve
+|-start|p1b: Ditto|typechange|Psychic/Ghost|[silent]
+|turn|3
+|inactive|PrimalGoat has 30 seconds left.
+|
+|t:|1740510233
+|-terastallize|p1b: Ditto|Normal
+|move|p1b: Ditto|Astral Barrage|p2b: Monke|[spread] p2a
+|-immune|p2b: Monke
+|-damage|p2a: Hormse|20/100 par
+|move|p1a: Miraidon|Electro Drift|p2b: Monke
+|-damage|p2b: Monke|0 fnt
+|faint|p2b: Monke
+|cant|p2a: Hormse|par
+|
+|upkeep
+|
+|t:|1740510247
+|switch|p2b: Unbearable|Urshifu-Rapid-Strike, L50, M|100/100
+|turn|4
+|inactive|PrimalGoat has 30 seconds left.
+|
+|t:|1740510280
+|switch|p2b: Dreaded|Ogerpon-Hearthflame, L50, F|100/100
+|-ability|p2b: Dreaded|Mold Breaker
+|cant|p2a: Hormse|par
+|move|p1b: Ditto|Astral Barrage|p2b: Dreaded|[spread] p2a,p2b
+|-damage|p2a: Hormse|0 fnt
+|-damage|p2b: Dreaded|0 fnt
+|faint|p2a: Hormse
+|faint|p2b: Dreaded
+|-ability|p1b: Ditto|Grim Neigh|boost
+|-boost|p1b: Ditto|spa|2
+|move|p1a: Miraidon|Electro Drift|p2: Hormse|[notarget]
+|-fail|p1a: Miraidon
+|
+|upkeep
+|
+|t:|1740510294
+|switch|p2b: Unbearable|Urshifu-Rapid-Strike, L50, M|100/100
+|turn|5
+|
+|t:|1740510302
+|move|p1b: Ditto|Astral Barrage|p2b: Unbearable
+|-enditem|p2b: Unbearable|Focus Sash
+|-damage|p2b: Unbearable|1/100
+|move|p1a: Miraidon|Electro Drift|p2b: Unbearable
+|-supereffective|p2b: Unbearable
+|-damage|p2b: Unbearable|0 fnt
+|faint|p2b: Unbearable
+|
+|win|Jakz
+|raw|Jakz's rating: 1120 &rarr; <strong>1144</strong><br />(+24 for winning)
+|raw|PrimalGoat's rating: 1102 &rarr; <strong>1078</strong><br />(-24 for losing)
+|c|☆Jakz|ggs
+|c|☆PrimalGoat|gg
+|c|☆Jakz|sorry for the paras
+|c|☆PrimalGoat|Yeah that's frustrating to fight haha
+|c|☆Jakz|yea haha tera normal ditto kinda makes this an easy one for me
+|c|☆PrimalGoat|Yeah haha
+|l|☆Jakz
+|player|p1|

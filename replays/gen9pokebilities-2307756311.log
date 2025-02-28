@@ -1,0 +1,453 @@
+|j|☆kwesty
+|j|☆baned looser
+|t:|1740510026
+|gametype|singles
+|player|p1|kwesty|lorelei-lgpe|
+|player|p2|baned looser|unknown|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Pokebilities
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|rule|Tier Shift Mod: Pokémon get stat buffs depending on their tier, excluding HP.
+|clearpoke
+|poke|p1|Tsareena, F|
+|poke|p1|Lapras, M|
+|poke|p1|Flareon, F|
+|poke|p1|Venomoth, M|
+|poke|p1|Florges, F|
+|poke|p1|Bronzong|
+|poke|p2|Cinccino, F|
+|poke|p2|Regieleki|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Charizard, M|
+|poke|p2|Scizor, M|
+|poke|p2|Garchomp, M|
+|teampreview
+|j|*Iolanthe
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kwesty)
+|c|☆baned looser|gl hf
+|c|☆kwesty|!ts cinccino
+|raw|<div class="message"><ul class="utilichart"><li class="result"><span class="col numcol">NU</span> <span class="col iconcol"><psicon pokemon="cinccino"/></span> <span class="col pokemonnamecol" style="white-space:nowrap"><a href="https://dex.pokemonshowdown.com/pokemon/cinccino" target="_blank">Cinccino</a></span> <span class="col typecol"><img src="https://play.pokemonshowdown.com/sprites/types/Normal.png" alt="Normal" height="14" width="32"></span> <span style="float:left;min-height:26px"><span class="col twoabilitycol">Cute Charm<br />Technician</span><span class="col abilitycol"><em>Skill Link</em></span></span><span style="float:left;min-height:26px"><span class="col statcol"><em>HP</em><br />75</span> <span class="col statcol"><em>Atk</em><br />120</span> <span class="col statcol"><em>Def</em><br />85</span> <span class="col statcol"><em>SpA</em><br />90</span> <span class="col statcol"><em>SpD</em><br />85</span> <span class="col statcol"><em>Spe</em><br />140</span> <span class="col bstcol"><em>BST<br />595</em></span> </span></li><li style="clear:both"></li></ul></div>
+|c|☆kwesty|evil
+|inactive|kwesty has 120 seconds left.
+|inactive|baned looser has 120 seconds left.
+|
+|t:|1740510070
+|start
+|switch|p1a: Tsareena|Tsareena, F|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|l|*Iolanthe
+|
+|t:|1740510075
+|move|p2a: Garchomp|Stealth Rock|p1a: Tsareena
+|-sidestart|p1: kwesty|move: Stealth Rock
+|move|p1a: Tsareena|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|75/100
+|-damage|p1a: Tsareena|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|76/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|59/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tsareena
+|
+|upkeep
+|turn|2
+|
+|t:|1740510092
+|move|p2a: Garchomp|Spikes|p1a: Tsareena
+|-sidestart|p1: kwesty|Spikes
+|move|p1a: Tsareena|Synthesis|p1a: Tsareena
+|-heal|p1a: Tsareena|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740510107
+|move|p2a: Garchomp|Spikes|p1a: Tsareena
+|-sidestart|p1: kwesty|Spikes
+|move|p1a: Tsareena|Rapid Spin|p2a: Garchomp
+|-damage|p2a: Garchomp|60/100
+|-boost|p1a: Tsareena|spe|1
+|-damage|p1a: Tsareena|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|76/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|-sideend|p1: kwesty|Spikes|[from] move: Rapid Spin|[of] p1a: Tsareena
+|-sideend|p1: kwesty|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Tsareena
+|
+|upkeep
+|turn|4
+|c|☆baned looser|perhaps this meme is bad
+|
+|t:|1740510131
+|move|p1a: Tsareena|Trop Kick|p2a: Garchomp
+|-damage|p2a: Garchomp|33/100
+|-unboost|p2a: Garchomp|atk|1
+|-damage|p1a: Tsareena|63/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|51/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|move|p2a: Garchomp|Stealth Rock|p1a: Tsareena
+|-sidestart|p1: kwesty|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1740510141
+|move|p1a: Tsareena|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|16/100
+|-damage|p1a: Tsareena|39/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|26/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|move|p2a: Garchomp|Spikes|p1a: Tsareena
+|-sidestart|p1: kwesty|Spikes
+|
+|upkeep
+|turn|6
+|c|☆kwesty|it's definitely annoying
+|
+|t:|1740510166
+|move|p2a: Garchomp|Endure|p2a: Garchomp
+|-singleturn|p2a: Garchomp|move: Endure
+|move|p1a: Tsareena|Synthesis|p1a: Tsareena
+|-heal|p1a: Tsareena|76/100
+|
+|upkeep
+|turn|7
+|j|#TheTrueLtaker
+|c|☆baned looser|whoops
+|inactive|baned looser has 120 seconds left.
+|
+|t:|1740510194
+|move|p1a: Tsareena|Rapid Spin|p2a: Garchomp
+|-damage|p2a: Garchomp|2/100
+|-boost|p1a: Tsareena|spe|1
+|-damage|p1a: Tsareena|64/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|52/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|-sideend|p1: kwesty|Spikes|[from] move: Rapid Spin|[of] p1a: Tsareena
+|-sideend|p1: kwesty|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Tsareena
+|move|p2a: Garchomp|Spikes|p1a: Tsareena
+|-sidestart|p1: kwesty|Spikes
+|
+|upkeep
+|turn|8
+|inactive|baned looser has 120 seconds left.
+|
+|t:|1740510208
+|move|p2a: Garchomp|Endure|p2a: Garchomp
+|-singleturn|p2a: Garchomp|move: Endure
+|move|p1a: Tsareena|Knock Off|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Endure
+|-damage|p2a: Garchomp|1/100
+|-damage|p1a: Tsareena|39/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|27/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|
+|upkeep
+|turn|9
+|inactive|baned looser has 120 seconds left.
+|c|☆baned looser|I'd really appreciate it if you didn't click synthesis this turn
+|
+|t:|1740510231
+|switch|p2a: Scizor|Scizor, M|100/100
+|-weather|PrimordialSea|[from] ability: Primordial Sea|[of] p2a: Scizor
+|move|p1a: Tsareena|Synthesis|p1a: Tsareena
+|-heal|p1a: Tsareena|52/100
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|10
+|c|☆kwesty|D:
+|
+|t:|1740510238
+|move|p1a: Tsareena|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|74/100
+|-enditem|p2a: Scizor|Leftovers|[from] move: Knock Off|[of] p1a: Tsareena
+|move|p2a: Scizor|U-turn|p1a: Tsareena
+|-supereffective|p1a: Tsareena
+|-damage|p1a: Tsareena|21/100
+|-damage|p2a: Scizor|58/100|[from] item: Rocky Helmet|[of] p1a: Tsareena
+|j| Slothy0wl
+|
+|t:|1740510255
+|-weather|none
+|switch|p2a: Garchomp|Garchomp, M|1/100|[from] U-turn
+|
+|upkeep
+|turn|11
+|
+|t:|1740510259
+|move|p1a: Tsareena|Synthesis|p1a: Tsareena
+|-heal|p1a: Tsareena|71/100
+|move|p2a: Garchomp|Stealth Rock|p1a: Tsareena
+|-sidestart|p1: kwesty|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|inactive|baned looser has 120 seconds left.
+|
+|t:|1740510265
+|move|p1a: Tsareena|Synthesis|p1a: Tsareena
+|-heal|p1a: Tsareena|100/100
+|move|p2a: Garchomp|Spikes|p1a: Tsareena
+|-sidestart|p1: kwesty|Spikes
+|
+|upkeep
+|turn|13
+|inactive|baned looser has 120 seconds left.
+|
+|t:|1740510278
+|move|p2a: Garchomp|Endure|p2a: Garchomp
+|-singleturn|p2a: Garchomp|move: Endure
+|move|p1a: Tsareena|Rapid Spin|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Endure
+|-damage|p2a: Garchomp|1/100
+|-boost|p1a: Tsareena|spe|1
+|-damage|p1a: Tsareena|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Tsareena|76/100|[from] ability: Iron Barbs|[of] p2a: Garchomp
+|-sideend|p1: kwesty|Spikes|[from] move: Rapid Spin|[of] p1a: Tsareena
+|-sideend|p1: kwesty|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Tsareena
+|
+|upkeep
+|turn|14
+|
+|t:|1740510286
+|switch|p2a: Scizor|Scizor, M|58/100
+|-weather|PrimordialSea|[from] ability: Primordial Sea|[of] p2a: Scizor
+|move|p1a: Tsareena|Trop Kick|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|51/100
+|-unboost|p2a: Scizor|atk|1
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1740510294
+|switch|p1a: Bronzong|Bronzong|100/100
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1740510296
+|move|p2a: Scizor|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|26/100
+|-enditem|p1a: Bronzong|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|move|p1a: Bronzong|Stealth Rock|p2a: Scizor
+|-sidestart|p2: baned looser|move: Stealth Rock
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1740510300
+|move|p2a: Scizor|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|-weather|PrimordialSea|[upkeep]
+|upkeep
+|
+|t:|1740510309
+|switch|p1a: Lapras|Lapras, M|100/100
+|turn|18
+|
+|t:|1740510314
+|move|p2a: Scizor|Knock Off|p1a: Lapras
+|-damage|p1a: Lapras|60/100
+|-enditem|p1a: Lapras|Assault Vest|[from] move: Knock Off|[of] p2a: Scizor
+|move|p1a: Lapras|Liquidation|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|-weather|none
+|
+|upkeep
+|c|#TheTrueLtaker|why is this primsea and not wbb?
+|c|☆baned looser|kinda forgot wbb existed
+|
+|t:|1740510328
+|switch|p2a: Garchomp|Garchomp, M|1/100
+|-damage|p2a: Garchomp|0 fnt|[from] Stealth Rock
+|faint|p2a: Garchomp
+|
+|t:|1740510332
+|switch|p2a: Charizard|Charizard, M|100/100
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p2a: Charizard
+|turn|19
+|
+|t:|1740510347
+|switch|p1a: Florges|Florges, F|100/100
+|move|p2a: Charizard|Substitute|p2a: Charizard
+|-start|p2a: Charizard|Substitute
+|-damage|p2a: Charizard|76/100
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Charizard|63/100|[from] ability: Solar Power|[of] p2a: Charizard
+|upkeep
+|turn|20
+|c|#TheTrueLtaker|non magic guard zard smh
+|
+|t:|1740510365
+|move|p2a: Charizard|Weather Ball|p1a: Florges
+|-damage|p1a: Florges|37/100
+|move|p1a: Florges|Calm Mind|p1a: Florges
+|-boost|p1a: Florges|spa|1
+|-boost|p1a: Florges|spd|1
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Charizard|51/100|[from] ability: Solar Power|[of] p2a: Charizard
+|upkeep
+|turn|21
+|c|☆kwesty|forgot about solar power
+|c|☆baned looser|skill issue on my part smh
+|
+|t:|1740510379
+|move|p2a: Charizard|Weather Ball|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|faint|p1a: Florges
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Charizard|38/100|[from] ability: Solar Power|[of] p2a: Charizard
+|upkeep
+|
+|t:|1740510384
+|switch|p1a: Flareon|Flareon, F|100/100
+|turn|22
+|
+|t:|1740510389
+|move|p2a: Charizard|Focus Blast|p1a: Flareon
+|-damage|p1a: Flareon|43/100
+|-unboost|p1a: Flareon|spd|1
+|move|p1a: Flareon|Temper Flare|p2a: Charizard
+|-resisted|p2a: Charizard
+|-end|p2a: Charizard|Substitute
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Charizard|26/100|[from] ability: Solar Power|[of] p2a: Charizard
+|-status|p1a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|23
+|
+|t:|1740510394
+|move|p1a: Flareon|Quick Attack|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|-weather|none
+|
+|-damage|p1a: Flareon|37/100 tox|[from] psn
+|upkeep
+|
+|t:|1740510398
+|switch|p2a: Cinccino|Cinccino, F, shiny|100/100
+|-damage|p2a: Cinccino|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1740510411
+|move|p1a: Flareon|Facade|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p2a: Cinccino
+|
+|-damage|p1a: Flareon|26/100 tox|[from] psn
+|upkeep
+|c|☆baned looser|quick feet
+|c|☆baned looser|got it
+|
+|t:|1740510421
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|turn|25
+|c|☆kwesty|jep
+|
+|t:|1740510428
+|move|p1a: Flareon|Temper Flare|p2a: Weezing
+|-damage|p2a: Weezing|53/100
+|move|p2a: Weezing|Strange Steam|p1a: Flareon
+|-resisted|p1a: Flareon
+|-damage|p1a: Flareon|2/100 tox
+|
+|-heal|p2a: Weezing|59/100|[from] item: Leftovers
+|-damage|p1a: Flareon|0 fnt|[from] psn
+|faint|p1a: Flareon
+|upkeep
+|
+|t:|1740510433
+|switch|p1a: Venomoth|Venomoth, M|100/100
+|turn|26
+|
+|t:|1740510438
+|move|p1a: Venomoth|Substitute|p1a: Venomoth
+|-start|p1a: Venomoth|Substitute
+|-damage|p1a: Venomoth|76/100
+|move|p2a: Weezing|Pain Split||[still]
+|-fail|p2a: Weezing
+|
+|-heal|p2a: Weezing|65/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1740510441
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|move|p2a: Weezing|Flamethrower|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-end|p1a: Venomoth|Substitute
+|
+|-heal|p2a: Weezing|71/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|c|☆baned looser|shit
+|
+|t:|1740510447
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|move|p2a: Weezing|Flamethrower|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-damage|p1a: Venomoth|49/100
+|
+|-heal|p2a: Weezing|77/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1740510451
+|move|p1a: Venomoth|Sludge Wave|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|-damage|p1a: Venomoth|39/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆baned looser|gg
+|
+|t:|1740510457
+|switch|p2a: Regieleki|Regieleki, shiny|100/100
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Regieleki
+|turn|30
+|c|☆kwesty|ggs
+|
+|t:|1740510463
+|move|p1a: Venomoth|Bug Buzz|p2a: Regieleki
+|-crit|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|win|kwesty
+|n|☆kwesty|kwesty
+|n|☆baned looser|banedlooser
+|n| TheTrueLtaker|thetrueltaker
+|n| Slothy0wl|slothy0wl
+|l|☆baned looser
+|player|p2|
+|l| TheTrueLtaker
+|j| SplodgeOfChippy

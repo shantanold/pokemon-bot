@@ -1,0 +1,167 @@
+|j|☆Ninjakittyram
+|j|☆FIzzyPlace78
+|t:|1740510221
+|gametype|doubles
+|player|p1|Ninjakittyram|rood|1140
+|player|p2|FIzzyPlace78|elesa|1208
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Calyrex-Ice, L50|
+|poke|p1|Landorus, L50, M|
+|poke|p1|Amoonguss, L50, F|
+|poke|p1|Urshifu-*, L50, F|
+|poke|p1|Roaring Moon, L50|
+|poke|p1|Ogerpon-Hearthflame, L50, F|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Urshifu-*, L50, F|
+|poke|p2|Farigiraf, L50, F|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Calyrex-Shadow, L50|
+|teampreview|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FIzzyPlace78)
+|inactive|Ninjakittyram has 60 seconds left.
+|inactive|FIzzyPlace78 has 60 seconds left.
+|
+|t:|1740510271
+|start
+|switch|p1a: Roaring Moon|Roaring Moon, L50|100/100
+|switch|p1b: Ogerpon|Ogerpon-Hearthflame, L50, F|100/100
+|switch|p2a: Farigiraf|Farigiraf, L50, F|100/100
+|switch|p2b: Urshifu|Urshifu-Rapid-Strike, L50, F|100/100
+|-ability|p1b: Ogerpon|Mold Breaker
+|-enditem|p1a: Roaring Moon|Booster Energy
+|-activate|p1a: Roaring Moon|ability: Protosynthesis|[fromitem]
+|-start|p1a: Roaring Moon|protosynthesisspe
+|turn|1
+|inactive|Ninjakittyram has 30 seconds left.
+|inactive|Ninjakittyram has 20 seconds left.
+|
+|t:|1740510309
+|-terastallize|p2a: Farigiraf|Fairy
+|move|p1a: Roaring Moon|Knock Off|p2a: Farigiraf
+|-resisted|p2a: Farigiraf
+|-damage|p2a: Farigiraf|82/100
+|-enditem|p2a: Farigiraf|Safety Goggles|[from] move: Knock Off|[of] p1a: Roaring Moon
+|move|p2b: Urshifu|Close Combat|p1a: Roaring Moon
+|-supereffective|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|0 fnt
+|-unboost|p2b: Urshifu|def|1
+|-unboost|p2b: Urshifu|spd|1
+|faint|p1a: Roaring Moon
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|move|p1b: Ogerpon|Horn Leech|p2b: Urshifu
+|-supereffective|p2b: Urshifu
+|-enditem|p2b: Urshifu|Focus Sash
+|-damage|p2b: Urshifu|1/100
+|move|p2a: Farigiraf|Dazzling Gleam|p1b: Ogerpon
+|-resisted|p1b: Ogerpon
+|-damage|p1b: Ogerpon|82/100
+|
+|upkeep
+|
+|t:|1740510332
+|switch|p1a: Calyrex|Calyrex-Ice, L50|100/100
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|2
+|inactive|Ninjakittyram has 30 seconds left.
+|inactive|Ninjakittyram has 20 seconds left.
+|inactive|Ninjakittyram has 15 seconds left.
+|
+|t:|1740510375
+|move|p2b: Urshifu|Close Combat|p1a: Calyrex
+|-damage|p1a: Calyrex|60/100
+|-unboost|p2b: Urshifu|def|1
+|-unboost|p2b: Urshifu|spd|1
+|move|p1b: Ogerpon|Ivy Cudgel|p2a: Farigiraf|[anim] Ivy Cudgel Fire
+|-damage|p2a: Farigiraf|45/100
+|move|p1a: Calyrex|Glacial Lance|p2a: Farigiraf|[spread] p2a,p2b
+|-resisted|p2b: Urshifu
+|-damage|p2a: Farigiraf|0 fnt
+|-damage|p2b: Urshifu|0 fnt
+|faint|p2a: Farigiraf
+|faint|p2b: Urshifu
+|-ability|p1a: Calyrex|Chilling Neigh|boost
+|-boost|p1a: Calyrex|atk|2
+|
+|upkeep
+|
+|t:|1740510391
+|switch|p2b: Calyrex|Calyrex-Shadow, L50|100/100
+|switch|p2a: Rillaboom|Rillaboom, L50, M|100/100
+|-ability|p2b: Calyrex|As One
+|-ability|p2b: Calyrex|Unnerve
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|3
+|inactive|Ninjakittyram has 30 seconds left.
+|inactive|FIzzyPlace78 has 30 seconds left.
+|
+|t:|1740510422
+|move|p1b: Ogerpon|Spiky Shield|p1b: Ogerpon
+|-singleturn|p1b: Ogerpon|move: Protect
+|move|p1a: Calyrex|Protect|p1a: Calyrex
+|-singleturn|p1a: Calyrex|Protect
+|move|p2a: Rillaboom|Fake Out|p1a: Calyrex
+|-activate|p1a: Calyrex|move: Protect
+|move|p2b: Calyrex|Astral Barrage|p1b: Ogerpon|[spread] 
+|-activate|p1a: Calyrex|move: Protect
+|-activate|p1b: Ogerpon|move: Protect
+|
+|-heal|p1b: Ogerpon|88/100|[from] Grassy Terrain
+|-heal|p1a: Calyrex|66/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|FIzzyPlace78 has 30 seconds left.
+|inactive|Ninjakittyram has 30 seconds left.
+|inactive|Ninjakittyram has 20 seconds left.
+|inactive|Ninjakittyram has 15 seconds left.
+|inactive|Ninjakittyram has 10 seconds left.
+|
+|t:|1740510474
+|-terastallize|p1a: Calyrex|Fairy
+|move|p2b: Calyrex|Astral Barrage|p1b: Ogerpon|[spread] p1a,p1b
+|-damage|p1a: Calyrex|28/100
+|-damage|p1b: Ogerpon|32/100
+|move|p1b: Ogerpon|Ivy Cudgel|p2b: Calyrex|[anim] Ivy Cudgel Fire
+|-damage|p2b: Calyrex|45/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|-damage|p2a: Rillaboom|92/100|[from] Recoil
+|
+|-heal|p2b: Calyrex|52/100|[from] Grassy Terrain
+|-heal|p1b: Ogerpon|38/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|98/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740510482
+|switch|p1a: Landorus|Landorus, L50, M|100/100
+|turn|5
+|
+|t:|1740510506
+|move|p1b: Ogerpon|Follow Me|p1b: Ogerpon
+|-singleturn|p1b: Ogerpon|move: Follow Me
+|move|p2b: Calyrex|Astral Barrage|p1b: Ogerpon|[spread] p1a,p1b
+|-damage|p1a: Landorus|38/100
+|-damage|p1b: Ogerpon|0 fnt
+|faint|p1b: Ogerpon
+|-ability|p2b: Calyrex|Grim Neigh|boost
+|-boost|p2b: Calyrex|spa|1
+|move|p1a: Landorus|Earth Power|p2b: Calyrex
+|-damage|p2b: Calyrex|0 fnt
+|faint|p2b: Calyrex
+|move|p2a: Rillaboom|Wood Hammer|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Rillaboom|86/100|[from] Recoil
+|
+|win|FIzzyPlace78
+|raw|Ninjakittyram's rating: 1140 &rarr; <strong>1120</strong><br />(-20 for losing)
+|raw|FIzzyPlace78's rating: 1208 &rarr; <strong>1228</strong><br />(+20 for winning)

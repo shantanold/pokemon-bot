@@ -1,0 +1,356 @@
+|j|☆Xibalbaa
+|j|☆Citibikecowboy
+|t:|1740510127
+|gametype|singles
+|player|p1|Xibalbaa|psychicf|1513
+|player|p2|Citibikecowboy|juggler|1474
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Zapdos|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Great Tusk|
+|poke|p1|Heatran, F|
+|poke|p2|Latios, M|
+|poke|p2|Pecharunt|
+|poke|p2|Ting-Lu|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Cobalion|
+|poke|p2|Primarina, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Citibikecowboy)
+|
+|t:|1740510151
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Till Death|Pecharunt|100/100
+|turn|1
+|
+|t:|1740510155
+|switch|p2a: 12 Steps|Ting-Lu|100/100
+|-ability|p2a: 12 Steps|Vessel of Ruin
+|move|p1a: Zapdos|Thunder Wave|p2a: 12 Steps
+|-immune|p2a: 12 Steps
+|
+|upkeep
+|turn|2
+|
+|t:|1740510160
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: 12 Steps|Ruination|p1a: Hatterene
+|-damage|p1a: Hatterene|50/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740510168
+|move|p2a: 12 Steps|Heavy Slam|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1740510173
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|4
+|
+|t:|1740510179
+|switch|p2a: Till Death|Pecharunt|100/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Till Death
+|-resisted|p2a: Till Death
+|-damage|p2a: Till Death|68/100
+|-damage|p1a: Rillaboom|89/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|95/100|[from] Grassy Terrain
+|-heal|p2a: Till Death|74/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1740510186
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Till Death|Parting Shot|p1a: Heatran
+|-unboost|p1a: Heatran|atk|1
+|-unboost|p1a: Heatran|spa|1
+|
+|t:|1740510192
+|switch|p2a: Soft Sounds|Primarina, M|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|6
+|
+|t:|1740510200
+|switch|p1a: Rillaboom|Rillaboom, F|95/100
+|move|p2a: Soft Sounds|Psychic Noise|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|70/100
+|-start|p1a: Rillaboom|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1740510207
+|switch|p2a: Till Death|Pecharunt|74/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Till Death
+|-resisted|p2a: Till Death
+|-damage|p2a: Till Death|45/100
+|-damage|p1a: Rillaboom|60/100|[from] Recoil
+|
+|-heal|p2a: Till Death|51/100|[from] Grassy Terrain
+|-end|p1a: Rillaboom|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1740510210
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Till Death|Recover|p2a: Till Death
+|-heal|p2a: Till Death|100/100
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1740510214
+|move|p2a: Till Death|Parting Shot|p1a: Heatran
+|-unboost|p1a: Heatran|atk|1
+|-unboost|p1a: Heatran|spa|1
+|
+|t:|1740510230
+|switch|p2a: Another Planet|Tornadus-Therian, M|100/100|[from] Parting Shot
+|move|p1a: Heatran|Magma Storm|p2a: Another Planet
+|-damage|p2a: Another Planet|72/100
+|-activate|p2a: Another Planet|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Another Planet|60/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1740510250
+|move|p2a: Another Planet|Nasty Plot|p2a: Another Planet
+|-boost|p2a: Another Planet|spa|2
+|move|p1a: Heatran|Magma Storm|p2a: Another Planet
+|-damage|p2a: Another Planet|32/100
+|
+|-damage|p2a: Another Planet|20/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1740510262
+|-terastallize|p2a: Another Planet|Ground
+|move|p2a: Another Planet|Tera Blast|p1a: Heatran|[anim] Tera Blast Ground
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: Another Planet|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1740510267
+|switch|p1a: Rillaboom|Rillaboom, F|60/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|12
+|
+|t:|1740510269
+|switch|p2a: Till Death|Pecharunt|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Till Death
+|-resisted|p2a: Till Death
+|-damage|p2a: Till Death|86/100
+|
+|-heal|p1a: Rillaboom|66/100|[from] Grassy Terrain
+|-heal|p2a: Till Death|92/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1740510274
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Till Death|Malignant Chain|p1a: Zapdos
+|-damage|p1a: Zapdos|68/100
+|-status|p1a: Zapdos|tox
+|-start|p1a: Zapdos|confusion|[from] ability: Poison Puppeteer|[of] p2a: Till Death
+|
+|-heal|p2a: Till Death|98/100|[from] Grassy Terrain
+|-damage|p1a: Zapdos|62/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1740510278
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|57/100 tox|[from] confusion
+|move|p2a: Till Death|Parting Shot|p1a: Zapdos
+|-unboost|p1a: Zapdos|atk|1
+|-unboost|p1a: Zapdos|spa|1
+|
+|t:|1740510285
+|switch|p2a: Machinist|Latios, M|100/100|[from] Parting Shot
+|
+|-damage|p1a: Zapdos|45/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1740510289
+|move|p2a: Machinist|Psychic Noise|p1a: Zapdos
+|-damage|p1a: Zapdos|2/100 tox
+|-start|p1a: Zapdos|move: Heal Block
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|0 fnt|[from] confusion
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1740510295
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|16
+|
+|t:|1740510300
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Machinist|Thunder Wave|p1a: Ogerpon
+|-status|p1a: Ogerpon|par
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1740510309
+|move|p2a: Machinist|Draco Meteor|p1a: Ogerpon
+|-damage|p1a: Ogerpon|41/100 par
+|-unboost|p2a: Machinist|spa|2
+|move|p1a: Ogerpon|Knock Off|p2a: Machinist
+|-supereffective|p2a: Machinist
+|-damage|p2a: Machinist|0 fnt
+|-enditem|p2a: Machinist|Soul Dew|[from] move: Knock Off|[of] p1a: Ogerpon
+|faint|p2a: Machinist
+|
+|upkeep
+|
+|t:|1740510315
+|switch|p2a: Body is a Blade|Cobalion|100/100
+|turn|18
+|
+|t:|1740510320
+|move|p2a: Body is a Blade|Body Press|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1740510323
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisspe
+|turn|19
+|
+|t:|1740510331
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Body is a Blade|Flash Cannon|p1a: Great Tusk
+|-damage|p1a: Great Tusk|66/100
+|
+|upkeep
+|turn|20
+|
+|t:|1740510337
+|move|p1a: Great Tusk|Headlong Rush|p2a: Body is a Blade
+|-supereffective|p2a: Body is a Blade
+|-damage|p2a: Body is a Blade|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|-damage|p1a: Great Tusk|49/100|[from] item: Rocky Helmet|[of] p2a: Body is a Blade
+|faint|p2a: Body is a Blade
+|
+|upkeep
+|
+|t:|1740510342
+|switch|p2a: 12 Steps|Ting-Lu|100/100
+|-ability|p2a: 12 Steps|Vessel of Ruin
+|turn|21
+|
+|t:|1740510347
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: 12 Steps|Ruination|p1a: Great Tusk
+|-damage|p1a: Great Tusk|25/100
+|
+|upkeep
+|turn|22
+|
+|t:|1740510349
+|move|p1a: Great Tusk|Ice Spinner|p2a: 12 Steps
+|-supereffective|p2a: 12 Steps
+|-damage|p2a: 12 Steps|54/100
+|move|p2a: 12 Steps|Ruination|p1a: Great Tusk
+|-damage|p1a: Great Tusk|13/100
+|
+|upkeep
+|turn|23
+|
+|t:|1740510352
+|move|p1a: Great Tusk|Ice Spinner|p2a: 12 Steps
+|-supereffective|p2a: 12 Steps
+|-damage|p2a: 12 Steps|5/100
+|move|p2a: 12 Steps|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740510354
+|switch|p1a: Rillaboom|Rillaboom, F|66/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|24
+|-enditem|p2a: 12 Steps|Custap Berry|[eat]
+|-activate|p2a: 12 Steps|item: Custap Berry|[consumed]
+|
+|t:|1740510357
+|move|p2a: 12 Steps|Ruination|p1a: Rillaboom
+|-damage|p1a: Rillaboom|33/100
+|move|p1a: Rillaboom|Knock Off|p2a: 12 Steps
+|-resisted|p2a: 12 Steps
+|-damage|p2a: 12 Steps|0 fnt
+|faint|p2a: 12 Steps
+|
+|-heal|p1a: Rillaboom|39/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740510360
+|switch|p2a: Till Death|Pecharunt|98/100
+|turn|25
+|
+|t:|1740510362
+|move|p1a: Rillaboom|Knock Off|p2a: Till Death
+|-supereffective|p2a: Till Death
+|-damage|p2a: Till Death|49/100
+|-enditem|p2a: Till Death|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Till Death|Malignant Chain|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|win|Citibikecowboy
+|raw|Xibalbaa's rating: 1513 &rarr; <strong>1491</strong><br />(-22 for losing)
+|raw|Citibikecowboy's rating: 1474 &rarr; <strong>1496</strong><br />(+22 for winning)
+|l|☆Citibikecowboy
+|player|p2|
+|l|☆Xibalbaa
+|player|p1|

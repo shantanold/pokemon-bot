@@ -1,0 +1,145 @@
+|j|☆jzdr
+|j|☆cosmic lover heart
+|html|<table width="100%"><tr><td align="left">jzdr</td><td align="right">cosmic lover heart</tr><tr><td align="left"><i class="fa fa-circle"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 2</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307756850">a best-of-3</a></h2>
+|t:|1740510279
+|gametype|doubles
+|player|p1|jzdr|cynthia|1468
+|player|p2|cosmic lover heart|101|1426
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Iron Hands, L50|
+|poke|p1|Miraidon, L50|
+|poke|p1|Volcarona, L50, F|
+|poke|p1|Grimmsnarl, L50, M|
+|poke|p1|Iron Bundle, L50|
+|poke|p1|Ogerpon-Cornerstone, L50, F|
+|poke|p2|Calyrex-Shadow, L50|
+|poke|p2|Sneasler, L50, F|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Urshifu-*, L50, F|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Regidrago, L50|
+|teampreview|4
+|showteam|p1|Iron Hands||AssaultVest|QuarkDrive|FakeOut,LowKick,DrainPunch,HeavySlam||||||50|,,,,,Bug]Miraidon||ChoiceSpecs|HadronEngine|VoltSwitch,ElectroDrift,DracoMeteor,DazzlingGleam||||||50|,,,,,Fairy]Volcarona||Leftovers|FlameBody|Protect,QuiverDance,FieryDance,GigaDrain|||F|||50|,,,,,Water]Grimmsnarl||LightClay|Prankster|LightScreen,Reflect,ThunderWave,FoulPlay|||M|||50|,,,,,Ghost]Iron Bundle||FocusSash|QuarkDrive|Protect,HydroPump,FreezeDry,IcyWind||||||50|,,,,,Ghost]Ogerpon-Cornerstone||CornerstoneMask|Sturdy|PowerWhip,IvyCudgel,SpikyShield,FollowMe|||F|||50|,,,,,Rock
+|showteam|p2|Calyrex-Shadow||LifeOrb|AsOneSpectrier|AstralBarrage,ExpandingForce,NastyPlot,Protect||||||50|,,,,,Normal]Sneasler||PsychicSeed|Unburden|CloseCombat,ThroatChop,DireClaw,Protect|||F|||50|,,,,,Stellar]Indeedee-F||RockyHelmet|PsychicSurge|FollowMe,HelpingHand,TrickRoom,Psychic|||F|||50|,,,,,Water]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,Taunt,Detect|||F|||50|,,,,,Water]Tornadus||FocusSash|Prankster|BleakwindStorm,Tailwind,RainDance,Protect|||M|||50|,,,,,Ghost]Regidrago||DragonFang|DragonsMaw|DragonEnergy,DracoMeteor,DragonPulse,Protect||||||50|,,,,,Ghost
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jzdr)
+|
+|t:|1740510296
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, L50, M|100/100
+|switch|p1b: Miraidon|Miraidon, L50|100/100
+|switch|p2a: Indeedee|Indeedee-F, L50, F|100/100
+|switch|p2b: Calyrex|Calyrex-Shadow, L50|100/100
+|-ability|p2b: Calyrex|As One
+|-ability|p2b: Calyrex|Unnerve
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1b: Miraidon
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|
+|t:|1740510308
+|move|p2a: Indeedee|Follow Me|p2a: Indeedee
+|-singleturn|p2a: Indeedee|move: Follow Me
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: jzdr|move: Light Screen
+|move|p2b: Calyrex|Nasty Plot|p2b: Calyrex
+|-boost|p2b: Calyrex|spa|2
+|move|p1b: Miraidon|Volt Switch|p2a: Indeedee
+|-damage|p2a: Indeedee|37/100
+|
+|t:|1740510316
+|switch|p1b: Iron Hands|Iron Hands, L50|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1740510337
+|-terastallize|p2b: Calyrex|Normal
+|-terastallize|p1b: Iron Hands|Bug
+|move|p2a: Indeedee|Helping Hand|p2b: Calyrex
+|-singleturn|p2b: Calyrex|Helping Hand|[of] p2a: Indeedee
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: jzdr|Reflect
+|move|p2b: Calyrex|Expanding Force|p1a: Grimmsnarl|[spread] p1b
+|-immune|p1a: Grimmsnarl
+|-damage|p1b: Iron Hands|5/100
+|-damage|p2b: Calyrex|91/100|[from] item: Life Orb
+|move|p1b: Iron Hands|Drain Punch|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|-heal|p1b: Iron Hands|19/100|[from] drain|[of] p2a: Indeedee
+|-damage|p1b: Iron Hands|2/100|[from] item: Rocky Helmet|[of] p2a: Indeedee
+|faint|p2a: Indeedee
+|
+|upkeep
+|
+|t:|1740510347
+|switch|p2a: Tornadus|Tornadus, L50, M|100/100
+|turn|3
+|inactive|jzdr has 30 seconds left.
+|
+|t:|1740510379
+|move|p2b: Calyrex|Astral Barrage|p1b: Iron Hands|[spread] p1a,p1b
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|51/100
+|-damage|p1b: Iron Hands|0 fnt
+|faint|p1b: Iron Hands
+|-end|p1b: Iron Hands|Quark Drive|[silent]
+|-ability|p2b: Calyrex|Grim Neigh|boost
+|-boost|p2b: Calyrex|spa|1
+|-damage|p2b: Calyrex|81/100|[from] item: Life Orb
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|18/100
+|move|p1a: Grimmsnarl|Foul Play|p2a: Tornadus
+|-damage|p2a: Tornadus|53/100
+|
+|upkeep
+|
+|t:|1740510391
+|switch|p1b: Miraidon|Miraidon, L50|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1b: Miraidon
+|turn|4
+|
+|t:|1740510400
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: cosmic lover heart|move: Tailwind
+|move|p1a: Grimmsnarl|Thunder Wave|p2b: Calyrex
+|-status|p2b: Calyrex|par
+|move|p2b: Calyrex|Astral Barrage|p1a: Grimmsnarl|[spread] p1a,p1b
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|-damage|p1b: Miraidon|0 fnt
+|faint|p1a: Grimmsnarl
+|faint|p1b: Miraidon
+|-ability|p2b: Calyrex|Grim Neigh|boost
+|-boost|p2b: Calyrex|spa|2
+|-damage|p2b: Calyrex|72/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510408
+|switch|p1b: Iron Bundle|Iron Bundle, L50|100/100
+|-activate|p1b: Iron Bundle|ability: Quark Drive
+|-start|p1b: Iron Bundle|quarkdrivespe
+|turn|5
+|
+|t:|1740510413
+|move|p2a: Tornadus|Bleakwind Storm|p1b: Iron Bundle
+|-damage|p1b: Iron Bundle|26/100
+|move|p1b: Iron Bundle|Hydro Pump|p2b: Calyrex
+|-damage|p2b: Calyrex|20/100 par
+|move|p2b: Calyrex|Astral Barrage|p1b: Iron Bundle
+|-damage|p1b: Iron Bundle|0 fnt
+|faint|p1b: Iron Bundle
+|-end|p1b: Iron Bundle|Quark Drive|[silent]
+|-damage|p2b: Calyrex|10/100 par|[from] item: Life Orb
+|
+|win|cosmic lover heart
+||jzdr is ready for game 3.
+||cosmic lover heart is ready for game 3.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307760621"><strong>Game 3 of 3</strong></a>

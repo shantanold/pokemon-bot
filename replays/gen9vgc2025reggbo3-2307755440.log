@@ -1,0 +1,115 @@
+|j|☆ShawdowKeeper1
+|j|☆tochigiguy
+|html|<table width="100%"><tr><td align="left">ShawdowKeeper1</td><td align="right">tochigiguy</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307755439">a best-of-3</a></h2>
+|t:|1740509943
+|gametype|doubles
+|player|p1|ShawdowKeeper1|iris-gen5bw2|1215
+|player|p2|tochigiguy|rocketgrunt|1124
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Miraidon, L50|
+|poke|p1|Whimsicott, L50, M|
+|poke|p1|Urshifu-*, L50, M|
+|poke|p1|Ogerpon-Hearthflame, L50, F|
+|poke|p1|Farigiraf, L50, M|
+|poke|p1|Iron Hands, L50|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Slowbro, L50, F|
+|poke|p2|Pelipper, L50, M|
+|poke|p2|Calyrex-Ice, L50|
+|poke|p2|Chesnaught, L50, F|
+|poke|p2|Incineroar, L50, M|
+|teampreview|4
+|showteam|p1|Miraidon||ChoiceSpecs|HadronEngine|ElectroDrift,DracoMeteor,VoltSwitch,DazzlingGleam||||||50|,,,,,Fairy]Whimsicott||CovertCloak|Prankster|Moonblast,Tailwind,LightScreen,Encore|||M|||50|,,,,,Dark]Urshifu-Rapid-Strike||FocusSash|UnseenFist|SurgingStrikes,CloseCombat,AquaJet,Protect|||M|||50|,,,,,Stellar]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,WoodHammer,FollowMe,SpikyShield|||F|||50|,,,,,Fire]Farigiraf||ElectricSeed|ArmorTail|FoulPlay,PsychicNoise,TrickRoom,HelpingHand|||M|||50|,,,,,Water]Iron Hands||AssaultVest|QuarkDrive|DrainPunch,LowKick,WildCharge,FakeOut||||||50|,,,,,Bug
+|showteam|p2|Kingambit||AssaultVest|Defiant|KowtowCleave,IronHead,SuckerPunch,LowSweep|||F|||50|,,,,,Dark]Slowbro||Leftovers|Regenerator|Scald,TrickRoom,HealPulse,Psychic|||F|||50|,,,,,Water]Pelipper||FocusSash|Drizzle|WideGuard,WeatherBall,Tailwind,Hurricane|||M|||50|,,,,,Flying]Calyrex-Ice||NeverMeltIce|AsOneGlastrier|GlacialLance,TrickRoom,Protect,HighHorsepower||||||50|,,,,,Water]Chesnaught||WeaknessPolicy|Bulletproof|SpikyShield,DrainPunch,WoodHammer,Curse|||F|||50|,,,,,Rock]Incineroar||SitrusBerry|Intimidate|FakeOut,KnockOff,WillOWisp,PartingShot|||M|||50|,,,,,Grass
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ShawdowKeeper1)
+|
+|t:|1740509992
+|start
+|switch|p1a: Miraidon|Miraidon, L50|100/100
+|switch|p1b: Ogerpon|Ogerpon-Hearthflame, L50, F|100/100
+|switch|p2a: Slowbro|Slowbro, L50, F|100/100
+|switch|p2b: Chesnaught|Chesnaught, L50, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|-ability|p1b: Ogerpon|Mold Breaker
+|turn|1
+|
+|t:|1740510018
+|switch|p2a: Incineroar|Incineroar, L50, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Miraidon|atk|1
+|-unboost|p1b: Ogerpon|atk|1
+|-terastallize|p2b: Chesnaught|Rock
+|move|p1b: Ogerpon|Follow Me|p1b: Ogerpon
+|-singleturn|p1b: Ogerpon|move: Follow Me
+|move|p1a: Miraidon|Electro Drift|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|move|p2b: Chesnaught|Curse|p2b: Chesnaught
+|-unboost|p2b: Chesnaught|spe|1
+|-boost|p2b: Chesnaught|atk|1
+|-boost|p2b: Chesnaught|def|1
+|
+|upkeep
+|
+|t:|1740510030
+|switch|p2a: Calyrex|Calyrex-Ice, L50|100/100
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|2
+|
+|t:|1740510043
+|-terastallize|p1b: Ogerpon|Fire
+|detailschange|p1b: Ogerpon|Ogerpon-Hearthflame-Tera, L50, F, tera:Fire
+|-ability|p1b: Ogerpon|Embody Aspect (Hearthflame)|boost
+|-boost|p1b: Ogerpon|atk|1
+|move|p1a: Miraidon|Electro Drift|p2a: Calyrex
+|-damage|p2a: Calyrex|5/100
+|move|p1b: Ogerpon|Ivy Cudgel|p2a: Calyrex|[anim] Ivy Cudgel Fire
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|move|p2b: Chesnaught|Drain Punch|p1b: Ogerpon
+|-damage|p1b: Ogerpon|53/100
+|
+|upkeep
+|
+|t:|1740510057
+|switch|p2a: Slowbro|Slowbro, L50, F|100/100
+|turn|3
+|
+|t:|1740510062
+|move|p1a: Miraidon|Electro Drift|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|move|p1b: Ogerpon|Wood Hammer|p2b: Chesnaught
+|-supereffective|p2b: Chesnaught
+|-damage|p2b: Chesnaught|29/100
+|-enditem|p2b: Chesnaught|Weakness Policy
+|-boost|p2b: Chesnaught|atk|2|[from] item: Weakness Policy
+|-boost|p2b: Chesnaught|spa|2|[from] item: Weakness Policy
+|-damage|p1b: Ogerpon|27/100|[from] Recoil
+|move|p2b: Chesnaught|Curse|p2b: Chesnaught
+|-unboost|p2b: Chesnaught|spe|1
+|-boost|p2b: Chesnaught|atk|1
+|-boost|p2b: Chesnaught|def|1
+|
+|upkeep
+|turn|4
+|-message|tochigiguy forfeited.
+|raw|ShawdowKeeper1's rating: 1215 &rarr; <strong>1234</strong><br />(+19 for winning)
+|raw|tochigiguy's rating: 1124 &rarr; <strong>1105</strong><br />(-19 for losing)
+|
+|win|ShawdowKeeper1
+|l|☆tochigiguy
+|player|p2|
+|l|☆ShawdowKeeper1
+|player|p1|

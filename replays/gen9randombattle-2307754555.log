@@ -1,0 +1,312 @@
+|j|☆paranoiddandroid
+|j|☆Mushrh00ms
+|t:|1740509864
+|gametype|singles
+|player|p1|paranoiddandroid|102|1562
+|player|p2|Mushrh00ms|cynthia-gen4|1595
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740509864
+|start
+|switch|p1a: Leavanny|Leavanny, L86, F|269/269
+|switch|p2a: Honchkrow|Honchkrow, L86, M|312/312
+|turn|1
+|
+|t:|1740509876
+|move|p1a: Leavanny|Sticky Web|p2a: Honchkrow
+|-sidestart|p2: Mushrh00ms|move: Sticky Web
+|move|p2a: Honchkrow|Heat Wave|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-enditem|p1a: Leavanny|Focus Sash
+|-damage|p1a: Leavanny|1/269
+|
+|upkeep
+|turn|2
+|
+|t:|1740509899
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|move|p2a: Honchkrow|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-crit|p1a: Thundurus
+|-damage|p1a: Thundurus|203/258
+|
+|t:|1740509945
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321|[from] U-turn
+|-activate|p2a: Crabominable|move: Sticky Web
+|-unboost|p2a: Crabominable|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1740509953
+|switch|p1a: Leavanny|Leavanny, L86, F|1/269
+|move|p2a: Crabominable|Ice Hammer|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|-unboost|p2a: Crabominable|spe|1
+|faint|p1a: Leavanny
+|
+|upkeep
+|
+|t:|1740509964
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|turn|4
+|
+|t:|1740509981
+|switch|p2a: Deoxys|Deoxys, L74|196/196
+|-activate|p2a: Deoxys|move: Sticky Web
+|-unboost|p2a: Deoxys|spe|1
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|upkeep
+|turn|5
+|
+|t:|1740510001
+|move|p2a: Deoxys|Knock Off|p1a: Vaporeon
+|-damage|p1a: Vaporeon|237/364
+|-enditem|p1a: Vaporeon|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|-damage|p2a: Deoxys|177/196|[from] item: Life Orb
+|move|p1a: Vaporeon|Scald|p2a: Deoxys
+|-damage|p2a: Deoxys|15/196
+|-status|p2a: Deoxys|brn
+|
+|-heal|p1a: Vaporeon|364/364|[from] move: Wish|[wisher] Vaporeon
+|-damage|p2a: Deoxys|3/196 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1740510032
+|switch|p2a: Skarmory|Skarmory, L80, F|235/235
+|move|p1a: Vaporeon|Protect||[still]
+|-fail|p1a: Vaporeon
+|
+|upkeep
+|turn|7
+|
+|t:|1740510039
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1740510047
+|switch|p1a: Thundurus|Thundurus, L80, M|203/258
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-heal|p1a: Thundurus|258/258|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|9
+|
+|t:|1740510067
+|-terastallize|p2a: Skarmory|Fighting
+|move|p1a: Thundurus|Thunderbolt|p2a: Skarmory
+|-damage|p2a: Skarmory|91/235
+|move|p2a: Skarmory|Body Press|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|68/258
+|
+|-heal|p2a: Skarmory|105/235|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510098
+|switch|p2a: Deoxys|Deoxys, L74|3/196 brn
+|-activate|p2a: Deoxys|move: Sticky Web
+|-unboost|p2a: Deoxys|spe|1
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Thundurus|Thunderbolt|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1740510123
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|-activate|p2a: Solgaleo|move: Sticky Web
+|-fail|p2a: Solgaleo|unboost|[from] ability: Full Metal Body|[of] p2a: Solgaleo
+|turn|11
+|
+|t:|1740510136
+|move|p1a: Thundurus|Thunder Wave|p2a: Solgaleo
+|-status|p2a: Solgaleo|par
+|move|p2a: Solgaleo|Flare Blitz|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|-damage|p2a: Solgaleo|303/325 par|[from] Recoil
+|
+|upkeep
+|
+|t:|1740510151
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|12
+|
+|t:|1740510165
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|move|p2a: Solgaleo|Flare Blitz|p1a: Vigoroth
+|-damage|p1a: Vigoroth|229/275
+|-damage|p2a: Solgaleo|288/325 par|[from] Recoil
+|
+|upkeep
+|turn|13
+|
+|t:|1740510185
+|switch|p2a: Honchkrow|Honchkrow, L86, M|312/312
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1740510194
+|move|p1a: Vigoroth|Body Slam|p2a: Honchkrow
+|-damage|p2a: Honchkrow|84/312
+|move|p2a: Honchkrow|Heat Wave|p1a: Vigoroth
+|-damage|p1a: Vigoroth|156/275
+|
+|upkeep
+|turn|15
+|
+|t:|1740510202
+|switch|p2a: Ceruledge|Ceruledge, L78, F|245/245
+|move|p1a: Vigoroth|Body Slam|p2a: Ceruledge
+|-immune|p2a: Ceruledge
+|
+|upkeep
+|turn|16
+|
+|t:|1740510225
+|move|p1a: Vigoroth|Knock Off|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-enditem|p2a: Ceruledge|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Vigoroth
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1740510238
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321
+|-activate|p2a: Crabominable|move: Sticky Web
+|-unboost|p2a: Crabominable|spe|1
+|turn|17
+|
+|t:|1740510245
+|-terastallize|p1a: Vigoroth|Ghost
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|275/275
+|move|p2a: Crabominable|Drain Punch|p1a: Vigoroth
+|-immune|p1a: Vigoroth
+|
+|upkeep
+|turn|18
+|
+|t:|1740510259
+|switch|p2a: Solgaleo|Solgaleo, L74|288/325 par
+|-activate|p2a: Solgaleo|move: Sticky Web
+|-fail|p2a: Solgaleo|unboost|[from] ability: Full Metal Body|[of] p2a: Solgaleo
+|move|p1a: Vigoroth|Body Slam|p2a: Solgaleo
+|-resisted|p2a: Solgaleo
+|-damage|p2a: Solgaleo|214/325 par
+|-damage|p1a: Vigoroth|230/275|[from] item: Rocky Helmet|[of] p2a: Solgaleo
+|
+|upkeep
+|turn|19
+|
+|t:|1740510269
+|move|p1a: Vigoroth|Knock Off|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|0 fnt
+|-damage|p1a: Vigoroth|185/275|[from] item: Rocky Helmet|[of] p2a: Solgaleo
+|-enditem|p2a: Solgaleo|Rocky Helmet|[from] move: Knock Off|[of] p1a: Vigoroth
+|faint|p2a: Solgaleo
+|
+|upkeep
+|
+|t:|1740510277
+|switch|p2a: Honchkrow|Honchkrow, L86, M|84/312
+|turn|20
+|
+|t:|1740510286
+|move|p2a: Honchkrow|Sucker Punch||[still]
+|-fail|p2a: Honchkrow
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|275/275
+|
+|upkeep
+|turn|21
+|
+|t:|1740510292
+|move|p2a: Honchkrow|Sucker Punch||[still]
+|-fail|p2a: Honchkrow
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|22
+|
+|t:|1740510299
+|move|p2a: Honchkrow|Sucker Punch|p1a: Vigoroth
+|-supereffective|p1a: Vigoroth
+|-damage|p1a: Vigoroth|221/275
+|move|p1a: Vigoroth|Body Slam|p2a: Honchkrow
+|-damage|p2a: Honchkrow|0 fnt
+|faint|p2a: Honchkrow
+|
+|upkeep
+|
+|t:|1740510308
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321
+|-activate|p2a: Crabominable|move: Sticky Web
+|-unboost|p2a: Crabominable|spe|1
+|turn|23
+|
+|t:|1740510321
+|move|p1a: Vigoroth|Body Slam|p2a: Crabominable
+|-damage|p2a: Crabominable|126/321
+|-status|p2a: Crabominable|par
+|move|p2a: Crabominable|Ice Hammer|p1a: Vigoroth
+|-damage|p1a: Vigoroth|143/275
+|-unboost|p2a: Crabominable|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1740510330
+|move|p1a: Vigoroth|Body Slam|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|
+|upkeep
+|
+|t:|1740510336
+|switch|p2a: Skarmory|Skarmory, L80, F, tera:Fighting|105/235
+|-activate|p2a: Skarmory|move: Sticky Web
+|-unboost|p2a: Skarmory|spe|1
+|turn|25
+|
+|t:|1740510342
+|move|p1a: Vigoroth|Body Slam|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|win|paranoiddandroid
+|raw|paranoiddandroid's rating: 1562 &rarr; <strong>1584</strong><br />(+22 for winning)
+|raw|Mushrh00ms's rating: 1595 &rarr; <strong>1573</strong><br />(-22 for losing)
+|c|☆paranoiddandroid|gg
+|l|☆Mushrh00ms
+|player|p2|

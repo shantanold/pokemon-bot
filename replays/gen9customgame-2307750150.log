@@ -1,0 +1,468 @@
+|j|☆Gaster98
+|j|☆legolasur
+|t:|1740509456
+|gametype|singles
+|player|p1|Gaster98|170|
+|player|p2|legolasur|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Custom Game
+|clearpoke
+|poke|p1|Arceus|
+|poke|p1|Gholdengo|
+|poke|p1|Entei|
+|poke|p1|Giratina|
+|poke|p1|Donphan, M|
+|poke|p1|Lugia|
+|poke|p2|Azelf|
+|poke|p2|Regirock|
+|poke|p2|Kingambit, F|
+|poke|p2|Slaking, F|
+|poke|p2|Reshiram|
+|poke|p2|Necrozma|
+|teampreview
+|j| mjgs96
+|
+|t:|1740509477
+|start
+|switch|p1a: Fuecia|Entei|376/376
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|turn|1
+|
+|t:|1740509491
+|move|p1a: Fuecia|Swords Dance|p1a: Fuecia
+|-boost|p1a: Fuecia|atk|4
+|move|p2a: BHIBI|Close Combat|p1a: Fuecia
+|-damage|p1a: Fuecia|0 fnt
+|-unboost|p2a: BHIBI|def|1
+|-unboost|p2a: BHIBI|spd|1
+|faint|p1a: Fuecia
+|
+|upkeep
+|
+|t:|1740509499
+|switch|p1a: Cofrecia|Gholdengo|325/325
+|turn|2
+|
+|t:|1740509513
+|move|p1a: Cofrecia|Calm Mind|p1a: Cofrecia
+|-boost|p1a: Cofrecia|spa|1
+|-boost|p1a: Cofrecia|spd|1
+|move|p2a: BHIBI|Close Combat|p1a: Cofrecia
+|-immune|p1a: Cofrecia
+|
+|upkeep
+|turn|3
+|
+|t:|1740509520
+|switch|p2a: Perdido|Azelf, shiny|293/293
+|move|p1a: Cofrecia|Calm Mind|p1a: Cofrecia
+|-boost|p1a: Cofrecia|spa|1
+|-boost|p1a: Cofrecia|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1740509527
+|move|p2a: Perdido|Psyshock|p1a: Cofrecia
+|-resisted|p1a: Cofrecia
+|-damage|p1a: Cofrecia|236/325
+|-start|p1a: Cofrecia|Charge|Psyshock|[from] ability: Electromorphosis
+|move|p1a: Cofrecia|Flash Cannon|p2a: Perdido
+|-enditem|p1a: Cofrecia|Steel Gem|[from] gem
+|debug|Gem Boost
+|-damage|p2a: Perdido|0 fnt
+|faint|p2a: Perdido
+|
+|upkeep
+|
+|t:|1740509542
+|switch|p2a: Mamada|Slaking, F|453/453
+|turn|5
+|
+|t:|1740509548
+|move|p2a: Mamada|Shadow Punch|p1a: Cofrecia
+|-supereffective|p1a: Cofrecia
+|-damage|p1a: Cofrecia|0 fnt
+|faint|p1a: Cofrecia
+|-damage|p2a: Mamada|408/453|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740509554
+|switch|p1a: Giracina|Giratina|418/418
+|turn|6
+|
+|t:|1740509558
+|move|p2a: Mamada|Shadow Punch|p1a: Giracina
+|-supereffective|p1a: Giracina
+|-damage|p1a: Giracina|207/418
+|-damage|p2a: Mamada|363/453|[from] item: Life Orb
+|move|p1a: Giracina|Toxic|p2a: Mamada
+|-status|p2a: Mamada|tox
+|
+|-damage|p2a: Mamada|335/453 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1740509567
+|switch|p1a: Dioscia|Arceus|385/385
+|move|p2a: Mamada|Shadow Punch|p1a: Dioscia
+|-immune|p1a: Dioscia
+|
+|-damage|p2a: Mamada|279/453 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1740509580
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|move|p1a: Dioscia|Calm Mind|p1a: Dioscia
+|-boost|p1a: Dioscia|spa|1
+|-boost|p1a: Dioscia|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1740509588
+|switch|p1a: Giracina|Giratina|207/418
+|move|p2a: BHIBI|Close Combat|p1a: Giracina
+|-immune|p1a: Giracina
+|
+|upkeep
+|turn|10
+|
+|t:|1740509596
+|switch|p2a: Prime|Regirock, shiny|308/308
+|move|p1a: Giracina|Breaking Swipe|p2a: Prime
+|-damage|p2a: Prime|271/308
+|-unboost|p2a: Prime|atk|1
+|-damage|p1a: Giracina|138/418|[from] item: Rocky Helmet|[of] p2a: Prime
+|
+|upkeep
+|turn|11
+|
+|t:|1740509608
+|switch|p1a: Dioscia|Arceus|385/385
+|move|p2a: Prime|Bitter Blade|p1a: Dioscia
+|-start|p2a: Prime|typechange|Fire|[from] ability: Protean
+|-damage|p1a: Dioscia|325/385
+|-heal|p2a: Prime|301/308|[from] drain|[of] p1a: Dioscia
+|
+|upkeep
+|turn|12
+|
+|t:|1740509619
+|move|p1a: Dioscia|Sleep Powder|p2a: Prime
+|-status|p2a: Prime|slp|[from] move: Sleep Powder
+|cant|p2a: Prime|slp
+|
+|upkeep
+|turn|13
+|
+|t:|1740509626
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|move|p1a: Dioscia|Calm Mind|p1a: Dioscia
+|-boost|p1a: Dioscia|spa|1
+|-boost|p1a: Dioscia|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1740509646
+|move|p1a: Dioscia|Moonblast|p2a: BHIBI
+|-damage|p2a: BHIBI|177/343
+|move|p2a: BHIBI|Ice Spinner|p1a: Dioscia
+|-damage|p1a: Dioscia|106/385
+|
+|upkeep
+|turn|15
+|
+|t:|1740509656
+|move|p1a: Dioscia|Moonblast|p2a: BHIBI
+|-damage|p2a: BHIBI|17/343
+|move|p2a: BHIBI|Ice Spinner|p1a: Dioscia
+|-damage|p1a: Dioscia|0 fnt
+|faint|p1a: Dioscia
+|
+|upkeep
+|
+|t:|1740509663
+|switch|p1a: Lucia|Lugia|366/366
+|turn|16
+|
+|t:|1740509668
+|switch|p2a: Mamada|Slaking, F|279/453 tox
+|move|p1a: Lucia|Ice Punch|p2a: Mamada
+|-damage|p2a: Mamada|226/453 tox
+|
+|-damage|p2a: Mamada|198/453 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1740509675
+|switch|p1a: Colmicia|Donphan, M, shiny|326/326
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|move|p2a: Mamada|Shadow Punch|p1a: Colmicia
+|-damage|p1a: Colmicia|222/326
+|-damage|p2a: Mamada|153/453 tox|[from] item: Life Orb
+|
+|-heal|p2a: Mamada|181/453 tox|[from] Grassy Terrain
+|-heal|p1a: Colmicia|242/326|[from] Grassy Terrain
+|-damage|p2a: Mamada|125/453 tox|[from] psn
+|upkeep
+|turn|18
+|-activate|p1a: Colmicia|item: Quick Claw
+|
+|t:|1740509687
+|switch|p2a: Negrin|Necrozma|313/313
+|-ability|p2a: Negrin|Mold Breaker
+|move|p1a: Colmicia|Hammer Arm|p2a: Negrin
+|-resisted|p2a: Negrin
+|-crit|p2a: Negrin
+|-damage|p2a: Negrin|220/313
+|-unboost|p1a: Colmicia|spe|1
+|
+|-heal|p2a: Negrin|239/313|[from] Grassy Terrain
+|-heal|p1a: Colmicia|262/326|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1740509704
+|switch|p1a: Lucia|Lugia|366/366
+|move|p2a: Negrin|Ceaseless Edge|p1a: Lucia
+|debug|ModifyAtk handler suppressed by Mold Breaker
+|-supereffective|p1a: Lucia
+|-damage|p1a: Lucia|280/366
+|-sidestart|p1: Gaster98|Spikes
+|-heal|p2a: Negrin|249/313|[from] item: Shell Bell|[of] p1a: Lucia
+|
+|debug|Pokemon semi-invuln or not grounded; Grassy Terrain skipped
+|-heal|p2a: Negrin|268/313|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1740509718
+|switch|p2a: Prime|Regirock, shiny|301/308 slp
+|move|p1a: Lucia|Twineedle|p2a: Prime
+|-crit|p2a: Prime
+|-damage|p2a: Prime|288/308 slp
+|-damage|p2a: Prime|279/308 slp
+|-hitcount|p2a: Prime|2
+|
+|debug|Pokemon semi-invuln or not grounded; Grassy Terrain skipped
+|-heal|p2a: Prime|298/308 slp|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1740509727
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|-curestatus|p2a: Prime|slp|[msg]
+|move|p2a: Prime|Swords Dance|p2a: Prime
+|-start|p2a: Prime|typechange|Normal|[from] ability: Protean
+|-boost|p2a: Prime|atk|2
+|
+|debug|Pokemon semi-invuln or not grounded; Grassy Terrain skipped
+|-heal|p2a: Prime|308/308|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1740509738
+|move|p1a: Lucia|Psychic|p2a: Prime
+|-damage|p2a: Prime|164/308
+|move|p2a: Prime|Swords Dance|p2a: Prime
+|-boost|p2a: Prime|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1740509745
+|move|p1a: Lucia|Psychic|p2a: Prime
+|-damage|p2a: Prime|19/308
+|move|p2a: Prime|Bitter Blade|p1a: Lucia
+|debug|Thick Fat weaken
+|-damage|p1a: Lucia|198/366
+|-heal|p2a: Prime|60/308|[from] drain|[of] p1a: Lucia
+|
+|upkeep
+|turn|24
+|
+|t:|1740509752
+|move|p2a: Prime|Bullet Punch|p1a: Lucia
+|-damage|p1a: Lucia|122/366
+|move|p1a: Lucia|Psychic|p2a: Prime
+|-damage|p2a: Prime|0 fnt
+|faint|p2a: Prime
+|
+|upkeep
+|
+|t:|1740509760
+|switch|p2a: BHIBI|Kingambit, F|17/343
+|turn|25
+|
+|t:|1740509767
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|
+|upkeep
+|turn|26
+|
+|t:|1740509773
+|switch|p2a: Negrin|Necrozma|268/313
+|-ability|p2a: Negrin|Mold Breaker
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1740509781
+|move|p2a: Negrin|Thunderclap|p1a: Lucia
+|debug|ModifySpA handler suppressed by Mold Breaker
+|-supereffective|p1a: Lucia
+|-damage|p1a: Lucia|80/366
+|-heal|p2a: Negrin|273/313|[from] item: Shell Bell|[of] p1a: Lucia
+|move|p1a: Lucia|Psychic|p2a: Negrin
+|-resisted|p2a: Negrin
+|-damage|p2a: Negrin|119/313
+|-unboost|p2a: Negrin|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1740509791
+|move|p2a: Negrin|Thunderclap||[still]
+|-fail|p2a: Negrin
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|
+|upkeep
+|turn|29
+|
+|t:|1740509801
+|move|p2a: Negrin|Thunderclap|p1a: Lucia
+|debug|ModifySpA handler suppressed by Mold Breaker
+|-supereffective|p1a: Lucia
+|-damage|p1a: Lucia|42/366
+|-heal|p2a: Negrin|123/313|[from] item: Shell Bell|[of] p1a: Lucia
+|move|p1a: Lucia|Psychic|p2a: Negrin
+|-resisted|p2a: Negrin
+|-damage|p2a: Negrin|0 fnt
+|faint|p2a: Negrin
+|
+|upkeep
+|
+|t:|1740509810
+|switch|p2a: BHIBI|Kingambit, F|17/343
+|turn|30
+|
+|t:|1740509814
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|
+|upkeep
+|turn|31
+|
+|t:|1740509825
+|switch|p2a: Mamada|Slaking, F|125/453 tox
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|
+|-damage|p2a: Mamada|97/453 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1740509833
+|move|p1a: Lucia|Psychic|p2a: Mamada
+|-crit|p2a: Mamada
+|-damage|p2a: Mamada|0 fnt
+|faint|p2a: Mamada
+|
+|upkeep
+|
+|t:|1740509838
+|switch|p2a: BHIBI|Kingambit, F|17/343
+|turn|33
+|
+|t:|1740509848
+|move|p1a: Lucia|Psychic|p2a: BHIBI
+|-immune|p2a: BHIBI
+|move|p2a: BHIBI|Ice Spinner|p1a: Lucia
+|debug|Thick Fat weaken
+|-supereffective|p1a: Lucia
+|-damage|p1a: Lucia|0 fnt
+|faint|p1a: Lucia
+|
+|upkeep
+|
+|t:|1740509863
+|switch|p1a: Giracina|Giratina|138/418
+|-damage|p1a: Giracina|86/418|[from] Spikes
+|turn|34
+|
+|t:|1740509870
+|switch|p2a: Verdad|Reshiram|335/335
+|move|p1a: Giracina|Breaking Swipe|p2a: Verdad
+|-supereffective|p2a: Verdad
+|-damage|p2a: Verdad|207/335
+|-unboost|p2a: Verdad|atk|1
+|-enditem|p2a: Verdad|Weakness Policy
+|-boost|p2a: Verdad|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Verdad|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|35
+|
+|t:|1740509884
+|move|p2a: Verdad|Oblivion Wing|p1a: Giracina
+|debug|lax incense - decreasing accuracy
+|-damage|p1a: Giracina|0 fnt
+|-heal|p2a: Verdad|272/335|[from] drain|[of] p1a: Giracina
+|faint|p1a: Giracina
+|
+|upkeep
+|
+|t:|1740509890
+|switch|p1a: Colmicia|Donphan, M, shiny|262/326
+|-damage|p1a: Colmicia|222/326|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|turn|36
+|
+|t:|1740509899
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|move|p1a: Colmicia|Triple Axel|p2a: Verdad
+|-damage|p2a: Verdad|248/335
+|-damage|p2a: Verdad|206/335
+|-damage|p2a: Verdad|143/335
+|-hitcount|p2a: Verdad|3
+|
+|-heal|p2a: Verdad|163/335|[from] Grassy Terrain
+|-heal|p1a: Colmicia|242/326|[from] Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1740509913
+|move|p2a: Verdad|Oblivion Wing|p1a: Colmicia
+|-damage|p1a: Colmicia|0 fnt
+|-heal|p2a: Verdad|335/335|[from] drain|[of] p1a: Colmicia
+|faint|p1a: Colmicia
+|
+|win|legolasur
+|l|☆Gaster98
+|player|p1|
+|l|☆legolasur
+|player|p2|

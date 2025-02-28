@@ -1,0 +1,156 @@
+|j|☆ElitheEpicBoss
+|j|☆IamNumber2
+|t:|1740510143
+|gametype|doubles
+|player|p1|ElitheEpicBoss|steven|1165
+|player|p2|IamNumber2|102|1120
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Kyogre, L50|
+|poke|p1|Tornadus, L50, M|
+|poke|p1|Urshifu-*, L50, F|
+|poke|p1|Basculegion, L50, M|
+|poke|p1|Tsareena, L50, F|
+|poke|p1|Landorus, L50, M|
+|poke|p2|Kyogre, L50|
+|poke|p2|Electivire, L50, M|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Overqwil, L50, F|
+|poke|p2|Heatran, L50, M|
+|poke|p2|Mienshao, L50, F|
+|teampreview|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElitheEpicBoss)
+|inactive|ElitheEpicBoss has 60 seconds left.
+|inactive|IamNumber2 has 60 seconds left.
+|
+|t:|1740510181
+|start
+|switch|p1a: Keyogree|Kyogre, L50|100/100
+|switch|p1b: Torn|Tornadus, L50, M|100/100
+|switch|p2a: Kyogre|Kyogre, L50|100/100
+|switch|p2b: Electivire|Electivire, L50, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Keyogree
+|turn|1
+|inactive|ElitheEpicBoss has 30 seconds left.
+|
+|t:|1740510207
+|move|p2b: Electivire|Follow Me|p2b: Electivire
+|-singleturn|p2b: Electivire|move: Follow Me
+|move|p1b: Torn|Tailwind|p1b: Torn
+|-sidestart|p1: ElitheEpicBoss|move: Tailwind
+|move|p1a: Keyogree|Thunder|p2b: Electivire
+|-ability|p2b: Electivire|Motor Drive|boost
+|-boost|p2b: Electivire|spe|1
+|move|p2a: Kyogre|Calm Mind|p2a: Kyogre
+|-boost|p2a: Kyogre|spa|1
+|-boost|p2a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|ElitheEpicBoss has 30 seconds left.
+|
+|t:|1740510234
+|switch|p1b: Landrus|Landorus, L50, M|100/100
+|move|p1a: Keyogree|Water Spout|p2a: Kyogre|[spread] p2a,p2b
+|-resisted|p2a: Kyogre
+|-crit|p2a: Kyogre
+|-damage|p2a: Kyogre|45/100
+|-damage|p2b: Electivire|0 fnt
+|faint|p2b: Electivire
+|move|p2a: Kyogre|Calm Mind|p2a: Kyogre
+|-boost|p2a: Kyogre|spa|1
+|-boost|p2a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510246
+|switch|p2b: Mienshao|Mienshao, L50, F|100/100
+|turn|3
+|
+|t:|1740510260
+|switch|p1b: Sar|Tsareena, L50, F, shiny|100/100
+|move|p2b: Mienshao|Fake Out||[still]
+|cant|p1b: Sar|ability: Queenly Majesty|Fake Out|[of] p2b: Mienshao
+|move|p1a: Keyogree|Water Spout|p2a: Kyogre|[spread] p2a,p2b
+|-resisted|p2a: Kyogre
+|-crit|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|-enditem|p2b: Mienshao|Focus Sash
+|-damage|p2b: Mienshao|1/100
+|faint|p2a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510269
+|switch|p2a: Overqwil|Overqwil, L50, F|100/100
+|turn|4
+|
+|t:|1740510285
+|move|p2b: Mienshao|Wide Guard|p2b: Mienshao
+|-singleturn|p2b: Mienshao|Wide Guard
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|move|p1a: Keyogree|Water Spout|p2a: Overqwil|[spread] 
+|-activate|p2a: Overqwil|move: Wide Guard
+|-activate|p2b: Mienshao|move: Wide Guard
+|move|p1b: Sar|Triple Axel|p2a: Overqwil
+|-damage|p2a: Overqwil|92/100
+|-damage|p2a: Overqwil|76/100
+|-damage|p2a: Overqwil|52/100
+|-hitcount|p2a: Overqwil|3
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: ElitheEpicBoss|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1740510309
+|move|p2a: Overqwil|Throat Chop|p1a: Keyogree
+|-damage|p1a: Keyogree|0 fnt
+|faint|p1a: Keyogree
+|-damage|p2a: Overqwil|42/100|[from] item: Life Orb
+|move|p2b: Mienshao|High Jump Kick|p1b: Sar
+|-crit|p1b: Sar
+|-damage|p1b: Sar|0 fnt
+|faint|p1b: Sar
+|
+|-weather|none
+|upkeep
+|
+|t:|1740510313
+|switch|p1a: Torn|Tornadus, L50, M|100/100
+|switch|p1b: Landrus|Landorus, L50, M|100/100
+|turn|6
+|
+|t:|1740510335
+|-terastallize|p2a: Overqwil|Flying
+|move|p1a: Torn|Tailwind|p1a: Torn
+|-sidestart|p1: ElitheEpicBoss|move: Tailwind
+|move|p1b: Landrus|Sandsear Storm|p2a: Overqwil|[spread] p2b
+|-immune|p2a: Overqwil
+|-damage|p2b: Mienshao|0 fnt
+|faint|p2b: Mienshao
+|move|p2a: Overqwil|Throat Chop|p1a: Torn
+|-damage|p1a: Torn|0 fnt
+|faint|p1a: Torn
+|-damage|p2a: Overqwil|32/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|-message|ElitheEpicBoss forfeited.
+|
+|win|IamNumber2
+|raw|ElitheEpicBoss's rating: 1165 &rarr; <strong>1137</strong><br />(-28 for losing)
+|raw|IamNumber2's rating: 1120 &rarr; <strong>1148</strong><br />(+28 for winning)
+|l|☆ElitheEpicBoss
+|player|p1|

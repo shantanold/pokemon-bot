@@ -1,0 +1,217 @@
+|j|☆thedumbduck
+|j|☆g901
+|t:|1740509864
+|gametype|singles
+|player|p1|thedumbduck|harlequin|1295
+|player|p2|g901|265|1330
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Roaring Moon|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Crown|
+|poke|p1|Gholdengo|
+|poke|p1|Rotom-Wash|
+|poke|p1|Kyurem|
+|poke|p2|Samurott-Hisui, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Floatzel, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Iron Treads|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thedumbduck)
+|
+|t:|1740509877
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-ability|p1a: Kyurem|Pressure
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1740509892
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|-enditem|p2a: Iron Treads|Booster Energy
+|-activate|p2a: Iron Treads|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Kyurem|Freeze-Dry|p2a: Iron Treads
+|-damage|p2a: Iron Treads|61/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740509897
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Iron Treads|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|75/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740509908
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Great Tusk|Stealth Rock|p2a: Ogerpon
+|-sidestart|p2: g901|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740509920
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Rotom|[anim] Ivy Cudgel Water
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|63/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rotom|69/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509923
+|move|p2a: Ogerpon|Horn Leech|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|3/100
+|move|p1a: Rotom|Will-O-Wisp|p2a: Ogerpon
+|-status|p2a: Ogerpon|brn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rotom|10/100|[from] item: Leftovers
+|-damage|p2a: Ogerpon|95/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1740509928
+|move|p2a: Ogerpon|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|t:|1740509939
+|switch|p2a: Iron Treads|Iron Treads|61/100|[from] U-turn
+|-damage|p2a: Iron Treads|58/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740509945
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|
+|t:|1740509953
+|move|p1a: Kyurem|Earth Power|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740509962
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|95/100 brn
+|-damage|p2a: Ogerpon|82/100 brn|[from] Stealth Rock
+|turn|8
+|
+|t:|1740509972
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Ogerpon|Superpower|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|
+|-weather|none
+|-damage|p2a: Ogerpon|76/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1740509975
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Gholdengo|Hex|p2a: Pelipper
+|-damage|p2a: Pelipper|38/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1740509977
+|move|p1a: Gholdengo|Hex|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740509981
+|switch|p2a: Floatzel|Floatzel, F|100/100
+|-damage|p2a: Floatzel|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1740509989
+|-terastallize|p2a: Floatzel|Water
+|move|p2a: Floatzel|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|35/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|t:|1740509994
+|switch|p2a: Samurott|Samurott-Hisui, F|100/100|[from] Flip Turn
+|-damage|p2a: Samurott|88/100|[from] Stealth Rock
+|move|p1a: Gholdengo|Thunder Wave|p2a: Samurott
+|-status|p2a: Samurott|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1740509998
+|move|p2a: Samurott|Aqua Jet|p1a: Gholdengo
+|-damage|p1a: Gholdengo|16/100
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|66/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1740510001
+|move|p1a: Gholdengo|Recover|p1a: Gholdengo
+|-heal|p1a: Gholdengo|100/100
+|move|p2a: Samurott|Ceaseless Edge|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|32/100
+|-sidestart|p1: thedumbduck|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|l|☆g901
+|inactive|g901 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|g901 has 30 seconds to reconnect!
+|inactive|g901 has 20 seconds to reconnect!
+|inactive|g901 has 15 seconds to reconnect!
+|inactive|g901 has 10 seconds to reconnect!
+|inactive|g901 has 5 seconds to reconnect!
+|-message|g901 lost due to inactivity.
+|
+|win|thedumbduck
+|raw|thedumbduck's rating: 1295 &rarr; <strong>1323</strong><br />(+28 for winning)
+|raw|g901's rating: 1330 &rarr; <strong>1308</strong><br />(-22 for losing)
+|l|☆thedumbduck
+|player|p1|

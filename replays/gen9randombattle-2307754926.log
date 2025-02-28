@@ -1,0 +1,270 @@
+|j|☆se21_psych0
+|j|☆Gingy1
+|t:|1740509897
+|gametype|singles
+|player|p1|se21_psych0|elio|1257
+|player|p2|Gingy1|265|1306
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740509897
+|start
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|259/259
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by se21_psych0)
+|inactive|Gingy1 has 120 seconds left.
+|inactive|Gingy1 has 90 seconds left.
+|
+|t:|1740509988
+|move|p1a: Walking Wake|Flip Turn|p2a: Enamorus
+|-damage|p2a: Enamorus|216/259
+|
+|t:|1740509996
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Electivire|Electivire, L84, M|263/263|[from] Flip Turn
+|move|p2a: Enamorus|Moonblast|p1a: Electivire
+|-damage|p1a: Electivire|121/263
+|-unboost|p1a: Electivire|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1740510008
+|switch|p2a: Mudsdale|Mudsdale, L84, F|305/305
+|move|p1a: Electivire|Supercell Slam|p2a: Mudsdale
+|-immune|p2a: Mudsdale
+|-damage|p1a: Electivire|0 fnt|[from] supercellslam
+|faint|p1a: Electivire
+|
+|upkeep
+|
+|t:|1740510016
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|turn|3
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510045
+|-terastallize|p2a: Mudsdale|Steel
+|move|p1a: Walking Wake|Hydro Pump|p2a: Mudsdale|[miss]
+|-miss|p1a: Walking Wake|p2a: Mudsdale
+|move|p2a: Mudsdale|Roar|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|drag|p1a: Cramorant|Cramorant, L86, F|261/261
+|
+|upkeep
+|turn|4
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510056
+|move|p1a: Cramorant|Surf|p2a: Mudsdale
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Mudsdale|218/305
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Stone Edge|p1a: Cramorant|[miss]
+|-miss|p2a: Mudsdale|p1a: Cramorant
+|
+|-heal|p2a: Mudsdale|237/305|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510071
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|216/259
+|move|p1a: Cramorant|Surf|p2a: Enamorus
+|-damage|p2a: Enamorus|162/259
+|
+|upkeep
+|turn|6
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510086
+|move|p1a: Cramorant|Surf|p2a: Enamorus
+|-damage|p2a: Enamorus|105/259
+|move|p2a: Enamorus|Moonblast|p1a: Cramorant
+|-damage|p1a: Cramorant|141/261
+|-damage|p2a: Enamorus|41/259|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Enamorus|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|
+|upkeep
+|turn|7
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510099
+|switch|p2a: Mudsdale|Mudsdale, L84, F, tera:Steel|237/305
+|move|p1a: Cramorant|Surf|p2a: Mudsdale
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Mudsdale|150/305
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|
+|-heal|p2a: Mudsdale|169/305|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510110
+|move|p1a: Cramorant|Surf|p2a: Mudsdale
+|-damage|p2a: Mudsdale|82/305
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Cramorant
+|drag|p1a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p1a: Pyroar|Unnerve
+|
+|-heal|p2a: Mudsdale|101/305|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Gingy1 has 120 seconds left.
+|
+|t:|1740510141
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L75, F|274/274
+|move|p1a: Pyroar|Fire Blast|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|180/274
+|
+|upkeep
+|turn|10
+|
+|t:|1740510155
+|switch|p1a: Cramorant|Cramorant, L86, F|141/261
+|switch|p2a: Mudsdale|Mudsdale, L84, F, tera:Steel|101/305
+|
+|-heal|p2a: Mudsdale|120/305|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740510163
+|move|p1a: Cramorant|Surf|p2a: Mudsdale
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Mudsdale|18/305
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Heavy Slam|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|42/261
+|-damage|p2a: Mudsdale|0 fnt|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p2a: Mudsdale
+|
+|upkeep
+|inactive|Gingy1 has 90 seconds left.
+|inactive|Gingy1 has 60 seconds left.
+|
+|t:|1740510210
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|turn|12
+|
+|t:|1740510217
+|move|p2a: Dragapult|Thunderbolt|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|
+|upkeep
+|
+|t:|1740510232
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p1a: Pyroar|Unnerve
+|turn|13
+|
+|t:|1740510247
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L75, F|180/274
+|move|p1a: Pyroar|Dark Pulse|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|132/274
+|
+|upkeep
+|turn|14
+|
+|t:|1740510260
+|move|p1a: Pyroar|Hyper Voice|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|inactive|Gingy1 has 60 seconds left.
+|
+|t:|1740510273
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|41/259
+|turn|15
+|
+|t:|1740510277
+|move|p1a: Pyroar|Hyper Voice|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1740510285
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|turn|16
+|
+|t:|1740510300
+|move|p2a: Dragapult|Draco Meteor|p1a: Pyroar
+|-damage|p1a: Pyroar|79/295
+|-unboost|p2a: Dragapult|spa|2
+|move|p1a: Pyroar|Dark Pulse|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|108/262
+|
+|upkeep
+|turn|17
+|
+|t:|1740510325
+|switch|p1a: Revavroom|Revavroom, L79, F|256/256
+|move|p2a: Dragapult|Draco Meteor|p1a: Revavroom
+|-resisted|p1a: Revavroom
+|-damage|p1a: Revavroom|203/256
+|-unboost|p2a: Dragapult|spa|2
+|
+|upkeep
+|turn|18
+|
+|t:|1740510337
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|move|p1a: Revavroom|Shift Gear|p1a: Revavroom
+|-boost|p1a: Revavroom|spe|2
+|-boost|p1a: Revavroom|atk|1
+|
+|upkeep
+|turn|19
+|
+|t:|1740510353
+|move|p1a: Revavroom|Shift Gear|p1a: Revavroom
+|-boost|p1a: Revavroom|spe|2
+|-boost|p1a: Revavroom|atk|1
+|move|p2a: Pecharunt|Parting Shot|p1a: Revavroom
+|-unboost|p1a: Revavroom|atk|1
+|-unboost|p1a: Revavroom|spa|1
+|
+|t:|1740510361
+|switch|p2a: Dragapult|Dragapult, L77, F|108/262|[from] Parting Shot
+|
+|upkeep
+|turn|20
+|
+|t:|1740510370
+|move|p1a: Revavroom|Iron Head|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-damage|p1a: Revavroom|178/256|[from] item: Life Orb
+|
+|upkeep
+|-message|Gingy1 forfeited.
+|
+|win|se21_psych0
+|raw|se21_psych0's rating: 1257 &rarr; <strong>1286</strong><br />(+29 for winning)
+|raw|Gingy1's rating: 1306 &rarr; <strong>1283</strong><br />(-23 for losing)
+|l|☆Gingy1
+|player|p2|

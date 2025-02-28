@@ -1,0 +1,205 @@
+|j|☆doctromat
+|j|☆Dizy88775
+|t:|1740510369
+|gametype|singles
+|player|p1|doctromat|266|1082
+|player|p2|Dizy88775|102|1073
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Moltres|
+|poke|p1|Pecharunt|
+|poke|p1|Gliscor, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Dragonite, F|
+|poke|p2|Darkrai|
+|poke|p2|Gliscor, F|
+|poke|p2|Quaquaval, F|
+|poke|p2|Iron Moth|
+|poke|p2|Bellibolt, M|
+|poke|p2|Garganacl, F|
+|teampreview
+|
+|t:|1740510391
+|start
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|switch|p2a: Bellibolt|Bellibolt, M, shiny|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1740510399
+|move|p1a: Ting-Lu|Spikes|p2a: Bellibolt
+|-sidestart|p2: Dizy88775|Spikes
+|move|p2a: Bellibolt|Soak|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|typechange|Water
+|
+|upkeep
+|turn|2
+|
+|t:|1740510405
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|move|p2a: Bellibolt|Parabolic Charge|p1a: Pecharunt
+|-damage|p1a: Pecharunt|79/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740510410
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Bellibolt|Soak|p1a: Pecharunt
+|-start|p1a: Pecharunt|typechange|Water
+|
+|upkeep
+|turn|4
+|
+|t:|1740510417
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Bellibolt|Parabolic Charge|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|5
+|
+|t:|1740510422
+|move|p2a: Bellibolt|Soak|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|typechange|Water
+|move|p1a: Ting-Lu|Earthquake|p2a: Bellibolt
+|-supereffective|p2a: Bellibolt
+|-damage|p2a: Bellibolt|68/100
+|-start|p2a: Bellibolt|Charge|Earthquake|[from] ability: Electromorphosis
+|
+|-heal|p2a: Bellibolt|74/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740510427
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|move|p2a: Bellibolt|Parabolic Charge|p1a: Gliscor
+|-immune|p1a: Gliscor
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p2a: Bellibolt|81/100|[from] item: Leftovers
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1740510433
+|move|p1a: Gliscor|Knock Off|p2a: Bellibolt
+|-damage|p2a: Bellibolt|67/100
+|-start|p2a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p2a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Bellibolt|Soak|p1a: Gliscor
+|-start|p1a: Gliscor|typechange|Water
+|
+|upkeep
+|turn|8
+|
+|t:|1740510446
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Bellibolt|Soak|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|typechange|Water
+|
+|upkeep
+|turn|9
+|
+|t:|1740510456
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|move|p2a: Bellibolt|Soak|p1a: Gliscor
+|-start|p1a: Gliscor|typechange|Water
+|
+|upkeep
+|turn|10
+|
+|t:|1740510465
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Bellibolt|Parabolic Charge|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|turn|11
+|
+|t:|1740510471
+|move|p1a: Ting-Lu|Spikes|p2a: Bellibolt
+|-sidestart|p2: Dizy88775|Spikes
+|move|p2a: Bellibolt|Soak|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|typechange|Water
+|
+|upkeep
+|turn|12
+|
+|t:|1740510476
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|move|p2a: Bellibolt|Soak|p1a: Gliscor
+|-start|p1a: Gliscor|typechange|Water
+|
+|upkeep
+|turn|13
+|
+|t:|1740510483
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Bellibolt|Soak|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|typechange|Water
+|
+|upkeep
+|turn|14
+|
+|t:|1740510490
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|move|p2a: Bellibolt|Soak|p1a: Gliscor
+|-start|p1a: Gliscor|typechange|Water
+|
+|upkeep
+|turn|15
+|
+|t:|1740510497
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Bellibolt|Parabolic Charge|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|16
+|
+|t:|1740510500
+|move|p2a: Bellibolt|Soak|p1a: Ting-Lu
+|-start|p1a: Ting-Lu|typechange|Water
+|move|p1a: Ting-Lu|Earthquake|p2a: Bellibolt
+|-supereffective|p2a: Bellibolt
+|-damage|p2a: Bellibolt|34/100
+|-start|p2a: Bellibolt|Charge|Earthquake|[from] ability: Electromorphosis
+|
+|upkeep
+|turn|17
+|
+|t:|1740510507
+|switch|p1a: Gliscor|Gliscor, F|100/100 tox
+|move|p2a: Bellibolt|Parabolic Charge|p1a: Gliscor
+|-immune|p1a: Gliscor
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|turn|18
+|-message|Dizy88775 forfeited.
+|
+|win|doctromat
+|raw|doctromat's rating: 1082 &rarr; <strong>1109</strong><br />(+27 for winning)
+|raw|Dizy88775's rating: 1073 &rarr; <strong>1053</strong><br />(-20 for losing)
+|l|☆Dizy88775
+|player|p2|

@@ -1,0 +1,358 @@
+|j|☆Gaster98
+|j|☆Azul616_1
+|t:|1740507538
+|gametype|singles
+|player|p1|Gaster98|170|
+|player|p2|Azul616_1|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Custom Game
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Entei|
+|poke|p1|Latias, F|
+|poke|p1|Giratina|
+|poke|p1|Donphan, M|
+|poke|p1|Lugia|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Palkia|
+|poke|p2|Entei|
+|poke|p2|Tapu Bulu|
+|poke|p2|Metagross|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gaster98)
+|
+|t:|1740507551
+|start
+|switch|p1a: Cofrecia|Gholdengo|325/325
+|switch|p2a: TEDY|Urshifu, M|326/326
+|-ability|p2a: TEDY|Pressure
+|turn|1
+|
+|t:|1740507559
+|move|p2a: TEDY|Spore|p1a: Cofrecia
+|-status|p1a: Cofrecia|slp|[from] move: Spore
+|cant|p1a: Cofrecia|slp
+|
+|upkeep
+|turn|2
+|j| mjgs96
+|j| DARKLUCIEM
+|j| legolasur
+|
+|t:|1740507583
+|switch|p2a: DURO|Metagross|284/284
+|cant|p1a: Cofrecia|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1740507604
+|switch|p1a: Colmicia|Donphan, M, shiny|326/326
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|detailschange|p2a: DURO|Metagross-Mega
+|-mega|p2a: DURO|Metagross|Metagrossite
+|move|p2a: DURO|Spirit Shackle|p1a: Colmicia
+|-damage|p1a: Colmicia|247/326
+|-activate|p1a: Colmicia|trapped
+|
+|-heal|p1a: Colmicia|267/326|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1740507621
+|switch|p2a: JESUCRISTO|Palkia|320/320
+|move|p1a: Colmicia|Hammer Arm|p2a: JESUCRISTO
+|-damage|p2a: JESUCRISTO|202/320
+|-unboost|p1a: Colmicia|spe|1
+|
+|-heal|p2a: JESUCRISTO|222/320|[from] Grassy Terrain
+|-heal|p1a: Colmicia|287/326|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1740507637
+|switch|p1a: Matalucias|Latias, F|292/292
+|move|p2a: JESUCRISTO|Steam Eruption|p1a: Matalucias
+|-resisted|p1a: Matalucias
+|-damage|p1a: Matalucias|207/292
+|
+|-heal|p2a: JESUCRISTO|242/320|[from] Grassy Terrain
+|-heal|p1a: Matalucias|225/292|[from] Grassy Terrain
+|upkeep
+|turn|6
+|inactive|Azul616_1 has 270 seconds left.
+|
+|t:|1740507662
+|switch|p2a: DURO|Metagross-Mega|284/284
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|
+|-heal|p1a: Matalucias|243/292|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1740507675
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|move|p2a: DURO|Spirit Shackle|p1a: Matalucias
+|-supereffective|p1a: Matalucias
+|-damage|p1a: Matalucias|39/292
+|-activate|p1a: Matalucias|trapped
+|
+|-heal|p1a: Matalucias|57/292|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|inactive|Azul616_1 has 270 seconds left.
+|
+|t:|1740507684
+|move|p1a: Matalucias|Soft-Boiled|p1a: Matalucias
+|-heal|p1a: Matalucias|203/292
+|move|p2a: DURO|Spirit Shackle|p1a: Matalucias
+|-supereffective|p1a: Matalucias
+|-damage|p1a: Matalucias|11/292
+|
+|upkeep
+|turn|9
+|
+|t:|1740507695
+|move|p1a: Matalucias|Dragon Breath|p2a: DURO
+|-resisted|p2a: DURO
+|-damage|p2a: DURO|181/284
+|move|p2a: DURO|Spirit Shackle|p1a: Matalucias
+|-supereffective|p1a: Matalucias
+|-damage|p1a: Matalucias|0 fnt
+|faint|p1a: Matalucias
+|
+|upkeep
+|
+|t:|1740507703
+|switch|p1a: Colmicia|Donphan, M, shiny|287/326
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|turn|10
+|
+|t:|1740507719
+|move|p2a: DURO|Ice Hammer|p1a: Colmicia
+|-supereffective|p1a: Colmicia
+|-damage|p1a: Colmicia|41/326
+|-unboost|p2a: DURO|spe|1
+|move|p1a: Colmicia|Hammer Arm|p2a: DURO
+|-damage|p2a: DURO|98/284
+|-unboost|p1a: Colmicia|spe|1
+|
+|-heal|p2a: DURO|115/284|[from] Grassy Terrain
+|-heal|p1a: Colmicia|61/326|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1740507742
+|move|p2a: DURO|Ice Hammer|p1a: Colmicia
+|-supereffective|p1a: Colmicia
+|-crit|p1a: Colmicia
+|-damage|p1a: Colmicia|0 fnt
+|-unboost|p2a: DURO|spe|1
+|faint|p1a: Colmicia
+|
+|-heal|p2a: DURO|132/284|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740507749
+|switch|p1a: Fuecia|Entei|376/376
+|turn|12
+|inactive|Azul616_1 has 270 seconds left.
+|
+|t:|1740507791
+|move|p1a: Fuecia|Swords Dance|p1a: Fuecia
+|-boost|p1a: Fuecia|atk|4
+|move|p2a: DURO|Zen Headbutt|p1a: Fuecia
+|-damage|p1a: Fuecia|181/376
+|
+|-heal|p1a: Fuecia|204/376|[from] Grassy Terrain
+|-heal|p2a: DURO|149/284|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1740507799
+|move|p1a: Fuecia|Raging Fury|p2a: DURO
+|-supereffective|p2a: DURO
+|-damage|p2a: DURO|0 fnt
+|faint|p2a: DURO
+|
+|-heal|p1a: Fuecia|227/376|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740507807
+|switch|p2a: TEDY|Urshifu, M|326/326
+|-ability|p2a: TEDY|Pressure
+|turn|14
+|
+|t:|1740507812
+|move|p2a: TEDY|Spore|p1a: Fuecia
+|-status|p1a: Fuecia|slp|[from] move: Spore
+|-enditem|p1a: Fuecia|Chesto Berry|[eat]
+|-curestatus|p1a: Fuecia|slp|[msg]
+|move|p1a: Fuecia|Raging Fury|p2a: TEDY|[from] lockedmove
+|-damage|p2a: TEDY|0 fnt
+|faint|p2a: TEDY
+|-start|p1a: Fuecia|confusion|[fatigue]
+|
+|-heal|p1a: Fuecia|250/376|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1740507823
+|switch|p2a: JESUCRISTO|Palkia|242/320
+|turn|15
+|
+|t:|1740507833
+|switch|p1a: Lucia|Lugia|366/366
+|move|p2a: JESUCRISTO|Steam Eruption|p1a: Lucia
+|-damage|p1a: Lucia|215/366
+|
+|upkeep
+|turn|16
+|inactive|Azul616_1 has 270 seconds left.
+|
+|t:|1740507847
+|move|p1a: Lucia|Psychic|p2a: JESUCRISTO
+|-damage|p2a: JESUCRISTO|130/320
+|move|p2a: JESUCRISTO|Bolt Beak|p1a: Lucia
+|debug|Bolt Beak NOT boosted
+|-supereffective|p1a: Lucia
+|-crit|p1a: Lucia
+|-damage|p1a: Lucia|41/366
+|
+|upkeep
+|turn|17
+|
+|t:|1740507861
+|move|p1a: Lucia|Psychic|p2a: JESUCRISTO
+|-damage|p2a: JESUCRISTO|31/320
+|move|p2a: JESUCRISTO|Bolt Beak|p1a: Lucia
+|debug|Bolt Beak NOT boosted
+|-supereffective|p1a: Lucia
+|-damage|p1a: Lucia|0 fnt
+|faint|p1a: Lucia
+|
+|upkeep
+|
+|t:|1740507869
+|switch|p1a: Giracina|Giratina|418/418
+|turn|18
+|inactive|Azul616_1 has 270 seconds left.
+|inactive|Azul616_1 has 240 seconds left.
+|
+|t:|1740507921
+|move|p2a: JESUCRISTO|Bolt Beak|p1a: Giracina
+|debug|lax incense - decreasing accuracy
+|debug|Bolt Beak damage boost
+|-resisted|p1a: Giracina
+|-damage|p1a: Giracina|357/418
+|move|p1a: Giracina|Breaking Swipe|p2a: JESUCRISTO
+|-supereffective|p2a: JESUCRISTO
+|-damage|p2a: JESUCRISTO|0 fnt
+|faint|p2a: JESUCRISTO
+|
+|upkeep
+|inactive|Azul616_1 has 240 seconds left.
+|
+|t:|1740507951
+|switch|p2a: NO VEA|Tapu Bulu|262/262
+|turn|19
+|
+|t:|1740507956
+|move|p1a: Giracina|Toxic|p2a: NO VEA
+|-status|p2a: NO VEA|tox
+|move|p2a: NO VEA|Spirit Shackle|p1a: Giracina
+|debug|lax incense - decreasing accuracy
+|-supereffective|p1a: Giracina
+|-damage|p1a: Giracina|199/418
+|debug|natural status immunity
+|debug|immune to volatile status
+|
+|-damage|p2a: NO VEA|246/262 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1740507967
+|move|p1a: Giracina|Misty Explosion|p2a: NO VEA
+|-damage|p2a: NO VEA|155/262 tox
+|faint|p1a: Giracina
+|move|p2a: NO VEA|Spirit Shackle|p1: Giracina|[notarget]
+|-fail|p2a: NO VEA
+|
+|-damage|p2a: NO VEA|123/262 tox|[from] psn
+|upkeep
+|
+|t:|1740507974
+|switch|p1a: Fuecia|Entei|250/376
+|turn|21
+|
+|t:|1740507981
+|move|p2a: NO VEA|Jet Punch|p1a: Fuecia
+|-supereffective|p1a: Fuecia
+|-damage|p1a: Fuecia|106/376
+|move|p1a: Fuecia|Raging Fury|p2a: NO VEA
+|-supereffective|p2a: NO VEA
+|-damage|p2a: NO VEA|0 fnt
+|faint|p2a: NO VEA
+|
+|upkeep
+|inactive|Azul616_1 has 240 seconds left.
+|
+|t:|1740507995
+|switch|p2a: MOYA|Volcarona, F|310/310
+|-ability|p2a: MOYA|Intimidate|boost
+|-unboost|p1a: Fuecia|atk|2
+|turn|22
+|
+|t:|1740508002
+|move|p2a: MOYA|Steam Eruption|p1a: Fuecia
+|-supereffective|p1a: Fuecia
+|-damage|p1a: Fuecia|0 fnt
+|debug|move failed because it did nothing
+|faint|p1a: Fuecia
+|
+|upkeep
+|
+|t:|1740508009
+|switch|p1a: Cofrecia|Gholdengo|325/325 slp
+|turn|23
+|
+|t:|1740508023
+|cant|p1a: Cofrecia|slp
+|move|p2a: MOYA|Lava Plume|p1a: Cofrecia
+|-supereffective|p1a: Cofrecia
+|-damage|p1a: Cofrecia|71/325 slp
+|-start|p1a: Cofrecia|Charge|Lava Plume|[from] ability: Electromorphosis
+|
+|upkeep
+|turn|24
+|
+|t:|1740508029
+|-curestatus|p1a: Cofrecia|slp|[msg]
+|move|p1a: Cofrecia|Flash Cannon|p2a: MOYA
+|-enditem|p1a: Cofrecia|Steel Gem|[from] gem
+|debug|Gem Boost
+|-resisted|p2a: MOYA
+|-damage|p2a: MOYA|223/310
+|move|p2a: MOYA|Lava Plume|p1a: Cofrecia
+|-supereffective|p1a: Cofrecia
+|-damage|p1a: Cofrecia|0 fnt
+|faint|p1a: Cofrecia
+|
+|win|Azul616_1
+|l| legolasur
+|l|☆Gaster98
+|player|p1|
+|l| mjgs96
+|l|☆Azul616_1
+|player|p2|
+|j| mjgs96

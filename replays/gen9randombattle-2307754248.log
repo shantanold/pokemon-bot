@@ -1,0 +1,146 @@
+|j|☆Emir13
+|j|☆Emilionator
+|t:|1740509835
+|gametype|singles
+|player|p1|Emir13|blue|1080
+|player|p2|Emilionator|veteran|1053
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740509835
+|start
+|switch|p1a: Oranguru|Oranguru, L92, F|315/315
+|switch|p2a: Swanna|Swanna, L88, M|275/275
+|turn|1
+|
+|t:|1740509852
+|move|p2a: Swanna|Brave Bird|p1a: Oranguru
+|-damage|p1a: Oranguru|191/315
+|-damage|p2a: Swanna|234/275|[from] Recoil
+|move|p1a: Oranguru|Psyshock|p2a: Swanna
+|-damage|p2a: Swanna|47/275
+|
+|upkeep
+|turn|2
+|
+|t:|1740509862
+|move|p2a: Swanna|Hydro Pump|p1a: Oranguru|[miss]
+|-miss|p2a: Swanna|p1a: Oranguru
+|move|p1a: Oranguru|Psyshock|p2a: Swanna
+|-damage|p2a: Swanna|0 fnt
+|faint|p2a: Swanna
+|
+|upkeep
+|
+|t:|1740509888
+|switch|p2a: Flygon|Flygon, L82, F|265/265
+|turn|3
+|
+|t:|1740509905
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Flygon|U-turn|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|191/216
+|
+|t:|1740509921
+|switch|p2a: Magearna|Magearna, L77|250/250|[from] U-turn
+|
+|-heal|p1a: Diancie|204/216|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740509932
+|move|p2a: Magearna|Flash Cannon|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|upkeep
+|
+|t:|1740509940
+|switch|p1a: Oranguru|Oranguru, L92, F|191/315
+|turn|5
+|
+|t:|1740509963
+|move|p1a: Oranguru|Hyper Voice|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|184/250
+|move|p2a: Magearna|Flash Cannon|p1a: Oranguru
+|-damage|p1a: Oranguru|92/315
+|
+|-heal|p2a: Magearna|199/250|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509981
+|move|p1a: Oranguru|Hyper Voice|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|125/250
+|move|p2a: Magearna|Flash Cannon|p1a: Oranguru
+|-crit|p1a: Oranguru
+|-damage|p1a: Oranguru|0 fnt
+|faint|p1a: Oranguru
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|-heal|p2a: Magearna|140/250|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509998
+|switch|p1a: Corviknight|Corviknight, L80, M|288/288
+|turn|7
+|
+|t:|1740510032
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|move|p1a: Corviknight|Brave Bird|p2a: Groudon
+|-damage|p2a: Groudon|173/263
+|-damage|p1a: Corviknight|258/288|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|189/263|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740510056
+|switch|p1a: Araquanid|Araquanid, L82, M|246/246
+|move|p2a: Groudon|Heat Crash|p1a: Araquanid
+|-damage|p1a: Araquanid|182/246
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|205/263|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740510076
+|move|p1a: Araquanid|Liquidation|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|95/263
+|move|p2a: Groudon|Roar|p1a: Araquanid
+|drag|p1a: Espeon|Espeon, L84, M|246/246
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|111/263|[from] item: Leftovers
+|upkeep
+|turn|10
+|l|☆Emilionator
+|player|p2|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Emir13)
+|inactiveoff|Battle timer is now OFF.
+|c|☆Emir13|Come on put it
+|c|☆Emir13|Attack do something
+|c|☆Emir13|😡🤬
+|c|☆Emir13|Fucking bitch
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Emir13)
+|-message|Emir13 forfeited.
+|
+|win|Emilionator

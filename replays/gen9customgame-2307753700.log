@@ -1,0 +1,345 @@
+|j|☆therealidiot123
+|j|☆Okanial
+|t:|1740509784
+|gametype|singles
+|player|p1|therealidiot123|ballguy|
+|player|p2|Okanial|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Custom Game
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Manectric, M|
+|poke|p1|Sableye, M|
+|poke|p1|Iron Boulder|
+|poke|p1|Toxicroak, M|
+|poke|p1|Cryogonal|
+|poke|p2|Pelipper, M|
+|poke|p2|Swampert, M|
+|poke|p2|Kingdra, F|
+|poke|p2|Jynx, F|
+|poke|p2|Zapdos|
+|poke|p2|Archaludon, F|
+|teampreview
+|c|☆therealidiot123|glhf
+|j| Guj Genera
+|c|☆Okanial|Glhf
+|
+|t:|1740509818
+|start
+|switch|p1a: Mauville|Manectric, M, shiny|281/281
+|switch|p2a: Pert|Swampert, M|404/404
+|turn|1
+|l| Guj Genera
+|j| Guj Genera
+|
+|t:|1740509847
+|switch|p1a: Icirrus|Cryogonal|301/301
+|detailschange|p2a: Pert|Swampert-Mega, M
+|-mega|p2a: Pert|Swampert|Swampertite
+|move|p2a: Pert|Flip Turn|p1a: Icirrus
+|-damage|p1a: Icirrus|111/301
+|
+|t:|1740509856
+|switch|p2a: Barbie|Jynx, F|271/271|[from] Flip Turn
+|
+|upkeep
+|turn|2
+|c|☆therealidiot123|well now I've gotta figure out what jynx does
+|l| Guj Genera
+|
+|t:|1740509894
+|switch|p1a: Azalea|Scizor, F|281/281
+|move|p2a: Barbie|Future Sight|p1a: Azalea
+|-start|p2a: Barbie|move: Future Sight
+|
+|upkeep
+|turn|3
+|c|☆Okanial|Offends people
+|j| Guj Genera
+|c| Guj Genera|Okan… Jynx is the Miley Cyrus mon. Not the Barbie Mon.
+|
+|t:|1740509926
+|switch|p2a: Birbie|Pelipper, M|323/323
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Birbie
+|detailschange|p1a: Azalea|Scizor-Mega, F
+|-mega|p1a: Azalea|Scizor|Scizorite
+|move|p1a: Azalea|Knock Off|p2a: Birbie
+|debug|Base Power: 65
+|-damage|p2a: Birbie|234/323
+|-enditem|p2a: Birbie|Damp Rock|[from] move: Knock Off|[of] p1a: Azalea
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740509949
+|move|p1a: Azalea|U-turn|p2a: Birbie
+|debug|Base Power: 70
+|-resisted|p2a: Birbie
+|-damage|p2a: Birbie|187/323
+|
+|t:|1740509964
+|switch|p1a: Icirrus|Cryogonal|111/301|[from] U-turn
+|move|p2a: Birbie|U-turn|p1a: Icirrus
+|-damage|p1a: Icirrus|66/301
+|c|☆therealidiot123|aw
+|
+|t:|1740509975
+|switch|p2a: Pert|Swampert-Mega, M|404/404|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Icirrus|move: Future Sight
+|-damage|p1a: Icirrus|0 fnt
+|faint|p1a: Icirrus
+|upkeep
+|c|☆therealidiot123|was thinking you'd just go for the kill
+|c|☆therealidiot123|oh well
+|
+|t:|1740509983
+|switch|p1a: Spikemuth|Sableye, M, shiny|304/304
+|turn|5
+|
+|t:|1740509990
+|switch|p2a: Snıpe|Kingdra, F|291/291
+|move|p1a: Spikemuth|Will-O-Wisp|p2a: Snıpe
+|-status|p2a: Snıpe|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Snıpe|273/291 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1740510033
+|move|p1a: Spikemuth|Protect|p1a: Spikemuth
+|-singleturn|p1a: Spikemuth|Protect
+|move|p2a: Snıpe|Draco Meteor|p1a: Spikemuth
+|-activate|p1a: Spikemuth|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Snıpe|255/291 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1740510047
+|switch|p1a: Azalea|Scizor-Mega, F|281/281
+|move|p2a: Snıpe|Draco Meteor|p1a: Azalea
+|-resisted|p1a: Azalea
+|-damage|p1a: Azalea|168/281
+|-unboost|p2a: Snıpe|spa|2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Snıpe|237/291 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1740510053
+|switch|p2a: Cpt america|Archaludon, F|383/383
+|move|p1a: Azalea|U-turn|p2a: Cpt america
+|debug|Base Power: 70
+|-resisted|p2a: Cpt america
+|-damage|p2a: Cpt america|345/383
+|-ability|p2a: Cpt america|Stamina|boost
+|-boost|p2a: Cpt america|def|1
+|
+|t:|1740510068
+|switch|p1a: Veilstone|Toxicroak, M, shiny|307/307|[from] U-turn
+|-item|p1a: Veilstone|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1740510087
+|move|p1a: Veilstone|Close Combat|p2a: Cpt america
+|-supereffective|p2a: Cpt america
+|-damage|p2a: Cpt america|177/383
+|-unboost|p1a: Veilstone|def|1
+|-unboost|p1a: Veilstone|spd|1
+|-ability|p2a: Cpt america|Stamina|boost
+|-boost|p2a: Cpt america|def|1
+|-enditem|p2a: Cpt america|Weakness Policy
+|-boost|p2a: Cpt america|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Cpt america|spa|2|[from] item: Weakness Policy
+|move|p2a: Cpt america|Flash Cannon|p1a: Veilstone
+|-damage|p1a: Veilstone|0 fnt
+|-enditem|p1a: Veilstone|Air Balloon
+|faint|p1a: Veilstone
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510156
+|switch|p1a: Azalea|Scizor-Mega, F|168/281
+|turn|10
+|
+|t:|1740510161
+|move|p2a: Cpt america|Rest|p2a: Cpt america
+|-status|p2a: Cpt america|slp|[from] move: Rest
+|-heal|p2a: Cpt america|383/383 slp|[silent]
+|move|p1a: Azalea|Roost|p1a: Azalea
+|-heal|p1a: Azalea|281/281
+|-singleturn|p1a: Azalea|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|11
+|c|☆therealidiot123|son of a bitch
+|c|☆Okanial|:(
+|
+|t:|1740510194
+|cant|p2a: Cpt america|slp
+|move|p2a: Cpt america|Sleep Talk|p2a: Cpt america
+|move|p2a: Cpt america|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Cpt america
+|move|p1a: Azalea|U-turn|p2a: Cpt america
+|debug|Base Power: 70
+|-resisted|p2a: Cpt america
+|-damage|p2a: Cpt america|363/383 slp
+|-ability|p2a: Cpt america|Stamina|boost
+|-boost|p2a: Cpt america|def|1
+|
+|t:|1740510201
+|switch|p1a: Mauville|Manectric, M, shiny|281/281|[from] U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1740510206
+|move|p1a: Mauville|Overheat|p2a: Cpt america
+|-damage|p2a: Cpt america|187/383 slp
+|-unboost|p1a: Mauville|spa|2
+|-ability|p2a: Cpt america|Stamina|boost
+|-boost|p2a: Cpt america|def|1
+|cant|p2a: Cpt america|slp
+|move|p2a: Cpt america|Sleep Talk|p2a: Cpt america
+|move|p2a: Cpt america|Body Press|p1a: Mauville|[from] move: Sleep Talk
+|-damage|p1a: Mauville|0 fnt
+|faint|p1a: Mauville
+|
+|upkeep
+|
+|t:|1740510217
+|switch|p1a: Alfornada|Iron Boulder|321/321
+|turn|13
+|
+|t:|1740510220
+|move|p1a: Alfornada|Earthquake|p2a: Cpt america
+|-supereffective|p2a: Cpt america
+|-damage|p2a: Cpt america|137/383 slp
+|-ability|p2a: Cpt america|Stamina|boost
+|-boost|p2a: Cpt america|def|1
+|-curestatus|p2a: Cpt america|slp|[msg]
+|move|p2a: Cpt america|Rest|p2a: Cpt america
+|-status|p2a: Cpt america|slp|[from] move: Rest
+|-heal|p2a: Cpt america|383/383 slp|[silent]
+|
+|upkeep
+|turn|14
+|
+|t:|1740510227
+|move|p1a: Alfornada|Earthquake|p2a: Cpt america
+|-supereffective|p2a: Cpt america
+|-damage|p2a: Cpt america|339/383 slp
+|-ability|p2a: Cpt america|Stamina|boost
+|-boost|p2a: Cpt america|def|1
+|cant|p2a: Cpt america|slp
+|move|p2a: Cpt america|Sleep Talk|p2a: Cpt america
+|move|p2a: Cpt america|Body Press|p1a: Alfornada|[from] move: Sleep Talk
+|-damage|p1a: Alfornada|0 fnt
+|faint|p1a: Alfornada
+|-end|p1a: Alfornada|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1740510236
+|switch|p1a: Spikemuth|Sableye, M, shiny|304/304
+|turn|15
+|
+|t:|1740510239
+|cant|p2a: Cpt america|slp
+|move|p2a: Cpt america|Sleep Talk|p2a: Cpt america
+|move|p2a: Cpt america|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Cpt america
+|move|p1a: Spikemuth|Foul Play|p2a: Cpt america
+|-damage|p2a: Cpt america|309/383 slp
+|
+|upkeep
+|turn|16
+|c| Guj Genera|Okan. This is so toxic lol.
+|
+|t:|1740510246
+|-curestatus|p2a: Cpt america|slp|[msg]
+|move|p2a: Cpt america|Flash Cannon|p1a: Spikemuth
+|-damage|p1a: Spikemuth|0 fnt
+|faint|p1a: Spikemuth
+|
+|upkeep
+|
+|t:|1740510249
+|switch|p1a: Azalea|Scizor-Mega, F|281/281
+|turn|17
+|
+|t:|1740510253
+|move|p2a: Cpt america|Body Press|p1a: Azalea
+|-damage|p1a: Azalea|22/281
+|move|p1a: Azalea|U-turn|p2a: Cpt america
+|debug|Base Power: 70
+|-resisted|p2a: Cpt america
+|-damage|p2a: Cpt america|299/383
+|
+|upkeep
+|turn|18
+|c|☆Okanial|Gg
+|c|☆therealidiot123|ggwp
+|
+|t:|1740510259
+|move|p2a: Cpt america|Rest|p2a: Cpt america
+|-status|p2a: Cpt america|slp|[from] move: Rest
+|-heal|p2a: Cpt america|383/383 slp|[silent]
+|move|p1a: Azalea|Roost|p1a: Azalea
+|-heal|p1a: Azalea|163/281
+|-singleturn|p1a: Azalea|move: Roost
+|
+|upkeep
+|turn|19
+|c|☆therealidiot123|fuck
+|c|☆therealidiot123|why
+|
+|t:|1740510266
+|cant|p2a: Cpt america|slp
+|move|p2a: Cpt america|Sleep Talk|p2a: Cpt america
+|move|p2a: Cpt america|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Cpt america
+|move|p1a: Azalea|Roost|p1a: Azalea
+|-heal|p1a: Azalea|281/281
+|-singleturn|p1a: Azalea|move: Roost
+|
+|upkeep
+|turn|20
+|c|☆Okanial|Missclick
+|c|☆Okanial|sorry
+|c|☆Okanial|on mobile
+|
+|t:|1740510276
+|cant|p2a: Cpt america|slp
+|move|p2a: Cpt america|Sleep Talk|p2a: Cpt america
+|move|p2a: Cpt america|Body Press|p1a: Azalea|[from] move: Sleep Talk
+|-damage|p1a: Azalea|11/281
+|move|p1a: Azalea|U-turn|p2a: Cpt america
+|debug|Base Power: 70
+|-resisted|p2a: Cpt america
+|-damage|p2a: Cpt america|374/383 slp
+|
+|upkeep
+|turn|21
+|
+|t:|1740510282
+|-curestatus|p2a: Cpt america|slp|[msg]
+|move|p2a: Cpt america|Body Press|p1a: Azalea
+|-damage|p1a: Azalea|0 fnt
+|faint|p1a: Azalea
+|
+|win|Okanial
+|l| Guj Genera

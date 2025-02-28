@@ -1,0 +1,262 @@
+|j|☆Gaster98
+|j|☆legolasur
+|t:|1740508217
+|gametype|singles
+|player|p1|Gaster98|170|
+|player|p2|legolasur|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Custom Game
+|clearpoke
+|poke|p1|Arceus|
+|poke|p1|Entei|
+|poke|p1|Latias, F|
+|poke|p1|Giratina|
+|poke|p1|Donphan, M|
+|poke|p1|Lugia|
+|poke|p2|Azelf|
+|poke|p2|Regirock|
+|poke|p2|Kingambit, F|
+|poke|p2|Slaking, F|
+|poke|p2|Reshiram|
+|poke|p2|Necrozma|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gaster98)
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1740508304
+|start
+|switch|p1a: Fuecia|Entei|376/376
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|turn|1
+|j| mjgs96
+|
+|t:|1740508312
+|move|p1a: Fuecia|Raging Fury|p2a: BHIBI
+|-supereffective|p2a: BHIBI
+|-damage|p2a: BHIBI|37/343
+|move|p2a: BHIBI|Close Combat|p1a: Fuecia
+|-damage|p1a: Fuecia|0 fnt
+|-unboost|p2a: BHIBI|def|1
+|-unboost|p2a: BHIBI|spd|1
+|faint|p1a: Fuecia
+|
+|upkeep
+|
+|t:|1740508333
+|switch|p1a: Dioscia|Arceus|385/385
+|turn|2
+|
+|t:|1740508342
+|switch|p2a: Negrin|Necrozma|313/313
+|-ability|p2a: Negrin|Mold Breaker
+|move|p1a: Dioscia|Moonblast|p2a: Negrin
+|-damage|p2a: Negrin|209/313
+|-unboost|p2a: Negrin|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1740508368
+|move|p1a: Dioscia|Calm Mind|p1a: Dioscia
+|-boost|p1a: Dioscia|spa|1
+|-boost|p1a: Dioscia|spd|1
+|move|p2a: Negrin|Ceaseless Edge|p1a: Dioscia
+|-damage|p1a: Dioscia|335/385
+|-sidestart|p1: Gaster98|Spikes
+|-heal|p2a: Negrin|215/313|[from] item: Shell Bell|[of] p1a: Dioscia
+|
+|upkeep
+|turn|4
+|
+|t:|1740508377
+|move|p2a: Negrin|Thunderclap||[still]
+|-fail|p2a: Negrin
+|move|p1a: Dioscia|Calm Mind|p1a: Dioscia
+|-boost|p1a: Dioscia|spa|1
+|-boost|p1a: Dioscia|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1740508383
+|move|p2a: Negrin|Thunderclap|p1a: Dioscia
+|-damage|p1a: Dioscia|315/385
+|-heal|p2a: Negrin|217/313|[from] item: Shell Bell|[of] p1a: Dioscia
+|move|p1a: Dioscia|Shadow Ball|p2a: Negrin
+|-supereffective|p2a: Negrin
+|-damage|p2a: Negrin|0 fnt
+|faint|p2a: Negrin
+|
+|upkeep
+|
+|t:|1740508392
+|switch|p2a: BHIBI|Kingambit, F|37/343
+|turn|6
+|
+|t:|1740508398
+|move|p2a: BHIBI|Sucker Punch|p1a: Dioscia
+|-damage|p1a: Dioscia|24/385
+|move|p1a: Dioscia|Moonblast|p2a: BHIBI
+|-damage|p2a: BHIBI|0 fnt
+|faint|p2a: BHIBI
+|
+|upkeep
+|
+|t:|1740508404
+|switch|p2a: Prime|Regirock, shiny|308/308
+|turn|7
+|
+|t:|1740508410
+|move|p2a: Prime|Bullet Punch|p1a: Dioscia
+|-start|p2a: Prime|typechange|Steel|[from] ability: Protean
+|-damage|p1a: Dioscia|0 fnt
+|faint|p1a: Dioscia
+|
+|upkeep
+|
+|t:|1740508431
+|switch|p1a: Colmicia|Donphan, M, shiny|326/326
+|-damage|p1a: Colmicia|286/326|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|turn|8
+|-activate|p1a: Colmicia|item: Quick Claw
+|
+|t:|1740508454
+|switch|p2a: Perdido|Azelf, shiny|293/293
+|move|p1a: Colmicia|Hammer Arm|p2a: Perdido|[miss]
+|-miss|p1a: Colmicia|p2a: Perdido
+|
+|-heal|p1a: Colmicia|306/326|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1740508469
+|switch|p1a: Matalucias|Latias, F|292/292
+|-damage|p1a: Matalucias|256/292|[from] Spikes
+|move|p2a: Perdido|Chilling Water|p1a: Matalucias
+|-resisted|p1a: Matalucias
+|-damage|p1a: Matalucias|221/292
+|-unboost|p1a: Matalucias|atk|1
+|
+|-heal|p1a: Matalucias|239/292|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1740508485
+|switch|p2a: Mamada|Slaking, F|453/453
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|
+|-heal|p1a: Matalucias|257/292|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1740508494
+|move|p1a: Matalucias|Psycho Boost|p2a: Mamada
+|-damage|p2a: Mamada|27/453
+|-unboost|p1a: Matalucias|spa|2
+|move|p2a: Mamada|Shadow Punch|p1a: Matalucias
+|-supereffective|p1a: Matalucias
+|-damage|p1a: Matalucias|0 fnt
+|faint|p1a: Matalucias
+|-damage|p2a: Mamada|0 fnt|[from] item: Life Orb
+|faint|p2a: Mamada
+|
+|upkeep
+|
+|t:|1740508511
+|switch|p2a: Verdad|Reshiram|335/335
+|switch|p1a: Giracina|Giratina|418/418
+|-damage|p1a: Giracina|366/418|[from] Spikes
+|turn|12
+|
+|t:|1740508519
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|move|p1a: Giracina|Breaking Swipe|p2a: Verdad
+|-supereffective|p2a: Verdad
+|-damage|p2a: Verdad|195/335
+|-unboost|p2a: Verdad|atk|1
+|-enditem|p2a: Verdad|Weakness Policy
+|-boost|p2a: Verdad|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Verdad|spa|2|[from] item: Weakness Policy
+|
+|-heal|p2a: Verdad|215/335|[from] Grassy Terrain
+|-heal|p1a: Giracina|392/418|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1740508538
+|move|p2a: Verdad|Oblivion Wing|p1a: Giracina
+|debug|lax incense - decreasing accuracy
+|-damage|p1a: Giracina|149/418
+|-heal|p2a: Verdad|335/335|[from] drain|[of] p1a: Giracina
+|move|p1a: Giracina|Toxic|p2a: Verdad
+|-status|p2a: Verdad|tox
+|
+|-damage|p2a: Verdad|315/335 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1740508556
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|move|p1a: Giracina|Misty Explosion|p2a: Verdad
+|-damage|p2a: Verdad|281/335 tox
+|faint|p1a: Giracina
+|
+|-damage|p2a: Verdad|241/335 tox|[from] psn
+|upkeep
+|
+|t:|1740508571
+|switch|p1a: Colmicia|Donphan, M, shiny|306/326
+|-damage|p1a: Colmicia|266/326|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|turn|15
+|
+|t:|1740508585
+|move|p2a: Verdad|Armor Cannon|p1a: Colmicia
+|-damage|p1a: Colmicia|0 fnt
+|-unboost|p2a: Verdad|def|1
+|-unboost|p2a: Verdad|spd|1
+|faint|p1a: Colmicia
+|
+|-heal|p2a: Verdad|261/335 tox|[from] Grassy Terrain
+|-damage|p2a: Verdad|201/335 tox|[from] psn
+|upkeep
+|
+|t:|1740508592
+|switch|p1a: Lucia|Lugia|366/366
+|turn|16
+|
+|t:|1740508603
+|move|p2a: Verdad|Oblivion Wing|p1a: Lucia
+|-damage|p1a: Lucia|137/366
+|-heal|p2a: Verdad|335/335 tox|[from] drain|[of] p1a: Lucia
+|move|p1a: Lucia|Psychic|p2a: Verdad
+|-damage|p2a: Verdad|277/335 tox
+|
+|-heal|p2a: Verdad|297/335 tox|[from] Grassy Terrain
+|debug|Pokemon semi-invuln or not grounded; Grassy Terrain skipped
+|-damage|p2a: Verdad|217/335 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1740508613
+|move|p2a: Verdad|Oblivion Wing|p1a: Lucia
+|-damage|p1a: Lucia|0 fnt
+|-heal|p2a: Verdad|320/335 tox|[from] drain|[of] p1a: Lucia
+|faint|p1a: Lucia
+|
+|win|legolasur
+|l|☆legolasur
+|player|p2|
+|l|☆Gaster98
+|player|p1|

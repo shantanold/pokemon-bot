@@ -1,0 +1,254 @@
+|j|☆TroolyGhoulie
+|j|☆baumsnotbombs
+|t:|1740510104
+|gametype|singles
+|player|p1|TroolyGhoulie|170|1220
+|player|p2|baumsnotbombs|pilot|1302
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Monotype Random Battle
+|rated|
+|rule|Same Type Clause: Pokémon in a team must share a type
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740510104
+|start
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|1
+|
+|t:|1740510123
+|-terastallize|p2a: Terrakion|Ground
+|move|p1a: Jirachi|Iron Head|p2a: Terrakion
+|-damage|p2a: Terrakion|185/273
+|cant|p2a: Terrakion|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1740510130
+|switch|p1a: Azelf|Azelf, L82|257/257
+|move|p2a: Terrakion|Earthquake|p1a: Azelf
+|-immune|p1a: Azelf|[from] ability: Levitate
+|
+|upkeep
+|turn|3
+|c|☆baumsnotbombs|gg
+|
+|t:|1740510145
+|move|p1a: Azelf|Psychic|p2a: Terrakion
+|-damage|p2a: Terrakion|68/273
+|move|p2a: Terrakion|Stone Edge|p1a: Azelf
+|-damage|p1a: Azelf|69/257
+|-damage|p2a: Terrakion|41/273|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|c|☆TroolyGhoulie|GG?
+|c|☆TroolyGhoulie|sorry for caps
+|c|☆baumsnotbombs|I'm COOKED
+|
+|t:|1740510161
+|move|p1a: Azelf|U-turn|p2a: Terrakion
+|-damage|p2a: Terrakion|0 fnt
+|faint|p2a: Terrakion
+|
+|t:|1740510163
+|switch|p1a: Jirachi|Jirachi, L80|291/291|[from] U-turn
+|
+|upkeep
+|c|☆TroolyGhoulie|nah
+|c|☆TroolyGhoulie|i got no fire types
+|c|☆TroolyGhoulie|i think
+|
+|t:|1740510182
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|5
+|
+|t:|1740510189
+|-terastallize|p1a: Jirachi|Water
+|move|p1a: Jirachi|Iron Head|p2a: Koraidon
+|-damage|p2a: Koraidon|150/235
+|cant|p2a: Koraidon|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1740510198
+|switch|p2a: Virizion|Virizion, L82|283/283
+|move|p1a: Jirachi|Iron Head|p2a: Virizion
+|-damage|p2a: Virizion|193/283
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1740510204
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|307/307
+|move|p2a: Virizion|Leaf Blade|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|256/307
+|-damage|p2a: Virizion|165/283|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Slowbro|275/307|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740510211
+|move|p2a: Virizion|Stone Edge|p1a: Slowbro
+|-crit|p1a: Slowbro
+|-damage|p1a: Slowbro|157/307
+|-damage|p2a: Virizion|137/283|[from] item: Life Orb
+|move|p1a: Slowbro|Psychic|p2a: Virizion
+|-supereffective|p2a: Virizion
+|-damage|p2a: Virizion|0 fnt
+|faint|p2a: Virizion
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Slowbro|176/307|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510220
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|9
+|
+|t:|1740510229
+|move|p2a: Hitmonchan|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|40/307
+|-enditem|p1a: Slowbro|Leftovers|[from] move: Knock Off|[of] p2a: Hitmonchan
+|move|p1a: Slowbro|Psychic|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|43/229
+|
+|-weather|none
+|-heal|p2a: Hitmonchan|57/229|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510243
+|move|p2a: Hitmonchan|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|-heal|p2a: Hitmonchan|71/229|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510255
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|11
+|
+|t:|1740510262
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|move|p2a: Hitmonchan|Drain Punch|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|139/265
+|-heal|p2a: Hitmonchan|134/229|[from] drain|[of] p1a: Iron Boulder
+|
+|-heal|p2a: Hitmonchan|148/229|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1740510269
+|move|p1a: Iron Boulder|Zen Headbutt|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|
+|upkeep
+|
+|t:|1740510279
+|switch|p2a: Poliwrath|Poliwrath, L88, M|302/302
+|turn|13
+|
+|t:|1740510284
+|move|p1a: Iron Boulder|Close Combat|p2a: Poliwrath
+|-damage|p2a: Poliwrath|157/302
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|move|p2a: Poliwrath|Liquidation|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-heal|p2a: Poliwrath|175/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510287
+|switch|p1a: Azelf|Azelf, L82|69/257
+|turn|14
+|
+|t:|1740510291
+|move|p1a: Azelf|Psychic|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|
+|upkeep
+|
+|t:|1740510294
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|turn|15
+|
+|t:|1740510300
+|move|p1a: Azelf|Explosion|p2a: Hitmontop
+|-damage|p2a: Hitmontop|40/231
+|faint|p1a: Azelf
+|move|p2a: Hitmontop|Rapid Spin|p1: Azelf|[notarget]
+|-fail|p2a: Hitmontop
+|
+|-heal|p2a: Hitmontop|54/231|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510302
+|switch|p1a: Jirachi|Jirachi, L80, tera:Water|291/291
+|turn|16
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by baumsnotbombs)
+|
+|t:|1740510306
+|move|p1a: Jirachi|Iron Head|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|
+|upkeep
+|c|☆TroolyGhoulie|gg wp
+|
+|t:|1740510308
+|switch|p2a: Koraidon|Koraidon, L64|150/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|17
+|c|☆TroolyGhoulie|last mons are calyrex-ice and bronzong
+|
+|t:|1740510320
+|move|p1a: Jirachi|Iron Head|p2a: Koraidon
+|-damage|p2a: Koraidon|68/235
+|move|p2a: Koraidon|Collision Course|p1a: Jirachi
+|-damage|p1a: Jirachi|179/291
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1740510323
+|move|p1a: Jirachi|Iron Head|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|faint|p2a: Koraidon
+|
+|win|TroolyGhoulie
+|raw|TroolyGhoulie's rating: 1220 &rarr; <strong>1251</strong><br />(+31 for winning)
+|raw|baumsnotbombs's rating: 1302 &rarr; <strong>1277</strong><br />(-25 for losing)
+|l|☆baumsnotbombs
+|player|p2|

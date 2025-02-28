@@ -1,0 +1,224 @@
+|j|☆shauriii
+|j|☆Angelc99
+|t:|1740510161
+|gametype|singles
+|player|p1|shauriii|170|1333
+|player|p2|Angelc99|dawn-gen4pt|1367
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740510161
+|start
+|switch|p1a: Pawmot|Pawmot, L80, F|243/243
+|switch|p2a: Raichu|Raichu-Alola, L87, F|246/246
+|turn|1
+|
+|t:|1740510178
+|switch|p1a: Krookodile|Krookodile, L80, F|283/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1740510201
+|move|p1a: Krookodile|Earthquake|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|upkeep
+|
+|t:|1740510205
+|switch|p2a: Primarina|Primarina, L83, M|268/268
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Angelc99)
+|
+|t:|1740510219
+|switch|p1a: Serperior|Serperior, L79, M|248/248
+|move|p2a: Primarina|Hydro Pump|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|141/248
+|
+|-heal|p1a: Serperior|156/248|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740510244
+|move|p1a: Serperior|Leech Seed|p2a: Primarina
+|-start|p2a: Primarina|move: Leech Seed
+|move|p2a: Primarina|Hydro Pump|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|56/248
+|
+|-heal|p1a: Serperior|71/248|[from] item: Leftovers
+|-damage|p2a: Primarina|235/268|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|104/248|[silent]
+|upkeep
+|turn|5
+|
+|t:|1740510272
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|42/248
+|move|p2a: Primarina|Hydro Pump|p1a: Serperior
+|-resisted|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|57/248|[from] item: Leftovers
+|-damage|p2a: Primarina|202/268|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|90/248|[silent]
+|upkeep
+|turn|6
+|inactive|shauriii has 120 seconds left.
+|
+|t:|1740510294
+|move|p1a: Serperior|Leaf Storm|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|46/268
+|-boost|p1a: Serperior|spa|2
+|move|p2a: Primarina|Hydro Pump|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|faint|p1a: Serperior
+|
+|upkeep
+|inactive|shauriii has 120 seconds left.
+|
+|t:|1740510304
+|switch|p1a: Pawmot|Pawmot, L80, F|243/243
+|turn|7
+|inactive|shauriii has 120 seconds left.
+|
+|t:|1740510315
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|-enditem|p1a: Pawmot|Leppa Berry|[eat]
+|-activate|p1a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1740510318
+|-heal|p1: Serperior|124/248|[from] move: Revival Blessing
+|move|p2a: Primarina|Hydro Pump|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|faint|p1a: Pawmot
+|
+|upkeep
+|
+|t:|1740510327
+|switch|p1a: Serperior|Serperior, L79, M|124/248
+|turn|8
+|inactive|Angelc99 has 120 seconds left.
+|
+|t:|1740510383
+|move|p1a: Serperior|Leaf Storm|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Primarina
+|
+|-heal|p1a: Serperior|139/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510390
+|switch|p2a: Cacturne|Cacturne, L92, F|278/278
+|turn|9
+|
+|t:|1740510404
+|move|p1a: Serperior|Leaf Storm|p2a: Cacturne
+|-resisted|p2a: Cacturne
+|-damage|p2a: Cacturne|161/278
+|-boost|p1a: Serperior|spa|2
+|move|p2a: Cacturne|Toxic Spikes|p1a: Serperior
+|-sidestart|p1: shauriii|move: Toxic Spikes
+|
+|-heal|p1a: Serperior|154/248|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510414
+|move|p1a: Serperior|Leaf Storm|p2a: Cacturne
+|-resisted|p2a: Cacturne
+|-damage|p2a: Cacturne|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Cacturne
+|
+|-heal|p1a: Serperior|169/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510417
+|switch|p2a: Porygon2|Porygon2, L82|274/274
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|11
+|
+|t:|1740510426
+|move|p1a: Serperior|Leaf Storm|p2a: Porygon2
+|-damage|p2a: Porygon2|12/274
+|move|p2a: Porygon2|Thunder Wave|p1a: Serperior|[miss]
+|-miss|p2a: Porygon2|p1a: Serperior
+|
+|-heal|p1a: Serperior|184/248|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Angelc99 has 120 seconds left.
+|
+|t:|1740510451
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|122/248
+|move|p2a: Porygon2|Thunder Wave||[still]
+|-fail|p2a: Porygon2
+|
+|-heal|p1a: Serperior|137/248|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Angelc99 has 120 seconds left.
+|
+|t:|1740510469
+|move|p1a: Serperior|Leech Seed|p2a: Porygon2
+|-start|p2a: Porygon2|move: Leech Seed
+|move|p2a: Porygon2|Shadow Ball|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-heal|p1a: Serperior|152/248|[from] item: Leftovers
+|-damage|p2a: Porygon2|0 fnt|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|164/248|[silent]
+|faint|p2a: Porygon2
+|upkeep
+|
+|t:|1740510472
+|switch|p2a: Sandy Shocks|Sandy Shocks, L80|267/267
+|turn|14
+|inactive|Angelc99 has 120 seconds left.
+|
+|t:|1740510490
+|-terastallize|p2a: Sandy Shocks|Electric
+|move|p1a: Serperior|Leaf Storm|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-heal|p1a: Serperior|179/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510494
+|switch|p2a: Drednaw|Drednaw, L81, F|278/278
+|turn|15
+|
+|t:|1740510507
+|move|p1a: Serperior|Leaf Storm|p2a: Drednaw
+|-supereffective|p2a: Drednaw
+|-damage|p2a: Drednaw|0 fnt
+|faint|p2a: Drednaw
+|
+|win|shauriii
+|raw|shauriii's rating: 1333 &rarr; <strong>1355</strong><br />(+22 for winning)
+|raw|Angelc99's rating: 1367 &rarr; <strong>1345</strong><br />(-22 for losing)

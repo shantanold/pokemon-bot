@@ -1,0 +1,184 @@
+|j|☆tbone603
+|j|☆zampe96
+|html|<table width="100%"><tr><td align="left">tbone603</td><td align="right">zampe96</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307756677">a best-of-3</a></h2>
+|t:|1740510059
+|gametype|doubles
+|player|p1|tbone603|1|1146
+|player|p2|zampe96|2|1142
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Koraidon, L50|
+|poke|p1|Flutter Mane, L50|
+|poke|p1|Tinkaton, L50, F|
+|poke|p1|Goodra-Hisui, L50, M|
+|poke|p1|Farigiraf, L50, M|
+|poke|p1|Incineroar, L50, F|
+|poke|p2|Calyrex-Ice, L50|
+|poke|p2|Raging Bolt, L50|
+|poke|p2|Urshifu-*, L50, F|
+|poke|p2|Amoonguss, L50, F|
+|poke|p2|Landorus, L50, M|
+|poke|p2|Pelipper, L50, F|
+|teampreview|4
+|showteam|p1|Koraidon||ClearAmulet|OrichalcumPulse|Protect,FlameCharge,CollisionCourse,FlareBlitz||||||50|,,,,,Fire]Flutter Mane||ChoiceSpecs|Protosynthesis|DazzlingGleam,Moonblast,ShadowBall,PerishSong||||||50|,,,,,Fairy]Tinkaton||FocusSash|MoldBreaker|FakeOut,Feint,PlayRough,GigatonHammer|||F|||50|,,,,,Grass]Goodra-Hisui||Leftovers|SapSipper|Protect,Shelter,HeavySlam,BodyPress|||M|||50|,,,,,Water]Farigiraf||ThroatSpray|ArmorTail|Protect,TrickRoom,HyperVoice,Psychic|||M|||50|,,,,,Water]Incineroar||SafetyGoggles|Intimidate|FakeOut,KnockOff,WillOWisp,PartingShot|||F|||50|,,,,,Ghost
+|showteam|p2|Calyrex-Ice||ClearAmulet|AsOneGlastrier|Protect,GlacialLance,HighHorsepower,TrickRoom||||||50|,,,,,Poison]Raging Bolt||BoosterEnergy|Protosynthesis|Protect,Thunderbolt,DracoMeteor,Thunderclap||||||50|,,,,,Electric]Urshifu-Rapid-Strike||ChoiceScarf|UnseenFist|SurgingStrikes,CloseCombat,Coaching,Uturn|||F|||50|,,,,,Water]Amoonguss||RockyHelmet|Regenerator|Protect,PollenPuff,RagePowder,Spore|||F|||50|,,,,,Fairy]Landorus||LifeOrb|SheerForce|Protect,EarthPower,SludgeBomb,SandsearStorm|||M|||50|,,,,,Poison]Pelipper||CovertCloak|Drizzle|Protect,WeatherBall,Hurricane,WideGuard|||F|||50|,,,,,Grass
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tbone603)
+|inactive|tbone603 has 60 seconds left.
+|inactive|zampe96 has 60 seconds left.
+|
+|t:|1740510104
+|start
+|switch|p1a: Goodra|Goodra-Hisui, L50, M|100/100
+|switch|p1b: Incineroar|Incineroar, L50, F|100/100
+|switch|p2a: Nanba|Landorus, L50, M|100/100
+|switch|p2b: Ichiban|Urshifu-Rapid-Strike, L50, F|100/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Nanba|atk|1
+|-unboost|p2b: Ichiban|atk|1
+|turn|1
+|inactive|zampe96 has 30 seconds left.
+|
+|t:|1740510134
+|move|p1b: Incineroar|Fake Out|p2a: Nanba
+|-damage|p2a: Nanba|88/100
+|move|p2b: Ichiban|U-turn|p1b: Incineroar
+|-damage|p1b: Incineroar|87/100
+|
+|t:|1740510139
+|switch|p2b: Pat’s Pelipper|Pelipper, L50, F, shiny|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Pat’s Pelipper
+|cant|p2a: Nanba|flinch
+|move|p1a: Goodra|Shelter|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740510152
+|switch|p1b: Koraidon|Koraidon, L50|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1b: Koraidon
+|-activate|p1b: Koraidon|Orichalcum Pulse|[source]
+|-terastallize|p1a: Goodra|Water
+|move|p2a: Nanba|Sandsear Storm|p1b: Koraidon|[spread] p1b
+|-miss|p2a: Nanba|p1a: Goodra
+|-damage|p1b: Koraidon|39/100
+|move|p2b: Pat’s Pelipper|Weather Ball|p1b: Koraidon
+|-resisted|p1b: Koraidon
+|-crit|p1b: Koraidon
+|-damage|p1b: Koraidon|4/100
+|move|p1a: Goodra|Heavy Slam|p2a: Nanba
+|-damage|p2a: Nanba|51/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740510170
+|switch|p2b: Ichiban|Urshifu-Rapid-Strike, L50, F|100/100
+|move|p2a: Nanba|Protect|p2a: Nanba
+|-singleturn|p2a: Nanba|Protect
+|move|p1b: Koraidon|Collision Course|p2b: Ichiban
+|-damage|p2b: Ichiban|23/100
+|move|p1a: Goodra|Shelter|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740510186
+|switch|p1b: Incineroar|Incineroar, L50, F|87/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Nanba|atk|1
+|-unboost|p2b: Ichiban|atk|1
+|switch|p2a: Pat’s Pelipper|Pelipper, L50, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pat’s Pelipper
+|move|p2b: Ichiban|Surging Strikes|p1b: Incineroar
+|-supereffective|p1b: Incineroar
+|-crit|p1b: Incineroar
+|-damage|p1b: Incineroar|33/100
+|-supereffective|p1b: Incineroar
+|-crit|p1b: Incineroar
+|-damage|p1b: Incineroar|0 fnt
+|faint|p1b: Incineroar
+|-hitcount|p1: Incineroar|2
+|move|p1a: Goodra|Body Press|p2a: Pat’s Pelipper
+|-resisted|p2a: Pat’s Pelipper
+|-damage|p2a: Pat’s Pelipper|58/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1740510201
+|switch|p1b: Farigiraf|Farigiraf, L50, M|100/100
+|turn|5
+|
+|t:|1740510217
+|switch|p2b: Ehrmantraut|Calyrex-Ice, L50|100/100
+|-ability|p2b: Ehrmantraut|As One
+|-ability|p2b: Ehrmantraut|Unnerve
+|move|p2a: Pat’s Pelipper|Hurricane|p1a: Goodra
+|-damage|p1a: Goodra|65/100
+|move|p1a: Goodra|Body Press|p2b: Ehrmantraut
+|-damage|p2b: Ehrmantraut|54/100
+|move|p1b: Farigiraf|Trick Room|p1b: Farigiraf
+|-fieldstart|move: Trick Room|[of] p1b: Farigiraf
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Goodra|71/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740510235
+|move|p2b: Ehrmantraut|Glacial Lance|p1b: Farigiraf|[spread] p1a,p1b
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|64/100
+|-damage|p1b: Farigiraf|38/100
+|move|p1b: Farigiraf|Hyper Voice|p2a: Pat’s Pelipper|[spread] p2a,p2b
+|-damage|p2a: Pat’s Pelipper|17/100
+|-damage|p2b: Ehrmantraut|32/100
+|-enditem|p1b: Farigiraf|Throat Spray
+|-boost|p1b: Farigiraf|spa|1|[from] item: Throat Spray
+|move|p1a: Goodra|Shelter|p1a: Goodra
+|-boost|p1a: Goodra|def|2
+|move|p2a: Pat’s Pelipper|Hurricane|p1a: Goodra
+|-damage|p1a: Goodra|27/100
+|-start|p1a: Goodra|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Goodra|33/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740510254
+|move|p2b: Ehrmantraut|Glacial Lance|p1a: Goodra|[spread] p1a,p1b
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|28/100
+|-damage|p1b: Farigiraf|0 fnt
+|faint|p1b: Farigiraf
+|-ability|p2b: Ehrmantraut|Chilling Neigh|boost
+|-boost|p2b: Ehrmantraut|atk|1
+|-activate|p1a: Goodra|confusion
+|-damage|p1a: Goodra|26/100|[from] confusion
+|move|p2a: Pat’s Pelipper|Hurricane|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|tbone603 forfeited.
+|
+|win|zampe96
+|l|☆tbone603
+|player|p1|
+||tbone603 is ready for game 2.
+||zampe96 is ready for game 2.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307758943"><strong>Game 2 of 3</strong></a>

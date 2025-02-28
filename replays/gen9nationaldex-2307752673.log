@@ -1,0 +1,179 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|‽jazzynazzy
+|j|☆makomania5
+|t:|1740509688
+|gametype|singles
+|player|p1|jazzynazzy|steven|1428
+|player|p2|makomania5|pokemonranger-gen4|1337
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Iron Crown|
+|poke|p1|Iron Boulder|
+|poke|p1|Iron Hands|
+|poke|p1|Iron Valiant|
+|poke|p1|Iron Treads|
+|poke|p1|Glimmora, F|
+|poke|p2|Blissey, F|
+|poke|p2|Moltres|
+|poke|p2|Alomomola, M|
+|poke|p2|Clodsire, F|
+|poke|p2|Pyukumuku, M|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|
+|t:|1740509756
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Clodsire|Clodsire, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jazzynazzy)
+|
+|t:|1740509764
+|move|p1a: Glimmora|Stealth Rock|p2a: Clodsire
+|-sidestart|p2: makomania5|move: Stealth Rock
+|move|p2a: Clodsire|Earthquake|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: makomania5|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|inactive|jazzynazzy has 120 seconds left.
+|inactive|jazzynazzy has 90 seconds left.
+|
+|t:|1740509835
+|move|p1a: Glimmora|Spikes|p2a: Clodsire
+|-sidestart|p2: makomania5|Spikes
+|move|p2a: Clodsire|Earthquake|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: makomania5|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1740509843
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|-enditem|p1a: Iron Hands|Booster Energy
+|-activate|p1a: Iron Hands|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|3
+|
+|t:|1740509849
+|move|p1a: Iron Hands|Earthquake|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|18/100
+|move|p2a: Clodsire|Toxic|p1a: Iron Hands
+|-status|p1a: Iron Hands|tox
+|
+|-damage|p1a: Iron Hands|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1740509860
+|switch|p2a: Pyukumuku|Pyukumuku, M|100/100
+|move|p1a: Iron Hands|Ice Punch|p2a: Pyukumuku
+|-resisted|p2a: Pyukumuku
+|-damage|p2a: Pyukumuku|88/100
+|
+|-damage|p1a: Iron Hands|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1740509870
+|move|p1a: Iron Hands|Earthquake|p2a: Pyukumuku
+|-crit|p2a: Pyukumuku
+|-damage|p2a: Pyukumuku|36/100
+|move|p2a: Pyukumuku|Counter|p1a: Iron Hands
+|-damage|p1a: Iron Hands|17/100 tox
+|
+|-damage|p1a: Iron Hands|0 fnt|[from] psn
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|upkeep
+|
+|t:|1740509877
+|switch|p1a: Iron Crown|Iron Crown|100/100
+|-enditem|p1a: Iron Crown|Booster Energy
+|-activate|p1a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Crown|quarkdrivedef
+|turn|6
+|
+|t:|1740509882
+|switch|p2a: Clodsire|Clodsire, F|18/100
+|-sideend|p2: makomania5|move: Toxic Spikes|[of] p2a: Clodsire
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1740509889
+|move|p1a: Iron Crown|Stored Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|
+|upkeep
+|
+|t:|1740509891
+|switch|p2a: Moltres|Moltres|100/100
+|turn|8
+|
+|t:|1740509894
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Moltres|Defog|p1a: Iron Crown
+|-unboost|p1a: Iron Crown|evasion|1
+|-sideend|p2: makomania5|Spikes|[from] move: Defog|[of] p2a: Moltres
+|-sideend|p2: makomania5|Stealth Rock|[from] move: Defog|[of] p2a: Moltres
+|
+|upkeep
+|turn|9
+|
+|t:|1740509903
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Moltres|Flamethrower|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|74/100
+|
+|upkeep
+|turn|10
+|
+|t:|1740509910
+|switch|p2a: Pyukumuku|Pyukumuku, M|36/100
+|move|p1a: Iron Crown|Stored Power|p2a: Pyukumuku
+|-damage|p2a: Pyukumuku|0 fnt
+|faint|p2a: Pyukumuku
+|
+|upkeep
+|-message|makomania5 forfeited.
+|
+|win|jazzynazzy
+|raw|jazzynazzy's rating: 1428 &rarr; <strong>1443</strong><br />(+15 for winning)
+|raw|makomania5's rating: 1337 &rarr; <strong>1322</strong><br />(-15 for losing)
+|l|☆makomania5
+|player|p2|
+|l|‽jazzynazzy
+|player|p1|

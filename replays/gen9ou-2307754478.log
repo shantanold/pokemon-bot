@@ -1,0 +1,159 @@
+|j|‽XIXINANA
+|j|☆Vyuro
+|t:|1740509857
+|gametype|singles
+|player|p1|XIXINANA|hilbert|1208
+|player|p2|Vyuro|waiter-gen4|1241
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Meowscarada, F|
+|poke|p1|Enamorus-Therian, F|
+|poke|p1|Lokix, M|
+|poke|p1|Brute Bonnet|
+|poke|p1|Magmortar, F|
+|poke|p2|Kyurem|
+|poke|p2|Ting-Lu|
+|poke|p2|Corviknight, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Toxapex, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Vyuro)
+|
+|t:|1740509880
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Trojan|Zamazenta, shiny|100/100
+|-ability|p2a: Trojan|Dauntless Shield|boost
+|-boost|p2a: Trojan|def|1
+|turn|1
+|
+|t:|1740509898
+|move|p2a: Trojan|Heavy Slam|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1740509903
+|switch|p1a: Enamorus|Enamorus-Therian, F|100/100
+|turn|2
+|
+|t:|1740509906
+|move|p2a: Trojan|Heavy Slam|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|16/100
+|move|p1a: Enamorus|Moonblast|p2a: Trojan
+|-supereffective|p2a: Trojan
+|-damage|p2a: Trojan|0 fnt
+|faint|p2a: Trojan
+|
+|-heal|p1a: Enamorus|22/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509911
+|switch|p2a: Kyotaro|Kyurem, shiny|100/100
+|-ability|p2a: Kyotaro|Pressure
+|turn|3
+|
+|t:|1740509927
+|move|p2a: Kyotaro|Freeze-Dry|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1740509942
+|switch|p1a: Brute Bonnet|Brute Bonnet|100/100
+|turn|4
+|
+|t:|1740509946
+|move|p2a: Kyotaro|Substitute|p2a: Kyotaro
+|-start|p2a: Kyotaro|Substitute
+|-damage|p2a: Kyotaro|76/100
+|move|p1a: Brute Bonnet|Close Combat|p2a: Kyotaro
+|-supereffective|p2a: Kyotaro
+|-end|p2a: Kyotaro|Substitute
+|-unboost|p1a: Brute Bonnet|def|1
+|-unboost|p1a: Brute Bonnet|spd|1
+|-damage|p1a: Brute Bonnet|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Kyotaro|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509957
+|move|p2a: Kyotaro|Protect|p2a: Kyotaro
+|-singleturn|p2a: Kyotaro|Protect
+|move|p1a: Brute Bonnet|Payback|p2a: Kyotaro
+|-activate|p2a: Kyotaro|move: Protect
+|
+|-heal|p2a: Kyotaro|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509975
+|move|p1a: Brute Bonnet|Sucker Punch||[still]
+|-fail|p1a: Brute Bonnet
+|move|p2a: Kyotaro|Substitute|p2a: Kyotaro
+|-start|p2a: Kyotaro|Substitute
+|-damage|p2a: Kyotaro|63/100
+|
+|-heal|p2a: Kyotaro|69/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740509980
+|move|p1a: Brute Bonnet|Sucker Punch|p2a: Kyotaro
+|-end|p2a: Kyotaro|Substitute
+|-damage|p1a: Brute Bonnet|81/100|[from] item: Life Orb
+|move|p2a: Kyotaro|Freeze-Dry|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|0 fnt
+|faint|p1a: Brute Bonnet
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|
+|-heal|p2a: Kyotaro|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509990
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|8
+|
+|t:|1740510001
+|switch|p2a: Yami|Corviknight, M, shiny|100/100
+|-ability|p2a: Yami|Pressure
+|-terastallize|p1a: Lokix|Bug
+|move|p1a: Lokix|First Impression|p2a: Yami
+|-resisted|p2a: Yami
+|-damage|p2a: Yami|73/100
+|-damage|p1a: Lokix|84/100|[from] item: Rocky Helmet|[of] p2a: Yami
+|
+|upkeep
+|turn|9
+|inactive|XIXINANA has 120 seconds left.
+|inactive|XIXINANA has 90 seconds left.
+|-message|XIXINANA forfeited.
+|
+|win|Vyuro
+|raw|XIXINANA's rating: 1208 &rarr; <strong>1185</strong><br />(-23 for losing)
+|raw|Vyuro's rating: 1241 &rarr; <strong>1264</strong><br />(+23 for winning)
+|l|‽XIXINANA
+|player|p1|
+|l|☆Vyuro
+|player|p2|

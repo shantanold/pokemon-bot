@@ -1,0 +1,266 @@
+|j|☆Mortcase
+|j|☆Avezu
+|t:|1740510137
+|gametype|singles
+|player|p1|Mortcase|ethan|
+|player|p2|Avezu|blue|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex Monotype
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Same Type Clause: Pokémon in a team must share a type
+|rule|Terastal Clause: You cannot Terastallize
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|clearpoke
+|poke|p1|Diancie|
+|poke|p1|Hatterene, F|
+|poke|p1|Mimikyu, M|
+|poke|p1|Azumarill, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Klefki, M|
+|poke|p2|Crobat, F|
+|poke|p2|Nihilego|
+|poke|p2|Nidoking, M|
+|poke|p2|Ariados, M|
+|poke|p2|Beedrill, M|
+|poke|p2|Muk-Alola, M|
+|teampreview
+|c|☆Mortcase|a
+|c|☆Avezu|le haces counter a mi otro monotype que me toco XDDD
+|
+|t:|1740510176
+|start
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|switch|p2a: Ariados|Ariados, M|100/100
+|turn|1
+|
+|t:|1740510192
+|move|p1a: Mimikyu|Bulk Up|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|1
+|-boost|p1a: Mimikyu|def|1
+|move|p2a: Ariados|Sticky Web|p1a: Mimikyu
+|-sidestart|p1: Mortcase|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1740510197
+|move|p1a: Mimikyu|Bulk Up|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|1
+|-boost|p1a: Mimikyu|def|1
+|move|p2a: Ariados|Stomping Tantrum|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|100/100
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|88/100|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|3
+|
+|t:|1740510210
+|move|p1a: Mimikyu|Shadow Claw|p2a: Ariados
+|-damage|p2a: Ariados|17/100
+|move|p2a: Ariados|Leech Life|p1a: Mimikyu
+|-resisted|p1a: Mimikyu
+|-damage|p1a: Mimikyu|83/100
+|-heal|p2a: Ariados|20/100|[from] drain|[of] p1a: Mimikyu
+|
+|upkeep
+|turn|4
+|
+|t:|1740510218
+|move|p2a: Ariados|Sucker Punch|p1a: Mimikyu
+|-damage|p1a: Mimikyu|70/100
+|move|p1a: Mimikyu|Shadow Claw|p2a: Ariados
+|-damage|p2a: Ariados|0 fnt
+|faint|p2a: Ariados
+|
+|upkeep
+|
+|t:|1740510223
+|switch|p2a: Nihilego|Nihilego, shiny|100/100
+|turn|5
+|
+|t:|1740510253
+|move|p2a: Nihilego|Sludge Wave|p1a: Mimikyu
+|-damage|p1a: Mimikyu|21/100
+|move|p1a: Mimikyu|Shadow Claw|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|upkeep
+|c|☆Avezu|como?
+|c|☆Mortcase|:p
+|
+|t:|1740510278
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|6
+|c|☆Avezu|ola?
+|
+|t:|1740510302
+|move|p2a: Nidoking|Earth Power|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|
+|upkeep
+|c|☆Avezu|se fue de sabatico la ventaja de tipo
+|c|☆Mortcase|xd
+|c|☆Avezu|y la tabla tmb
+|
+|t:|1740510318
+|switch|p1a: Klefki|Klefki, M|100/100
+|-activate|p1a: Klefki|move: Sticky Web
+|-unboost|p1a: Klefki|spe|1
+|turn|7
+|
+|t:|1740510337
+|move|p1a: Klefki|Defog|p2a: Nidoking
+|-unboost|p2a: Nidoking|evasion|1
+|-sideend|p1: Mortcase|Sticky Web|[from] move: Defog|[of] p1a: Klefki
+|move|p2a: Nidoking|Earth Power|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|upkeep
+|
+|t:|1740510364
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|8
+|
+|t:|1740510372
+|move|p1a: Tapu Lele|Psychic|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|upkeep
+|
+|t:|1740510375
+|switch|p2a: Muk|Muk-Alola, M|100/100
+|turn|9
+|
+|t:|1740510386
+|switch|p1a: Azumarill|Azumarill, M|100/100
+|move|p2a: Muk|Poison Jab|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|11/100
+|
+|-heal|p1a: Azumarill|17/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510395
+|move|p1a: Azumarill|Protect|p1a: Azumarill
+|-singleturn|p1a: Azumarill|Protect
+|move|p2a: Muk|Poison Jab|p1a: Azumarill
+|-activate|p1a: Azumarill|move: Protect
+|
+|-heal|p1a: Azumarill|23/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740510404
+|move|p1a: Azumarill|Perish Song|p1a: Azumarill
+|-start|p1a: Azumarill|perish3|[silent]
+|-start|p2a: Muk|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|move|p2a: Muk|Poison Jab|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|-start|p2a: Muk|perish3
+|upkeep
+|
+|t:|1740510419
+|switch|p1a: Diancie|Diancie|100/100
+|turn|12
+|
+|t:|1740510430
+|detailschange|p1a: Diancie|Diancie-Mega
+|-mega|p1a: Diancie|Diancie|Diancite
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|75/100
+|move|p2a: Muk|Poison Jab|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|
+|-start|p2a: Muk|perish2
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|13
+|
+|t:|1740510439
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|50/100
+|move|p2a: Muk|Poison Jab|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|
+|-start|p2a: Muk|perish1
+|upkeep
+|turn|14
+|
+|t:|1740510459
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|25/100
+|move|p2a: Muk|Poison Jab|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|
+|-start|p2a: Muk|perish0
+|upkeep
+|faint|p2a: Muk
+|
+|t:|1740510464
+|switch|p2a: Beedrill|Beedrill, M|100/100
+|turn|15
+|c|☆Avezu|ya si es scarft tapu lele vali vrg
+|
+|t:|1740510487
+|detailschange|p2a: Beedrill|Beedrill-Mega, M
+|-mega|p2a: Beedrill|Beedrill|Beedrillite
+|move|p2a: Beedrill|Poison Jab|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|upkeep
+|
+|t:|1740510491
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|16
+|
+|t:|1740510498
+|move|p1a: Tapu Lele|Psyshock|p2a: Beedrill
+|-supereffective|p2a: Beedrill
+|-damage|p2a: Beedrill|0 fnt
+|faint|p2a: Beedrill
+|
+|upkeep
+|c|☆Avezu|efectivamente es scarf
+|
+|t:|1740510511
+|switch|p2a: Crobat|Crobat, F|100/100
+|turn|17
+|
+|t:|1740510514
+|move|p1a: Tapu Lele|Psyshock|p2a: Crobat
+|-supereffective|p2a: Crobat
+|-damage|p2a: Crobat|0 fnt
+|faint|p2a: Crobat
+|
+|win|Mortcase
+|c|☆Mortcase|gg
+|c|☆Avezu|gg

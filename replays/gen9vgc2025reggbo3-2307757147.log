@@ -1,0 +1,208 @@
+|j|☆Guys gg next
+|j|‽8BitBidoof
+|html|<table width="100%"><tr><td align="left">Guys gg next</td><td align="right">8BitBidoof</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 2</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307755294">a best-of-3</a></h2>
+|t:|1740510100
+|gametype|doubles
+|player|p1|Guys gg next|clair|1199
+|player|p2|8BitBidoof|red-lgpe|1209
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Terapagos, L50, M|
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Urshifu-*, L50, F|
+|poke|p1|Flutter Mane, L50|
+|poke|p1|Ogerpon-Hearthflame, L50, F|
+|poke|p2|Calyrex-Shadow, L50|
+|poke|p2|Regidrago, L50|
+|poke|p2|Ogerpon-Hearthflame, L50, F|
+|poke|p2|Urshifu-*, L50, M|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|showteam|p1|Terapagos||Leftovers|TeraShift|CalmMind,TeraStarstorm,Substitute,Protect|||M|||50|,,,,,Stellar]Incineroar||RockyHelmet|Intimidate|PartingShot,KnockOff,WillOWisp,FakeOut|||F|||50|,,,,,Ghost]Rillaboom||AssaultVest|GrassySurge|FakeOut,WoodHammer,GrassyGlide,Uturn|||M|||50|,,,,,Fire]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,AquaJet,Protect|||F|||50|,,,,,Poison]Flutter Mane||BoosterEnergy|Protosynthesis|Moonblast,ShadowBall,IcyWind,Taunt||||||50|,,,,,Fairy]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,WoodHammer,FollowMe,SpikyShield|||F|||50|,,,,,Fire
+|showteam|p2|Calyrex-Shadow||LifeOrb|AsOneSpectrier|AstralBarrage,ExpandingForce,NastyPlot,Protect||||||50|,,,,,Dark]Regidrago||DragonFang|DragonsMaw|DragonEnergy,DracoMeteor,DragonPulse,Protect||||||50|,,,,,Ghost]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,WoodHammer,FollowMe,SpikyShield|||F|||50|,,,,,Fire]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,Taunt,Detect|||M|||50|,,,,,Steel]Indeedee-F||RockyHelmet|PsychicSurge|Psychic,HelpingHand,FollowMe,TrickRoom|||F|||50|,,,,,Water]Whimsicott||CovertCloak|Prankster|Moonblast,Tailwind,Encore,HelpingHand|||M|||50|,,,,,Fire
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 8BitBidoof)
+|inactive|8BitBidoof has 60 seconds left.
+|
+|t:|1740510143
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, L50, F|100/100
+|switch|p1b: Flutter Mane|Flutter Mane, L50|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, M|100/100
+|switch|p2b: Ogerpon|Ogerpon-Hearthflame, L50, F|100/100
+|-ability|p2b: Ogerpon|Mold Breaker
+|-enditem|p1b: Flutter Mane|Booster Energy
+|-activate|p1b: Flutter Mane|ability: Protosynthesis|[fromitem]
+|-start|p1b: Flutter Mane|protosynthesisspe
+|turn|1
+|inactive|8BitBidoof has 30 seconds left.
+|
+|t:|1740510169
+|-terastallize|p1a: Urshifu|Poison
+|move|p2a: Whimsicott|Helping Hand|p2b: Ogerpon
+|-singleturn|p2b: Ogerpon|Helping Hand|[of] p2a: Whimsicott
+|move|p1b: Flutter Mane|Moonblast|p2a: Whimsicott
+|-damage|p2a: Whimsicott|54/100
+|move|p2b: Ogerpon|Wood Hammer|p1b: Flutter Mane
+|-damage|p1b: Flutter Mane|0 fnt
+|faint|p1b: Flutter Mane
+|-end|p1b: Flutter Mane|Protosynthesis|[silent]
+|-damage|p2b: Ogerpon|66/100|[from] Recoil
+|move|p1a: Urshifu|Surging Strikes|p2b: Ogerpon
+|-crit|p2b: Ogerpon
+|-damage|p2b: Ogerpon|33/100
+|-crit|p2b: Ogerpon
+|-damage|p2b: Ogerpon|0 fnt
+|faint|p2b: Ogerpon
+|-hitcount|p2: Ogerpon|2
+|
+|upkeep
+|
+|t:|1740510192
+|switch|p1b: Terapagos|Terapagos, L50, M|100/100
+|switch|p2b: Indeedee|Indeedee-F, L50, F|100/100
+|-activate|p1b: Terapagos|ability: Tera Shift
+|detailschange|p1b: Terapagos|Terapagos-Terastal, L50, M
+|-heal|p1b: Terapagos|100/100|[silent]
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|turn|2
+|
+|t:|1740510211
+|move|p2a: Whimsicott|Moonblast|p1b: Terapagos
+|-activate|p1b: Terapagos|ability: Tera Shell
+|-resisted|p1b: Terapagos
+|-damage|p1b: Terapagos|90/100
+|-unboost|p1b: Terapagos|spa|1
+|move|p1a: Urshifu|Surging Strikes|p2b: Indeedee
+|-crit|p2b: Indeedee
+|-damage|p2b: Indeedee|75/100
+|-damage|p1a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p2b: Indeedee
+|-crit|p2b: Indeedee
+|-damage|p2b: Indeedee|49/100
+|-damage|p1a: Urshifu|68/100|[from] item: Rocky Helmet|[of] p2b: Indeedee
+|-crit|p2b: Indeedee
+|-damage|p2b: Indeedee|26/100
+|-damage|p1a: Urshifu|51/100|[from] item: Rocky Helmet|[of] p2b: Indeedee
+|-hitcount|p2b: Indeedee|3
+|move|p1b: Terapagos|Calm Mind|p1b: Terapagos
+|-boost|p1b: Terapagos|spa|1
+|-boost|p1b: Terapagos|spd|1
+|move|p2b: Indeedee|Psychic|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-heal|p1b: Terapagos|96/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510214
+|switch|p1a: Rillaboom|Rillaboom, L50, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|3
+|inactive|8BitBidoof has 30 seconds left.
+|inactive|8BitBidoof has 20 seconds left.
+|
+|t:|1740510251
+|move|p2a: Whimsicott|Encore|p1b: Terapagos
+|-start|p1b: Terapagos|Encore
+|move|p1a: Rillaboom|Grassy Glide|p2b: Indeedee
+|-damage|p2b: Indeedee|0 fnt
+|-damage|p1a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p2b: Indeedee
+|faint|p2b: Indeedee
+|move|p1b: Terapagos|Calm Mind|p1b: Terapagos
+|-boost|p1b: Terapagos|spa|1
+|-boost|p1b: Terapagos|spd|1
+|
+|-heal|p2a: Whimsicott|60/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|90/100|[from] Grassy Terrain
+|-heal|p1b: Terapagos|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740510256
+|switch|p2b: Urshifu|Urshifu-Rapid-Strike, L50, M|100/100
+|turn|4
+|inactive|8BitBidoof has 30 seconds left.
+|
+|t:|1740510283
+|-terastallize|p2b: Urshifu|Steel
+|move|p2a: Whimsicott|Encore|p1a: Rillaboom
+|-start|p1a: Rillaboom|Encore
+|move|p2b: Urshifu|Close Combat|p1a: Rillaboom
+|-damage|p1a: Rillaboom|27/100
+|-unboost|p2b: Urshifu|def|1
+|-unboost|p2b: Urshifu|spd|1
+|move|p1a: Rillaboom|Grassy Glide|p2b: Urshifu
+|-resisted|p2b: Urshifu
+|-damage|p2b: Urshifu|75/100
+|move|p1b: Terapagos|Calm Mind|p1b: Terapagos
+|-boost|p1b: Terapagos|spa|1
+|-boost|p1b: Terapagos|spd|1
+|
+|-heal|p2a: Whimsicott|67/100|[from] Grassy Terrain
+|-heal|p2b: Urshifu|81/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|33/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1740510303
+|move|p1a: Rillaboom|Grassy Glide|p2b: Urshifu
+|-resisted|p2b: Urshifu
+|-damage|p2b: Urshifu|56/100
+|move|p2a: Whimsicott|Moonblast|p1a: Rillaboom
+|-damage|p1a: Rillaboom|12/100
+|move|p2b: Urshifu|Close Combat|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-unboost|p2b: Urshifu|def|1
+|-unboost|p2b: Urshifu|spd|1
+|faint|p1a: Rillaboom
+|move|p1b: Terapagos|Calm Mind|p1b: Terapagos
+|-boost|p1b: Terapagos|spa|1
+|-boost|p1b: Terapagos|spd|1
+|
+|-heal|p2a: Whimsicott|73/100|[from] Grassy Terrain
+|-heal|p2b: Urshifu|62/100|[from] Grassy Terrain
+|-end|p1b: Terapagos|Encore
+|upkeep
+|turn|6
+|
+|t:|1740510314
+|move|p2a: Whimsicott|Encore|p1b: Terapagos
+|-start|p1b: Terapagos|Encore
+|move|p2b: Urshifu|Close Combat|p1b: Terapagos
+|-activate|p1b: Terapagos|ability: Tera Shell
+|-resisted|p1b: Terapagos
+|-damage|p1b: Terapagos|75/100
+|-unboost|p2b: Urshifu|def|1
+|-unboost|p2b: Urshifu|spd|1
+|move|p1b: Terapagos|Calm Mind|p1b: Terapagos
+|-boost|p1b: Terapagos|spa|1
+|-boost|p1b: Terapagos|spd|1
+|
+|-heal|p2a: Whimsicott|79/100|[from] Grassy Terrain
+|-heal|p2b: Urshifu|68/100|[from] Grassy Terrain
+|-heal|p1b: Terapagos|81/100|[from] Grassy Terrain
+|-heal|p1b: Terapagos|87/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740510325
+|move|p2a: Whimsicott|Helping Hand|p2b: Urshifu
+|-singleturn|p2b: Urshifu|Helping Hand|[of] p2a: Whimsicott
+|move|p2b: Urshifu|Close Combat|p1b: Terapagos
+|-supereffective|p1b: Terapagos
+|-damage|p1b: Terapagos|0 fnt
+|-unboost|p2b: Urshifu|def|1
+|-unboost|p2b: Urshifu|spd|1
+|faint|p1b: Terapagos
+|
+|win|8BitBidoof
+|raw|Guys gg next's rating: 1199 &rarr; <strong>1175</strong><br />(-24 for losing)
+|raw|8BitBidoof's rating: 1209 &rarr; <strong>1233</strong><br />(+24 for winning)

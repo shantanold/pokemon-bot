@@ -1,0 +1,375 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆patharok
+|j|☆bignate206
+|t:|1740509914
+|gametype|singles
+|player|p1|patharok|ghetsis|1257
+|player|p2|bignate206|crasherwake|1298
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Sceptile, M|
+|poke|p1|Type: Null|
+|poke|p1|Sableye, M|
+|poke|p1|Comfey, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cetitan, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Iron Crown|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bignate206)
+|
+|t:|1740509939
+|start
+|switch|p1a: Sceptile|Sceptile, M|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|
+|t:|1740509944
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Tapu Koko|Hidden Power|p1a: Slowking
+|-damage|p1a: Slowking|91/100
+|
+|upkeep
+|turn|2
+|
+|t:|1740509953
+|move|p2a: Tapu Koko|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|67/100
+|
+|t:|1740509955
+|switch|p2a: Iron Crown|Iron Crown|100/100|[from] Volt Switch
+|-activate|p2a: Iron Crown|ability: Quark Drive
+|-start|p2a: Iron Crown|quarkdrivespa
+|move|p1a: Slowking|Future Sight|p2a: Iron Crown
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1740509962
+|move|p2a: Iron Crown|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|44/100
+|
+|t:|1740509966
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] Volt Switch
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snow
+|
+|t:|1740509975
+|switch|p1a: Sableye|Sableye, M|100/100|[from] Chilly Reception
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740509986
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1a: Sableye|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|43/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|
+|-weather|Snow|[upkeep]
+|-end|p2a: Gholdengo|move: Future Sight
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|17/100
+|upkeep
+|turn|5
+|
+|t:|1740509991
+|move|p2a: Gholdengo|Make It Rain|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Sableye
+|
+|-weather|Snow|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1740509993
+|switch|p1a: Sceptile|Sceptile, M|100/100
+|turn|6
+|
+|t:|1740509998
+|detailschange|p1a: Sceptile|Sceptile-Mega, M
+|-mega|p1a: Sceptile|Sceptile|Sceptilite
+|move|p1a: Sceptile|Hidden Power|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740510026
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|7
+|
+|t:|1740510030
+|switch|p1a: Slowking|Slowking-Galar, F|78/100
+|move|p2a: Tapu Koko|Hidden Power|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1740510035
+|move|p2a: Tapu Koko|Discharge|p1a: Slowking
+|-damage|p1a: Slowking|43/100
+|move|p1a: Slowking|Future Sight|p2a: Tapu Koko
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1740510042
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-activate|p2a: Iron Crown|ability: Quark Drive
+|-start|p2a: Iron Crown|quarkdrivespa
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|93/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1740510049
+|move|p2a: Iron Crown|Psychic Noise|p1a: Slowking
+|-damage|p1a: Slowking|67/100
+|-start|p1a: Slowking|move: Heal Block
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|
+|t:|1740510053
+|switch|p1a: Type: Null|Type: Null|100/100|[from] Chilly Reception
+|
+|-weather|none
+|-end|p2a: Iron Crown|move: Future Sight
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|93/100
+|upkeep
+|turn|11
+|
+|t:|1740510060
+|move|p2a: Iron Crown|Volt Switch|p1a: Type: Null
+|-damage|p1a: Type: Null|80/100
+|
+|t:|1740510062
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|move|p1a: Type: Null|Thunder Wave|p2a: Great Tusk
+|-immune|p2a: Great Tusk
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|
+|t:|1740510066
+|move|p1a: Type: Null|Magic Coat|p1a: Type: Null
+|-singleturn|p1a: Type: Null|move: Magic Coat
+|move|p2a: Great Tusk|Stealth Rock|p1a: Type: Null
+|move|p1a: Type: Null|Stealth Rock|p2a: Great Tusk|[from] Magic Coat
+|-sidestart|p2: bignate206|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1740510071
+|move|p2a: Great Tusk|Stealth Rock|p1a: Type: Null
+|-sidestart|p1: patharok|move: Stealth Rock
+|move|p1a: Type: Null|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|96/100
+|
+|t:|1740510074
+|switch|p1a: Sceptile|Sceptile-Mega, M|100/100|[from] U-turn
+|-damage|p1a: Sceptile|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1740510078
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Iron Crown|Iron Crown|93/100
+|-damage|p2a: Iron Crown|86/100|[from] Stealth Rock
+|move|p1a: Sceptile|Leaf Storm|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|61/100
+|-unboost|p1a: Sceptile|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1740510082
+|switch|p1a: Type: Null|Type: Null|80/100
+|-damage|p1a: Type: Null|68/100|[from] Stealth Rock
+|move|p2a: Iron Crown|Psychic Noise|p1a: Type: Null
+|-damage|p1a: Type: Null|49/100
+|-start|p1a: Type: Null|move: Heal Block
+|
+|upkeep
+|turn|16
+|
+|t:|1740510088
+|switch|p1a: Sceptile|Sceptile-Mega, M|88/100
+|-damage|p1a: Sceptile|76/100|[from] Stealth Rock
+|move|p2a: Iron Crown|Volt Switch|p1a: Sceptile
+|-ability|p1a: Sceptile|Lightning Rod|boost
+|-boost|p1a: Sceptile|spa|1
+|
+|upkeep
+|turn|17
+|
+|t:|1740510095
+|move|p1a: Sceptile|Hidden Power|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|15/100
+|move|p2a: Iron Crown|Psychic Noise|p1a: Sceptile
+|-damage|p1a: Sceptile|22/100
+|-start|p1a: Sceptile|move: Heal Block
+|
+|upkeep
+|turn|18
+|
+|t:|1740510101
+|move|p1a: Sceptile|Hidden Power|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-end|p1a: Sceptile|move: Heal Block
+|upkeep
+|
+|t:|1740510106
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|19
+|
+|t:|1740510109
+|move|p1a: Sceptile|Dragon Pulse|p2a: Volcarona
+|-damage|p2a: Volcarona|27/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1740510113
+|move|p2a: Volcarona|Fiery Dance|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|-boost|p2a: Volcarona|spa|1
+|faint|p1a: Sceptile
+|
+|upkeep
+|
+|t:|1740510116
+|switch|p1a: Slowking|Slowking-Galar, F|99/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1740510122
+|move|p2a: Volcarona|Hidden Power|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|47/100
+|move|p1a: Slowking|Power Gem|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1740510126
+|switch|p2a: Great Tusk|Great Tusk|96/100
+|turn|22
+|
+|t:|1740510131
+|switch|p1a: Type: Null|Type: Null|49/100
+|-damage|p1a: Type: Null|37/100|[from] Stealth Rock
+|move|p2a: Great Tusk|Rapid Spin|p1a: Type: Null
+|-damage|p1a: Type: Null|29/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: bignate206|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|23
+|
+|t:|1740510138
+|move|p2a: Great Tusk|Earthquake|p1a: Type: Null
+|-damage|p1a: Type: Null|3/100
+|move|p1a: Type: Null|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|91/100
+|
+|t:|1740510141
+|switch|p1a: Comfey|Comfey, F|100/100|[from] U-turn
+|-damage|p1a: Comfey|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|24
+|
+|t:|1740510144
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1740510150
+|move|p2a: Tapu Koko|Discharge|p1a: Comfey
+|-damage|p1a: Comfey|56/100
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|
+|upkeep
+|turn|26
+|
+|t:|1740510156
+|move|p1a: Comfey|Draining Kiss|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|23/100
+|-heal|p1a: Comfey|100/100|[from] drain|[of] p2a: Tapu Koko
+|-damage|p1a: Comfey|91/100|[from] item: Life Orb
+|move|p2a: Tapu Koko|Discharge|p1a: Comfey
+|-damage|p1a: Comfey|66/100
+|
+|upkeep
+|turn|27
+|-message|bignate206 forfeited.
+|
+|win|patharok
+|raw|patharok's rating: 1257 &rarr; <strong>1285</strong><br />(+28 for winning)
+|raw|bignate206's rating: 1298 &rarr; <strong>1270</strong><br />(-28 for losing)
+|l|☆bignate206
+|player|p2|
+|l|☆patharok
+|player|p1|

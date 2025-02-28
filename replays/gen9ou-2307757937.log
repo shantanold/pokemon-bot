@@ -1,0 +1,253 @@
+|j|☆monkeyballer69
+|j|☆CheccaFonata
+|t:|1740510173
+|gametype|singles
+|player|p1|monkeyballer69|iris-gen5bw2|1297
+|player|p2|CheccaFonata|1|1408
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Latias, F|
+|poke|p1|Great Tusk|
+|poke|p1|Iron Moth|
+|poke|p2|Araquanid, M|
+|poke|p2|Roaring Moon|
+|poke|p2|Gholdengo|
+|poke|p2|Iron Moth|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by monkeyballer69)
+|inactive|CheccaFonata also wants the timer to be on.
+|j| catericraft
+|inactive|monkeyballer69 has 120 seconds left.
+|
+|t:|1740510220
+|start
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|turn|1
+|
+|t:|1740510225
+|move|p1a: Iron Moth|Substitute|p1a: Iron Moth
+|-start|p1a: Iron Moth|Substitute
+|-damage|p1a: Iron Moth|76/100
+|move|p2a: Araquanid|Surf|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-end|p1a: Iron Moth|Substitute
+|
+|upkeep
+|turn|2
+|
+|t:|1740510234
+|move|p1a: Iron Moth|Sludge Wave|p2a: Araquanid
+|-damage|p2a: Araquanid|65/100
+|-enditem|p2a: Araquanid|Red Card|[of] p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|drag|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Araquanid|atk|1
+|move|p2a: Araquanid|Surf|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1740510250
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|3
+|
+|t:|1740510255
+|switch|p2a: ragingbolt|Raging Bolt|100/100
+|-enditem|p2a: ragingbolt|Booster Energy
+|-activate|p2a: ragingbolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: ragingbolt|protosynthesisspa
+|move|p1a: Zapdos|Hurricane|p2a: ragingbolt
+|-resisted|p2a: ragingbolt
+|-damage|p2a: ragingbolt|79/100
+|-start|p2a: ragingbolt|confusion
+|
+|upkeep
+|turn|4
+|
+|t:|1740510264
+|-activate|p2a: ragingbolt|confusion
+|-damage|p2a: ragingbolt|73/100|[from] confusion
+|move|p1a: Zapdos|Volt Switch|p2a: ragingbolt
+|-resisted|p2a: ragingbolt
+|-damage|p2a: ragingbolt|66/100
+|
+|t:|1740510268
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|5
+|
+|t:|1740510274
+|move|p1a: Dragapult|Will-O-Wisp|p2a: ragingbolt|[miss]
+|-miss|p1a: Dragapult|p2a: ragingbolt
+|-activate|p2a: ragingbolt|confusion
+|-damage|p2a: ragingbolt|59/100|[from] confusion
+|
+|upkeep
+|turn|6
+|
+|t:|1740510279
+|-end|p2a: ragingbolt|Protosynthesis|[silent]
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Gholdengo
+|-immune|p2a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|7
+|
+|t:|1740510284
+|move|p1a: Dragapult|Hex|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|36/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1740510293
+|switch|p1a: Latias|Latias, F|100/100
+|turn|8
+|
+|t:|1740510298
+|move|p1a: Latias|Agility|p1a: Latias
+|-boost|p1a: Latias|spe|2
+|move|p2a: Gholdengo|Shadow Ball|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|26/100
+|-enditem|p1a: Latias|Weakness Policy
+|-boost|p1a: Latias|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latias|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|9
+|
+|t:|1740510306
+|switch|p2a: roaringmoon|Roaring Moon|100/100
+|-enditem|p2a: roaringmoon|Booster Energy
+|-activate|p2a: roaringmoon|ability: Protosynthesis|[fromitem]
+|-start|p2a: roaringmoon|protosynthesisatk
+|-terastallize|p1a: Latias|Poison
+|move|p1a: Latias|Stored Power|p2a: roaringmoon
+|-immune|p2a: roaringmoon
+|
+|upkeep
+|turn|10
+|
+|t:|1740510315
+|-terastallize|p2a: roaringmoon|Ground
+|move|p1a: Latias|Aura Sphere|p2a: roaringmoon
+|-damage|p2a: roaringmoon|66/100
+|move|p2a: roaringmoon|Knock Off|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1740510323
+|switch|p1a: Iron Moth|Iron Moth|76/100
+|turn|11
+|
+|t:|1740510328
+|move|p1a: Iron Moth|Fiery Dance|p2a: roaringmoon
+|-damage|p2a: roaringmoon|32/100
+|move|p2a: roaringmoon|Dragon Dance|p2a: roaringmoon
+|-boost|p2a: roaringmoon|atk|1
+|-boost|p2a: roaringmoon|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1740510336
+|move|p2a: roaringmoon|Knock Off|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1740510340
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|13
+|
+|t:|1740510345
+|move|p2a: roaringmoon|Earthquake|p1a: Great Tusk
+|-damage|p1a: Great Tusk|31/100
+|move|p1a: Great Tusk|Ice Spinner|p2a: roaringmoon
+|-supereffective|p2a: roaringmoon
+|-damage|p2a: roaringmoon|0 fnt
+|faint|p2a: roaringmoon
+|-end|p2a: roaringmoon|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740510352
+|switch|p2a: ironmoth|Iron Moth|100/100
+|-enditem|p2a: ironmoth|Booster Energy
+|-activate|p2a: ironmoth|ability: Quark Drive|[fromitem]
+|-start|p2a: ironmoth|quarkdrivespa
+|turn|14
+|l|☆monkeyballer69
+|inactive|monkeyballer69 disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆monkeyballer69
+|inactive|monkeyballer69 reconnected and has 140 seconds left.
+|player|p1|monkeyballer69|iris-gen5bw2|
+|
+|t:|1740510371
+|move|p2a: ironmoth|Fiery Dance|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740510380
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|15
+|
+|t:|1740510385
+|move|p2a: ironmoth|Sludge Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|30/100
+|-status|p1a: Zapdos|psn
+|move|p1a: Zapdos|Volt Switch|p2a: ironmoth
+|-damage|p2a: ironmoth|72/100
+|
+|-damage|p1a: Zapdos|18/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1740510392
+|move|p2a: ironmoth|Fiery Dance|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|CheccaFonata
+|raw|monkeyballer69's rating: 1297 &rarr; <strong>1280</strong><br />(-17 for losing)
+|raw|CheccaFonata's rating: 1408 &rarr; <strong>1422</strong><br />(+14 for winning)

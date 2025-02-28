@@ -1,0 +1,359 @@
+|j|☆its clownning time
+|j|☆WhamBamTYSlam
+|t:|1740509904
+|gametype|singles
+|player|p1|its clownning time|clown|1313
+|player|p2|WhamBamTYSlam|skyla|1460
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] RU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gallade, M|
+|poke|p1|Scream Tail|
+|poke|p1|Entei|
+|poke|p1|Maushold|
+|poke|p1|Magnezone|
+|poke|p1|Rhyperior, M|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Talonflame, M|
+|poke|p2|Ribombee, M|
+|poke|p2|Chesnaught, M|
+|poke|p2|Mamoswine, F|
+|poke|p2|Goodra-Hisui, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by WhamBamTYSlam)
+|inactive|its clownning time also wants the timer to be on.
+|
+|t:|1740509922
+|start
+|switch|p1a: Rhyperior|Rhyperior, M|100/100
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|1
+|
+|t:|1740509926
+|move|p2a: Talonflame|U-turn|p1a: Rhyperior
+|-damage|p1a: Rhyperior|79/100
+|
+|t:|1740509927
+|switch|p2a: Chesnaught|Chesnaught, M|100/100|[from] U-turn
+|move|p1a: Rhyperior|Rock Polish|p1a: Rhyperior
+|-boost|p1a: Rhyperior|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1740509930
+|move|p1a: Rhyperior|Ice Punch|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|65/100
+|-damage|p1a: Rhyperior|62/100|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|move|p2a: Chesnaught|Knock Off|p1a: Rhyperior
+|-damage|p1a: Rhyperior|46/100
+|-enditem|p1a: Rhyperior|Weakness Policy|[from] move: Knock Off|[of] p2a: Chesnaught
+|
+|upkeep
+|turn|3
+|
+|t:|1740509937
+|move|p1a: Rhyperior|Ice Punch|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|31/100
+|-damage|p1a: Rhyperior|29/100|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|move|p2a: Chesnaught|Synthesis|p2a: Chesnaught
+|-heal|p2a: Chesnaught|81/100
+|
+|upkeep
+|turn|4
+|
+|t:|1740509940
+|move|p1a: Rhyperior|Ice Punch|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|46/100
+|-damage|p1a: Rhyperior|13/100|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|move|p2a: Chesnaught|Spikes|p1a: Rhyperior
+|-sidestart|p1: its clownning time|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1740509945
+|move|p1a: Rhyperior|Ice Punch|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|14/100
+|-damage|p1a: Rhyperior|0 fnt|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|faint|p1a: Rhyperior
+|move|p2a: Chesnaught|Synthesis|p2a: Chesnaught
+|-heal|p2a: Chesnaught|64/100
+|
+|upkeep
+|
+|t:|1740509949
+|switch|p1a: Entei|Entei|100/100
+|-damage|p1a: Entei|88/100|[from] Spikes
+|turn|6
+|
+|t:|1740509954
+|switch|p2a: Goodra|Goodra-Hisui, M|100/100
+|move|p1a: Entei|Swagger|p2a: Goodra
+|-boost|p2a: Goodra|atk|2
+|-start|p2a: Goodra|confusion
+|-enditem|p1a: Entei|Mirror Herb
+|-boost|p1a: Entei|atk|2|[from] item: Mirror Herb
+|
+|upkeep
+|turn|7
+|
+|t:|1740509965
+|move|p1a: Entei|Sacred Fire|p2a: Goodra
+|-damage|p2a: Goodra|18/100
+|-status|p2a: Goodra|brn
+|-activate|p2a: Goodra|confusion
+|move|p2a: Goodra|Thunderbolt|p1a: Entei
+|-damage|p1a: Entei|51/100
+|
+|-heal|p2a: Goodra|24/100 brn|[from] item: Leftovers
+|-damage|p2a: Goodra|18/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1740509972
+|move|p1a: Entei|Sacred Fire|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|
+|upkeep
+|
+|t:|1740509979
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|turn|9
+|
+|t:|1740509982
+|switch|p2a: Chesnaught|Chesnaught, M|64/100
+|-terastallize|p1a: Entei|Normal
+|move|p1a: Entei|Extreme Speed|p2a: Chesnaught
+|-damage|p2a: Chesnaught|18/100
+|-damage|p1a: Entei|35/100|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|
+|upkeep
+|turn|10
+|
+|t:|1740509988
+|move|p1a: Entei|Sacred Fire|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1740509991
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|turn|11
+|
+|t:|1740509995
+|-terastallize|p2a: Mamoswine|Ghost
+|move|p1a: Entei|Extreme Speed|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|move|p2a: Mamoswine|Earthquake|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|upkeep
+|
+|t:|1740510009
+|switch|p1a: Gallade|Gallade, M|100/100
+|-damage|p1a: Gallade|88/100|[from] Spikes
+|turn|12
+|
+|t:|1740510011
+|move|p1a: Gallade|Agility|p1a: Gallade
+|-boost|p1a: Gallade|spe|2
+|move|p2a: Mamoswine|Earthquake|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|upkeep
+|
+|t:|1740510019
+|switch|p1a: Maushold|Maushold|100/100
+|-damage|p1a: Maushold|88/100|[from] Spikes
+|turn|13
+|
+|t:|1740510021
+|move|p1a: Maushold|Bite|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-crit|p2a: Mamoswine
+|-damage|p2a: Mamoswine|34/100
+|move|p2a: Mamoswine|Earthquake|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|upkeep
+|
+|t:|1740510026
+|switch|p1a: Scream Tail|Scream Tail|100/100
+|-damage|p1a: Scream Tail|88/100|[from] Spikes
+|turn|14
+|
+|t:|1740510031
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Mamoswine|Knock Off|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1740510033
+|move|p1a: Scream Tail|Play Rough|p2a: Mamoswine
+|-damage|p2a: Mamoswine|11/100
+|move|p2a: Mamoswine|Knock Off|p1a: Scream Tail
+|-damage|p1a: Scream Tail|64/100
+|-enditem|p1a: Scream Tail|Leftovers|[from] move: Knock Off|[of] p2a: Mamoswine
+|
+|upkeep
+|turn|16
+|
+|t:|1740510038
+|move|p1a: Scream Tail|Play Rough|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|faint|p2a: Mamoswine
+|
+|upkeep
+|
+|t:|1740510044
+|switch|p2a: Ribombee|Ribombee, M|100/100
+|turn|17
+|
+|t:|1740510047
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Ribombee|Moonblast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|33/100
+|-unboost|p1a: Scream Tail|spa|1
+|
+|upkeep
+|turn|18
+|
+|t:|1740510050
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Ribombee|Moonblast|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|83/100|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|19
+|
+|t:|1740510054
+|move|p1a: Scream Tail|Thunder Wave|p2a: Ribombee
+|-status|p2a: Ribombee|par
+|move|p2a: Ribombee|Moonblast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|52/100
+|
+|upkeep
+|turn|20
+|
+|t:|1740510057
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|cant|p2a: Ribombee|par
+|
+|upkeep
+|turn|21
+|
+|t:|1740510060
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|cant|p2a: Ribombee|par
+|
+|-heal|p1a: Scream Tail|100/100|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|22
+|
+|t:|1740510064
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|88/100|[from] Spikes
+|cant|p2a: Ribombee|par
+|
+|upkeep
+|turn|23
+|
+|t:|1740510066
+|move|p2a: Ribombee|Moonblast|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|66/100
+|move|p1a: Magnezone|Volt Switch|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|t:|1740510069
+|switch|p1a: Scream Tail|Scream Tail|100/100|[from] Volt Switch
+|-damage|p1a: Scream Tail|88/100|[from] Spikes
+|
+|upkeep
+|
+|t:|1740510072
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|turn|24
+|
+|t:|1740510080
+|move|p1a: Scream Tail|Thunder Wave|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|par
+|move|p2a: Crawdaunt|Knock Off|p1a: Scream Tail
+|-damage|p1a: Scream Tail|41/100
+|-damage|p2a: Crawdaunt|91/100 par|[from] item: Life Orb
+|
+|upkeep
+|turn|25
+|
+|t:|1740510085
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Crawdaunt|Knock Off|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|upkeep
+|turn|26
+|
+|t:|1740510090
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magnezone|Magnezone|66/100
+|-damage|p1a: Magnezone|54/100|[from] Spikes
+|move|p2a: Crawdaunt|Knock Off|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|-enditem|p1a: Magnezone|Choice Specs|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Magnezone
+|-damage|p2a: Crawdaunt|81/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510093
+|switch|p1a: Scream Tail|Scream Tail|41/100
+|-damage|p1a: Scream Tail|29/100|[from] Spikes
+|turn|27
+|
+|t:|1740510097
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Crawdaunt|Knock Off|p1a: Scream Tail
+|-damage|p1a: Scream Tail|0 fnt
+|faint|p1a: Scream Tail
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|-damage|p2a: Crawdaunt|71/100 par|[from] item: Life Orb
+|
+|win|WhamBamTYSlam
+|raw|its clownning time's rating: 1313 &rarr; <strong>1301</strong><br />(-12 for losing)
+|raw|WhamBamTYSlam's rating: 1460 &rarr; <strong>1472</strong><br />(+12 for winning)
+|l|☆its clownning time
+|player|p1|
+|c|☆WhamBamTYSlam|gg
+|l|☆WhamBamTYSlam
+|player|p2|

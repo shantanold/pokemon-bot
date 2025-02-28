@@ -1,0 +1,172 @@
+|j|☆Stefarion
+|j|☆mk_1109
+|t:|1740510169
+|gametype|doubles
+|player|p1|Stefarion|proton|1134
+|player|p2|mk_1109|norman|1237
+|teamsize|p1|4
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Miraidon, L50|
+|poke|p1|Sneasler, L50, M|
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Persian, L50, M|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Calyrex-Ice, L50|
+|poke|p2|Amoonguss, L50, M|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Flutter Mane, L50|
+|poke|p2|Torkoal, L50, F|
+|teampreview|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mk_1109)
+|
+|t:|1740510208
+|start
+|switch|p1a: Miraidon|Miraidon, L50|100/100
+|switch|p1b: Sneasler|Sneasler, L50, M|100/100
+|switch|p2a: Kingambit|Kingambit, L50, F, shiny|100/100
+|switch|p2b: Flutter Mane|Flutter Mane, L50|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|-enditem|p1b: Sneasler|Electric Seed
+|-boost|p1b: Sneasler|def|1|[from] item: Electric Seed
+|turn|1
+|
+|t:|1740510232
+|move|p2a: Kingambit|Protect|p2a: Kingambit
+|-singleturn|p2a: Kingambit|Protect
+|move|p1b: Sneasler|Fake Out|p2a: Kingambit
+|-activate|p2a: Kingambit|move: Protect
+|move|p1a: Miraidon|Electro Drift|p2b: Flutter Mane
+|-enditem|p2b: Flutter Mane|Focus Sash
+|-damage|p2b: Flutter Mane|1/100
+|move|p2b: Flutter Mane|Thunder Wave|p1b: Sneasler
+|-status|p1b: Sneasler|par
+|
+|upkeep
+|turn|2
+|inactive|Stefarion has 30 seconds left.
+|inactive|mk_1109 has 30 seconds left.
+|
+|t:|1740510266
+|move|p2a: Kingambit|Sucker Punch|p1a: Miraidon
+|-damage|p1a: Miraidon|49/100
+|-damage|p2a: Kingambit|91/100|[from] item: Life Orb
+|move|p1a: Miraidon|Electro Drift|p2b: Flutter Mane
+|-damage|p2b: Flutter Mane|0 fnt
+|faint|p2b: Flutter Mane
+|-end|p2b: Flutter Mane|Protosynthesis|[silent]
+|move|p1b: Sneasler|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1b: Sneasler|def|1
+|-unboost|p1b: Sneasler|spd|1
+|faint|p2a: Kingambit
+|
+|upkeep
+|
+|t:|1740510281
+|switch|p2b: Calyrex|Calyrex-Ice, L50|100/100
+|switch|p2a: Torkoal|Torkoal, L50, F|100/100
+|-ability|p2b: Calyrex|As One
+|-ability|p2b: Calyrex|Unnerve
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|3
+|inactive|Stefarion has 30 seconds left.
+|inactive|Stefarion has 20 seconds left.
+|
+|t:|1740510320
+|switch|p1a: Incineroar|Incineroar, L50, F|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Torkoal|atk|1
+|-fail|p2b: Calyrex|unboost|[from] item: Clear Amulet|[of] p2b: Calyrex
+|switch|p1b: Michifu|Persian, L50, M, shiny|100/100
+|move|p2a: Torkoal|Protect|p2a: Torkoal
+|-singleturn|p2a: Torkoal|Protect
+|move|p2b: Calyrex|Trick Room|p2b: Calyrex
+|-fieldstart|move: Trick Room|[of] p2b: Calyrex
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740510340
+|-terastallize|p2a: Torkoal|Fire
+|move|p2b: Calyrex|Protect|p2b: Calyrex
+|-singleturn|p2b: Calyrex|Protect
+|move|p1b: Michifu|Fake Out|p2a: Torkoal
+|-damage|p2a: Torkoal|85/100
+|cant|p2a: Torkoal|flinch
+|move|p1a: Incineroar|Flare Blitz|p2b: Calyrex
+|-activate|p2b: Calyrex|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1740510355
+|move|p1b: Michifu|Feint|p2b: Calyrex
+|-damage|p2b: Calyrex|90/100
+|move|p2a: Torkoal|Eruption|p1b: Michifu|[spread] p1a,p1b
+|-resisted|p1a: Incineroar
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|44/100
+|-enditem|p1b: Michifu|Focus Sash
+|-damage|p1b: Michifu|1/100
+|move|p2b: Calyrex|High Horsepower|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|-ability|p2b: Calyrex|Chilling Neigh|boost
+|-boost|p2b: Calyrex|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1740510373
+|switch|p1a: Miraidon|Miraidon, L50|49/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|6
+|
+|t:|1740510388
+|move|p1b: Michifu|Feint|p2b: Calyrex
+|-damage|p2b: Calyrex|79/100
+|move|p2a: Torkoal|Eruption|p1a: Miraidon|[spread] p1a,p1b
+|-resisted|p1a: Miraidon
+|-damage|p1a: Miraidon|7/100
+|-damage|p1b: Michifu|0 fnt
+|faint|p1b: Michifu
+|move|p2b: Calyrex|Glacial Lance|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|-ability|p2b: Calyrex|Chilling Neigh|boost
+|-boost|p2b: Calyrex|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510401
+|switch|p1b: Sneasler|Sneasler, L50, M|100/100 par
+|turn|7
+|
+|t:|1740510408
+|move|p2a: Torkoal|Earth Power|p1b: Sneasler
+|-supereffective|p1b: Sneasler
+|-damage|p1b: Sneasler|22/100 par
+|move|p2b: Calyrex|Glacial Lance|p1b: Sneasler
+|-damage|p1b: Sneasler|0 fnt
+|faint|p1b: Sneasler
+|
+|win|mk_1109
+|raw|Stefarion's rating: 1134 &rarr; <strong>1116</strong><br />(-18 for losing)
+|raw|mk_1109's rating: 1237 &rarr; <strong>1255</strong><br />(+18 for winning)
+|l|☆mk_1109
+|player|p2|
+|l|☆Stefarion
+|player|p1|

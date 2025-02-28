@@ -1,0 +1,188 @@
+|j|☆WolfeyVGcHotLips
+|j|☆Pichapicha
+|t:|1740510066
+|gametype|doubles
+|player|p1|WolfeyVGcHotLips|102|1327
+|player|p2|Pichapicha|101|1355
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Kyogre, L50|
+|poke|p1|Archaludon, L50, F|
+|poke|p1|Tornadus, L50, M|
+|poke|p1|Farigiraf, L50, F|
+|poke|p1|Gallade, L50, M|
+|poke|p1|Ogerpon-Cornerstone, L50, F|
+|poke|p2|Miraidon, L50|
+|poke|p2|Iron Hands, L50|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Gardevoir, L50, M|
+|poke|p2|Dragapult, L50, F|
+|poke|p2|Scizor, L50, F|
+|teampreview|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pichapicha)
+|inactive|WolfeyVGcHotLips has 60 seconds left.
+|inactive|Pichapicha has 60 seconds left.
+WolfeyVGcHotLips rejected open team sheets.
+|
+|t:|1740510123
+|start
+|switch|p1a: Kyogre|Kyogre, L50, shiny|100/100
+|switch|p1b: Tornadus|Tornadus, L50, M, shiny|100/100
+|switch|p2a: Gardevoir|Gardevoir, L50, M|100/100
+|switch|p2b: Iron Hands|Iron Hands, L50|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|1
+|l|☆Pichapicha
+|inactive|Pichapicha disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Pichapicha
+|inactive|Pichapicha reconnected and has 40 seconds left.
+|player|p2|Pichapicha|101|
+|inactive|WolfeyVGcHotLips has 30 seconds left.
+|inactive|Pichapicha has 30 seconds left.
+|inactive|Pichapicha has 20 seconds left.
+|
+|t:|1740510160
+|-terastallize|p2b: Iron Hands|Grass
+|move|p1a: Kyogre|Protect|p1a: Kyogre
+|-singleturn|p1a: Kyogre|Protect
+|move|p1b: Tornadus|Taunt|p2a: Gardevoir
+|-start|p2a: Gardevoir|move: Taunt
+|move|p2a: Gardevoir|Dazzling Gleam|p1a: Kyogre|[spread] p1b
+|-activate|p1a: Kyogre|move: Protect
+|-damage|p1b: Tornadus|58/100
+|move|p2b: Iron Hands|Close Combat|p1a: Kyogre
+|-activate|p1a: Kyogre|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|WolfeyVGcHotLips has 30 seconds left.
+|inactive|Pichapicha has 30 seconds left.
+|
+|t:|1740510188
+|-terastallize|p1a: Kyogre|Grass
+|move|p1b: Tornadus|Bleakwind Storm|p2a: Gardevoir|[spread] p2a,p2b
+|-supereffective|p2b: Iron Hands
+|-damage|p2a: Gardevoir|58/100
+|-damage|p2b: Iron Hands|61/100
+|-unboost|p2a: Gardevoir|spe|1
+|move|p1a: Kyogre|Ice Beam|p2b: Iron Hands
+|-supereffective|p2b: Iron Hands
+|-damage|p2b: Iron Hands|19/100
+|move|p2a: Gardevoir|Dazzling Gleam|p1b: Tornadus|[spread] p1a,p1b
+|-crit|p1b: Tornadus
+|-damage|p1a: Kyogre|78/100
+|-damage|p1b: Tornadus|0 fnt
+|faint|p1b: Tornadus
+|move|p2b: Iron Hands|Close Combat|p1a: Kyogre
+|-damage|p1a: Kyogre|21/100
+|-unboost|p2b: Iron Hands|def|1
+|-unboost|p2b: Iron Hands|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|26/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510206
+|switch|p1b: Ogerpon|Ogerpon-Cornerstone, L50, F|100/100
+|turn|3
+|
+|t:|1740510220
+|-end|p2b: Iron Hands|Quark Drive|[silent]
+|switch|p2b: Scizor|Scizor, L50, F|100/100
+|move|p1b: Ogerpon|Ivy Cudgel|p2a: Gardevoir|[anim] Ivy Cudgel Rock
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|move|p1a: Kyogre|Ice Beam|p2b: Scizor
+|-resisted|p2b: Scizor
+|-damage|p2b: Scizor|77/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|32/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510241
+|switch|p2a: Miraidon|Miraidon, L50|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|4
+|
+|t:|1740510251
+|move|p2a: Miraidon|Protect|p2a: Miraidon
+|-singleturn|p2a: Miraidon|Protect
+|move|p1b: Ogerpon|Spiky Shield|p1b: Ogerpon
+|-singleturn|p1b: Ogerpon|move: Protect
+|move|p1a: Kyogre|Protect|p1a: Kyogre
+|-singleturn|p1a: Kyogre|Protect
+|move|p2b: Scizor|Tailwind|p2b: Scizor
+|-sidestart|p2: Pichapicha|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|38/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|WolfeyVGcHotLips has 30 seconds left.
+|inactive|Pichapicha has 30 seconds left.
+|inactive|Pichapicha has 20 seconds left.
+|inactive|Pichapicha has 15 seconds left.
+|inactive|Pichapicha has 10 seconds left.
+|
+|t:|1740510300
+|move|p1b: Ogerpon|Follow Me|p1b: Ogerpon
+|-singleturn|p1b: Ogerpon|move: Follow Me
+|move|p2a: Miraidon|Draco Meteor|p1b: Ogerpon
+|-ability|p1b: Ogerpon|Sturdy
+|-damage|p1b: Ogerpon|1/100
+|-unboost|p2a: Miraidon|spa|2
+|-damage|p2a: Miraidon|91/100|[from] item: Life Orb
+|move|p2b: Scizor|Bug Bite|p1b: Ogerpon
+|-supereffective|p1b: Ogerpon
+|-damage|p1b: Ogerpon|0 fnt
+|faint|p1b: Ogerpon
+|move|p1a: Kyogre|Ice Beam|p2a: Miraidon
+|-supereffective|p2a: Miraidon
+|-damage|p2a: Miraidon|24/100
+|
+|-weather|none
+|-heal|p1a: Kyogre|44/100|[from] item: Leftovers
+|upkeep
+|inactive|WolfeyVGcHotLips has 30 seconds left.
+|inactive|WolfeyVGcHotLips has 20 seconds left.
+|inactive|WolfeyVGcHotLips has 15 seconds left.
+|
+|t:|1740510341
+|switch|p1b: Gallade|Gallade, L50, M, shiny|100/100
+|turn|6
+|
+|t:|1740510357
+|move|p2a: Miraidon|Draco Meteor|p1b: Gallade
+|-crit|p1b: Gallade
+|-enditem|p1b: Gallade|Focus Sash
+|-damage|p1b: Gallade|1/100
+|-unboost|p2a: Miraidon|spa|2
+|-damage|p2a: Miraidon|14/100|[from] item: Life Orb
+|move|p2b: Scizor|Bug Bite|p1b: Gallade
+|-damage|p1b: Gallade|0 fnt
+|faint|p1b: Gallade
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-heal|p1a: Kyogre|50/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|-message|WolfeyVGcHotLips forfeited.
+|
+|win|Pichapicha
+|raw|WolfeyVGcHotLips's rating: 1327 &rarr; <strong>1309</strong><br />(-18 for losing)
+|raw|Pichapicha's rating: 1355 &rarr; <strong>1373</strong><br />(+18 for winning)
+|l|☆WolfeyVGcHotLips
+|player|p1|
+|l|☆Pichapicha
+|player|p2|

@@ -1,0 +1,326 @@
+|j|☆r256
+|j|☆perichor
+|t:|1740509789
+|gametype|singles
+|player|p1|r256|lucas-gen4pt|1483
+|player|p2|perichor|265|1469
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Arcanine, M|
+|poke|p1|Braviary-Hisui, M|
+|poke|p1|Dipplin, F|
+|poke|p1|Cramorant, F|
+|poke|p1|Golurk|
+|poke|p1|Hitmontop, M|
+|poke|p2|Coalossal, F|
+|poke|p2|Toxtricity, F|
+|poke|p2|Uxie|
+|poke|p2|Golurk|
+|poke|p2|Arcanine, M|
+|poke|p2|Ambipom, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by r256)
+|
+|t:|1740509812
+|start
+|switch|p1a: Arcanine|Arcanine, M|100/100
+|switch|p2a: Ambipom|Ambipom, M|100/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Ambipom|atk|1
+|turn|1
+|
+|t:|1740509838
+|move|p2a: Ambipom|U-turn|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|93/100
+|
+|t:|1740509841
+|switch|p2a: Coalossal|Coalossal, F|100/100|[from] U-turn
+|move|p1a: Arcanine|Close Combat|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-damage|p2a: Coalossal|59/100
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|-damage|p1a: Arcanine|83/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1740509848
+|switch|p1a: Cramorant|Cramorant, F|100/100
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Cramorant|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1740509856
+|switch|p2a: Uxie|Uxie|100/100
+|move|p1a: Cramorant|Surf|p2a: Uxie
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Uxie|84/100
+|
+|-heal|p2a: Uxie|91/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| bytedance
+|
+|t:|1740509861
+|switch|p1a: Golurk|Golurk|100/100
+|move|p2a: Uxie|Thunder Wave|p1a: Golurk
+|-immune|p1a: Golurk
+|
+|-heal|p2a: Uxie|97/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509868
+|move|p1a: Golurk|Poltergeist|p2a: Uxie
+|-activate|p2a: Uxie|move: Poltergeist|Leftovers
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|11/100
+|move|p2a: Uxie|Stealth Rock|p1a: Golurk
+|-sidestart|p1: r256|move: Stealth Rock
+|
+|-heal|p2a: Uxie|17/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509877
+|switch|p2a: Ambipom|Ambipom, M|100/100
+|move|p1a: Golurk|Poltergeist|p2a: Ambipom
+|-immune|p2a: Ambipom
+|
+|upkeep
+|turn|7
+|
+|t:|1740509892
+|switch|p1a: Arcanine|Arcanine, M|83/100
+|-damage|p1a: Arcanine|58/100|[from] Stealth Rock
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Ambipom|atk|1
+|move|p2a: Ambipom|U-turn|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|50/100
+|
+|t:|1740509913
+|switch|p2a: Arcanine|Arcanine, M|100/100|[from] U-turn
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Arcanine|atk|1
+|
+|upkeep
+|turn|8
+|
+|t:|1740509923
+|switch|p2a: Ambipom|Ambipom, M|100/100
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|99/100
+|
+|upkeep
+|turn|9
+|
+|t:|1740509929
+|move|p2a: Ambipom|Fake Out|p1a: Arcanine
+|-damage|p1a: Arcanine|68/100
+|cant|p1a: Arcanine|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1740509937
+|move|p2a: Ambipom|U-turn|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|56/100
+|
+|t:|1740509940
+|switch|p2a: Coalossal|Coalossal, F|59/100|[from] U-turn
+|move|p1a: Arcanine|Overheat|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|46/100
+|-unboost|p1a: Arcanine|spa|2
+|-damage|p1a: Arcanine|46/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1740509957
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Arcanine|atk|1
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|96/100
+|
+|upkeep
+|turn|12
+|
+|t:|1740509969
+|switch|p1a: Cramorant|Cramorant, F|100/100
+|switch|p2a: Ambipom|Ambipom, M|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1740509985
+|move|p2a: Ambipom|Knock Off|p1a: Cramorant
+|-crit|p1a: Cramorant
+|-damage|p1a: Cramorant|54/100
+|-enditem|p1a: Cramorant|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ambipom
+|move|p1a: Cramorant|Defog|p2a: Ambipom
+|-unboost|p2a: Ambipom|evasion|1
+|-sideend|p1: r256|Stealth Rock|[from] move: Defog|[of] p1a: Cramorant
+|
+|upkeep
+|turn|14
+|
+|t:|1740509997
+|move|p2a: Ambipom|Double-Edge|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|-damage|p2a: Ambipom|80/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1740510011
+|switch|p1a: Hitmontop|Hitmontop, M|100/100
+|turn|15
+|
+|t:|1740510018
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Hitmontop|atk|1
+|move|p1a: Hitmontop|Triple Axel|p2a: Arcanine
+|-resisted|p2a: Arcanine
+|-damage|p2a: Arcanine|97/100
+|-resisted|p2a: Arcanine
+|-damage|p2a: Arcanine|90/100
+|-resisted|p2a: Arcanine
+|-damage|p2a: Arcanine|80/100
+|-hitcount|p2a: Arcanine|3
+|
+|upkeep
+|turn|16
+|inactive|perichor has 120 seconds left.
+|
+|t:|1740510050
+|switch|p1a: Golurk|Golurk|100/100
+|move|p2a: Arcanine|Flare Blitz|p1a: Golurk
+|-damage|p1a: Golurk|28/100
+|-status|p1a: Golurk|brn
+|-damage|p2a: Arcanine|59/100|[from] Recoil
+|
+|-damage|p1a: Golurk|22/100 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|perichor has 120 seconds left.
+|
+|t:|1740510061
+|move|p1a: Golurk|Stone Edge|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|20/100
+|move|p2a: Arcanine|Flare Blitz|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|-damage|p2a: Arcanine|14/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1740510068
+|switch|p1a: Arcanine|Arcanine, M|96/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Arcanine|atk|1
+|turn|18
+|inactive|perichor has 120 seconds left.
+|
+|t:|1740510112
+|switch|p2a: Coalossal|Coalossal, F|46/100
+|move|p1a: Arcanine|Close Combat|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-damage|p2a: Coalossal|2/100
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|-damage|p1a: Arcanine|86/100|[from] item: Life Orb
+|
+|upkeep
+|turn|19
+|
+|t:|1740510127
+|move|p1a: Arcanine|Extreme Speed|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|faint|p2a: Coalossal
+|-damage|p1a: Arcanine|76/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510134
+|switch|p2a: Ambipom|Ambipom, M|80/100
+|turn|20
+|
+|t:|1740510143
+|switch|p1a: Dipplin|Dipplin, F|100/100
+|move|p2a: Ambipom|Double-Edge|p1a: Dipplin
+|-damage|p1a: Dipplin|75/100
+|-damage|p2a: Ambipom|69/100|[from] Recoil
+|
+|upkeep
+|turn|21
+|
+|t:|1740510149
+|move|p2a: Ambipom|U-turn|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|56/100
+|
+|t:|1740510151
+|switch|p2a: Uxie|Uxie|17/100|[from] U-turn
+|move|p1a: Dipplin|Growth|p1a: Dipplin
+|-boost|p1a: Dipplin|atk|1
+|-boost|p1a: Dipplin|spa|1
+|
+|-heal|p2a: Uxie|24/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|perichor has 120 seconds left.
+|
+|t:|1740510161
+|switch|p1a: Arcanine|Arcanine, M|76/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Uxie|atk|1
+|move|p2a: Uxie|Psychic Noise|p1a: Arcanine
+|-damage|p1a: Arcanine|54/100
+|-start|p1a: Arcanine|move: Heal Block
+|
+|-heal|p2a: Uxie|30/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|perichor has 120 seconds left.
+|l|☆r256
+|inactive|r256 disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|r256 has 30 seconds to reconnect!
+|inactive|r256 has 20 seconds to reconnect!
+|inactive|r256 has 15 seconds to reconnect!
+|inactive|r256 has 10 seconds to reconnect!
+|inactive|r256 has 5 seconds to reconnect!
+|-message|r256 lost due to inactivity.
+|
+|win|perichor
+|raw|r256's rating: 1483 &rarr; <strong>1462</strong><br />(-21 for losing)
+|raw|perichor's rating: 1469 &rarr; <strong>1490</strong><br />(+21 for winning)
+|l|☆perichor
+|player|p2|
+|j|☆r256
+|player|p1|r256|lucas-gen4pt|
+|l|☆r256
+|player|p1|

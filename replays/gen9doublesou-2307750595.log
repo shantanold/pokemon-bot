@@ -1,0 +1,413 @@
+|j|☆DoubleSubway
+|j|☆AticusLafira
+|t:|1740509497
+|gametype|doubles
+|player|p1|DoubleSubway|emmet|1369
+|player|p2|AticusLafira|169|1377
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Eelektross, M|
+|poke|p1|Gastrodon-East, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Arboliva, F|
+|poke|p1|Ceruledge, F|
+|poke|p1|Spiritomb, M|
+|poke|p2|Bronzong|
+|poke|p2|Walking Wake|
+|poke|p2|Torkoal, F|
+|poke|p2|Great Tusk|
+|poke|p2|Tornadus, M|
+|poke|p2|Chi-Yu|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AticusLafira)
+|
+|t:|1740509516
+|start
+|switch|p1a: Spiritomb|Spiritomb, M, shiny|100/100
+|switch|p1b: Eelektross|Eelektross, M, shiny|100/100
+|switch|p2a: Weirdo|Tornadus, M|100/100
+|switch|p2b: Fish|Chi-Yu|100/100
+|-ability|p2b: Fish|Beads of Ruin
+|-ability|p1a: Spiritomb|Pressure
+|turn|1
+|
+|t:|1740509530
+|move|p2a: Weirdo|Sunny Day|p2a: Weirdo
+|-weather|SunnyDay
+|move|p2b: Fish|Dark Pulse|p1a: Spiritomb
+|-damage|p1a: Spiritomb|37/100
+|move|p1b: Eelektross|Rock Slide|p2b: Fish|[spread] p2b
+|-miss|p1b: Eelektross|p2a: Weirdo
+|-supereffective|p2b: Fish
+|-enditem|p2b: Fish|Focus Sash
+|-damage|p2b: Fish|1/100
+|move|p1a: Spiritomb|Trick Room|p1a: Spiritomb
+|-fieldstart|move: Trick Room|[of] p1a: Spiritomb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740509548
+|move|p2b: Fish|Protect|p2b: Fish
+|-singleturn|p2b: Fish|Protect
+|move|p1b: Eelektross|Rock Slide|p2b: Fish|[spread] p2a
+|-activate|p2b: Fish|move: Protect
+|-supereffective|p2a: Weirdo
+|-damage|p2a: Weirdo|13/100
+|move|p1a: Spiritomb|Dark Pulse|p2a: Weirdo
+|-damage|p2a: Weirdo|0 fnt
+|faint|p2a: Weirdo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740509559
+|switch|p2a: Turtle|Torkoal, F|100/100
+|turn|3
+|
+|t:|1740509571
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|-terastallize|p2a: Turtle|Fire
+|move|p2a: Turtle|Eruption|p1a: Ceruledge|[spread] p1b
+|-start|p1a: Ceruledge|ability: Flash Fire
+|-crit|p1b: Eelektross
+|-damage|p1b: Eelektross|0 fnt
+|faint|p1b: Eelektross
+|move|p2b: Fish|Dark Pulse|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740509581
+|switch|p1b: Gastrodon|Gastrodon-East, M|100/100
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|4
+|
+|t:|1740509596
+|-terastallize|p1b: Gastrodon|Fire
+|move|p2b: Fish|Protect|p2b: Fish
+|-singleturn|p2b: Fish|Protect
+|move|p2a: Turtle|Solar Beam||[still]
+|-prepare|p2a: Turtle|Solar Beam
+|-anim|p2a: Turtle|Solar Beam|p1b: Gastrodon
+|-resisted|p1b: Gastrodon
+|-damage|p1b: Gastrodon|90/100
+|move|p1a: Hatterene|Psychic|p2a: Turtle
+|-damage|p2a: Turtle|23/100
+|move|p1b: Gastrodon|Earth Power|p2b: Fish
+|-activate|p2b: Fish|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1740509609
+|switch|p2b: Metal|Bronzong|100/100
+|move|p2a: Turtle|Heat Wave|p1a: Hatterene|[spread] p1a,p1b
+|-resisted|p1b: Gastrodon
+|-damage|p1a: Hatterene|55/100
+|-damage|p1b: Gastrodon|76/100
+|move|p1a: Hatterene|Psychic|p2a: Turtle
+|-damage|p2a: Turtle|0 fnt
+|faint|p2a: Turtle
+|move|p1b: Gastrodon|Earth Power|p2b: Metal
+|-immune|p2b: Metal|[from] ability: Levitate
+|
+|-weather|none
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1740509622
+|switch|p2a: Mammoth|Great Tusk|100/100
+|turn|6
+|inactive|DoubleSubway has 120 seconds left.
+|
+|t:|1740509653
+|switch|p1b: Arboliva|Arboliva, F|100/100
+|move|p2b: Metal|Helping Hand|p2a: Mammoth
+|-singleturn|p2a: Mammoth|Helping Hand|[of] p2b: Metal
+|move|p2a: Mammoth|Earthquake|p1a: Hatterene|[spread] p1a,p1b
+|-immune|p2b: Metal|[from] ability: Levitate
+|-resisted|p1b: Arboliva
+|-damage|p1a: Hatterene|0 fnt
+|-damage|p1b: Arboliva|70/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p1b: Arboliva
+|faint|p1a: Hatterene
+|
+|-heal|p1b: Arboliva|76/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|82/100|[from] item: Leftovers
+|upkeep
+|inactive|DoubleSubway has 120 seconds left.
+|
+|t:|1740509662
+|switch|p1a: Spiritomb|Spiritomb, M, shiny|37/100
+|-ability|p1a: Spiritomb|Pressure
+|turn|7
+|
+|t:|1740509670
+|-end|p2a: Mammoth|Protosynthesis|[silent]
+|switch|p2a: Fish|Chi-Yu|1/100
+|-ability|p2a: Fish|Beads of Ruin
+|move|p2b: Metal|Body Press|p1b: Arboliva
+|-supereffective|p1b: Arboliva
+|-damage|p1b: Arboliva|39/100
+|move|p1b: Arboliva|Giga Drain|p2a: Fish
+|-resisted|p2a: Fish
+|-damage|p2a: Fish|0 fnt
+|-heal|p1b: Arboliva|39/100|[from] drain|[of] p2a: Fish
+|faint|p2a: Fish
+|move|p1a: Spiritomb|Trick Room|p1a: Spiritomb
+|-fieldstart|move: Trick Room|[of] p1a: Spiritomb
+|
+|-heal|p1b: Arboliva|45/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|51/100|[from] item: Leftovers
+|-heal|p1a: Spiritomb|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1740509684
+|switch|p2a: Dinosaur|Walking Wake|100/100
+|turn|8
+|inactive|DoubleSubway has 120 seconds left.
+|
+|t:|1740509725
+|move|p2a: Dinosaur|Protect|p2a: Dinosaur
+|-singleturn|p2a: Dinosaur|Protect
+|move|p1b: Arboliva|Giga Drain|p2a: Dinosaur
+|-activate|p2a: Dinosaur|move: Protect
+|move|p1a: Spiritomb|Dark Pulse|p2a: Dinosaur
+|-activate|p2a: Dinosaur|move: Protect
+|move|p2b: Metal|Trick Room|p2b: Metal
+|-fieldend|move: Trick Room
+|
+|-heal|p1a: Spiritomb|50/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|57/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|63/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740509744
+|switch|p1b: Gastrodon|Gastrodon-East, M, tera:Fire|76/100
+|move|p2b: Metal|Helping Hand|p2a: Dinosaur
+|-singleturn|p2a: Dinosaur|Helping Hand|[of] p2b: Metal
+|move|p2a: Dinosaur|Flamethrower|p1b: Gastrodon
+|-resisted|p1b: Gastrodon
+|-damage|p1b: Gastrodon|67/100
+|move|p1a: Spiritomb|Trick Room|p1a: Spiritomb
+|-fieldstart|move: Trick Room|[of] p1a: Spiritomb
+|
+|-heal|p1b: Gastrodon|73/100|[from] Grassy Terrain
+|-heal|p1a: Spiritomb|56/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1740509767
+|move|p2a: Dinosaur|Protect|p2a: Dinosaur
+|-singleturn|p2a: Dinosaur|Protect
+|move|p1b: Gastrodon|Chilling Water|p2b: Metal
+|-damage|p2b: Metal|89/100
+|-unboost|p2b: Metal|atk|1
+|move|p1a: Spiritomb|Dark Pulse|p2b: Metal
+|-supereffective|p2b: Metal
+|-damage|p2b: Metal|54/100
+|cant|p2b: Metal|flinch
+|
+|-heal|p1b: Gastrodon|79/100|[from] Grassy Terrain
+|-heal|p1a: Spiritomb|62/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1740509791
+|move|p2b: Metal|Helping Hand|p2a: Dinosaur
+|-singleturn|p2a: Dinosaur|Helping Hand|[of] p2b: Metal
+|move|p1b: Gastrodon|Chilling Water|p2b: Metal
+|-damage|p2b: Metal|43/100
+|-unboost|p2b: Metal|atk|1
+|move|p1a: Spiritomb|Dark Pulse|p2b: Metal
+|-supereffective|p2b: Metal
+|-damage|p2b: Metal|7/100
+|move|p2a: Dinosaur|Draco Meteor|p1b: Gastrodon
+|-damage|p1b: Gastrodon|41/100
+|-unboost|p2a: Dinosaur|spa|2
+|
+|upkeep
+|turn|12
+|
+|t:|1740509809
+|-end|p2a: Dinosaur|Protosynthesis|[silent]
+|switch|p2a: Mammoth|Great Tusk|100/100
+|move|p1b: Gastrodon|Chilling Water|p2b: Metal
+|-damage|p2b: Metal|0 fnt
+|faint|p2b: Metal
+|move|p1a: Spiritomb|Dark Pulse|p2a: Mammoth
+|-resisted|p2a: Mammoth
+|-crit|p2a: Mammoth
+|-damage|p2a: Mammoth|70/100
+|
+|upkeep
+|
+|t:|1740509815
+|switch|p2b: Dinosaur|Walking Wake|100/100
+|turn|13
+|
+|t:|1740509820
+|move|p2b: Dinosaur|Protect|p2b: Dinosaur
+|-singleturn|p2b: Dinosaur|Protect
+|move|p1b: Gastrodon|Chilling Water|p2a: Mammoth
+|-supereffective|p2a: Mammoth
+|-damage|p2a: Mammoth|20/100
+|-unboost|p2a: Mammoth|atk|1
+|move|p1a: Spiritomb|Will-O-Wisp|p2a: Mammoth
+|-status|p2a: Mammoth|brn
+|move|p2a: Mammoth|Earthquake|p1a: Spiritomb|[spread] p1a,p1b
+|-activate|p2b: Dinosaur|move: Protect
+|-supereffective|p1b: Gastrodon
+|-crit|p1b: Gastrodon
+|-damage|p1a: Spiritomb|52/100
+|-damage|p1b: Gastrodon|0 fnt
+|faint|p1b: Gastrodon
+|
+|-damage|p2a: Mammoth|13/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1740509831
+|switch|p1b: Arboliva|Arboliva, F|63/100
+|turn|14
+|
+|t:|1740509846
+|move|p1b: Arboliva|Protect|p1b: Arboliva
+|-singleturn|p1b: Arboliva|Protect
+|move|p2a: Mammoth|Earthquake|p1a: Spiritomb|[spread] p2b,p1a
+|-activate|p1b: Arboliva|move: Protect
+|-damage|p2b: Dinosaur|87/100
+|-damage|p1a: Spiritomb|42/100
+|move|p2b: Dinosaur|Hydro Steam|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|-heal|p1b: Arboliva|69/100|[from] item: Leftovers
+|-damage|p2a: Mammoth|7/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1740509857
+|move|p2a: Mammoth|Earthquake|p1b: Arboliva|[spread] p2b,p1b
+|-resisted|p1b: Arboliva
+|-damage|p2b: Dinosaur|73/100
+|-damage|p1b: Arboliva|63/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p1b: Arboliva
+|move|p2b: Dinosaur|Flamethrower|p1b: Arboliva
+|-supereffective|p1b: Arboliva
+|-damage|p1b: Arboliva|24/100
+|move|p1b: Arboliva|Leech Seed|p2b: Dinosaur
+|-start|p2b: Dinosaur|move: Leech Seed
+|
+|-heal|p2a: Mammoth|13/100 brn|[from] Grassy Terrain
+|-heal|p2b: Dinosaur|79/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|30/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|37/100|[from] item: Leftovers
+|-damage|p2b: Dinosaur|67/100|[from] Leech Seed|[of] p1b: Arboliva
+|-heal|p1b: Arboliva|49/100|[silent]
+|-damage|p2a: Mammoth|7/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1740509874
+|move|p2b: Dinosaur|Protect|p2b: Dinosaur
+|-singleturn|p2b: Dinosaur|Protect
+|move|p1b: Arboliva|Protect|p1b: Arboliva
+|-singleturn|p1b: Arboliva|Protect
+|move|p2a: Mammoth|Earthquake|p1b: Arboliva|[spread] 
+|-activate|p2b: Dinosaur|move: Protect
+|-activate|p1b: Arboliva|move: Protect
+|
+|-heal|p2a: Mammoth|13/100 brn|[from] Grassy Terrain
+|-heal|p2b: Dinosaur|73/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|56/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|62/100|[from] item: Leftovers
+|-damage|p2b: Dinosaur|61/100|[from] Leech Seed|[of] p1b: Arboliva
+|-heal|p1b: Arboliva|74/100|[silent]
+|-damage|p2a: Mammoth|7/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1740509884
+|move|p2a: Mammoth|Earthquake|p1b: Arboliva|[spread] p2b,p1b
+|-resisted|p1b: Arboliva
+|-damage|p2b: Dinosaur|54/100
+|-damage|p1b: Arboliva|71/100
+|move|p2b: Dinosaur|Draco Meteor|p1b: Arboliva
+|-damage|p1b: Arboliva|30/100
+|-unboost|p2b: Dinosaur|spa|2
+|move|p1b: Arboliva|Giga Drain|p2a: Mammoth
+|-supereffective|p2a: Mammoth
+|-damage|p2a: Mammoth|0 fnt
+|-heal|p1b: Arboliva|34/100|[from] drain|[of] p2a: Mammoth
+|faint|p2a: Mammoth
+|-end|p2a: Mammoth|Protosynthesis|[silent]
+|
+|-heal|p2b: Dinosaur|60/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|40/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|46/100|[from] item: Leftovers
+|-damage|p2b: Dinosaur|48/100|[from] Leech Seed|[of] p1b: Arboliva
+|-heal|p1b: Arboliva|59/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1740509893
+|move|p2b: Dinosaur|Protect|p2b: Dinosaur
+|-singleturn|p2b: Dinosaur|Protect
+|move|p1b: Arboliva|Giga Drain|p2b: Dinosaur
+|-activate|p2b: Dinosaur|move: Protect
+|
+|-heal|p2b: Dinosaur|54/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|65/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|71/100|[from] item: Leftovers
+|-damage|p2b: Dinosaur|41/100|[from] Leech Seed|[of] p1b: Arboliva
+|-heal|p1b: Arboliva|84/100|[silent]
+|upkeep
+|turn|19
+|c|☆AticusLafira|hh
+|
+|t:|1740509897
+|move|p2b: Dinosaur|Flamethrower|p1b: Arboliva
+|-supereffective|p1b: Arboliva
+|-damage|p1b: Arboliva|65/100
+|move|p1b: Arboliva|Giga Drain|p2b: Dinosaur
+|-damage|p2b: Dinosaur|1/100
+|-heal|p1b: Arboliva|86/100|[from] drain|[of] p2b: Dinosaur
+|
+|-heal|p2b: Dinosaur|7/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|92/100|[from] Grassy Terrain
+|-heal|p1b: Arboliva|98/100|[from] item: Leftovers
+|-damage|p2b: Dinosaur|0 fnt|[from] Leech Seed|[of] p1b: Arboliva
+|-heal|p1b: Arboliva|100/100|[silent]
+|faint|p2b: Dinosaur
+|-end|p2b: Dinosaur|Protosynthesis|[silent]
+|
+|win|DoubleSubway
+|upkeep
+|raw|DoubleSubway's rating: 1369 &rarr; <strong>1389</strong><br />(+20 for winning)
+|raw|AticusLafira's rating: 1377 &rarr; <strong>1357</strong><br />(-20 for losing)
+|c|☆AticusLafira|gg
+|c|☆DoubleSubway|gg
+|l|☆DoubleSubway
+|player|p1|
+|l|☆AticusLafira
+|player|p2|

@@ -1,0 +1,184 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆YanCross17
+|j|☆Nemelios10101
+|t:|1740510230
+|gametype|singles
+|player|p1|YanCross17|byron|1171
+|player|p2|Nemelios10101|archer|1068
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Ursaluna, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Iron Crown|
+|poke|p1|Regieleki|
+|poke|p1|Iron Valiant|
+|poke|p2|Volcarona, F|
+|poke|p2|Mienshao, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Serperior, F|
+|poke|p2|Galvantula, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Nemelios10101)
+|
+|t:|1740510241
+|start
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|switch|p2a: Galvantula|Galvantula, M|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|1
+|
+|t:|1740510245
+|move|p1a: Iron Valiant|Knock Off|p2a: Galvantula
+|-damage|p2a: Galvantula|38/100
+|-enditem|p2a: Galvantula|Focus Sash|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Galvantula|Thunder|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|15/100
+|-status|p1a: Iron Valiant|par
+|
+|upkeep
+|turn|2
+|
+|t:|1740510253
+|move|p2a: Galvantula|Sticky Web|p1a: Iron Valiant
+|-sidestart|p1: YanCross17|move: Sticky Web
+|move|p1a: Iron Valiant|Moonblast|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|upkeep
+|
+|t:|1740510255
+|switch|p2a: Mienshao|Mienshao, M|100/100
+|turn|3
+|
+|t:|1740510259
+|move|p2a: Mienshao|Fake Out|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Mienshao|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510267
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-activate|p1a: Tapu Koko|move: Sticky Web
+|-unboost|p1a: Tapu Koko|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|4
+|
+|t:|1740510272
+|move|p2a: Mienshao|U-turn|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|82/100
+|-damage|p2a: Mienshao|81/100|[from] item: Life Orb
+|
+|t:|1740510275
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from] U-turn
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Tapu Koko|Reflect|p1a: Tapu Koko
+|-sidestart|p1: YanCross17|Reflect
+|
+|upkeep
+|turn|5
+|
+|t:|1740510281
+|move|p2a: Excadrill|Rapid Spin|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|70/100
+|-boost|p2a: Excadrill|spe|1
+|-damage|p2a: Excadrill|91/100|[from] item: Life Orb
+|move|p1a: Tapu Koko|Taunt|p2a: Excadrill
+|-start|p2a: Excadrill|move: Taunt
+|
+|upkeep
+|turn|6
+|
+|t:|1740510286
+|move|p2a: Excadrill|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|-damage|p2a: Excadrill|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510290
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|7
+|
+|t:|1740510296
+|move|p1a: Hawlucha|Close Combat|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1740510299
+|switch|p2a: Mienshao|Mienshao, M|100/100
+|turn|8
+|
+|t:|1740510303
+|move|p2a: Mienshao|Fake Out|p1a: Hawlucha
+|-damage|p1a: Hawlucha|88/100
+|-damage|p2a: Mienshao|91/100|[from] item: Life Orb
+|cant|p1a: Hawlucha|flinch
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1740510305
+|move|p1a: Hawlucha|Acrobatics|p2a: Mienshao
+|-supereffective|p2a: Mienshao
+|-damage|p2a: Mienshao|0 fnt
+|faint|p2a: Mienshao
+|
+|upkeep
+|
+|t:|1740510309
+|switch|p2a: Serperior|Serperior, F|100/100
+|turn|10
+|
+|t:|1740510312
+|move|p1a: Hawlucha|Acrobatics|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|upkeep
+|
+|t:|1740510316
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|turn|11
+|-message|Nemelios10101 forfeited.
+|
+|win|YanCross17
+|raw|YanCross17's rating: 1171 &rarr; <strong>1189</strong><br />(+18 for winning)
+|raw|Nemelios10101's rating: 1068 &rarr; <strong>1054</strong><br />(-14 for losing)
+|l|☆Nemelios10101
+|player|p2|

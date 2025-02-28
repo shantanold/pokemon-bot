@@ -1,0 +1,112 @@
+|j|‽vihaan g
+|j|☆arugula56
+|t:|1740509993
+|gametype|doubles
+|player|p1|vihaan g|2|1000
+|player|p2|arugula56|169|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1740509993
+|start
+|switch|p1a: Articuno|Articuno-Galar, L82|282/282
+|switch|p1b: Lurantis|Lurantis, L86, F|261/261
+|switch|p2a: Darkrai|Darkrai, L80|243/243
+|switch|p2b: Noivern|Noivern, L84, M|280/280
+|-item|p1a: Articuno|Life Orb|[from] ability: Frisk|[of] p2b: Noivern
+|-item|p1b: Lurantis|Assault Vest|[from] ability: Frisk|[of] p2b: Noivern
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by arugula56)
+|
+|t:|1740510013
+|move|p2b: Noivern|Draco Meteor|p2a: Darkrai
+|-damage|p2a: Darkrai|58/243
+|-unboost|p2b: Noivern|spa|2
+|-damage|p2b: Noivern|252/280|[from] item: Life Orb
+|move|p2a: Darkrai|Dark Pulse|p2b: Noivern
+|-damage|p2b: Noivern|100/280
+|-damage|p2a: Darkrai|34/243|[from] item: Life Orb
+|move|p1a: Articuno|Freezing Glare|p2b: Noivern
+|-damage|p2b: Noivern|0 fnt
+|faint|p2b: Noivern
+|-damage|p1a: Articuno|254/282|[from] item: Life Orb
+|move|p1b: Lurantis|Superpower|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|-boost|p1b: Lurantis|atk|1
+|-boost|p1b: Lurantis|def|1
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1740510037
+|switch|p2b: Veluza|Veluza, L88, F|302/302
+|switch|p2a: Gholdengo|Gholdengo, L78|264/264
+|turn|2
+|inactive|vihaan g has 120 seconds left.
+|inactive|vihaan g has 90 seconds left.
+|inactive|vihaan g has 60 seconds left.
+|inactiveoff|Battle timer is now OFF.
+|c|☆arugula56|:(
+|
+|t:|1740510182
+|move|p1a: Articuno|Tailwind|p1a: Articuno
+|-sidestart|p1: vihaan g|move: Tailwind
+|move|p1b: Lurantis|Leaf Storm|p2b: Veluza
+|-supereffective|p2b: Veluza
+|-damage|p2b: Veluza|24/302
+|-boost|p1b: Lurantis|spa|2
+|move|p2a: Gholdengo|Shadow Ball|p2b: Veluza
+|-supereffective|p2b: Veluza
+|-damage|p2b: Veluza|0 fnt
+|faint|p2b: Veluza
+|
+|upkeep
+|
+|t:|1740510199
+|switch|p2b: Magnezone|Magnezone, L84|255/255
+|turn|3
+|
+|t:|1740510213
+|move|p1a: Articuno|Freezing Glare|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|186/264
+|-damage|p1a: Articuno|226/282|[from] item: Life Orb
+|move|p1b: Lurantis|Superpower|p2b: Magnezone
+|-supereffective|p2b: Magnezone
+|-damage|p2b: Magnezone|39/255
+|-boost|p1b: Lurantis|atk|1
+|-boost|p1b: Lurantis|def|1
+|-enditem|p2b: Magnezone|Sitrus Berry|[eat]
+|-heal|p2b: Magnezone|102/255|[from] item: Sitrus Berry
+|move|p2a: Gholdengo|Shadow Ball|p2b: Magnezone
+|-damage|p2b: Magnezone|8/255
+|move|p2b: Magnezone|Thunderbolt|p2a: Gholdengo
+|-damage|p2a: Gholdengo|56/264
+|-enditem|p2a: Gholdengo|Sitrus Berry|[eat]
+|-heal|p2a: Gholdengo|122/264|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|4
+|c|☆arugula56|pls play
+|c|☆arugula56|:(
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by arugula56)
+|inactive|vihaan g has 30 seconds left.
+|inactive|vihaan g has 20 seconds left.
+|inactive|vihaan g has 15 seconds left.
+|inactive|vihaan g has 10 seconds left.
+|inactive|vihaan g has 5 seconds left.
+|-message|vihaan g lost due to inactivity.
+|
+|win|arugula56
+|raw|vihaan g's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|arugula56's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|‽vihaan g
+|player|p1|

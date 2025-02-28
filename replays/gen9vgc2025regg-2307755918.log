@@ -1,0 +1,232 @@
+|j|☆Phantomknight418
+|j|☆Owlee
+|t:|1740509988
+|gametype|doubles
+|player|p1|Phantomknight418|1|1145
+|player|p2|Owlee|hilbert|1108
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Koraidon, L50|
+|poke|p1|Flutter Mane, L50|
+|poke|p1|Weezing-Galar, L50, F|
+|poke|p1|Tatsugiri, L50, F|
+|poke|p1|Dondozo, L50, M|
+|poke|p1|Chi-Yu, L50|
+|poke|p2|Zamazenta-*, L50|
+|poke|p2|Grimmsnarl, L50, M|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Iron Treads, L50|
+|poke|p2|Urshifu-*, L50, M|
+|poke|p2|Ogerpon-Hearthflame, L50, F|
+|teampreview|4
+Phantomknight418 has agreed to open team sheets.
+Owlee has agreed to open team sheets.
+|showteam|p1|Koraidon||AbilityShield|OrichalcumPulse|Protect,FlareBlitz,CloseCombat,FlameCharge||||||50|,,,,,Fire]Flutter Mane||ChoiceSpecs|Protosynthesis|DazzlingGleam,ShadowBall,Moonblast,IcyWind||||||50|,,,,,Fairy]Weezing-Galar||FocusSash|NeutralizingGas|Protect,StrangeSteam,ToxicSpikes,PoisonGas|||F|||50|,,,,,Ground]Tatsugiri||SafetyGoggles|Commander|Protect,DracoMeteor,MuddyWater,HydroPump|||F|||50|,,,,,Water]Dondozo||RockyHelmet|Unaware|Earthquake,OrderUp,Rest,SleepTalk|||M|||50|,,,,,Electric]Chi-Yu||ChoiceScarf|BeadsofRuin|Snarl,Overheat,HeatWave,DarkPulse||||||50|,,,,,Dark
+|showteam|p2|Zamazenta-Crowned||RustedShield|DauntlessShield|BodyPress,behemothbash,IronDefense,Protect||||||50|,,,,,Fighting]Grimmsnarl||LightClay|Prankster|SpiritBreak,Reflect,LightScreen,ThunderWave|||M|||50|,,,,,Ghost]Tornadus||CovertCloak|Prankster|BleakwindStorm,Protect,RainDance,Tailwind|||M|||50|,,,,,Flying]Iron Treads||AssaultVest|QuarkDrive|HighHorsepower,IronHead,KnockOff,Endeavor||||||50|,,,,,Grass]Urshifu-Rapid-Strike||MysticWater|UnseenFist|SurgingStrikes,CloseCombat,Protect,AquaJet|||M|||50|,,,,,Water]Ogerpon-Hearthflame||HearthflameMask|MoldBreaker|IvyCudgel,SpikyShield,FollowMe,HornLeech|||F|||50|,,,,,Fire
+|
+|t:|1740510086
+|start
+|switch|p1a: Koraidon|Koraidon, L50|100/100
+|switch|p1b: Flutter Mane|Flutter Mane, L50, shiny|100/100
+|switch|p2a: Tornadus|Tornadus, L50, M|100/100
+|switch|p2b: Ogerpon|Ogerpon-Hearthflame, L50, F|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1b: Flutter Mane|ability: Protosynthesis
+|-start|p1b: Flutter Mane|protosynthesisspe
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|-ability|p2b: Ogerpon|Mold Breaker
+|turn|1
+|
+|t:|1740510169
+|-terastallize|p2b: Ogerpon|Fire
+|detailschange|p2b: Ogerpon|Ogerpon-Hearthflame-Tera, L50, F, tera:Fire
+|-ability|p2b: Ogerpon|Embody Aspect (Hearthflame)|boost
+|-boost|p2b: Ogerpon|atk|1
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: Owlee|move: Tailwind
+|move|p1b: Flutter Mane|Icy Wind|p2a: Tornadus|[spread] p2a,p2b
+|-supereffective|p2a: Tornadus
+|-resisted|p2b: Ogerpon
+|-damage|p2a: Tornadus|33/100
+|-damage|p2b: Ogerpon|88/100
+|-unboost|p2b: Ogerpon|spe|1
+|move|p1a: Koraidon|Flare Blitz|p2b: Ogerpon
+|-resisted|p2b: Ogerpon
+|-damage|p2b: Ogerpon|43/100
+|-damage|p1a: Koraidon|86/100|[from] Recoil
+|move|p2b: Ogerpon|Ivy Cudgel|p1b: Flutter Mane|[anim] Ivy Cudgel Fire
+|-damage|p1b: Flutter Mane|0 fnt
+|faint|p1b: Flutter Mane
+|-end|p1b: Flutter Mane|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510187
+|switch|p1b: Dondozo|Dondozo, L50, M, shiny|100/100
+|turn|2
+|
+|t:|1740510211
+|switch|p1a: Tatsugiri|Tatsugiri, L50, F, shiny|100/100
+|-activate|p1a: Tatsugiri|ability: Commander|[of] p1b: Dondozo
+|-boost|p1b: Dondozo|atk|2
+|-boost|p1b: Dondozo|spa|2
+|-boost|p1b: Dondozo|spe|2
+|-boost|p1b: Dondozo|def|2
+|-boost|p1b: Dondozo|spd|2
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Tatsugiri|[spread] p1b
+|-miss|p2a: Tornadus|p1a: Tatsugiri
+|-damage|p1b: Dondozo|82/100
+|move|p2b: Ogerpon|Horn Leech|p1b: Dondozo
+|-supereffective|p1b: Dondozo
+|-damage|p1b: Dondozo|55/100
+|-heal|p2b: Ogerpon|61/100|[from] drain|[of] p1b: Dondozo
+|-damage|p2b: Ogerpon|45/100|[from] item: Rocky Helmet|[of] p1b: Dondozo
+|move|p1b: Dondozo|Earthquake|p2a: Tornadus|[spread] p2b
+|-miss|p1b: Dondozo|p1a: Tatsugiri
+|-immune|p2a: Tornadus
+|-supereffective|p2b: Ogerpon
+|-damage|p2b: Ogerpon|0 fnt
+|faint|p2b: Ogerpon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740510233
+|switch|p2b: Grimmsnarl|Grimmsnarl, L50, M, shiny|100/100
+|turn|3
+|
+|t:|1740510253
+|move|p2b: Grimmsnarl|Thunder Wave|p1b: Dondozo
+|-status|p1b: Dondozo|par
+|move|p2a: Tornadus|Bleakwind Storm|p1b: Dondozo|[spread] p1b
+|-miss|p2a: Tornadus|p1a: Tatsugiri
+|-damage|p1b: Dondozo|35/100 par
+|cant|p1b: Dondozo|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1740510270
+|move|p2b: Grimmsnarl|Reflect|p2b: Grimmsnarl
+|-sidestart|p2: Owlee|Reflect
+|move|p2a: Tornadus|Bleakwind Storm|p1b: Dondozo|[spread] p1b
+|-miss|p2a: Tornadus|p1a: Tatsugiri
+|-damage|p1b: Dondozo|15/100 par
+|-unboost|p1b: Dondozo|spe|1
+|move|p1b: Dondozo|Rest|p1b: Dondozo
+|-status|p1b: Dondozo|slp|[from] move: Rest
+|-heal|p1b: Dondozo|100/100 slp|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: Owlee|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1740510286
+|move|p2a: Tornadus|Bleakwind Storm|p1b: Dondozo|[spread] p1b
+|-miss|p2a: Tornadus|p1a: Tatsugiri
+|-damage|p1b: Dondozo|82/100 slp
+|cant|p1b: Dondozo|slp
+|move|p1b: Dondozo|Sleep Talk|p1b: Dondozo
+|move|p1b: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1b: Dondozo
+|move|p2b: Grimmsnarl|Spirit Break|p1b: Dondozo
+|-damage|p1b: Dondozo|73/100 slp
+|-unboost|p1b: Dondozo|spa|1
+|-damage|p2b: Grimmsnarl|84/100|[from] item: Rocky Helmet|[of] p1b: Dondozo
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1740510327
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: Owlee|move: Tailwind
+|move|p2b: Grimmsnarl|Light Screen|p2b: Grimmsnarl
+|-sidestart|p2: Owlee|move: Light Screen
+|cant|p1b: Dondozo|slp
+|move|p1b: Dondozo|Sleep Talk|p1b: Dondozo
+|move|p1b: Dondozo|Order Up|p2b: Grimmsnarl|[from] move: Sleep Talk
+|-immune|p2b: Grimmsnarl
+|
+|upkeep
+|turn|7
+|
+|t:|1740510341
+|switch|p2b: Zamazenta|Zamazenta-Crowned, L50|100/100
+|-ability|p2b: Zamazenta|Dauntless Shield|boost
+|-boost|p2b: Zamazenta|def|1
+|move|p2a: Tornadus|Bleakwind Storm|p1b: Dondozo|[spread] p1b
+|-miss|p2a: Tornadus|p1a: Tatsugiri
+|-damage|p1b: Dondozo|54/100 slp
+|-curestatus|p1b: Dondozo|slp|[msg]
+|move|p1b: Dondozo|Order Up|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-boost|p1b: Dondozo|atk|1
+|
+|upkeep
+|
+|t:|1740510353
+|switch|p2a: Grimmsnarl|Grimmsnarl, L50, M, shiny|84/100
+|turn|8
+|
+|t:|1740510366
+|move|p2a: Grimmsnarl|Thunder Wave|p1b: Dondozo
+|-status|p1b: Dondozo|par
+|move|p2b: Zamazenta|Iron Defense|p2b: Zamazenta
+|-boost|p2b: Zamazenta|def|2
+|move|p1b: Dondozo|Earthquake|p2b: Zamazenta|[spread] p2a,p2b
+|-miss|p1b: Dondozo|p1a: Tatsugiri
+|-crit|p2a: Grimmsnarl
+|-supereffective|p2b: Zamazenta
+|-damage|p2a: Grimmsnarl|24/100
+|-damage|p2b: Zamazenta|68/100
+|
+|upkeep
+|turn|9
+|
+|t:|1740510395
+|move|p2b: Zamazenta|Body Press|p1b: Dondozo
+|-damage|p1b: Dondozo|40/100 par
+|-damage|p2b: Zamazenta|52/100|[from] item: Rocky Helmet|[of] p1b: Dondozo
+|move|p2a: Grimmsnarl|Spirit Break|p1b: Dondozo
+|-damage|p1b: Dondozo|31/100 par
+|-unboost|p1b: Dondozo|spa|1
+|-damage|p2a: Grimmsnarl|8/100|[from] item: Rocky Helmet|[of] p1b: Dondozo
+|move|p1b: Dondozo|Earthquake|p2a: Grimmsnarl|[spread] p2a,p2b
+|-miss|p1b: Dondozo|p1a: Tatsugiri
+|-supereffective|p2b: Zamazenta
+|-damage|p2a: Grimmsnarl|0 fnt
+|-damage|p2b: Zamazenta|21/100
+|faint|p2a: Grimmsnarl
+|
+|-sideend|p2: Owlee|move: Tailwind
+|upkeep
+|turn|10
+|c|☆Owlee|gg
+|c|☆Phantomknight418|gg
+|
+|t:|1740510415
+|move|p2b: Zamazenta|Body Press|p1b: Dondozo
+|-damage|p1b: Dondozo|16/100 par
+|-damage|p2b: Zamazenta|5/100|[from] item: Rocky Helmet|[of] p1b: Dondozo
+|move|p1b: Dondozo|Earthquake|p2b: Zamazenta|[spread] p2b
+|-miss|p1b: Dondozo|p1a: Tatsugiri
+|-supereffective|p2b: Zamazenta
+|-damage|p2b: Zamazenta|0 fnt
+|faint|p2b: Zamazenta
+|
+|win|Phantomknight418
+|raw|Phantomknight418's rating: 1145 &rarr; <strong>1167</strong><br />(+22 for winning)
+|raw|Owlee's rating: 1108 &rarr; <strong>1086</strong><br />(-22 for losing)
+|l|☆Owlee
+|player|p2|

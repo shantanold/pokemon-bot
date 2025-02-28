@@ -1,0 +1,234 @@
+|j|☆tora41414
+|j|‽Tera2NormalYT
+|t:|1740510371
+|gametype|singles
+|player|p1|tora41414|candice|1133
+|player|p2|Tera2NormalYT|cheren|1152
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex Monotype
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Same Type Clause: Pokémon in a team must share a type
+|rule|Terastal Clause: You cannot Terastallize
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|clearpoke
+|poke|p1|Slowbro, M|
+|poke|p1|Bronzong|
+|poke|p1|Indeedee, M|
+|poke|p1|Espeon, M|
+|poke|p1|Reuniclus, F|
+|poke|p1|Gardevoir, M|
+|poke|p2|Arctovish|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Weavile, F|
+|poke|p2|Darmanitan-Galar, F|
+|poke|p2|Arctozolt|
+|poke|p2|Abomasnow, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tera2NormalYT)
+|
+|t:|1740510395
+|start
+|switch|p1a: Bronzong|Bronzong|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Snow|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1740510402
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Tera2NormalYT|move: Aurora Veil
+|move|p1a: Bronzong|Stealth Rock|p2a: Ninetales
+|-sidestart|p2: Tera2NormalYT|move: Stealth Rock
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740510405
+|move|p2a: Ninetales|Encore|p1a: Bronzong
+|-start|p1a: Bronzong|Encore
+|move|p1a: Bronzong|Stealth Rock||[still]
+|-fail|p1a: Bronzong
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740510409
+|switch|p1a: Reuniclus|Reuniclus, F|100/100
+|move|p2a: Ninetales|Blizzard|p1a: Reuniclus
+|-damage|p1a: Reuniclus|71/100
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Reuniclus|77/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740510415
+|switch|p1a: Bronzong|Bronzong|100/100
+|move|p2a: Ninetales|Blizzard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|83/100
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Bronzong|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740510421
+|switch|p2a: Abomasnow|Abomasnow, F|100/100
+|-damage|p2a: Abomasnow|76/100|[from] Stealth Rock
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|-weather|none
+|-heal|p1a: Bronzong|95/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740510433
+|detailschange|p2a: Abomasnow|Abomasnow-Mega, F
+|-mega|p2a: Abomasnow|Abomasnow|Abomasite
+|-weather|Snow|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p2a: Abomasnow|Blizzard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|69/100
+|move|p1a: Bronzong|Body Press|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|53/100
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Bronzong|76/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1740510438
+|move|p2a: Abomasnow|Blizzard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|50/100
+|-status|p1a: Bronzong|frz
+|cant|p1a: Bronzong|frz
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Bronzong|57/100 frz|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740510445
+|move|p2a: Abomasnow|Blizzard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|33/100 frz
+|cant|p1a: Bronzong|frz
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Bronzong|39/100 frz|[from] item: Leftovers
+|-sideend|p2: Tera2NormalYT|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1740510448
+|move|p2a: Abomasnow|Blizzard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|12/100 frz
+|cant|p1a: Bronzong|frz
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Bronzong|19/100 frz|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1740510450
+|move|p2a: Abomasnow|Blizzard|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|-weather|none
+|upkeep
+|
+|t:|1740510454
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|turn|11
+|
+|t:|1740510457
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snow|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Slowbro|Flamethrower|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|30/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1740510462
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Tera2NormalYT|move: Aurora Veil
+|move|p1a: Slowbro|Flamethrower|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|6/100
+|-status|p2a: Ninetales|brn
+|
+|-weather|Snow|[upkeep]
+|-damage|p2a: Ninetales|0 fnt|[from] brn
+|faint|p2a: Ninetales
+|upkeep
+|
+|t:|1740510470
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|-damage|p2a: Arctozolt|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1740510487
+|move|p2a: Arctozolt|Bolt Beak|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|-damage|p2a: Arctozolt|66/100|[from] item: Life Orb
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740510490
+|switch|p1a: Reuniclus|Reuniclus, F|77/100
+|turn|14
+|
+|t:|1740510492
+|move|p2a: Arctozolt|Bolt Beak|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|-damage|p2a: Arctozolt|56/100|[from] item: Life Orb
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740510494
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|15
+|
+|t:|1740510498
+|move|p2a: Arctozolt|Bolt Beak|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|-damage|p2a: Arctozolt|46/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|-message|tora41414 forfeited.
+|
+|win|Tera2NormalYT
+|raw|tora41414's rating: 1133 &rarr; <strong>1109</strong><br />(-24 for losing)
+|raw|Tera2NormalYT's rating: 1152 &rarr; <strong>1176</strong><br />(+24 for winning)
+|l|☆tora41414
+|player|p1|

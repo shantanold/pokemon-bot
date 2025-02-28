@@ -1,0 +1,118 @@
+|j|☆Italoseb
+|j|☆NicornioV9
+|t:|1740510153
+|gametype|singles
+|player|p1|Italoseb|rocketgrunt|
+|player|p2|NicornioV9|bruno|
+|teamsize|p1|3
+|teamsize|p2|3
+|gen|8
+|tier|[Gen 8] Custom Game
+|clearpoke
+|poke|p1|Calyrex-Shadow|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Tyranitar, F|
+|poke|p2|Raikou|
+|poke|p2|Yveltal|
+|poke|p2|Dragapult, F|
+|teampreview
+|c|☆NicornioV9|gl
+|c|☆Italoseb|suerte
+|
+|t:|1740510196
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|341/341
+|switch|p2a: KouMan|Raikou|321/321
+|turn|1
+|
+|t:|1740510219
+|move|p2a: KouMan|Aura Sphere|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-enditem|p1a: Tyranitar|Chople Berry|[eat]
+|debug|-50% reduction
+|-enditem|p1a: Tyranitar|Chople Berry|[weaken]
+|-damage|p1a: Tyranitar|183/341
+|move|p1a: Tyranitar|V-create|p2a: KouMan
+|-damage|p2a: KouMan|77/321
+|-boost|p1a: Tyranitar|spe|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1740510238
+|move|p2a: KouMan|Aura Sphere|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-ability|p2a: KouMan|Grim Neigh|boost
+|-boost|p2a: KouMan|spa|1
+|
+|upkeep
+|
+|t:|1740510254
+|switch|p1a: Napoleon|Calyrex-Shadow|341/341
+|-ability|p1a: Napoleon|As One
+|-ability|p1a: Napoleon|Unnerve
+|turn|3
+|
+|t:|1740510267
+|switch|p2a: GGMan|Yveltal|393/393
+|move|p1a: Napoleon|Shadow Ball|p2a: GGMan
+|-resisted|p2a: GGMan
+|-damage|p2a: GGMan|315/393
+|
+|upkeep
+|turn|4
+|
+|t:|1740510283
+|switch|p1a: WizardLaChupa|Urshifu, F|341/341
+|-start|p2a: GGMan|Dynamax|
+|-heal|p2a: GGMan|630/786|[silent]
+|move|p2a: GGMan|Max Darkness|p1a: WizardLaChupa
+|-resisted|p1a: WizardLaChupa
+|-damage|p1a: WizardLaChupa|233/341
+|-unboost|p1a: WizardLaChupa|spd|1
+|-damage|p2a: GGMan|591/786|[from] item: Life Orb
+|
+|-heal|p1a: WizardLaChupa|254/341|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740510297
+|move|p1a: WizardLaChupa|Thunder Wave|p2a: GGMan
+|debug|natural prankster immunity
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: GGMan
+|move|p2a: GGMan|Max Airstream|p1a: WizardLaChupa
+|-supereffective|p1a: WizardLaChupa
+|-damage|p1a: WizardLaChupa|0 fnt
+|-boost|p2a: GGMan|spe|1
+|faint|p1a: WizardLaChupa
+|-damage|p2a: GGMan|552/786|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1740510315
+|switch|p1a: Napoleon|Calyrex-Shadow|341/341
+|-ability|p1a: Napoleon|As One
+|-ability|p1a: Napoleon|Unnerve
+|turn|6
+|
+|t:|1740510323
+|-start|p1a: Napoleon|Dynamax|
+|-heal|p1a: Napoleon|682/682|[silent]
+|move|p1a: Napoleon|Max Starfall|p2a: GGMan
+|-supereffective|p2a: GGMan
+|-damage|p2a: GGMan|312/786
+|-fieldstart|move: Misty Terrain
+|move|p2a: GGMan|Max Darkness|p1a: Napoleon
+|-supereffective|p1a: Napoleon
+|-damage|p1a: Napoleon|0 fnt
+|faint|p1a: Napoleon
+|-damage|p2a: GGMan|273/786|[from] item: Life Orb
+|
+|win|NicornioV9
+|c|☆Italoseb|gg
+|c|☆NicornioV9|ggs

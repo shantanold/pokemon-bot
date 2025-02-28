@@ -1,0 +1,517 @@
+|badge|p1|silver|gen9randombattle|30-4
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆MinionContinent✓
+|j|☆2018 Blunder
+|t:|1740509764
+|gametype|singles
+|player|p1|MinionContinent✓|caitlin-masters|2351
+|player|p2|2018 Blunder|cynthia|2262
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1740509764
+|start
+|switch|p1a: Piloswine|Piloswine, L85, M|309/309
+|switch|p2a: Ninetales|Ninetales, L85, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 2018 Blunder)
+|inactive|MinionContinent✓ also wants the timer to be on.
+|
+|t:|1740509780
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Piloswine|Earthquake|p2a: Bronzong
+|-immune|p2a: Bronzong|[from] ability: Levitate
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1740509792
+|switch|p1a: Clawitzer|Clawitzer, L87, M|265/265
+|move|p2a: Bronzong|Hypnosis|p1a: Clawitzer
+|-status|p1a: Clawitzer|slp|[from] move: Hypnosis
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1740509808
+|cant|p1a: Clawitzer|slp
+|move|p2a: Bronzong|Psychic|p1a: Clawitzer
+|-damage|p1a: Clawitzer|207/265 slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509841
+|cant|p1a: Clawitzer|slp
+|move|p2a: Bronzong|Earthquake|p1a: Clawitzer
+|-damage|p1a: Clawitzer|134/265 slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509852
+|cant|p1a: Clawitzer|slp
+|move|p2a: Bronzong|Earthquake|p1a: Clawitzer
+|-damage|p1a: Clawitzer|62/265 slp
+|
+|-weather|none
+|upkeep
+|turn|6
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509862
+|switch|p2a: Ninetales|Ninetales, L85, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|-curestatus|p1a: Clawitzer|slp|[msg]
+|move|p1a: Clawitzer|Dark Pulse|p2a: Ninetales
+|-damage|p2a: Ninetales|163/263
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1740509874
+|switch|p1a: Passimian|Passimian, L83, M|302/302
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Passimian
+|-damage|p1a: Passimian|193/302
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509905
+|move|p1a: Passimian|Close Combat|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1740509916
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|turn|9
+|
+|t:|1740509933
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Calyrex|Calm Mind|p2a: Calyrex
+|-boost|p2a: Calyrex|spa|1
+|-boost|p2a: Calyrex|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1740509939
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Cryogonal|Haze|p1a: Cryogonal
+|-clearallboost
+|
+|-weather|none
+|upkeep
+|turn|11
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509947
+|switch|p1a: Clawitzer|Clawitzer, L87, M|62/265
+|move|p2a: Bronzong|Psychic|p1a: Clawitzer
+|-damage|p1a: Clawitzer|4/265
+|
+|upkeep
+|turn|12
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509970
+|switch|p2a: Volcanion|Volcanion, L79|256/256
+|move|p1a: Clawitzer|Dark Pulse|p2a: Volcanion
+|-damage|p2a: Volcanion|154/256
+|
+|upkeep
+|turn|13
+|
+|t:|1740509979
+|switch|p1a: Feraligatr|Feraligatr, L79, F|264/264
+|move|p2a: Volcanion|Flamethrower|p1a: Feraligatr
+|-resisted|p1a: Feraligatr
+|-damage|p1a: Feraligatr|209/264
+|
+|upkeep
+|turn|14
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740509991
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|upkeep
+|turn|15
+|
+|t:|1740509996
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|upkeep
+|turn|16
+|
+|t:|1740509998
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|upkeep
+|turn|17
+|
+|t:|1740510000
+|move|p1a: Feraligatr|Crunch|p2a: Volcanion
+|-damage|p2a: Volcanion|77/256
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|upkeep
+|turn|18
+|
+|t:|1740510006
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|upkeep
+|turn|19
+|
+|t:|1740510008
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|upkeep
+|turn|20
+|
+|t:|1740510010
+|move|p1a: Feraligatr|Crunch|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|upkeep
+|inactive|2018 Blunder has 120 seconds left.
+|
+|t:|1740510062
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|turn|21
+|
+|t:|1740510078
+|switch|p1a: Passimian|Passimian, L83, M|193/302
+|move|p2a: Calyrex|Giga Drain|p1a: Passimian
+|-damage|p1a: Passimian|72/302
+|
+|upkeep
+|turn|22
+|
+|t:|1740510093
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Passimian|Knock Off|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|127/261
+|-enditem|p2a: Bronzong|Leftovers|[from] move: Knock Off|[of] p1a: Passimian
+|
+|upkeep
+|turn|23
+|
+|t:|1740510105
+|switch|p1a: Clawitzer|Clawitzer, L87, M|4/265
+|move|p2a: Bronzong|Psychic|p1a: Clawitzer
+|-damage|p1a: Clawitzer|0 fnt
+|faint|p1a: Clawitzer
+|
+|upkeep
+|
+|t:|1740510107
+|switch|p1a: Feraligatr|Feraligatr, L79, F|209/264
+|turn|24
+|
+|t:|1740510112
+|move|p1a: Feraligatr|Crunch|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|
+|upkeep
+|
+|t:|1740510116
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|turn|25
+|
+|t:|1740510119
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Calyrex|Giga Drain|p1a: Cryogonal
+|-damage|p1a: Cryogonal|226/287
+|
+|upkeep
+|turn|26
+|
+|t:|1740510130
+|-terastallize|p2a: Calyrex|Steel
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|295/337
+|-status|p2a: Calyrex|frz
+|cant|p2a: Calyrex|frz
+|
+|-heal|p2a: Calyrex|316/337 frz|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1740510139
+|switch|p1a: Piloswine|Piloswine, L85, M|309/309
+|-curestatus|p2a: Calyrex|frz|[msg]
+|move|p2a: Calyrex|Psychic|p1a: Piloswine
+|-crit|p1a: Piloswine
+|-damage|p1a: Piloswine|185/309
+|
+|-heal|p2a: Calyrex|337/337|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1740510145
+|move|p2a: Calyrex|Calm Mind|p2a: Calyrex
+|-boost|p2a: Calyrex|spa|1
+|-boost|p2a: Calyrex|spd|1
+|move|p1a: Piloswine|Earthquake|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|113/337
+|
+|-heal|p2a: Calyrex|134/337|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1740510147
+|switch|p1a: Breloom|Breloom, L82, F|233/233
+|move|p2a: Calyrex|Giga Drain|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|145/233
+|-heal|p2a: Calyrex|178/337|[from] drain|[of] p1a: Breloom
+|
+|-heal|p2a: Calyrex|199/337|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1740510150
+|switch|p2a: Drifblim|Drifblim, L86, M|396/396
+|move|p1a: Breloom|Mach Punch|p2a: Drifblim
+|-immune|p2a: Drifblim
+|
+|upkeep
+|turn|31
+|
+|t:|1740510163
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, F|261/261
+|switch|p1a: Piloswine|Piloswine, L85, M|185/309
+|
+|upkeep
+|turn|32
+|
+|t:|1740510183
+|switch|p1a: Cryogonal|Cryogonal, L89|226/287
+|move|p2a: Basculin|Flip Turn|p1a: Cryogonal
+|-damage|p1a: Cryogonal|40/287
+|
+|t:|1740510188
+|switch|p2a: Calyrex|Calyrex, L93, tera:Steel|199/337|[from] Flip Turn
+|-ability|p2a: Calyrex|Unnerve
+|
+|-heal|p2a: Calyrex|220/337|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1740510194
+|switch|p1a: Piloswine|Piloswine, L85, M|185/309
+|move|p2a: Calyrex|Encore||[still]
+|-fail|p2a: Calyrex
+|
+|-heal|p2a: Calyrex|241/337|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1740510204
+|move|p2a: Calyrex|Giga Drain|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|45/309
+|-heal|p2a: Calyrex|311/337|[from] drain|[of] p1a: Piloswine
+|move|p1a: Piloswine|Earthquake|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|101/337
+|
+|-heal|p2a: Calyrex|122/337|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1740510213
+|move|p2a: Calyrex|Giga Drain|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|0 fnt
+|-heal|p2a: Calyrex|145/337|[from] drain|[of] p1a: Piloswine
+|faint|p1a: Piloswine
+|
+|-heal|p2a: Calyrex|166/337|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510224
+|switch|p1a: Breloom|Breloom, L82, F|145/233
+|turn|36
+|
+|t:|1740510228
+|switch|p2a: Drifblim|Drifblim, L86, M|396/396
+|move|p1a: Breloom|Mach Punch|p2a: Drifblim
+|-immune|p2a: Drifblim
+|
+|upkeep
+|turn|37
+|
+|t:|1740510236
+|switch|p1a: Cryogonal|Cryogonal, L89|40/287
+|move|p2a: Drifblim|Air Slash|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|
+|upkeep
+|
+|t:|1740510239
+|switch|p1a: Feraligatr|Feraligatr, L79, F|209/264
+|turn|38
+|
+|t:|1740510244
+|move|p2a: Drifblim|Strength Sap|p1a: Feraligatr
+|-unboost|p1a: Feraligatr|atk|1
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|
+|upkeep
+|turn|39
+|
+|t:|1740510250
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Drifblim|Strength Sap|p1a: Feraligatr
+|-unboost|p1a: Feraligatr|atk|1
+|
+|upkeep
+|turn|40
+|
+|t:|1740510257
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Drifblim|Strength Sap|p1a: Feraligatr
+|-unboost|p1a: Feraligatr|atk|1
+|
+|upkeep
+|turn|41
+|
+|t:|1740510279
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Drifblim|Strength Sap|p1a: Feraligatr
+|-unboost|p1a: Feraligatr|atk|1
+|
+|upkeep
+|turn|42
+|
+|t:|1740510285
+|move|p1a: Feraligatr|Dragon Dance|p1a: Feraligatr
+|-boost|p1a: Feraligatr|atk|1
+|-boost|p1a: Feraligatr|spe|1
+|move|p2a: Drifblim|Shadow Ball|p1a: Feraligatr
+|-damage|p1a: Feraligatr|122/264
+|
+|upkeep
+|turn|43
+|
+|t:|1740510288
+|switch|p2a: Calyrex|Calyrex, L93, tera:Steel|166/337
+|-ability|p2a: Calyrex|Unnerve
+|-terastallize|p1a: Feraligatr|Dark
+|move|p1a: Feraligatr|Crunch|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|upkeep
+|
+|t:|1740510289
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, F|261/261
+|turn|44
+|
+|t:|1740510300
+|move|p1a: Feraligatr|Crunch|p2a: Basculin
+|-damage|p2a: Basculin|23/261
+|move|p2a: Basculin|Flip Turn|p1a: Feraligatr
+|-damage|p1a: Feraligatr|0 fnt
+|faint|p1a: Feraligatr
+|
+|t:|1740510302
+|switch|p2a: Drifblim|Drifblim, L86, M|396/396|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1740510316
+|switch|p1a: Breloom|Breloom, L82, F|145/233
+|turn|45
+|
+|t:|1740510319
+|move|p2a: Drifblim|Air Slash|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|upkeep
+|inactive|MinionContinent✓ no longer wants the timer on, but the timer is staying on because 2018blunder still does.
+|inactive|MinionContinent✓ has 120 seconds left.
+|inactive|MinionContinent✓ has 90 seconds left.
+|inactive|MinionContinent✓ has 60 seconds left.
+|inactive|MinionContinent✓ has 30 seconds left.
+|inactive|MinionContinent✓ has 20 seconds left.
+|inactive|MinionContinent✓ has 15 seconds left.
+|inactive|MinionContinent✓ has 10 seconds left.
+|inactive|MinionContinent✓ has 5 seconds left.
+|-message|MinionContinent✓ lost due to inactivity.
+|
+|win|2018 Blunder
+|raw|MinionContinent✓'s rating: 2351 &rarr; <strong>2326</strong><br />(-25 for losing)
+|raw|2018 Blunder's rating: 2262 &rarr; <strong>2287</strong><br />(+25 for winning)
+|l|☆MinionContinent✓
+|player|p1|

@@ -1,0 +1,256 @@
+|j|☆SnowyKurama
+|j|☆n8wing
+|t:|1740508982
+|gametype|singles
+|player|p1|SnowyKurama|skier|
+|player|p2|n8wing|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Draft
+|rule|Tera Type Preview: Tera Types are shown at Team Preview
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Vileplume, F|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Landorus, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Gholdengo|
+|poke|p1|Cyclizar, F|
+|poke|p2|Meowscarada, F|
+|poke|p2|Ursaluna, F|
+|poke|p2|Slowking, M|
+|poke|p2|Blastoise, M|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Baxcalibur, F|
+|teampreview
+|raw|SnowyKurama's Tera Types:<br /><psicon pokemon="vileplume" /><psicon type="Grass" /> / <psicon pokemon="samurotthisui" /><psicon type="Water" /> / <psicon pokemon="landorus" /><psicon type="Ground" /> / <psicon pokemon="ironvaliant" /><psicon type="Fairy" /> / <psicon pokemon="gholdengo" /><psicon type="Steel" /> / <psicon pokemon="cyclizar" /><psicon type="Dragon" />
+|raw|n8wing's Tera Types:<br /><psicon pokemon="meowscarada" /><psicon type="Grass" /> / <psicon pokemon="ursaluna" /><psicon type="Ghost" /> / <psicon pokemon="slowking" /><psicon type="Water" /> / <psicon pokemon="blastoise" /><psicon type="Water" /> / <psicon pokemon="thundurustherian" /><psicon type="Water" /> / <psicon pokemon="baxcalibur" /><psicon type="Dragon" />
+|c|☆SnowyKurama|gl hf! Could you get link? I'm on work laptop
+|c|☆n8wing|Good luck
+|c|☆n8wing|Have fun
+|c|☆n8wing|I got it
+|c|☆SnowyKurama|ty
+|j| Stish85
+|
+|t:|1740509103
+|start
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|switch|p2a: Meowscarada|Meowscarada, F|100/100
+|turn|1
+|j| RainbowHawk70
+|
+|t:|1740509150
+|move|p2a: Meowscarada|Knock Off|p1a: Gholdengo
+|-start|p2a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-supereffective|p1a: Gholdengo
+|-enditem|p1a: Gholdengo|Colbur Berry|[eat]
+|-enditem|p1a: Gholdengo|Colbur Berry|[weaken]
+|-damage|p1a: Gholdengo|55/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Meowscarada
+|-status|p2a: Meowscarada|par
+|
+|upkeep
+|turn|2
+|
+|t:|1740509245
+|switch|p1a: Landorus|Landorus, M|100/100
+|cant|p2a: Meowscarada|par
+|
+|upkeep
+|turn|3
+|c|☆n8wing|Come on
+|
+|t:|1740509299
+|move|p1a: Landorus|Sludge Wave|p2a: Meowscarada
+|-crit|p2a: Meowscarada
+|-damage|p2a: Meowscarada|2/100 par
+|cant|p2a: Meowscarada|par
+|
+|upkeep
+|turn|4
+|c|☆SnowyKurama|damn mb
+|c|☆n8wing|What the actual
+|
+|t:|1740509316
+|move|p1a: Landorus|Sludge Wave|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|
+|upkeep
+|j| skibidi666
+|
+|t:|1740509368
+|switch|p2a: Baxcalibur|Baxcalibur, F|100/100
+|turn|5
+|l| skibidi666
+|j| skibidi666
+|l| skibidi666
+|
+|t:|1740509454
+|switch|p1a: Gholdengo|Gholdengo|55/100
+|move|p2a: Baxcalibur|Dragon Dance|p2a: Baxcalibur
+|-boost|p2a: Baxcalibur|atk|1
+|-boost|p2a: Baxcalibur|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1740509471
+|move|p2a: Baxcalibur|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|l| Stish85
+|j| Stish85
+|
+|t:|1740509545
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|turn|7
+|
+|t:|1740509590
+|move|p2a: Baxcalibur|Glaive Rush|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-singlemove|p2a: Baxcalibur|Glaive Rush|[silent]
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1740509622
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|turn|8
+|
+|t:|1740509651
+|move|p2a: Baxcalibur|Ice Shard|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|53/100
+|move|p1a: Iron Valiant|Close Combat|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur
+|-enditem|p2a: Baxcalibur|Chople Berry|[eat]
+|-enditem|p2a: Baxcalibur|Chople Berry|[weaken]
+|-damage|p2a: Baxcalibur|33/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1740509738
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Cyclizar|Cyclizar, F|100/100
+|move|p2a: Baxcalibur|Ice Shard|p1a: Cyclizar
+|-supereffective|p1a: Cyclizar
+|-damage|p1a: Cyclizar|11/100
+|
+|upkeep
+|turn|10
+|
+|t:|1740509751
+|move|p2a: Baxcalibur|Ice Shard|p1a: Cyclizar
+|-supereffective|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|faint|p1a: Cyclizar
+|
+|upkeep
+|
+|t:|1740509769
+|switch|p1a: Vileplume|Vileplume, F|100/100
+|turn|11
+|
+|t:|1740509812
+|move|p2a: Baxcalibur|Dragon Dance|p2a: Baxcalibur
+|-boost|p2a: Baxcalibur|atk|1
+|-boost|p2a: Baxcalibur|spe|1
+|move|p1a: Vileplume|Strength Sap|p2a: Baxcalibur
+|-unboost|p2a: Baxcalibur|atk|1
+|
+|upkeep
+|turn|12
+|
+|t:|1740509855
+|move|p2a: Baxcalibur|Glaive Rush|p1a: Vileplume
+|-damage|p1a: Vileplume|21/100
+|-singlemove|p2a: Baxcalibur|Glaive Rush|[silent]
+|move|p1a: Vileplume|Sludge Bomb|p2a: Baxcalibur
+|-damage|p2a: Baxcalibur|0 fnt
+|faint|p2a: Baxcalibur
+|
+|-heal|p1a: Vileplume|27/100|[from] item: Black Sludge
+|upkeep
+|j| skibidi666
+|
+|t:|1740509903
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|turn|13
+|l| RainbowHawk70
+|j| RainbowHawk70
+|l| skibidi666
+|l| Stish85
+|
+|t:|1740509980
+|move|p2a: Thundurus|Psychic|p1a: Vileplume
+|-supereffective|p1a: Vileplume
+|-damage|p1a: Vileplume|0 fnt
+|faint|p1a: Vileplume
+|
+|upkeep
+|
+|t:|1740510055
+|switch|p1a: Landorus|Landorus, M|100/100
+|turn|14
+|
+|t:|1740510102
+|move|p1a: Landorus|Rock Slide|p2a: Thundurus
+|-supereffective|p2a: Thundurus
+|-damage|p2a: Thundurus|24/100
+|move|p2a: Thundurus|Psychic|p1a: Landorus
+|-damage|p1a: Landorus|31/100
+|
+|upkeep
+|turn|15
+|
+|t:|1740510169
+|switch|p2a: Ursaluna|Ursaluna, F|100/100
+|move|p1a: Landorus|Sludge Wave|p2a: Ursaluna
+|-resisted|p2a: Ursaluna
+|-damage|p2a: Ursaluna|90/100
+|
+|upkeep
+|turn|16
+|
+|t:|1740510236
+|move|p1a: Landorus|Grass Knot|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|50/100
+|move|p2a: Ursaluna|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|c|☆SnowyKurama|gg
+|
+|t:|1740510254
+|switch|p1a: Iron Valiant|Iron Valiant|53/100
+|turn|17
+|
+|t:|1740510275
+|-terastallize|p2a: Ursaluna|Ghost
+|move|p1a: Iron Valiant|Moonblast|p2a: Ursaluna
+|-damage|p2a: Ursaluna|26/100
+|-unboost|p2a: Ursaluna|spa|1
+|move|p2a: Ursaluna|Body Slam|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|win|n8wing
+|c|☆n8wing|Gg bro

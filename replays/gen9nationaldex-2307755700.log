@@ -1,0 +1,356 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|‽Manmamq
+|j|☆Ayatozx
+|t:|1740509968
+|gametype|singles
+|player|p1|Manmamq|265|1292
+|player|p2|Ayatozx|2|1305
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Chandelure, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Garchomp, M|
+|poke|p1|Lopunny, F|
+|poke|p1|Zapdos|
+|poke|p2|Altaria, F|
+|poke|p2|Iron Crown|
+|poke|p2|Kingambit, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Kommo-o, M|
+|poke|p2|Gliscor, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Manmamq)
+|
+|t:|1740509986
+|start
+|switch|p1a: Lopunny|Lopunny, F|100/100
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|turn|1
+|
+|t:|1740509992
+|detailschange|p1a: Lopunny|Lopunny-Mega, F
+|-mega|p1a: Lopunny|Lopunny|Lopunnite
+|move|p1a: Lopunny|Fake Out|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|90/100
+|cant|p2a: Iron Crown|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1740510001
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Altaria|Altaria, F, shiny|100/100
+|move|p1a: Lopunny|U-turn|p2a: Altaria
+|-resisted|p2a: Altaria
+|-damage|p2a: Altaria|89/100
+|
+|t:|1740510018
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1740510028
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|detailschange|p2a: Altaria|Altaria-Mega, F, shiny
+|-mega|p2a: Altaria|Altaria|Altarianite
+|move|p2a: Altaria|Hyper Voice|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|80/100
+|
+|-heal|p1a: Ferrothorn|86/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740510031
+|move|p2a: Altaria|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1740510042
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|5
+|
+|t:|1740510045
+|move|p1a: Garchomp|Earthquake|p2a: Altaria
+|-damage|p2a: Altaria|49/100
+|move|p2a: Altaria|Hyper Voice|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1740510048
+|switch|p1a: Lopunny|Lopunny-Mega, F|100/100
+|turn|6
+|
+|t:|1740510056
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Lopunny|Fake Out|p2a: Alomomola
+|-damage|p2a: Alomomola|87/100
+|
+|upkeep
+|turn|7
+|
+|t:|1740510065
+|switch|p1a: Chandelure|Chandelure, F|100/100
+|move|p2a: Alomomola|Toxic|p1a: Chandelure
+|-status|p1a: Chandelure|tox
+|
+|-damage|p1a: Chandelure|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1740510070
+|move|p1a: Chandelure|Trick|p2a: Alomomola
+|-activate|p1a: Chandelure|move: Trick|[of] p2a: Alomomola
+|-item|p2a: Alomomola|Choice Scarf|[from] move: Trick
+|-item|p1a: Chandelure|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-damage|p1a: Chandelure|82/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1740510082
+|switch|p2a: Altaria|Altaria-Mega, F, shiny|49/100
+|move|p1a: Chandelure|Shadow Ball|p2a: Altaria
+|-damage|p2a: Altaria|3/100
+|-unboost|p2a: Altaria|spd|1
+|
+|-heal|p2a: Altaria|71/100|[from] move: Wish|[wisher] Alomomola
+|-damage|p1a: Chandelure|64/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1740510094
+|switch|p1a: Lopunny|Lopunny-Mega, F|100/100
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1740510100
+|move|p1a: Lopunny|Fake Out|p2a: Alomomola
+|-damage|p2a: Alomomola|86/100
+|cant|p2a: Alomomola|flinch
+|
+|upkeep
+|turn|12
+|
+|t:|1740510110
+|move|p1a: Lopunny|Return|p2a: Alomomola
+|-damage|p2a: Alomomola|54/100
+|move|p2a: Alomomola|Flip Turn|p1a: Lopunny
+|-damage|p1a: Lopunny|80/100
+|inactive|Ayatozx has 120 seconds left.
+|
+|t:|1740510147
+|switch|p2a: Iron Crown|Iron Crown|90/100|[from] Flip Turn
+|
+|upkeep
+|turn|13
+|
+|t:|1740510152
+|move|p1a: Lopunny|U-turn|p2a: Iron Crown
+|-damage|p2a: Iron Crown|63/100
+|
+|t:|1740510156
+|switch|p1a: Chandelure|Chandelure, F|64/100 tox|[from] U-turn
+|move|p2a: Iron Crown|Psychic Noise|p1a: Chandelure
+|-damage|p1a: Chandelure|8/100 tox
+|-start|p1a: Chandelure|move: Heal Block
+|
+|-damage|p1a: Chandelure|2/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1740510168
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|switch|p2a: Alomomola|Alomomola, F|87/100
+|move|p1a: Chandelure|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|48/100
+|-unboost|p2a: Alomomola|spd|1
+|
+|-damage|p1a: Chandelure|0 fnt|[from] psn
+|faint|p1a: Chandelure
+|upkeep
+|
+|t:|1740510173
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|turn|15
+|
+|t:|1740510191
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Rotom|Thunderbolt|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|16
+|
+|t:|1740510201
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|move|p1a: Rotom|Hydro Pump|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|72/100
+|
+|upkeep
+|turn|17
+|
+|t:|1740510211
+|-zpower|p2a: Kommo-o
+|move|p2a: Kommo-o|Clangorous Soulblaze|p1a: Rotom|[zeffect]
+|-damage|p1a: Rotom|19/100
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|move|p1a: Rotom|Will-O-Wisp|p2a: Kommo-o
+|-status|p2a: Kommo-o|brn
+|
+|-heal|p1a: Rotom|25/100|[from] item: Leftovers
+|-damage|p2a: Kommo-o|65/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1740510231
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Kommo-o|Clanging Scales|p1a: Zapdos
+|-damage|p1a: Zapdos|31/100
+|-unboost|p2a: Kommo-o|def|1
+|
+|-damage|p2a: Kommo-o|59/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1740510245
+|move|p2a: Kommo-o|Clanging Scales|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-unboost|p2a: Kommo-o|def|1
+|
+|-damage|p2a: Kommo-o|53/100 brn|[from] brn
+|upkeep
+|
+|t:|1740510247
+|switch|p1a: Lopunny|Lopunny-Mega, F|80/100
+|turn|20
+|
+|t:|1740510255
+|move|p1a: Lopunny|Fake Out|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-damage|p2a: Kommo-o|7/100 brn
+|cant|p2a: Kommo-o|flinch
+|
+|-damage|p2a: Kommo-o|0 fnt|[from] brn
+|faint|p2a: Kommo-o
+|upkeep
+|
+|t:|1740510263
+|switch|p2a: Iron Crown|Iron Crown|63/100
+|turn|21
+|
+|t:|1740510270
+|move|p1a: Lopunny|U-turn|p2a: Iron Crown
+|-damage|p2a: Iron Crown|36/100
+|
+|t:|1740510272
+|switch|p1a: Rotom|Rotom-Wash|25/100|[from] U-turn
+|move|p2a: Iron Crown|Psychic Noise|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1740510274
+|switch|p1a: Lopunny|Lopunny-Mega, F|80/100
+|turn|22
+|
+|t:|1740510276
+|move|p1a: Lopunny|Fake Out|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|24/100
+|cant|p2a: Iron Crown|flinch
+|
+|upkeep
+|turn|23
+|
+|t:|1740510279
+|move|p1a: Lopunny|Return|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1740510287
+|switch|p2a: Alomomola|Alomomola, F|81/100
+|turn|24
+|
+|t:|1740510290
+|move|p1a: Lopunny|Return|p2a: Alomomola
+|-damage|p2a: Alomomola|45/100
+|move|p2a: Alomomola|Toxic|p1a: Lopunny
+|-status|p1a: Lopunny|tox
+|
+|-damage|p1a: Lopunny|73/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1740510297
+|switch|p2a: Gliscor|Gliscor, F|100/100 tox
+|move|p1a: Lopunny|Close Combat|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|76/100 tox
+|-unboost|p1a: Lopunny|def|1
+|-unboost|p1a: Lopunny|spd|1
+|
+|-damage|p1a: Lopunny|61/100 tox|[from] psn
+|-heal|p2a: Gliscor|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|
+|t:|1740510310
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Lopunny|Return|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-damage|p1a: Lopunny|42/100 tox|[from] psn
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|27
+|
+|t:|1740510322
+|move|p1a: Lopunny|Return|p2a: Gliscor
+|-damage|p2a: Gliscor|57/100 tox
+|move|p2a: Gliscor|Earthquake|p1a: Lopunny
+|-damage|p1a: Lopunny|0 fnt
+|faint|p1a: Lopunny
+|
+|win|Ayatozx
+|raw|Manmamq's rating: 1292 &rarr; <strong>1268</strong><br />(-24 for losing)
+|raw|Ayatozx's rating: 1305 &rarr; <strong>1324</strong><br />(+19 for winning)

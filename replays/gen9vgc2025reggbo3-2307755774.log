@@ -1,0 +1,168 @@
+|j|☆luizhsouza3
+|j|☆Boi_3onn
+|html|<table width="100%"><tr><td align="left">luizhsouza3</td><td align="right">Boi_3onn</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9vgc2025reggbo3-2307755772">a best-of-3</a></h2>
+|t:|1740509975
+|gametype|doubles
+|player|p1|luizhsouza3|striker|1076
+|player|p2|Boi_3onn|ingo|1046
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] VGC 2025 Reg G (Bo3)
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Weezing-Galar, L50, M|
+|poke|p1|Toedscruel, L50, M|
+|poke|p1|Incineroar, L50, M|
+|poke|p1|Tyranitar, L50, F|
+|poke|p1|Dragapult, L50, M|
+|poke|p1|Iron Valiant, L50|
+|poke|p2|Regidrago, L50|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Haxorus, L50, F|
+|poke|p2|Calyrex-Shadow, L50|
+|poke|p2|Farigiraf, L50, F|
+|poke|p2|Urshifu-*, L50, M|
+|teampreview|4
+|showteam|p1|Weezing-Galar||SitrusBerry|NeutralizingGas|SludgeBomb,WillOWisp,Taunt,Protect|||M|||50|,,,,,Grass]Toedscruel||CovertCloak|MyceliumMight|Spore,RagePowder,EarthPower,AcidSpray|||M|||50|,,,,,Water]Incineroar||AbilityShield|Intimidate|FakeOut,FlareBlitz,KnockOff,PartingShot|||M|||50|,,,,,Ghost]Tyranitar||Leftovers|SandStream|RockSlide,KnockOff,ThunderWave,Earthquake|||F|||50|,,,,,Ground]Dragapult||ChoiceSpecs|ClearBody|ShadowBall,DracoMeteor,Flamethrower,Uturn|||M|||50|,,,,,Fire]Iron Valiant||BoosterEnergy|QuarkDrive|SpiritBreak,CloseCombat,Encore,Hypnosis||||||50|,,,,,Fairy
+|showteam|p2|Regidrago||ChoiceScarf|DragonsMaw|Outrage,DragonEnergy,DracoMeteor,Earthquake||||||50|,,,,,Ground]Tornadus||FocusSash|Prankster|Tailwind,Taunt,BleakwindStorm,Uturn|||M|||50|,,,,,Flying]Haxorus||AguavBerry|Rivalry|DragonCheer,DracoMeteor,Protect,Snarl|||F|||50|,,,,,Dragon]Calyrex-Shadow||ChoiceSpecs|AsOneSpectrier|AstralBarrage,CalmMind,DarkPulse,DrainingKiss||||||50|,,,,,Psychic]Farigiraf||ThroatSpray|ArmorTail|LightScreen,HelpingHand,DazzlingGleam,HyperVoice|||F|||50|,,,,,Normal]Urshifu-Rapid-Strike||AssaultVest|UnseenFist|SurgingStrikes,AquaJet,ChillingWater,CloseCombat|||M|||50|,,,,,Fighting
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by luizhsouza3)
+|
+|t:|1740509989
+|start
+|switch|p1a: Weezing|Weezing-Galar, L50, M|100/100
+|switch|p1b: Incineroar|Incineroar, L50, M|100/100
+|switch|p2a: Regidrago|Regidrago, L50|100/100
+|switch|p2b: Tornadus|Tornadus, L50, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-block|p1b: Incineroar|item: Ability Shield
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Regidrago|atk|1
+|-unboost|p2b: Tornadus|atk|1
+|turn|1
+|
+|t:|1740510014
+|move|p1b: Incineroar|Fake Out|p2a: Regidrago
+|-damage|p2a: Regidrago|87/100
+|cant|p2a: Regidrago|flinch
+|move|p2b: Tornadus|Taunt|p1b: Incineroar
+|-start|p1b: Incineroar|move: Taunt
+|move|p1a: Weezing|Taunt|p2b: Tornadus
+|-start|p2b: Tornadus|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1740510032
+|move|p2a: Regidrago|Dragon Energy|p1b: Incineroar|[spread] p1b
+|-immune|p1a: Weezing
+|-damage|p1b: Incineroar|67/100
+|move|p2b: Tornadus|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|98/100
+|
+|t:|1740510039
+|switch|p2b: Farigiraf|Farigiraf, L50, F|100/100|[from] U-turn
+|move|p1a: Weezing|Sludge Bomb|p2a: Regidrago
+|-damage|p2a: Regidrago|56/100
+|move|p1b: Incineroar|Knock Off|p2a: Regidrago
+|-damage|p2a: Regidrago|11/100
+|-enditem|p2a: Regidrago|Choice Scarf|[from] move: Knock Off|[of] p1b: Incineroar
+|
+|upkeep
+|turn|3
+|
+|t:|1740510056
+|move|p1a: Weezing|Protect|p1a: Weezing
+|-singleturn|p1a: Weezing|Protect
+|move|p2a: Regidrago|Draco Meteor|p1b: Incineroar
+|-damage|p1b: Incineroar|24/100
+|-unboost|p2a: Regidrago|spa|2
+|move|p1b: Incineroar|Knock Off|p2b: Farigiraf
+|-supereffective|p2b: Farigiraf
+|-damage|p2b: Farigiraf|18/100
+|-enditem|p2b: Farigiraf|Throat Spray|[from] move: Knock Off|[of] p1b: Incineroar
+|move|p2b: Farigiraf|Dazzling Gleam|p1a: Weezing|[spread] p1b
+|-activate|p1a: Weezing|move: Protect
+|-damage|p1b: Incineroar|5/100
+|
+|upkeep
+|turn|4
+|inactive|Boi_3onn has 30 seconds left.
+|
+|t:|1740510086
+|move|p2a: Regidrago|Dragon Energy|p1a: Weezing|[spread] p1b
+|-immune|p1a: Weezing
+|-damage|p1b: Incineroar|3/100
+|move|p1a: Weezing|Sludge Bomb|p2b: Farigiraf
+|-damage|p2b: Farigiraf|0 fnt
+|faint|p2b: Farigiraf
+|move|p1b: Incineroar|Knock Off|p2a: Regidrago
+|-damage|p2a: Regidrago|0 fnt
+|faint|p2a: Regidrago
+|
+|-end|p1b: Incineroar|move: Taunt
+|upkeep
+|
+|t:|1740510095
+|switch|p2a: Calyrex|Calyrex-Shadow, L50|100/100
+|switch|p2b: Tornadus|Tornadus, L50, M|100/100
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|5
+|
+|t:|1740510104
+|switch|p1b: Iron Valiant|Iron Valiant, L50|100/100
+|move|p1a: Weezing|Protect|p1a: Weezing
+|-singleturn|p1a: Weezing|Protect
+|move|p2a: Calyrex|Astral Barrage|p1a: Weezing|[spread] p1b
+|-activate|p1a: Weezing|move: Protect
+|-damage|p1b: Iron Valiant|0 fnt
+|faint|p1b: Iron Valiant
+|-end|p1b: Iron Valiant|Quark Drive|[silent]
+|-ability|p2a: Calyrex|Grim Neigh|boost
+|-boost|p2a: Calyrex|spa|1
+|move|p2b: Tornadus|Tailwind|p2b: Tornadus
+|-sidestart|p2: Boi_3onn|move: Tailwind
+|
+|upkeep
+|
+|t:|1740510116
+|switch|p1b: Dragapult|Dragapult, L50, M|100/100
+|turn|6
+|
+|t:|1740510125
+|-terastallize|p1b: Dragapult|Fire
+|move|p2a: Calyrex|Astral Barrage|p1b: Dragapult|[spread] p1a,p1b
+|-damage|p1a: Weezing|0 fnt
+|-damage|p1b: Dragapult|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|faint|p1b: Dragapult
+|-ability|p2a: Calyrex|Grim Neigh|boost
+|-boost|p2a: Calyrex|spa|2
+|move|p2b: Tornadus|Taunt|p1: Weezing|[notarget]
+|-fail|p2b: Tornadus
+|
+|upkeep
+|
+|t:|1740510131
+|switch|p1b: Incineroar|Incineroar, L50, M|3/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Calyrex|atk|1
+|-unboost|p2b: Tornadus|atk|1
+|turn|7
+|
+|t:|1740510142
+|move|p2a: Calyrex|Astral Barrage|p1b: Incineroar
+|-resisted|p1b: Incineroar
+|-damage|p1b: Incineroar|0 fnt
+|faint|p1b: Incineroar
+|
+|win|Boi_3onn
+||Boi_3onn is ready for game 2.
+||luizhsouza3 is ready for game 2.
+|uhtml|next|Next: <a href="/battle-gen9vgc2025reggbo3-2307757655"><strong>Game 2 of 3</strong></a>

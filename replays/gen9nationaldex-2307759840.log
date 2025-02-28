@@ -1,0 +1,78 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆YanCross17
+|j|‽Mex Flaxtz
+|t:|1740510348
+|gametype|singles
+|player|p1|YanCross17|byron|1189
+|player|p2|Mex Flaxtz|101|1082
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Ursaluna, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Iron Crown|
+|poke|p1|Regieleki|
+|poke|p1|Iron Valiant|
+|poke|p2|Corviknight, M|
+|poke|p2|Iron Hands|
+|poke|p2|Tapu Koko|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Enamorus-Therian, F|
+|teampreview
+|
+|t:|1740510363
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Enamorus|Enamorus-Therian, F|100/100
+|turn|1
+|
+|t:|1740510371
+|switch|p2a: Slowking|Slowking-Galar, F, shiny|100/100
+|move|p1a: Regieleki|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|
+|t:|1740510382
+|switch|p1a: Ursaluna|Ursaluna, M|100/100|[from] Volt Switch
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1740510386
+|switch|p2a: Enamorus|Enamorus-Therian, F|100/100
+|move|p1a: Ursaluna|Earthquake|p2a: Enamorus
+|-immune|p2a: Enamorus
+|
+|-damage|p1a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1740510391
+|move|p1a: Ursaluna|Facade|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-damage|p1a: Ursaluna|88/100 brn|[from] brn
+|upkeep
+|-message|Mex Flaxtz forfeited.
+|
+|win|YanCross17
+|raw|YanCross17's rating: 1189 &rarr; <strong>1207</strong><br />(+18 for winning)
+|raw|Mex Flaxtz's rating: 1082 &rarr; <strong>1066</strong><br />(-16 for losing)
+|l|‽Mex Flaxtz
+|player|p2|

@@ -1,0 +1,561 @@
+|j|☆Gaster98
+|j|☆legolasur
+|t:|1740508690
+|gametype|singles
+|player|p1|Gaster98|170|
+|player|p2|legolasur|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Custom Game
+|clearpoke
+|poke|p1|Arceus|
+|poke|p1|Entei|
+|poke|p1|Latias, F|
+|poke|p1|Giratina|
+|poke|p1|Donphan, M|
+|poke|p1|Lugia|
+|poke|p2|Azelf|
+|poke|p2|Regirock|
+|poke|p2|Kingambit, F|
+|poke|p2|Slaking, F|
+|poke|p2|Reshiram|
+|poke|p2|Necrozma|
+|teampreview
+|j| mjgs96
+|
+|t:|1740508740
+|start
+|switch|p1a: Fuecia|Entei|376/376
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|turn|1
+|
+|t:|1740508758
+|move|p1a: Fuecia|Swords Dance|p1a: Fuecia
+|-boost|p1a: Fuecia|atk|4
+|move|p2a: BHIBI|Ice Spinner|p1a: Fuecia
+|-resisted|p1a: Fuecia
+|-damage|p1a: Fuecia|232/376
+|
+|upkeep
+|turn|2
+|
+|t:|1740508771
+|switch|p2a: Negrin|Necrozma|313/313
+|-ability|p2a: Negrin|Mold Breaker
+|move|p1a: Fuecia|Swords Dance|p1a: Fuecia
+|-boost|p1a: Fuecia|atk|2
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gaster98)
+|
+|t:|1740508778
+|move|p1a: Fuecia|Steamroller|p2a: Negrin
+|-supereffective|p2a: Negrin
+|-damage|p2a: Negrin|0 fnt
+|faint|p2a: Negrin
+|
+|upkeep
+|
+|t:|1740508786
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|turn|4
+|
+|t:|1740508789
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Fuecia|Swords Dance|p1a: Fuecia
+|-boost|p1a: Fuecia|atk|0
+|debug|move failed because it did nothing
+|
+|upkeep
+|turn|5
+|
+|t:|1740508796
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Fuecia|Swords Dance|p1a: Fuecia
+|-boost|p1a: Fuecia|atk|0
+|debug|move failed because it did nothing
+|
+|upkeep
+|turn|6
+|
+|t:|1740508801
+|move|p2a: BHIBI|Sucker Punch|p1a: Fuecia
+|-damage|p1a: Fuecia|0 fnt
+|faint|p1a: Fuecia
+|
+|upkeep
+|
+|t:|1740508811
+|switch|p1a: Dioscia|Arceus|385/385
+|turn|7
+|
+|t:|1740508821
+|switch|p2a: Prime|Regirock, shiny|308/308
+|move|p1a: Dioscia|Sleep Powder|p2a: Prime
+|-status|p2a: Prime|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|8
+|
+|t:|1740508832
+|switch|p2a: BHIBI|Kingambit, F|343/343
+|move|p1a: Dioscia|Calm Mind|p1a: Dioscia
+|-boost|p1a: Dioscia|spa|1
+|-boost|p1a: Dioscia|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1740508845
+|move|p1a: Dioscia|Moonblast|p2a: BHIBI
+|-damage|p2a: BHIBI|170/343
+|-unboost|p2a: BHIBI|spa|1
+|move|p2a: BHIBI|Close Combat|p1a: Dioscia
+|-supereffective|p1a: Dioscia
+|-damage|p1a: Dioscia|0 fnt
+|-unboost|p2a: BHIBI|def|1
+|-unboost|p2a: BHIBI|spd|1
+|faint|p1a: Dioscia
+|
+|upkeep
+|inactive|Gaster98 has 270 seconds left.
+|
+|t:|1740508871
+|switch|p1a: Colmicia|Donphan, M, shiny|326/326
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|turn|10
+|
+|t:|1740508879
+|switch|p2a: Perdido|Azelf, shiny|293/293
+|move|p1a: Colmicia|Hammer Arm|p2a: Perdido
+|-resisted|p2a: Perdido
+|-damage|p2a: Perdido|217/293
+|-unboost|p1a: Colmicia|spe|1
+|
+|-heal|p2a: Perdido|235/293|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1740508896
+|move|p2a: Perdido|Overdrive|p1a: Colmicia
+|-immune|p1a: Colmicia
+|move|p1a: Colmicia|Rock Slide|p2a: Perdido
+|-damage|p2a: Perdido|103/293
+|
+|-heal|p2a: Perdido|121/293|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1740508911
+|switch|p2a: Mamada|Slaking, F|453/453
+|move|p1a: Colmicia|Rock Slide|p2a: Mamada
+|-damage|p2a: Mamada|370/453
+|
+|-heal|p2a: Mamada|398/453|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1740508924
+|switch|p2a: Perdido|Azelf, shiny|218/293
+|switch|p1a: Giracina|Giratina|418/418
+|
+|-heal|p2a: Perdido|236/293|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1740508940
+|move|p2a: Perdido|Overdrive|p1a: Giracina|[miss]
+|debug|lax incense - decreasing accuracy
+|-miss|p2a: Perdido|p1a: Giracina
+|move|p1a: Giracina|Night Slash|p2a: Perdido
+|-supereffective|p2a: Perdido
+|-damage|p2a: Perdido|70/293
+|
+|-heal|p2a: Perdido|88/293|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1740508949
+|switch|p2a: Mamada|Slaking, F|398/453
+|move|p1a: Giracina|Night Slash|p2a: Mamada
+|-damage|p2a: Mamada|352/453
+|
+|upkeep
+|turn|16
+|
+|t:|1740508957
+|move|p2a: Mamada|Shadow Punch|p1a: Giracina
+|-supereffective|p1a: Giracina
+|-damage|p1a: Giracina|197/418
+|-damage|p2a: Mamada|307/453|[from] item: Life Orb
+|move|p1a: Giracina|Toxic|p2a: Mamada
+|-status|p2a: Mamada|tox
+|
+|-damage|p2a: Mamada|279/453 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1740508968
+|switch|p1a: Colmicia|Donphan, M, shiny|326/326
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|move|p2a: Mamada|Bulk Up|p2a: Mamada
+|-boost|p2a: Mamada|atk|1
+|-boost|p2a: Mamada|def|1
+|
+|-heal|p2a: Mamada|307/453 tox|[from] Grassy Terrain
+|-damage|p2a: Mamada|251/453 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1740508980
+|move|p2a: Mamada|Chip Away|p1a: Colmicia
+|debug|Negating (sp)def boost/penalty.
+|-damage|p1a: Colmicia|32/326
+|-damage|p2a: Mamada|206/453 tox|[from] item: Life Orb
+|move|p1a: Colmicia|Hammer Arm|p2a: Mamada
+|-supereffective|p2a: Mamada
+|-damage|p2a: Mamada|60/453 tox
+|-unboost|p1a: Colmicia|spe|1
+|
+|-heal|p2a: Mamada|88/453 tox|[from] Grassy Terrain
+|-heal|p1a: Colmicia|52/326|[from] Grassy Terrain
+|-damage|p2a: Mamada|4/453 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1740508997
+|switch|p1a: Giracina|Giratina|197/418
+|move|p2a: Mamada|Bitter Blade|p1a: Giracina
+|debug|lax incense - decreasing accuracy
+|-resisted|p1a: Giracina
+|-damage|p1a: Giracina|75/418
+|-heal|p2a: Mamada|65/453 tox|[from] drain|[of] p1a: Giracina
+|-damage|p2a: Mamada|20/453 tox|[from] item: Life Orb
+|
+|-heal|p2a: Mamada|48/453 tox|[from] Grassy Terrain
+|-heal|p1a: Giracina|101/418|[from] Grassy Terrain
+|-damage|p2a: Mamada|0 fnt|[from] psn
+|faint|p2a: Mamada
+|upkeep
+|
+|t:|1740509009
+|switch|p2a: BHIBI|Kingambit, F|170/343
+|turn|20
+|
+|t:|1740509015
+|move|p1a: Giracina|Night Slash|p2a: BHIBI
+|-resisted|p2a: BHIBI
+|-damage|p2a: BHIBI|149/343
+|move|p2a: BHIBI|Close Combat|p1a: Giracina
+|-immune|p1a: Giracina
+|
+|-heal|p1a: Giracina|127/418|[from] Grassy Terrain
+|-heal|p2a: BHIBI|170/343|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1740509030
+|switch|p2a: Prime|Regirock, shiny|308/308 slp
+|move|p1a: Giracina|Toxic||[still]
+|-fail|p1a: Giracina
+|debug|move failed because it did nothing
+|
+|-heal|p1a: Giracina|153/418|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1740509039
+|move|p1a: Giracina|Breaking Swipe|p2a: Prime
+|-damage|p2a: Prime|274/308 slp
+|-unboost|p2a: Prime|atk|1
+|-damage|p1a: Giracina|84/418|[from] item: Rocky Helmet|[of] p2a: Prime
+|cant|p2a: Prime|slp
+|
+|upkeep
+|turn|23
+|
+|t:|1740509049
+|switch|p1a: Lucia|Lugia|366/366
+|-curestatus|p2a: Prime|slp|[msg]
+|move|p2a: Prime|Swords Dance|p2a: Prime
+|-start|p2a: Prime|typechange|Normal|[from] ability: Protean
+|-boost|p2a: Prime|atk|2
+|
+|upkeep
+|turn|24
+|
+|t:|1740509066
+|move|p1a: Lucia|Psychic|p2a: Prime
+|-crit|p2a: Prime
+|-damage|p2a: Prime|142/308
+|move|p2a: Prime|Bitter Blade|p1a: Lucia
+|debug|Thick Fat weaken
+|-damage|p1a: Lucia|318/366
+|-heal|p2a: Prime|166/308|[from] drain|[of] p1a: Lucia
+|
+|upkeep
+|turn|25
+|
+|t:|1740509074
+|switch|p2a: Perdido|Azelf, shiny|185/293
+|move|p1a: Lucia|Psychic|p2a: Perdido
+|-resisted|p2a: Perdido
+|-damage|p2a: Perdido|113/293
+|
+|upkeep
+|turn|26
+|
+|t:|1740509085
+|switch|p1a: Colmicia|Donphan, M, shiny|52/326
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Colmicia
+|move|p2a: Perdido|Overdrive|p1a: Colmicia
+|-immune|p1a: Colmicia
+|
+|-heal|p2a: Perdido|131/293|[from] Grassy Terrain
+|-heal|p1a: Colmicia|72/326|[from] Grassy Terrain
+|upkeep
+|turn|27
+|-activate|p1a: Colmicia|item: Quick Claw
+|
+|t:|1740509102
+|switch|p2a: Verdad|Reshiram|335/335
+|move|p1a: Colmicia|Hammer Arm|p2a: Verdad
+|-damage|p2a: Verdad|233/335
+|-unboost|p1a: Colmicia|spe|1
+|
+|-heal|p2a: Verdad|253/335|[from] Grassy Terrain
+|-heal|p1a: Colmicia|92/326|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1740509114
+|switch|p1a: Giracina|Giratina|84/418
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|
+|-heal|p2a: Verdad|273/335|[from] Grassy Terrain
+|-heal|p1a: Giracina|110/418|[from] Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1740509124
+|move|p2a: Verdad|Oblivion Wing|p1a: Giracina
+|debug|lax incense - decreasing accuracy
+|-damage|p1a: Giracina|0 fnt
+|-heal|p2a: Verdad|335/335|[from] drain|[of] p1a: Giracina
+|faint|p1a: Giracina
+|
+|upkeep
+|
+|t:|1740509130
+|switch|p1a: Matalucias|Latias, F|292/292
+|turn|30
+|
+|t:|1740509134
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1740509143
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|move|p2a: Verdad|Armor Cannon|p1a: Matalucias
+|-resisted|p1a: Matalucias
+|-damage|p1a: Matalucias|195/292
+|-unboost|p2a: Verdad|def|1
+|-unboost|p2a: Verdad|spd|1
+|
+|upkeep
+|turn|32
+|
+|t:|1740509156
+|move|p1a: Matalucias|Soft-Boiled|p1a: Matalucias
+|-heal|p1a: Matalucias|292/292
+|move|p2a: Verdad|Oblivion Wing|p1a: Matalucias
+|-damage|p1a: Matalucias|213/292
+|
+|upkeep
+|turn|33
+|
+|t:|1740509163
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|
+|upkeep
+|turn|34
+|
+|t:|1740509170
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|1
+|-boost|p2a: Verdad|spd|1
+|
+|upkeep
+|turn|35
+|
+|t:|1740509180
+|move|p1a: Matalucias|Dragon Breath|p2a: Verdad
+|-supereffective|p2a: Verdad
+|-damage|p2a: Verdad|117/335
+|-status|p2a: Verdad|par
+|-enditem|p2a: Verdad|Weakness Policy
+|-boost|p2a: Verdad|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Verdad|spa|2|[from] item: Weakness Policy
+|move|p2a: Verdad|Calm Mind|p2a: Verdad
+|-boost|p2a: Verdad|spa|0
+|-boost|p2a: Verdad|spd|1
+|
+|upkeep
+|turn|36
+|
+|t:|1740509192
+|move|p1a: Matalucias|Dragon Breath|p2a: Verdad
+|-supereffective|p2a: Verdad
+|-damage|p2a: Verdad|0 fnt
+|faint|p2a: Verdad
+|
+|upkeep
+|
+|t:|1740509198
+|switch|p2a: BHIBI|Kingambit, F|170/343
+|turn|37
+|
+|t:|1740509206
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|
+|upkeep
+|turn|38
+|
+|t:|1740509213
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Matalucias|Quiver Dance|p1a: Matalucias
+|-boost|p1a: Matalucias|spa|1
+|-boost|p1a: Matalucias|spd|1
+|-boost|p1a: Matalucias|spe|1
+|
+|upkeep
+|turn|39
+|
+|t:|1740509226
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Matalucias|Soft-Boiled|p1a: Matalucias
+|-heal|p1a: Matalucias|292/292
+|
+|upkeep
+|turn|40
+|
+|t:|1740509235
+|switch|p2a: Prime|Regirock, shiny|166/308
+|move|p1a: Matalucias|Soft-Boiled||[still]
+|-fail|p1a: Matalucias|heal
+|debug|move failed because it did nothing
+|
+|upkeep
+|turn|41
+|
+|t:|1740509245
+|move|p1a: Matalucias|Dragon Breath|p2a: Prime
+|-damage|p2a: Prime|0 fnt
+|debug|move failed because it did nothing
+|faint|p2a: Prime
+|
+|upkeep
+|
+|t:|1740509256
+|switch|p2a: Perdido|Azelf, shiny|228/293
+|turn|42
+|
+|t:|1740509264
+|move|p1a: Matalucias|Dragon Breath|p2a: Perdido
+|-damage|p2a: Perdido|0 fnt
+|faint|p2a: Perdido
+|
+|upkeep
+|
+|t:|1740509268
+|switch|p2a: BHIBI|Kingambit, F|170/343
+|turn|43
+|
+|t:|1740509271
+|move|p2a: BHIBI|Sucker Punch||[still]
+|-fail|p2a: BHIBI
+|move|p1a: Matalucias|Soft-Boiled||[still]
+|-fail|p1a: Matalucias|heal
+|debug|move failed because it did nothing
+|
+|upkeep
+|turn|44
+|
+|t:|1740509276
+|move|p2a: BHIBI|Sucker Punch|p1a: Matalucias
+|-supereffective|p1a: Matalucias
+|-damage|p1a: Matalucias|0 fnt
+|faint|p1a: Matalucias
+|
+|upkeep
+|
+|t:|1740509289
+|switch|p1a: Lucia|Lugia|318/366
+|turn|45
+|
+|t:|1740509292
+|move|p1a: Lucia|Calm Mind|p1a: Lucia
+|-boost|p1a: Lucia|spa|1
+|-boost|p1a: Lucia|spd|1
+|-activate|p2a: BHIBI|move: Struggle
+|move|p2a: BHIBI|Struggle|p1a: Lucia
+|-damage|p1a: Lucia|182/366
+|-damage|p2a: BHIBI|84/343|[from] recoil
+|
+|upkeep
+|turn|46
+|
+|t:|1740509301
+|move|p1a: Lucia|Ice Punch|p2a: BHIBI
+|-resisted|p2a: BHIBI
+|-damage|p2a: BHIBI|63/343
+|-activate|p2a: BHIBI|move: Struggle
+|move|p2a: BHIBI|Struggle|p1a: Lucia
+|-damage|p1a: Lucia|56/366
+|-damage|p2a: BHIBI|0 fnt|[from] recoil
+|faint|p2a: BHIBI
+|
+|win|Gaster98
+|l|☆Gaster98
+|player|p1|
+|l|☆legolasur
+|player|p2|
+|l| mjgs96
+|j| mjgs96

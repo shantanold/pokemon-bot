@@ -1,0 +1,615 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆mongibongi
+|j|☆Valnir1717
+|t:|1740509905
+|gametype|singles
+|player|p1|mongibongi|skierf|1531
+|player|p2|Valnir1717|102|1532
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Wo-Chien|
+|poke|p1|Skeledirge, F|
+|poke|p1|Alomomola, M|
+|poke|p1|Gliscor, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Toxapex, F|
+|poke|p2|Hydreigon, M|
+|poke|p2|Dondozo, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Clodsire, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Valnir1717)
+|
+|t:|1740509917
+|start
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|turn|1
+|
+|t:|1740509923
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Kingambit|Knock Off|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1740509933
+|move|p2a: Kingambit|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|69/100
+|-enditem|p1a: Alomomola|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kingambit
+|move|p1a: Alomomola|Flip Turn|p2a: Kingambit
+|-damage|p2a: Kingambit|87/100
+|
+|t:|1740509935
+|switch|p1a: Gliscor|Gliscor, M|100/100|[from] Flip Turn
+|
+|-heal|p2a: Kingambit|94/100|[from] item: Leftovers
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1740509941
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|move|p1a: Gliscor|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: Valnir1717|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1740509962
+|switch|p1a: Wo-Chien|Wo-Chien|100/100
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|move|p2a: Hydreigon|Taunt|p1a: Wo-Chien
+|-start|p1a: Wo-Chien|move: Taunt
+|
+|upkeep
+|turn|5
+|
+|t:|1740509967
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Wo-Chien|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|-damage|p1a: Wo-Chien|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Wo-Chien
+|
+|-heal|p1a: Wo-Chien|90/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509976
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Corviknight|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p2: Valnir1717|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|7
+|
+|t:|1740509980
+|move|p2a: Corviknight|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|96/100
+|
+|t:|1740509986
+|switch|p2a: Hydreigon|Hydreigon, M|100/100|[from] U-turn
+|move|p1a: Toxapex|Scald|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|94/100
+|
+|-heal|p2a: Hydreigon|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1740509990
+|move|p2a: Hydreigon|Taunt|p1a: Toxapex
+|-start|p1a: Toxapex|move: Taunt
+|cant|p1a: Toxapex|move: Taunt|Toxic
+|
+|-heal|p2a: Hydreigon|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740510007
+|switch|p1a: Wo-Chien|Wo-Chien|90/100
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|move|p2a: Hydreigon|Fire Spin|p1a: Wo-Chien
+|-supereffective|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|78/100
+|-activate|p1a: Wo-Chien|move: Fire Spin|[of] p2a: Hydreigon
+|
+|-heal|p1a: Wo-Chien|84/100|[from] item: Leftovers
+|-damage|p1a: Wo-Chien|72/100|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1740510014
+|move|p2a: Hydreigon|Taunt|p1a: Wo-Chien
+|-start|p1a: Wo-Chien|move: Taunt
+|move|p1a: Wo-Chien|Ruination|p2a: Hydreigon
+|-damage|p2a: Hydreigon|50/100
+|
+|-heal|p2a: Hydreigon|57/100|[from] item: Leftovers
+|-heal|p1a: Wo-Chien|78/100|[from] item: Leftovers
+|-damage|p1a: Wo-Chien|65/100|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1740510018
+|move|p2a: Hydreigon|Dark Pulse|p1a: Wo-Chien
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|56/100
+|move|p1a: Wo-Chien|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|42/100
+|-enditem|p2a: Hydreigon|Leftovers|[from] move: Knock Off|[of] p1a: Wo-Chien
+|
+|-heal|p1a: Wo-Chien|62/100|[from] item: Leftovers
+|-damage|p1a: Wo-Chien|49/100|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1740510024
+|move|p2a: Hydreigon|Dark Pulse|p1a: Wo-Chien
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|40/100
+|move|p1a: Wo-Chien|Ruination|p2a: Hydreigon
+|-damage|p2a: Hydreigon|21/100
+|
+|-heal|p1a: Wo-Chien|46/100|[from] item: Leftovers
+|-damage|p1a: Wo-Chien|33/100|[from] move: Fire Spin|[partiallytrapped]
+|-end|p1a: Wo-Chien|move: Taunt
+|upkeep
+|turn|13
+|
+|t:|1740510029
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Hydreigon|Taunt|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-heal|p1a: Wo-Chien|40/100|[from] item: Leftovers
+|-end|p1a: Wo-Chien|Fire Spin|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1740510035
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|71/100
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|upkeep
+|turn|15
+|
+|t:|1740510040
+|switch|p2a: Corviknight|Corviknight, F|69/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Alomomola|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|58/100
+|
+|t:|1740510048
+|switch|p1a: Skarmory|Skarmory, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|16
+|
+|t:|1740510051
+|move|p1a: Skarmory|Spikes|p2a: Corviknight
+|-sidestart|p2: Valnir1717|Spikes
+|move|p2a: Corviknight|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|98/100
+|-damage|p2a: Corviknight|41/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1740510053
+|switch|p2a: Hydreigon|Hydreigon, M|71/100|[from] U-turn
+|
+|upkeep
+|turn|17
+|
+|t:|1740510057
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Hydreigon|Fire Spin|p1a: Alomomola|[miss]
+|-miss|p2a: Hydreigon|p1a: Alomomola
+|
+|upkeep
+|turn|18
+|
+|t:|1740510062
+|move|p2a: Hydreigon|Taunt|p1a: Alomomola
+|-start|p1a: Alomomola|move: Taunt
+|cant|p1a: Alomomola|move: Taunt|Wish
+|
+|upkeep
+|turn|19
+|
+|t:|1740510064
+|move|p2a: Hydreigon|Dark Pulse|p1a: Alomomola
+|-damage|p1a: Alomomola|64/100
+|move|p1a: Alomomola|Flip Turn|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|64/100
+|c|☆mongibongi|hmm
+|
+|t:|1740510090
+|switch|p1a: Skarmory|Skarmory, F|98/100|[from] Flip Turn
+|
+|upkeep
+|turn|20
+|
+|t:|1740510093
+|move|p2a: Hydreigon|Dark Pulse|p1a: Skarmory
+|-damage|p1a: Skarmory|48/100
+|move|p1a: Skarmory|Body Press|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|2/100
+|
+|upkeep
+|turn|21
+|
+|t:|1740510105
+|switch|p1a: Wo-Chien|Wo-Chien|40/100
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|move|p2a: Hydreigon|Dark Pulse|p1a: Wo-Chien
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|30/100
+|
+|-heal|p1a: Wo-Chien|36/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1740510111
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|52/100
+|-singleturn|p2a: Hydreigon|move: Roost
+|move|p1a: Wo-Chien|Leech Seed|p2a: Hydreigon
+|-start|p2a: Hydreigon|move: Leech Seed
+|
+|-heal|p1a: Wo-Chien|42/100|[from] item: Leftovers
+|-damage|p2a: Hydreigon|39/100|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|54/100|[silent]
+|upkeep
+|turn|23
+|
+|t:|1740510115
+|switch|p2a: Corviknight|Corviknight, F|41/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Wo-Chien|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-heal|p1a: Wo-Chien|60/100|[from] item: Leftovers
+|-damage|p2a: Corviknight|29/100|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|74/100|[silent]
+|upkeep
+|turn|24
+|
+|t:|1740510120
+|switch|p1a: Skarmory|Skarmory, F|48/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|79/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p2a: Corviknight|66/100|[from] Leech Seed|[of] p1a: Skarmory
+|-heal|p1a: Skarmory|63/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1740510124
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|move|p2a: Corviknight|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|96/100
+|-damage|p2a: Corviknight|50/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1740510131
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] U-turn
+|-damage|p2a: Dragapult|88/100|[from] Spikes
+|
+|upkeep
+|turn|26
+|
+|t:|1740510134
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Toxapex
+|-status|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|95/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1740510138
+|switch|p2a: Corviknight|Corviknight, F|50/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Toxapex|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-damage|p1a: Toxapex|89/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1740510140
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|99/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|86/100
+|
+|-damage|p1a: Toxapex|83/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1740510145
+|switch|p1a: Skarmory|Skarmory, F|96/100
+|move|p2a: Corviknight|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-crit|p1a: Skarmory
+|-damage|p1a: Skarmory|93/100
+|-damage|p2a: Corviknight|70/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1740510150
+|switch|p2a: Dragapult|Dragapult, F|88/100|[from] U-turn
+|-damage|p2a: Dragapult|76/100|[from] Spikes
+|
+|upkeep
+|turn|30
+|
+|t:|1740510154
+|switch|p1a: Toxapex|Toxapex, F|100/100 brn
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Toxapex
+|-fail|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|95/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1740510158
+|switch|p2a: Corviknight|Corviknight, F|70/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Toxapex|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-damage|p1a: Toxapex|89/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1740510160
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|
+|-damage|p1a: Toxapex|83/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1740510163
+|move|p2a: Corviknight|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p2: Valnir1717|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Toxapex|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-damage|p1a: Toxapex|77/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1740510167
+|move|p2a: Corviknight|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|72/100 brn
+|
+|t:|1740510170
+|switch|p2a: Clodsire|Clodsire, F|100/100|[from] U-turn
+|move|p1a: Toxapex|Scald|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|84/100
+|
+|-damage|p1a: Toxapex|67/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1740510176
+|switch|p1a: Skarmory|Skarmory, F|93/100
+|move|p2a: Clodsire|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: mongibongi|move: Stealth Rock
+|
+|upkeep
+|turn|36
+|
+|t:|1740510184
+|switch|p2a: Corviknight|Corviknight, F|85/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Skarmory|Spikes|p2a: Corviknight
+|-sidestart|p2: Valnir1717|Spikes
+|
+|upkeep
+|turn|37
+|
+|t:|1740510196
+|switch|p2a: Dragapult|Dragapult, F|76/100
+|-damage|p2a: Dragapult|64/100|[from] Spikes
+|move|p1a: Skarmory|Spikes|p2a: Dragapult
+|-sidestart|p2: Valnir1717|Spikes
+|
+|upkeep
+|turn|38
+|
+|t:|1740510200
+|switch|p1a: Toxapex|Toxapex, F|99/100 brn
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Toxapex
+|-fail|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1740510204
+|switch|p2a: Corviknight|Corviknight, F|85/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Toxapex|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|
+|-damage|p1a: Toxapex|88/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1740510208
+|switch|p1a: Skarmory|Skarmory, F|93/100
+|-damage|p1a: Skarmory|81/100|[from] Stealth Rock
+|move|p2a: Corviknight|Defog|p1a: Skarmory
+|-unboost|p1a: Skarmory|evasion|1
+|-sideend|p1: mongibongi|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: Valnir1717|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|41
+|
+|t:|1740510212
+|switch|p2a: Dragapult|Dragapult, F|64/100
+|move|p1a: Skarmory|Spikes|p2a: Dragapult
+|-sidestart|p2: Valnir1717|Spikes
+|
+|upkeep
+|turn|42
+|
+|t:|1740510221
+|switch|p1a: Gliscor|Gliscor, M|100/100 tox
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|43
+|
+|t:|1740510238
+|-zpower|p2a: Dragapult
+|move|p2a: Dragapult|Never-Ending Nightmare|p1a: Gliscor|[zeffect]
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1740510249
+|switch|p1a: Wo-Chien|Wo-Chien|74/100
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|turn|44
+|
+|t:|1740510257
+|switch|p2a: Corviknight|Corviknight, F|69/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Wo-Chien|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|
+|-heal|p1a: Wo-Chien|80/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1740510263
+|switch|p1a: Skarmory|Skarmory, F|81/100
+|move|p2a: Corviknight|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|79/100
+|-damage|p2a: Corviknight|41/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1740510268
+|switch|p2a: Dragapult|Dragapult, F|64/100|[from] U-turn
+|-damage|p2a: Dragapult|51/100|[from] Spikes
+|
+|upkeep
+|turn|46
+|
+|t:|1740510270
+|switch|p1a: Toxapex|Toxapex, F|100/100 brn
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Toxapex
+|-fail|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|95/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1740510274
+|switch|p2a: Corviknight|Corviknight, F|41/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Toxapex|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-damage|p1a: Toxapex|89/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1740510277
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|91/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|
+|-damage|p1a: Toxapex|83/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1740510280
+|switch|p2a: Kingambit|Kingambit, F|94/100
+|-damage|p2a: Kingambit|81/100|[from] Spikes
+|move|p1a: Toxapex|Scald|p2a: Kingambit
+|-damage|p2a: Kingambit|63/100
+|
+|-heal|p2a: Kingambit|69/100|[from] item: Leftovers
+|-damage|p1a: Toxapex|77/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1740510285
+|move|p2a: Kingambit|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|38/100 brn
+|-enditem|p1a: Toxapex|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kingambit
+|move|p1a: Toxapex|Scald|p2a: Kingambit
+|-damage|p2a: Kingambit|52/100
+|
+|-heal|p2a: Kingambit|58/100|[from] item: Leftovers
+|-damage|p1a: Toxapex|32/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1740510295
+|-activate|p1a: Toxapex|move: Pursuit
+|move|p2a: Kingambit|Pursuit|p1a: Toxapex|[from] Pursuit
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-hint|A Pokemon can't switch between when it runs out of HP and when it faints
+|
+|-heal|p2a: Kingambit|64/100|[from] item: Leftovers
+|upkeep
+|-message|mongibongi forfeited.
+|
+|win|Valnir1717
+|raw|mongibongi's rating: 1531 &rarr; <strong>1511</strong><br />(-20 for losing)
+|raw|Valnir1717's rating: 1532 &rarr; <strong>1552</strong><br />(+20 for winning)
+|l|☆mongibongi
+|player|p1|
+|l|☆Valnir1717
+|player|p2|

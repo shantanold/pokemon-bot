@@ -1,0 +1,457 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆Raiymun
+|j|☆Kinglikiliki
+|t:|1740509651
+|gametype|singles
+|player|p1|Raiymun|265|1068
+|player|p2|Kinglikiliki|102|1079
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Mawile, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Dondozo, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Quaquaval, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Salamence, F|
+|poke|p2|Heracross, M|
+|poke|p2|Pyroar, F|
+|poke|p2|Kingambit, M|
+|teampreview
+|
+|t:|1740509660
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Pyroar|Pyroar, F|100/100
+|turn|1
+|
+|t:|1740509669
+|move|p2a: Pyroar|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|-ability|p2a: Pyroar|Moxie|boost
+|-boost|p2a: Pyroar|atk|1
+|
+|upkeep
+|
+|t:|1740509675
+|switch|p1a: Dondozo|Dondozo, F|100/100
+|turn|2
+|
+|t:|1740509679
+|move|p2a: Pyroar|Hyper Voice|p1a: Dondozo
+|-damage|p1a: Dondozo|62/100
+|move|p1a: Dondozo|Waterfall|p2a: Pyroar
+|-supereffective|p2a: Pyroar
+|-damage|p2a: Pyroar|20/100
+|
+|-heal|p2a: Pyroar|26/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|68/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1740509690
+|move|p2a: Pyroar|Will-O-Wisp|p1a: Dondozo
+|-status|p1a: Dondozo|brn
+|move|p1a: Dondozo|Waterfall|p2a: Pyroar
+|-supereffective|p2a: Pyroar
+|-damage|p2a: Pyroar|0 fnt
+|faint|p2a: Pyroar
+|
+|-heal|p1a: Dondozo|74/100 brn|[from] item: Leftovers
+|-damage|p1a: Dondozo|68/100 brn|[from] brn
+|upkeep
+|
+|t:|1740509701
+|switch|p2a: Salamence|Salamence, F|100/100
+|turn|4
+|
+|t:|1740509705
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Dondozo|Avalanche|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|66/100
+|
+|-heal|p2a: Salamence|72/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|74/100 brn|[from] item: Leftovers
+|-damage|p1a: Dondozo|68/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1740509715
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Dondozo|Avalanche|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|37/100
+|
+|-heal|p2a: Salamence|43/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|74/100 brn|[from] item: Leftovers
+|-damage|p1a: Dondozo|68/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1740509726
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|93/100
+|-singleturn|p2a: Salamence|move: Roost
+|move|p1a: Dondozo|Avalanche|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|75/100
+|
+|-heal|p2a: Salamence|82/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|74/100 brn|[from] item: Leftovers
+|-damage|p1a: Dondozo|68/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1740509740
+|move|p2a: Salamence|Dragon Claw|p1a: Dondozo
+|-damage|p1a: Dondozo|46/100 brn
+|move|p1a: Dondozo|Avalanche|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|13/100
+|
+|-heal|p2a: Salamence|19/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|52/100 brn|[from] item: Leftovers
+|-damage|p1a: Dondozo|46/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1740509750
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|69/100
+|-singleturn|p2a: Salamence|move: Roost
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|-heal|p2a: Salamence|75/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1740509759
+|move|p2a: Salamence|Dual Wingbeat|p1a: Dondozo
+|-damage|p1a: Dondozo|90/100 slp
+|-damage|p1a: Dondozo|77/100 slp
+|-hitcount|p1a: Dondozo|2
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Avalanche|p2a: Salamence|[from] move: Sleep Talk
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|-heal|p1a: Dondozo|83/100 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509772
+|switch|p2a: Heracross|Heracross, M|100/100
+|turn|10
+|
+|t:|1740509775
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Heracross|Close Combat|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|70/100
+|-unboost|p2a: Heracross|def|1
+|-unboost|p2a: Heracross|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1740509784
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|move|p1a: Volcarona|Flamethrower|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|73/100
+|-status|p2a: Quaquaval|brn
+|
+|-heal|p2a: Quaquaval|79/100 brn|[from] item: Leftovers
+|-damage|p2a: Quaquaval|73/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1740509804
+|switch|p1a: Mawile|Mawile, F|100/100
+|-ability|p1a: Mawile|Intimidate|boost
+|-unboost|p2a: Quaquaval|atk|1
+|move|p2a: Quaquaval|Aqua Step|p1a: Mawile
+|-damage|p1a: Mawile|82/100
+|-boost|p2a: Quaquaval|spe|1
+|
+|-heal|p2a: Quaquaval|79/100 brn|[from] item: Leftovers
+|-damage|p2a: Quaquaval|73/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1740509817
+|detailschange|p1a: Mawile|Mawile-Mega, F
+|-mega|p1a: Mawile|Mawile|Mawilite
+|move|p2a: Quaquaval|Swords Dance|p2a: Quaquaval
+|-boost|p2a: Quaquaval|atk|2
+|move|p1a: Mawile|Thunder Punch|p2a: Quaquaval
+|-supereffective|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1740509822
+|switch|p2a: Krookodile|Krookodile, M|100/100
+|turn|14
+|
+|t:|1740509834
+|move|p2a: Krookodile|Earthquake|p1a: Mawile
+|-supereffective|p1a: Mawile
+|-damage|p1a: Mawile|0 fnt
+|faint|p1a: Mawile
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1740509849
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|15
+|
+|t:|1740509855
+|move|p1a: Dragapult|Thunder Wave|p2a: Krookodile
+|-immune|p2a: Krookodile
+|move|p2a: Krookodile|Lash Out|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1740509863
+|switch|p1a: Dondozo|Dondozo, F|83/100 slp
+|turn|16
+|
+|t:|1740509874
+|move|p2a: Krookodile|Lash Out|p1a: Dondozo
+|-damage|p1a: Dondozo|64/100 slp
+|cant|p1a: Dondozo|slp
+|
+|-heal|p1a: Dondozo|70/100 slp|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1740509881
+|move|p2a: Krookodile|Earthquake|p1a: Dondozo
+|-damage|p1a: Dondozo|44/100 slp
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Sleep Talk||[still]
+|-fail|p1a: Dondozo
+|
+|-heal|p1a: Dondozo|50/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1740509888
+|move|p2a: Krookodile|Earthquake|p1a: Dondozo
+|-damage|p1a: Dondozo|24/100
+|move|p1a: Dondozo|Avalanche|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|31/100
+|
+|-heal|p2a: Krookodile|37/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|30/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1740509897
+|move|p2a: Krookodile|Earthquake|p1a: Dondozo
+|-damage|p1a: Dondozo|6/100
+|move|p1a: Dondozo|Rest|p1a: Dondozo
+|-status|p1a: Dondozo|slp|[from] move: Rest
+|-heal|p1a: Dondozo|100/100 slp|[silent]
+|
+|-heal|p2a: Krookodile|43/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1740509905
+|move|p2a: Krookodile|Earthquake|p1a: Dondozo
+|-damage|p1a: Dondozo|74/100 slp
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Avalanche|p2a: Krookodile|[from] move: Sleep Talk
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|-heal|p1a: Dondozo|80/100 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509910
+|switch|p2a: Heracross|Heracross, M|100/100
+|turn|21
+|
+|t:|1740509919
+|move|p2a: Heracross|Bulk Up|p2a: Heracross
+|-boost|p2a: Heracross|atk|1
+|-boost|p2a: Heracross|def|1
+|cant|p1a: Dondozo|slp
+|move|p1a: Dondozo|Sleep Talk|p1a: Dondozo
+|move|p1a: Dondozo|Waterfall|p2a: Heracross|[from] move: Sleep Talk
+|-damage|p2a: Heracross|58/100
+|
+|-heal|p2a: Heracross|64/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|86/100 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|l|☆Kinglikiliki
+|player|p2|
+|j|☆Kinglikiliki
+|player|p2|Kinglikiliki|102|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Raiymun)
+|
+|t:|1740509984
+|move|p2a: Heracross|Body Slam|p1a: Dondozo
+|-damage|p1a: Dondozo|70/100 slp
+|-curestatus|p1a: Dondozo|slp|[msg]
+|move|p1a: Dondozo|Sleep Talk||[still]
+|-fail|p1a: Dondozo
+|
+|-heal|p2a: Heracross|70/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|76/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1740510012
+|move|p2a: Heracross|Body Slam|p1a: Dondozo
+|-damage|p1a: Dondozo|59/100
+|move|p1a: Dondozo|Avalanche|p2a: Heracross
+|-damage|p2a: Heracross|28/100
+|
+|-heal|p2a: Heracross|34/100|[from] item: Leftovers
+|-heal|p1a: Dondozo|65/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1740510020
+|move|p2a: Heracross|Body Slam|p1a: Dondozo
+|-damage|p1a: Dondozo|50/100
+|-status|p1a: Dondozo|par
+|move|p1a: Dondozo|Avalanche|p2a: Heracross
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|
+|-heal|p1a: Dondozo|56/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1740510023
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|25
+|
+|t:|1740510034
+|move|p2a: Kingambit|Iron Head|p1a: Dondozo
+|-resisted|p1a: Dondozo
+|-damage|p1a: Dondozo|41/100 par
+|cant|p1a: Dondozo|par
+|
+|-heal|p1a: Dondozo|47/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1740510042
+|move|p2a: Kingambit|Zen Headbutt|p1a: Dondozo
+|-damage|p1a: Dondozo|25/100 par
+|cant|p1a: Dondozo|flinch
+|
+|-heal|p1a: Dondozo|31/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1740510048
+|move|p2a: Kingambit|Zen Headbutt|p1a: Dondozo
+|-damage|p1a: Dondozo|9/100 par
+|cant|p1a: Dondozo|flinch
+|
+|-heal|p1a: Dondozo|15/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1740510055
+|move|p2a: Kingambit|Zen Headbutt|p1a: Dondozo
+|-crit|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|
+|upkeep
+|
+|t:|1740510067
+|switch|p1a: Volcarona|Volcarona, M|70/100
+|turn|29
+|
+|t:|1740510075
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Volcarona|Will-O-Wisp|p2a: Kingambit
+|-status|p2a: Kingambit|brn
+|
+|-damage|p2a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1740510082
+|move|p2a: Kingambit|Sucker Punch||[still]
+|-fail|p2a: Kingambit
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-heal|p2a: Kingambit|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1740510090
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Kingambit|X-Scissor|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|60/100
+|
+|-heal|p2a: Kingambit|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|32
+|-message|Kinglikiliki forfeited.
+|
+|win|Raiymun
+|raw|Raiymun's rating: 1068 &rarr; <strong>1099</strong><br />(+31 for winning)
+|raw|Kinglikiliki's rating: 1079 &rarr; <strong>1056</strong><br />(-23 for losing)
+|l|☆Kinglikiliki
+|player|p2|
+|l|☆Raiymun
+|player|p1|

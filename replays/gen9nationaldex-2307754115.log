@@ -1,0 +1,339 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] National Dex is currently suspecting Dragapult! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-national-dex-suspect-18-nocturne.3760498/#post-10453575">suspect thread</a>.</strong></div>
+|j|☆TheBattleBard
+|j|☆Abra420
+|t:|1740509821
+|gametype|singles
+|player|p1|TheBattleBard|koga-gen2|1138
+|player|p2|Abra420|psychic-gen4|1223
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] National Dex
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Chatot, M|
+|poke|p1|Muk, M|
+|poke|p1|Vanilluxe, M|
+|poke|p1|Froslass, F|
+|poke|p1|Torterra, M|
+|poke|p1|Floatzel, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Venusaur, M|
+|poke|p2|Iron Valiant|
+|poke|p2|Iron Treads|
+|poke|p2|Corviknight, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TheBattleBard)
+|
+|t:|1740509830
+|start
+|switch|p1a: Froslass|Froslass, F|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1740509839
+|move|p1a: Froslass|Spikes|p2a: Ogerpon
+|-sidestart|p2: Abra420|Spikes
+|move|p2a: Ogerpon|U-turn|p1a: Froslass
+|-resisted|p1a: Froslass
+|-damage|p1a: Froslass|78/100
+|
+|t:|1740509845
+|switch|p2a: Iron Treads|Iron Treads|100/100|[from] U-turn
+|-damage|p2a: Iron Treads|88/100|[from] Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1740509851
+|move|p1a: Froslass|Destiny Bond|p1a: Froslass
+|-singlemove|p1a: Froslass|Destiny Bond
+|move|p2a: Iron Treads|Stealth Rock|p1a: Froslass
+|-sidestart|p1: TheBattleBard|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1740509862
+|move|p1a: Froslass|Spikes|p2a: Iron Treads
+|-sidestart|p2: Abra420|Spikes
+|move|p2a: Iron Treads|Volt Switch|p1a: Froslass
+|-damage|p1a: Froslass|52/100
+|
+|t:|1740509866
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Tapu Koko|Tapu Koko|100/100|[from] Volt Switch
+|-damage|p2a: Tapu Koko|84/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|upkeep
+|turn|4
+|
+|t:|1740509872
+|move|p2a: Tapu Koko|Taunt|p1a: Froslass
+|-start|p1a: Froslass|move: Taunt
+|cant|p1a: Froslass|move: Taunt|Destiny Bond
+|
+|upkeep
+|turn|5
+|
+|t:|1740509876
+|move|p2a: Tapu Koko|Discharge|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-start|p2a: Tapu Koko|Disable|Discharge|[from] ability: Cursed Body|[of] p1a: Froslass
+|faint|p1a: Froslass
+|
+|upkeep
+|
+|t:|1740509883
+|switch|p1a: Muk|Muk, M|100/100
+|-damage|p1a: Muk|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1740509886
+|move|p2a: Tapu Koko|U-turn|p1a: Muk
+|-resisted|p1a: Muk
+|-damage|p1a: Muk|80/100
+|
+|t:|1740509890
+|switch|p2a: Iron Treads|Iron Treads|88/100|[from] U-turn
+|-damage|p2a: Iron Treads|72/100|[from] Spikes
+|-activate|p2a: Iron Treads|ability: Quark Drive
+|-start|p2a: Iron Treads|quarkdrivespe
+|move|p1a: Muk|Curse|p1a: Muk
+|-unboost|p1a: Muk|spe|1
+|-boost|p1a: Muk|atk|1
+|-boost|p1a: Muk|def|1
+|
+|-heal|p1a: Muk|86/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1740509900
+|-zpower|p2a: Iron Treads
+|move|p2a: Iron Treads|Corkscrew Crash|p1a: Muk|[zeffect]
+|-damage|p1a: Muk|30/100
+|move|p1a: Muk|Drain Punch|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-heal|p1a: Muk|58/100|[from] drain|[of] p2a: Iron Treads
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p1a: Muk|64/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1740509913
+|switch|p2a: Iron Valiant|Iron Valiant|100/100
+|-damage|p2a: Iron Valiant|84/100|[from] Spikes
+|-activate|p2a: Iron Valiant|ability: Quark Drive
+|-start|p2a: Iron Valiant|quarkdrivespe
+|turn|8
+|
+|t:|1740509918
+|move|p2a: Iron Valiant|Thunderbolt|p1a: Muk
+|-damage|p1a: Muk|14/100
+|move|p1a: Muk|Poison Jab|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p1a: Muk|20/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1740509928
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|-damage|p2a: Venusaur|84/100|[from] Spikes
+|turn|9
+|
+|t:|1740509932
+|detailschange|p2a: Venusaur|Venusaur-Mega, M
+|-mega|p2a: Venusaur|Venusaur|Venusaurite
+|move|p1a: Muk|Shadow Sneak|p2a: Venusaur
+|-damage|p2a: Venusaur|68/100
+|move|p2a: Venusaur|Nature Power|p1a: Muk
+|move|p2a: Venusaur|Thunderbolt|p1a: Muk|[from] move: Nature Power
+|-damage|p1a: Muk|0 fnt
+|faint|p1a: Muk
+|
+|upkeep
+|
+|t:|1740509937
+|switch|p1a: Vanilluxe|Vanilluxe, M|100/100
+|-damage|p1a: Vanilluxe|76/100|[from] Stealth Rock
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Vanilluxe
+|turn|10
+|
+|t:|1740509945
+|move|p2a: Venusaur|Giga Drain|p1a: Vanilluxe
+|-damage|p1a: Vanilluxe|36/100
+|-heal|p2a: Venusaur|87/100|[from] drain|[of] p1a: Vanilluxe
+|move|p1a: Vanilluxe|Aurora Veil|p1a: Vanilluxe
+|-sidestart|p1: TheBattleBard|move: Aurora Veil
+|
+|-weather|Snow|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|11
+|
+|t:|1740509954
+|move|p2a: Venusaur|Sludge Bomb|p1a: Vanilluxe
+|-damage|p1a: Vanilluxe|10/100
+|move|p1a: Vanilluxe|Blizzard|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|39/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1740509960
+|move|p2a: Venusaur|Giga Drain|p1a: Vanilluxe
+|-damage|p1a: Vanilluxe|0 fnt
+|-heal|p2a: Venusaur|43/100|[from] drain|[of] p1a: Vanilluxe
+|faint|p1a: Vanilluxe
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1740509967
+|switch|p1a: Torterra|Torterra, M|100/100
+|-damage|p1a: Torterra|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1740509980
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|move|p2a: Venusaur|Sludge Bomb|p1a: Torterra
+|-damage|p1a: Torterra|53/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1740509989
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Torterra|Headlong Rush|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1740509999
+|move|p1a: Torterra|Rock Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|89/100
+|-damage|p2a: Corviknight|78/100
+|-damage|p2a: Corviknight|66/100
+|-damage|p2a: Corviknight|56/100
+|-damage|p2a: Corviknight|46/100
+|-hitcount|p2a: Corviknight|5
+|move|p2a: Corviknight|Brave Bird|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|-damage|p2a: Corviknight|31/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1740510004
+|switch|p1a: Chatot|Chatot, M|100/100
+|-damage|p1a: Chatot|76/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1740510015
+|switch|p2a: Tapu Koko|Tapu Koko|84/100
+|-damage|p2a: Tapu Koko|68/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Chatot|Boomburst|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1740510026
+|switch|p2a: Venusaur|Venusaur-Mega, M|43/100
+|-damage|p2a: Venusaur|27/100|[from] Spikes
+|turn|17
+|
+|t:|1740510032
+|move|p1a: Chatot|Boomburst|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-sideend|p1: TheBattleBard|move: Aurora Veil
+|upkeep
+|
+|t:|1740510040
+|switch|p2a: Corviknight|Corviknight, F|31/100
+|-ability|p2a: Corviknight|Pressure
+|turn|18
+|
+|t:|1740510045
+|move|p1a: Chatot|Boomburst|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|3/100
+|move|p2a: Corviknight|Body Press|p1a: Chatot
+|-damage|p1a: Chatot|21/100
+|
+|upkeep
+|turn|19
+|
+|t:|1740510051
+|move|p1a: Chatot|Boomburst|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1740510056
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: Ogerpon|84/100|[from] Spikes
+|turn|20
+|
+|t:|1740510060
+|move|p1a: Chatot|Boomburst|p2a: Ogerpon
+|-damage|p2a: Ogerpon|10/100
+|move|p2a: Ogerpon|Knock Off|p1a: Chatot
+|-damage|p1a: Chatot|0 fnt
+|-enditem|p1a: Chatot|Choice Scarf|[from] move: Knock Off|[of] p2a: Ogerpon
+|faint|p1a: Chatot
+|
+|upkeep
+|
+|t:|1740510063
+|switch|p1a: Floatzel|Floatzel, M|100/100
+|-damage|p1a: Floatzel|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1740510071
+|move|p1a: Floatzel|Ice Spinner|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|-fieldend|move: Electric Terrain
+|faint|p2a: Ogerpon
+|
+|win|TheBattleBard
+|raw|TheBattleBard's rating: 1138 &rarr; <strong>1169</strong><br />(+31 for winning)
+|raw|Abra420's rating: 1223 &rarr; <strong>1192</strong><br />(-31 for losing)
+|l|☆Abra420
+|player|p2|
+|l|☆TheBattleBard
+|player|p1|

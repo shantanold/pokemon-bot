@@ -1,0 +1,251 @@
+|j|☆Floorgle
+|j|☆pey2002vand
+|t:|1740510073
+|gametype|doubles
+|player|p1|Floorgle|allister-masters|1695
+|player|p2|pey2002vand|benga|1637
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|clearpoke
+|poke|p1|Gouging Fire|
+|poke|p1|Ting-Lu|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Comfey, F|
+|poke|p1|Chien-Pao|
+|poke|p1|Diancie|
+|poke|p2|Chien-Pao|
+|poke|p2|Glimmora, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Gouging Fire|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Floorgle)
+|j| 742mph
+|
+|t:|1740510098
+|start
+|switch|p1a: Howlging Fire|Gouging Fire|100/100
+|switch|p1b: Soup|Ting-Lu|100/100
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|switch|p2b: Glimmora|Glimmora, M|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|-ability|p1b: Soup|Vessel of Ruin
+|-enditem|p1a: Howlging Fire|Booster Energy
+|-activate|p1a: Howlging Fire|ability: Protosynthesis|[fromitem]
+|-start|p1a: Howlging Fire|protosynthesisspe
+|turn|1
+|
+|t:|1740510113
+|-terastallize|p1b: Soup|Poison
+|move|p1a: Howlging Fire|Howl|p1a: Howlging Fire|[spread] p1a,p1b
+|-boost|p1a: Howlging Fire|atk|1
+|-boost|p1b: Soup|atk|1
+|move|p2b: Glimmora|Stealth Rock|p1b: Soup
+|-sidestart|p1: Floorgle|move: Stealth Rock
+|move|p2a: Ting-Lu|Spikes|p1a: Howlging Fire
+|-sidestart|p1: Floorgle|Spikes
+|move|p1b: Soup|Stomping Tantrum|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|69/100
+|
+|-heal|p2a: Ting-Lu|75/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1740510125
+|move|p1a: Howlging Fire|Breaking Swipe|p2a: Ting-Lu|[spread] p2a,p2b
+|-damage|p2a: Ting-Lu|60/100
+|-damage|p2b: Glimmora|63/100
+|-unboost|p2a: Ting-Lu|atk|1
+|-unboost|p2b: Glimmora|atk|1
+|-activate|p2b: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Floorgle|move: Toxic Spikes
+|move|p2b: Glimmora|Earth Power|p1a: Howlging Fire
+|-supereffective|p1a: Howlging Fire
+|-damage|p1a: Howlging Fire|60/100
+|move|p2a: Ting-Lu|Stomping Tantrum|p1b: Soup
+|-supereffective|p1b: Soup
+|-damage|p1b: Soup|79/100
+|move|p1b: Soup|Stomping Tantrum|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|30/100
+|
+|-heal|p2a: Ting-Lu|36/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1740510141
+|move|p1a: Howlging Fire|Breaking Swipe|p2b: Glimmora|[spread] p2a,p2b
+|-damage|p2a: Ting-Lu|20/100
+|-damage|p2b: Glimmora|31/100
+|-unboost|p2a: Ting-Lu|atk|1
+|-unboost|p2b: Glimmora|atk|1
+|-activate|p2b: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Floorgle|move: Toxic Spikes
+|move|p2b: Glimmora|Earth Power|p1a: Howlging Fire
+|-supereffective|p1a: Howlging Fire
+|-damage|p1a: Howlging Fire|20/100
+|move|p2a: Ting-Lu|Stomping Tantrum|p1b: Soup
+|-supereffective|p1b: Soup
+|-damage|p1b: Soup|63/100
+|move|p1b: Soup|Stomping Tantrum|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|inactive|pey2002vand has 120 seconds left.
+|
+|t:|1740510162
+|switch|p2a: Gouging Fire|Gouging Fire|100/100
+|-enditem|p2a: Gouging Fire|Booster Energy
+|-activate|p2a: Gouging Fire|ability: Protosynthesis|[fromitem]
+|-start|p2a: Gouging Fire|protosynthesisspe
+|turn|4
+|
+|t:|1740510168
+|move|p1a: Howlging Fire|Breaking Swipe|p2b: Glimmora|[spread] p2a,p2b
+|-supereffective|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|61/100
+|-damage|p2b: Glimmora|0 fnt
+|-unboost|p2a: Gouging Fire|atk|1
+|faint|p2b: Glimmora
+|move|p2a: Gouging Fire|Breaking Swipe|p1b: Soup|[spread] p1a,p1b
+|-supereffective|p1a: Howlging Fire
+|-damage|p1a: Howlging Fire|1/100
+|-damage|p1b: Soup|57/100
+|-unboost|p1a: Howlging Fire|atk|1
+|move|p1b: Soup|Stomping Tantrum|p2a: Gouging Fire
+|-supereffective|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|0 fnt
+|faint|p2a: Gouging Fire
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740510178
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|switch|p2b: Chien-Pao|Chien-Pao|100/100
+|-ability|p2b: Chien-Pao|Sword of Ruin
+|turn|5
+|
+|t:|1740510200
+|move|p1b: Soup|Protect|p1b: Soup
+|-singleturn|p1b: Soup|Protect
+|move|p1a: Howlging Fire|Breaking Swipe|p2a: Dragonite|[spread] p2a,p2b
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|52/100
+|-damage|p2b: Chien-Pao|76/100
+|-unboost|p2a: Dragonite|atk|1
+|-unboost|p2b: Chien-Pao|atk|1
+|move|p2b: Chien-Pao|Ice Spinner|p1a: Howlging Fire
+|-damage|p1a: Howlging Fire|0 fnt
+|faint|p1a: Howlging Fire
+|-end|p1a: Howlging Fire|Protosynthesis|[silent]
+|move|p2a: Dragonite|Dragon Claw|p1b: Soup
+|-activate|p1b: Soup|move: Protect
+|
+|upkeep
+|
+|t:|1740510211
+|switch|p1a: Crown|Comfey, F, shiny|100/100
+|-damage|p1a: Crown|88/100|[from] Stealth Rock
+|-damage|p1a: Crown|76/100|[from] Spikes
+|-status|p1a: Crown|tox
+|turn|6
+|
+|t:|1740510223
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p2b: Chien-Pao|Protect|p2b: Chien-Pao
+|-singleturn|p2b: Chien-Pao|Protect
+|move|p1a: Crown|Floral Healing|p1b: Soup
+|-heal|p1b: Soup|100/100
+|move|p1b: Soup|Stomping Tantrum|p2b: Chien-Pao
+|-activate|p2b: Chien-Pao|move: Protect
+|
+|-heal|p2b: Chien-Pao|82/100|[from] Grassy Terrain
+|-heal|p1a: Crown|82/100 tox|[from] Grassy Terrain
+|-damage|p1a: Crown|76/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1740510236
+|switch|p2b: Dragonite|Dragonite, F|52/100
+|move|p1a: Crown|Draining Kiss|p2b: Dragonite
+|-supereffective|p2b: Dragonite
+|-damage|p2b: Dragonite|28/100
+|-heal|p1a: Crown|98/100 tox|[from] drain|[of] p2b: Dragonite
+|move|p2a: Rillaboom|Wood Hammer|p1a: Crown
+|-damage|p1a: Crown|11/100 tox
+|-enditem|p1a: Crown|Sitrus Berry|[eat]
+|-heal|p1a: Crown|35/100 tox|[from] item: Sitrus Berry
+|-damage|p2a: Rillaboom|79/100|[from] Recoil
+|move|p1b: Soup|Throat Chop|p2a: Rillaboom
+|-damage|p2a: Rillaboom|24/100
+|-start|p2a: Rillaboom|Throat Chop|[silent]
+|
+|-heal|p1a: Crown|42/100 tox|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|30/100|[from] Grassy Terrain
+|-damage|p1a: Crown|29/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1740510251
+|move|p1a: Crown|Draining Kiss|p2b: Dragonite
+|-supereffective|p2b: Dragonite
+|-damage|p2b: Dragonite|6/100
+|-heal|p1a: Crown|50/100 tox|[from] drain|[of] p2b: Dragonite
+|move|p2b: Dragonite|Extreme Speed|p1b: Soup
+|-damage|p1b: Soup|74/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Crown
+|-damage|p1a: Crown|8/100 tox
+|move|p1b: Soup|Throat Chop|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Crown|15/100 tox|[from] Grassy Terrain
+|-heal|p1b: Soup|80/100|[from] Grassy Terrain
+|-damage|p1a: Crown|0 fnt|[from] psn
+|faint|p1a: Crown
+|upkeep
+|
+|t:|1740510262
+|switch|p1a: Carbink-Mega|Diancie, shiny|100/100
+|switch|p2a: Chien-Pao|Chien-Pao|82/100
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|-damage|p1a: Carbink-Mega|88/100|[from] Stealth Rock
+|-damage|p1a: Carbink-Mega|75/100|[from] Spikes
+|-status|p1a: Carbink-Mega|tox
+|turn|9
+|
+|t:|1740510289
+|move|p2b: Dragonite|Extreme Speed|p1b: Soup
+|-damage|p1b: Soup|48/100
+|move|p2a: Chien-Pao|Sacred Sword|p1a: Carbink-Mega
+|-damage|p1a: Carbink-Mega|45/100 tox
+|move|p1a: Carbink-Mega|Diamond Storm|p2b: Dragonite|[spread] p2a,p2b
+|-supereffective|p2a: Chien-Pao
+|-supereffective|p2b: Dragonite
+|-damage|p2a: Chien-Pao|0 fnt
+|-damage|p2b: Dragonite|0 fnt
+|faint|p2a: Chien-Pao
+|faint|p2b: Dragonite
+|
+|win|Floorgle
+|raw|Floorgle's rating: 1695 &rarr; <strong>1712</strong><br />(+17 for winning)
+|raw|pey2002vand's rating: 1637 &rarr; <strong>1620</strong><br />(-17 for losing)
+|l|☆pey2002vand
+|player|p2|
+|c|☆Floorgle|gg
+|l|☆Floorgle
+|player|p1|
+|l| 742mph

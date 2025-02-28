@@ -1,0 +1,321 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] UU is currently suspecting Quaquaval! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/sv-uu-suspect-process-round-13-the-duck-song.3760500/">suspect thread</a>.</strong></div>
+|j|☆MagmarPanzer
+|j|☆ricky135
+|t:|1740509741
+|gametype|singles
+|player|p1|MagmarPanzer|rood|1250
+|player|p2|ricky135|ghetsis-gen5bw|1327
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Skarmory, M|
+|poke|p1|Clodsire, F|
+|poke|p1|Sinistcha|
+|poke|p1|Skeledirge, F|
+|poke|p1|Cyclizar, F|
+|poke|p1|Greninja-*, F|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Enamorus-Therian, F|
+|poke|p2|Quaquaval, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Heatran, M|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ricky135)
+|
+|t:|1740509762
+|start
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|switch|p2a: Enamorus|Enamorus-Therian, F|100/100
+|turn|1
+|
+|t:|1740509770
+|move|p1a: Skarmory|Spikes|p2a: Enamorus
+|-sidestart|p2: ricky135|Spikes
+|move|p2a: Enamorus|Mystical Fire|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|26/100
+|-unboost|p1a: Skarmory|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1740509779
+|switch|p1a: Skeledirge|Skeledirge, F|100/100
+|move|p2a: Enamorus|Earth Power|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|39/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740509793
+|switch|p1a: Sinistcha|Sinistcha|100/100
+|move|p2a: Enamorus|Earth Power|p1a: Sinistcha
+|-resisted|p1a: Sinistcha
+|-damage|p1a: Sinistcha|79/100
+|
+|-heal|p1a: Sinistcha|85/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1740509799
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|move|p2a: Enamorus|Moonblast|p1a: Sinistcha
+|-damage|p1a: Sinistcha|31/100
+|
+|-heal|p1a: Sinistcha|37/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1740509806
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Spikes
+|move|p1a: Sinistcha|Strength Sap|p2a: Heatran
+|-unboost|p2a: Heatran|atk|1
+|-heal|p1a: Sinistcha|85/100
+|
+|-heal|p1a: Sinistcha|91/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1740509811
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|move|p2a: Heatran|Magma Storm|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|66/100
+|-activate|p1a: Sinistcha|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Sinistcha|72/100|[from] item: Leftovers
+|-damage|p1a: Sinistcha|60/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1740509813
+|move|p1a: Sinistcha|Strength Sap|p2a: Heatran
+|-unboost|p2a: Heatran|atk|1
+|-heal|p1a: Sinistcha|92/100
+|move|p2a: Heatran|Taunt|p1a: Sinistcha
+|-start|p1a: Sinistcha|move: Taunt
+|
+|-heal|p1a: Sinistcha|98/100|[from] item: Leftovers
+|-damage|p1a: Sinistcha|85/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1740509816
+|move|p1a: Sinistcha|Shadow Ball|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|29/100
+|move|p2a: Heatran|Stealth Rock|p1a: Sinistcha
+|-sidestart|p1: MagmarPanzer|move: Stealth Rock
+|
+|-heal|p1a: Sinistcha|91/100|[from] item: Leftovers
+|-damage|p1a: Sinistcha|79/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1740509830
+|move|p1a: Sinistcha|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Sinistcha|85/100|[from] item: Leftovers
+|-end|p1a: Sinistcha|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1740509843
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|10
+|
+|t:|1740509852
+|switch|p1a: Clodsire|Clodsire, F|100/100
+|-damage|p1a: Clodsire|94/100|[from] Stealth Rock
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clodsire
+|-damage|p1a: Clodsire|74/100
+|
+|-heal|p1a: Clodsire|80/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1740509859
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|76/100
+|move|p1a: Clodsire|Toxic||[still]
+|-fail|p1a: Clodsire
+|
+|-heal|p2a: Hydreigon|82/100|[from] item: Leftovers
+|-heal|p1a: Clodsire|87/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1740509863
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Clodsire|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: ricky135|move: Stealth Rock
+|
+|-heal|p2a: Hydreigon|88/100|[from] item: Leftovers
+|-heal|p1a: Clodsire|93/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1740509872
+|switch|p1a: Skeledirge|Skeledirge, F|39/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|0 fnt
+|faint|p1a: Skeledirge
+|
+|-heal|p2a: Hydreigon|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509878
+|switch|p1a: Greninja|Greninja, F|100/100
+|-damage|p1a: Greninja|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1740509881
+|move|p1a: Greninja|Ice Beam|p2a: Hydreigon
+|-start|p1a: Greninja|typechange|Ice|[from] ability: Protean
+|-supereffective|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|move|p2a: Hydreigon|Dark Pulse|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|-heal|p2a: Hydreigon|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1740509884
+|switch|p1a: Cyclizar|Cyclizar, F|100/100
+|turn|15
+|
+|t:|1740509896
+|switch|p2a: Quaquaval|Quaquaval, M|100/100
+|-damage|p2a: Quaquaval|88/100|[from] Spikes
+|-damage|p2a: Quaquaval|82/100|[from] Stealth Rock
+|move|p1a: Cyclizar|Draco Meteor|p2a: Quaquaval
+|-damage|p2a: Quaquaval|40/100
+|-unboost|p1a: Cyclizar|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1740509905
+|move|p1a: Cyclizar|U-turn|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|34/100
+|-damage|p1a: Cyclizar|84/100|[from] item: Rocky Helmet|[of] p2a: Quaquaval
+|
+|t:|1740509908
+|switch|p1a: Sinistcha|Sinistcha|85/100|[from] U-turn
+|-damage|p1a: Sinistcha|72/100|[from] Stealth Rock
+|move|p2a: Quaquaval|U-turn|p1a: Sinistcha
+|-damage|p1a: Sinistcha|59/100
+|
+|t:|1740509911
+|switch|p2a: Hydreigon|Hydreigon, F|99/100|[from] U-turn
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Hydreigon|94/100|[from] item: Leftovers
+|-heal|p1a: Sinistcha|65/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1740509919
+|switch|p1a: Clodsire|Clodsire, F|93/100
+|-damage|p1a: Clodsire|87/100|[from] Stealth Rock
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clodsire
+|-damage|p1a: Clodsire|63/100
+|
+|-heal|p2a: Hydreigon|99/100|[from] item: Leftovers
+|-heal|p1a: Clodsire|69/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1740509929
+|switch|p1a: Cyclizar|Cyclizar, F|100/100
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|75/100
+|
+|-heal|p2a: Hydreigon|81/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1740509940
+|move|p1a: Cyclizar|Draco Meteor|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|-unboost|p1a: Cyclizar|spa|2
+|move|p2a: Hydreigon|Dark Pulse|p1a: Cyclizar
+|-damage|p1a: Cyclizar|43/100
+|
+|-heal|p2a: Hydreigon|88/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1740509950
+|switch|p2a: Enamorus|Enamorus-Therian, F|100/100
+|-damage|p2a: Enamorus|76/100|[from] Stealth Rock
+|move|p1a: Cyclizar|Draco Meteor|p2a: Enamorus
+|-immune|p2a: Enamorus
+|
+|upkeep
+|turn|21
+|
+|t:|1740509957
+|move|p1a: Cyclizar|U-turn|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-crit|p2a: Enamorus
+|-damage|p2a: Enamorus|71/100
+|
+|t:|1740509960
+|switch|p1a: Sinistcha|Sinistcha|65/100|[from] U-turn
+|-damage|p1a: Sinistcha|53/100|[from] Stealth Rock
+|move|p2a: Enamorus|Moonblast|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|upkeep
+|
+|t:|1740509968
+|switch|p1a: Cyclizar|Cyclizar, F|77/100
+|turn|22
+|
+|t:|1740509972
+|-terastallize|p1a: Cyclizar|Ghost
+|move|p1a: Cyclizar|Endeavor|p2a: Enamorus
+|-immune|p2a: Enamorus
+|move|p2a: Enamorus|Draining Kiss|p1a: Cyclizar
+|-damage|p1a: Cyclizar|26/100
+|-heal|p2a: Enamorus|100/100|[from] drain|[of] p1a: Cyclizar
+|
+|upkeep
+|turn|23
+|c|☆ricky135|...
+|-message|MagmarPanzer forfeited.
+|
+|win|ricky135
+|raw|MagmarPanzer's rating: 1250 &rarr; <strong>1230</strong><br />(-20 for losing)
+|raw|ricky135's rating: 1327 &rarr; <strong>1343</strong><br />(+16 for winning)
+|l|☆MagmarPanzer
+|player|p1|
+|l|☆ricky135
+|player|p2|
