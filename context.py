@@ -948,6 +948,7 @@ class ContextBuilder:
         
         # Check if player has no effective moves
         move_suggestion = self.suggest_best_move()
+        print("move_suggestion",move_suggestion)
         best_move_score = 0
         if move_suggestion.get("move_ratings"):
             best_move_score = move_suggestion["move_ratings"][0].get("final_score", 0)
